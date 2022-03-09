@@ -14,7 +14,7 @@ Voici une liste d’aliments riches en tyrosine susceptibles d’affecter direct
 
 ### **Faire de l’exercice**
 
-L’exercice physique est l’une des meilleures choses que nous pouvons faire pour notre cerveau. Elle augmente la production de neurones et ralentit leur vieillissement et agit sur les niveaux de [[sérotonine]] et de [[norépinephrine]] qui nous aident à mieux gérer les situations de stress.
+L’exercice physique est l’une des meilleures choses que nous pouvons faire pour notre cerveau. Elle augmente la production de neurones et ralentit leur vieillissement et agit sur les niveaux de [[La sérotonine]] et de [[La norépinephrine]] qui nous aident à mieux gérer les situations de stress.
 
 Mais nul besoin d’exercer des activités ardues pour retrouver les mêmes bénéfices. Prendre des marches ou faire des exercices sans impact tels que le yoga et le tai chi fournissent d’importants bénéfices sur le corps et l’esprit.
 

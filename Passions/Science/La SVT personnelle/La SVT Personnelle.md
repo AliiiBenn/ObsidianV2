@@ -17,5 +17,5 @@ links :
 ### Les molecules
 
 [[La Dopamine]]
-[[norépinephrine]]
-[[sérotonine]]
+[[La norépinephrine]]
+[[La sérotonine]]
