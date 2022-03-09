@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "de977d574af3dbed",
+    "type": "split",
+    "children": [
+      {
+        "id": "e86ce17bc42cdeb8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "000 Index.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa66dc753f546b88",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7acd4c38a3df55b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5312fe6b3f838d2d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ccef1d4b13145340",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254
+  },
+  "right": {
+    "id": "1c75e05d4f33e215",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b6f06fd6f537a8c",
+        "type": "tabs",
+        "dimension": 46.242171189979125,
+        "children": [
+          {
+            "id": "661a3cb9678763c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "000 Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c9c12b3a65b95103",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "8e56633a8f86d7fa",
+        "type": "tabs",
+        "dimension": 53.75782881002088,
+        "children": [
+          {
+            "id": "d2343bd6c579fc13",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 318
+  },
+  "active": "e86ce17bc42cdeb8",
+  "lastOpenFiles": [
+    "000 Index.md",
+    "Cours/Matières/Maths/Chapitres de matghs/Combinatoire et dénombrement/Les exercices sur la combinatoire.md",
+    "Cours/Matières/Maths/Chapitres de matghs/Combinatoire et dénombrement/Combinatoire et dénombrement.md",
+    "Cours/Matières/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
+    "Cours/Matières/Science de la vie et de la terre/Science de la Vie et de la Terre.md",
+    "_Autres/Notes quotidiennes/Jours/2022-03-08.md",
+    "Mental/Les concepts/Apprendre/système de prise de note.md",
+    "Mental/Les concepts/Apprendre/système Cornell.md",
+    "Mental/Les concepts/Apprendre/Méthode Feynman.md",
+    "Mental/Les concepts/Apprendre/Comment apprendre efficacement ses COURS.md"
+  ]
+}
