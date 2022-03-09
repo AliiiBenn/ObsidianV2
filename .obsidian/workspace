@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Le travail.md",
+            "file": "Passions/Science/La SVT personnelle/La SVT Personnelle.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Le travail.md",
+                "file": "Passions/Science/La SVT personnelle/La SVT Personnelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8e56633a8f86d7fa",
@@ -113,15 +112,15 @@
   },
   "active": "e86ce17bc42cdeb8",
   "lastOpenFiles": [
+    "Passions/Science/La SVT personnelle/La SVT Personnelle.md",
+    "Passions/Science/La SVT personnelle/Les molécules/La Dopamine.md",
+    "4 clés pour entrer et rester dans l’état de flow.md",
     "Le travail.md",
     "Mental/030 MOC Mental.md",
     "000 Index.md",
     "Cours/Matières/Maths/Chapitres de matghs/Combinatoire et dénombrement/Les exercices sur la combinatoire.md",
     "Cours/Matières/Maths/Chapitres de matghs/Combinatoire et dénombrement/Combinatoire et dénombrement.md",
     "Cours/Matières/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
-    "Cours/Matières/Science de la vie et de la terre/Science de la Vie et de la Terre.md",
-    "_Autres/Notes quotidiennes/Jours/2022-03-08.md",
-    "Mental/Les concepts/Apprendre/système de prise de note.md",
-    "Mental/Les concepts/Apprendre/système Cornell.md"
+    "Cours/Matières/Science de la vie et de la terre/Science de la Vie et de la Terre.md"
   ]
 }
