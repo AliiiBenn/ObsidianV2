@@ -1,5 +1,5 @@
 tags : 
-links : [[La Dopamine]], [[Le travail]]
+links : [[La Dopamine]], [[Le travail]], [[140 MOC Articles]]
 
 ****
 
@@ -21,3 +21,13 @@ Mais nul besoin d’exercer des activités ardues pour retrouver les mêmes bén
 ##### **Passer plus de temps à l’extérieur**
 
 Les rayons du soleil permettent d’augmenter le nombre de récepteurs de [[La dopamine]] et de créer de la vitamine D qui active les gènes responsables de la libération de dopamine.
+
+### **Méditer**
+
+Les bénéfices de la méditation ont été prouvés par plus de mille études. Ceux qui adoptent régulièrement la méditation expérimentent une augmentation de leur capacité à apprendre, une plus grande créativité et un profond état de relaxation.
+
+Si la méditation ne vous intéresse pas, l’état de méditation peut être stimulé également par des activités qui nécessitent de la créativité (photographie, dessin, tricot, etc.).
+
+### **Prendre une douche froide**
+
+Prendre une douche froide (14 degrés Celsius) peut faire augmenter la dopamine de façon substantielle : jusqu’à 250 %!
