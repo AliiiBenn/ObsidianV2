@@ -16,6 +16,7 @@ links :
 [[La rhétorique]]
 [[Le sommeil]]
 [[Apprendre]]
+[[Le travail]]
 
 ### Les vidéos
 

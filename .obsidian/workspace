@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "000 Index.md",
+            "file": "Le travail.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Index.md",
+                "file": "Le travail.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,8 @@
   },
   "active": "e86ce17bc42cdeb8",
   "lastOpenFiles": [
+    "Le travail.md",
+    "Mental/030 MOC Mental.md",
     "000 Index.md",
     "Cours/Matières/Maths/Chapitres de matghs/Combinatoire et dénombrement/Les exercices sur la combinatoire.md",
     "Cours/Matières/Maths/Chapitres de matghs/Combinatoire et dénombrement/Combinatoire et dénombrement.md",
@@ -120,8 +122,6 @@
     "Cours/Matières/Science de la vie et de la terre/Science de la Vie et de la Terre.md",
     "_Autres/Notes quotidiennes/Jours/2022-03-08.md",
     "Mental/Les concepts/Apprendre/système de prise de note.md",
-    "Mental/Les concepts/Apprendre/système Cornell.md",
-    "Mental/Les concepts/Apprendre/Méthode Feynman.md",
-    "Mental/Les concepts/Apprendre/Comment apprendre efficacement ses COURS.md"
+    "Mental/Les concepts/Apprendre/système Cornell.md"
   ]
 }
