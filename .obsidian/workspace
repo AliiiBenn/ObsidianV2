@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "sérotonine.md",
+            "file": "Passions/Science/La SVT personnelle/Les molécules/norépinephrine.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sérotonine.md",
+                "file": "Passions/Science/La SVT personnelle/Les molécules/norépinephrine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,15 +112,15 @@
   },
   "active": "e86ce17bc42cdeb8",
   "lastOpenFiles": [
-    "sérotonine.md",
-    "augmenter naturellement sa dopamine.md",
-    "Le travail.md",
-    "Trouver la motivation pour se lever le matin.md",
+    "Passions/Science/La SVT personnelle/Les molécules/norépinephrine.md",
+    "Passions/Science/La SVT personnelle/Les molécules/sérotonine.md",
+    "Mental/Les concepts/Le travail/augmenter naturellement sa dopamine.md",
+    "Mental/Les concepts/Le travail/Le travail.md",
+    "Mental/Les concepts/Le sommeil/Trouver la motivation pour se lever le matin.md",
     "Mental/Les concepts/Le sommeil/Le sommeil.md",
     "Mental/Les concepts/Le sommeil/Articles sur le sommeil/Horloge interne - comment se réveiller naturellement.md",
     "Passions/Science/La SVT personnelle/Les molécules/La Dopamine.md",
     "Passions/Science/La SVT personnelle/La SVT Personnelle.md",
-    "4 clés pour entrer et rester dans l’état de flow.md",
-    "Mental/030 MOC Mental.md"
+    "Mental/Les concepts/Le travail/4 clés pour entrer et rester dans l’état de flow.md"
   ]
 }
