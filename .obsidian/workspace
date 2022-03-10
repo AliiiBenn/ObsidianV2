@@ -7,8 +7,12 @@
         "id": "e86ce17bc42cdeb8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_Autres/Notes quotidiennes/Jours/2022-03-10.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Autres/Notes quotidiennes/Jours/2022-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +113,8 @@
   },
   "active": "e86ce17bc42cdeb8",
   "lastOpenFiles": [
+    "_Autres/Notes quotidiennes/Jours/2022-03-10.md",
+    "Cours/Matières/NSI/NSI.md",
     "_Autres/Notes quotidiennes/Jours/2022-03-09.md",
     "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les piles/Piles.md",
     "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les piles/Savoir si une pile est vide.md",
@@ -115,8 +122,6 @@
     "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Listes chaînées.md",
     "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Supprimer un élément à la fin de la LC.md",
     "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Calculer la taille d'une liste chainée.md",
-    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Savoir si une liste chainée est vide.md",
-    "Passions/Science/La SVT personnelle/Les molécules/La norépinephrine.md",
-    "Passions/Science/La SVT personnelle/Les molécules/La Dopamine.md"
+    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Savoir si une liste chainée est vide.md"
   ]
 }
