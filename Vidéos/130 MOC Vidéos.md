@@ -12,3 +12,9 @@ links :
 
 [[5 Astuces pour organiser son code Python]]
 [[Comment apprendre efficacement ses COURS]]
+
+### YouTube
+
+#### Les YouTubeurs
+
+[[Thomas Franck]]
