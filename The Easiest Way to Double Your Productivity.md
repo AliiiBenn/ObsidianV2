@@ -13,3 +13,22 @@ links : [[130 MOC Vidéos]], [[Thomas Franck]], [[productivité]], [[Le travail]
 ### **Task Batching**
 
 Regrouper ses taches dans des groupes
+
+
+Toutes les taches ont un temps de préparation
+
+**Cognitive Switching**
+
+Definir un temps pour les taches 
+
+
+Le contexte
+
+- Energie -> high and low
+- Location
+- Social interaction
+- internet
+
+
+**Biological prime time**
+
