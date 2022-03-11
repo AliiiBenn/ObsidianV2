@@ -1,5 +1,5 @@
 tags : 
-links : [[130 MOC Vidéos]], [[Le travail]], [[productivité]]
+links : [[130 MOC Vidéos]], [[Le travail]], [[productivité]], []
 
 ****
 
@@ -27,4 +27,24 @@ verrtical task
 
 
 ### Clipboard Manager
+
+bien 
+
+### Flow launcher
+
+page de recherche avec alt + space (peut controle spotify)
+
+
+### Espanso
+
+Raccourci de texte exemple emt pour adresse mail (je crois que ça marche avec expanso)
+
+
+### Google Drive
+
+Bah c'est du cloud quoi, (gg drive en dossier windows)
+
+### F.LUX
+
+Lumière bleue
 

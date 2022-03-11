@@ -1,26 +1,50 @@
 tags : 
-links :
+links : [[130 MOC Vidéos]], [[Le travail]], [[productivité]], [[030 MOC Mental]]
 
 ****
 
-<h2 style="text-align: center;"> Combinatoire et dénombrement </h2>
+<h2 style="text-align: center;"> The 10 Best Windows Productivity Apps in 2022 </h2>
 
 ****
 
 
-*La combinatoire est une branche des mathématiques qui étudie comment dénombrer ou compter des objets dans différents contextes*
+
+### ShareX
+- Application de screenshots pour windows. Reconnait le texte
+
+### QuickLook
+
+Voir le fichier sans cliquer dessus
+
+### Notion
+
+Je devrais l'utiliser comme db
+
+### EDGE ???
+
+Plus rapide, fait avec chromium, page qui vont dodo
+verrtical task
 
 
-### Cours sur la Combinatoire et le dénombrement
+### Clipboard Manager
 
-[[Les bases de l'analyse combinatoire]]
+bien 
+
+### Flow launcher
+
+page de recherche avec alt + space (peut controle spotify)
 
 
-### La méthode 
+### Espanso
 
-[[Appliquer le principe multiplicatif pour dénombrer]]
+Raccourci de texte exemple emt pour adresse mail (je crois que ça marche avec expanso)
 
-### Liste des exercices
 
-[[Les exercices sur la combinatoire]]
+### Google Drive
+
+Bah c'est du cloud quoi, (gg drive en dossier windows)
+
+### F.LUX
+
+Lumière bleue
 
