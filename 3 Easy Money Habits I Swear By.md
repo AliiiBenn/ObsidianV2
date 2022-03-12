@@ -19,4 +19,3 @@ links : [[productivité]], [[030 MOC Mental]], [[130 MOC Vidéos]], [[Thomas Fra
 
 Il faut avoir un compte d'urgence avec au moins 500 euros qui sert uniquement en cas de besoin extreme. Si nous n'avons pas ce compte nous allons être obligés de prendre sur nos réserves du mois et ce n'est absolument pas ce qu'on veut
 
-On peut 
