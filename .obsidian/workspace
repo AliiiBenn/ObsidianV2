@@ -9,19 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ali Abdaal.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "284bd2827a9f9185",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Vidéos/Thomas Franck.md",
+            "file": "How I Ranked 1st at Cambridge University.md",
             "mode": "source",
             "source": false
           }
@@ -82,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ali Abdaal.md",
+                "file": "How I Ranked 1st at Cambridge University.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,9 +113,9 @@
   },
   "active": "eec4be893ecd6124",
   "lastOpenFiles": [
+    "How I Ranked 1st at Cambridge University.md",
     "Ali Abdaal.md",
     "Vidéos/Thomas Franck.md",
-    "How I Ranked 1st at Cambridge University.md",
     "3 Easy Money Habits I Swear By.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Sécurisation des communications.md",
     "_Autres/Notes quotidiennes/Jours/2022-03-12.md",
