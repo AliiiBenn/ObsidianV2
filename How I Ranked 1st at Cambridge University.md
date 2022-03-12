@@ -25,6 +25,8 @@ Souvent on se focus sur ce qu'on connait déjà, on apprends le 1er chapitre au 
 
 regarder la vidéo dédiée
 
+## Les révisions
+
 ### Prendre des notes est une perte de temps
 
 Prendre des notes est la chose que les étudiants font le plus mais ça ne se passe pas comme ça, prendre des notes est simple et c'est quand notre cerveau a le plsu de mal qu'il apprends le mieux. 
@@ -35,12 +37,8 @@ L'une des erreurs que les étudiants font est d'essayer et de mémoriser avec le
 
 #### Active Recall
 
+Nous devons nous tester nous même, nous devons essayer de récuperer les informations de notre cerveau, si ne nous sommes pas satisfaits de nos resultats c'est que nous ne nous testons assez
 
+### Spaced Repetition
 
-## Les révisions
-
-## La technique
-
-## Les amis
-
-## Balance
+Comme la courbe d'oubli le montre nous oublions ce que nous apprenons donc il faut réviser de temps en temps par exemple un peu tous les jours. Plus il y a de nuit des sommeils dans la période de révisions mieux c'est
