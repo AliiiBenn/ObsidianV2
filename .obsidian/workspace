@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "3 Easy Money Habits I Swear By.md",
+            "file": "Ali Abdaal.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "284bd2827a9f9185",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Vidéos/Thomas Franck.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 Easy Money Habits I Swear By.md",
+                "file": "Ali Abdaal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +125,15 @@
   },
   "active": "eec4be893ecd6124",
   "lastOpenFiles": [
+    "Ali Abdaal.md",
+    "Vidéos/Thomas Franck.md",
+    "How I Ranked 1st at Cambridge University.md",
     "3 Easy Money Habits I Swear By.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Sécurisation des communications.md",
     "_Autres/Notes quotidiennes/Jours/2022-03-12.md",
     "Mental/Les concepts/La productivité/Why i'm never tired.md",
     "_Autres/Notes quotidiennes/Jours/2022-03-11.md",
     "Untitled.md",
-    "Mental/Les concepts/La productivité/The Easiest Way to Double Your Productivity.md",
-    "Mental/Les concepts/La productivité/The 10 Best Windows Productivity Apps in 2022.md",
-    "Mental/Les concepts/La productivité/productivité.md",
-    "Livres/080 MOC Livres.md",
-    "Livres/Livres que je veux acheter/Atomic Habits.md"
+    "Mental/Les concepts/La productivité/The Easiest Way to Double Your Productivity.md"
   ]
 }

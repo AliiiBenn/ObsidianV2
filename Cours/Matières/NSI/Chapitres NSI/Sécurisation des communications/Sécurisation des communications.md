@@ -90,3 +90,75 @@ Pour que deux participants à une communication puissent obtenir une clé symét
 
 ## Protocole HTTPS
 [[Protocole HTTPS]]
+
+
+
+---
+
+
+La sécurisation des communications peut être réalisée grâce à une science appelée **cryptologie** (du grec « science du secret »), qui réunit la **cryptographie** (« écriture secrète ») et la **cryptanalyse** (étude des attaques contre les mécanismes de cryptographie).
+
+La sécurisation doit permettre d’assurer :
+
+-   la **confidentialité** du message échangé,
+-   son **authenticité** (qui a envoyé ce message ?),
+-   son **intégrité** (est-ce qu’il a été modifié ?).
+
+![700](https://www.cnil.fr/sites/default/files/styles/contenu-generique-visuel/public/thumbnails/image/1_usages_0.png?itok=0IZNGUET)
+
+
+## Vocabulaire
+- Coder
+	- ...
+- Décoder
+	- ...
+- Chiffrer
+	- ...
+- Déchiffrer
+	- ...
+- Décrypter
+	- ...
+- Cryptanalyse
+	- ...
+
+## Chiffrement symétrique
+
+*Explications puis image*
+
+### Code de César
+
+*Explications puis image*
+
+### Code XOR
+
+*Explications puis image*
+
+### Algorithme AES
+
+*Explications et "à retenir"*
+
+## Chiffrement asymétrique
+
+*Explications puis image*
+
+### Protocole d’échange de clés de Diffie-Hellman
+
+*Explications puis image*
+
+### Le système RSA
+
+*Explications*
+
+## Authentification des participants
+
+### Attaque de l’homme du milieu
+
+*Explications puis image*
+
+### Certificats de tiers de confiance
+
+*Explications et Analogie*
+
+## Protocole HTTPS
+
+*Explications puis image*
