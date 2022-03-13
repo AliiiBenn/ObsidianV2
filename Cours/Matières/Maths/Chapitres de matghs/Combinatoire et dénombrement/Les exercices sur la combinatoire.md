@@ -1,5 +1,5 @@
 tags : 
-links :
+links : [[Combinatoire et dénombrement]]
 
 ****
 
