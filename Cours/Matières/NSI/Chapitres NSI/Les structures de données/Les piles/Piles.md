@@ -1,5 +1,5 @@
 tags : 
-links : [[Les structures de données]], [[020 MOC Informatique]]
+links : [[Les structures de données]], [[020 MOC Informatique]], [[NSI]]
 
 ****
 

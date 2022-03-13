@@ -1,5 +1,5 @@
 tags : 
-links : [[Les structures de données]], [[Les arbres et les arbres binaires]]
+links : [[Les structures de données]], [[Les arbres et les arbres binaires]], [[NSI]], [[020 MOC Informatique]]
 
 ****
 
