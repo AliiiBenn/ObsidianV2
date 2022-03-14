@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 1.md",
+            "file": "2 - Les romains.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 1.md",
+                "file": "2 - Les romains.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "eec4be893ecd6124",
   "lastOpenFiles": [
+    "2 - Les romains.md",
+    "I - L'objet de notre étude  les Grecs et les Romains dans l'espace méditerranéen.md",
     "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 1.md",
+    "1 - Les Grecs.md",
     "Cours/Cours Marie/ANCIEN/Histoire Ancienne.md",
     "Cours/Cours Marie/Cours Marie.md",
     "Cours/Cours Marie/MODERNE/Moderne.md",
     "Cours/Cours Marie/MODERNE/Histoire moderne TD.md",
     "Cours/Cours Marie/MODERNE/Histoire moderne CM 1.md",
-    "Cours/Cours Marie/INI. CONTEMPORAIN/Initialisation Contemporain.md",
-    "Cours/Cours Marie/CONTEMPORAIN/Contemporain.md",
-    "Cours/Cours Marie/ANTHROPOLOGIE/Anthropologie.md",
-    "Cours/Cours Marie/ANGLAIS/Anglais.md"
+    "Cours/Cours Marie/INI. CONTEMPORAIN/Initialisation Contemporain.md"
   ]
 }
