@@ -1,5 +1,5 @@
 tags : 
-links : [[Initiation à l'histoire ancienne CM 1]]
+links : [[Initiation à l'histoire ancienne CM 1]], [[Initiation à l'histoire ancienne CM 1]]
 
 ****
 

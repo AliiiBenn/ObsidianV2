@@ -7,12 +7,8 @@
         "id": "eec4be893ecd6124",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "II - Le contexte géographique.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "II - Le contexte géographique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +108,15 @@
   },
   "active": "eec4be893ecd6124",
   "lastOpenFiles": [
-    "II - Le contexte géographique.md",
-    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 1.md",
-    "III - Les repères chronologiques.md",
-    "2 - Les principales périodes d'histoire grecque et romaine..md",
-    "1 - La périodisation  méthodes utilisées pour diviser l'histoire ancienne en différentes périodes.md",
-    "2 - Différentes régions de la méditerranées et leurs habitants.md",
-    "1 - Méditerranée  perception antique et débats historiographiques modernes.md",
-    "I - L'objet de notre étude  les Grecs et les Romains dans l'espace méditerranéen.md",
-    "1 - Les Grecs.md",
-    "2 - Les romains.md"
+    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 3/Initiation à l'histoire ancienne CM 3.md",
+    "III - Les grecs et les autres.md",
+    "3 - quelles sont les conséquences des relations avec d'autres peuples grecs.md",
+    "II - Causes, modalités, conséquences.md",
+    "3 - Agriculuture et commerce.md",
+    "2 - l'organisation d'une expédition.md",
+    "1 - pourquoi les grecs fondaient-ils des apoikiai.md",
+    "I. Etablissements fondés au cours de la colonisation archaïque  un tour d'horizon.md",
+    "3 - Les côtes sptentrionales de la Mer Egée.md",
+    "1 - L'Occident.md"
   ]
 }
