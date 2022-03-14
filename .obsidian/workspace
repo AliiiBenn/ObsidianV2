@@ -7,8 +7,12 @@
         "id": "eec4be893ecd6124",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "test.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,10 +109,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 225
   },
   "active": "eec4be893ecd6124",
   "lastOpenFiles": [
+    "test.md",
     "Cours/Matières/Maths/Chapitres de matghs/Combinatoire et dénombrement/Les exercices sur la combinatoire.md",
     "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Thème 3 ES/La biodiversité et son évolution/La biodiversité et son évolution.md",
     "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Thème 3 ES/Thème 3 ES - Une histoire du vivant.md",
@@ -116,7 +122,6 @@
     "Cours/Matières/Enseignement Scientifique/Enseignement Scientifique.md",
     "Cours/Matières/Enseignement Scientifique/Physique-Chimie/Physique-Chimie.md",
     "Cours/010 MOC Cours.md",
-    "Cours/Matières/Histoire-Géographie/Chapitres d'histoire/PPO indochine vietnam.md",
-    "Cours/Matières/Histoire-Géographie/Chapitres d'histoire/Cours d'histoire du 9 mars.md"
+    "Cours/Matières/Histoire-Géographie/Chapitres d'histoire/PPO indochine vietnam.md"
   ]
 }
