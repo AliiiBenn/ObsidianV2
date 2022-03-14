@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2 - Les romains.md",
+            "file": "II - Le contexte géographique.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - Les romains.md",
+                "file": "II - Le contexte géographique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "eec4be893ecd6124",
   "lastOpenFiles": [
-    "2 - Les romains.md",
-    "I - L'objet de notre étude  les Grecs et les Romains dans l'espace méditerranéen.md",
+    "II - Le contexte géographique.md",
     "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 1.md",
+    "III - Les repères chronologiques.md",
+    "2 - Les principales périodes d'histoire grecque et romaine..md",
+    "1 - La périodisation  méthodes utilisées pour diviser l'histoire ancienne en différentes périodes.md",
+    "2 - Différentes régions de la méditerranées et leurs habitants.md",
+    "1 - Méditerranée  perception antique et débats historiographiques modernes.md",
+    "I - L'objet de notre étude  les Grecs et les Romains dans l'espace méditerranéen.md",
     "1 - Les Grecs.md",
-    "Cours/Cours Marie/ANCIEN/Histoire Ancienne.md",
-    "Cours/Cours Marie/Cours Marie.md",
-    "Cours/Cours Marie/MODERNE/Moderne.md",
-    "Cours/Cours Marie/MODERNE/Histoire moderne TD.md",
-    "Cours/Cours Marie/MODERNE/Histoire moderne CM 1.md",
-    "Cours/Cours Marie/INI. CONTEMPORAIN/Initialisation Contemporain.md"
+    "2 - Les romains.md"
   ]
 }
