@@ -1,5 +1,5 @@
 tags : 
-links : [[130 MOC Vidéos]], [[030 MOC Mental]], [[productivité]], [[Le travail]], [[Ali Abdaal]]
+links : [[130 MOC Vidéos]], [[030 MOC Mental]], [[La productivité]], [[Le travail]], [[Ali Abdaal]]
 
 ****
 
@@ -42,3 +42,4 @@ Nous devons nous tester nous même, nous devons essayer de récuperer les inform
 ### Spaced Repetition
 
 Comme la courbe d'oubli le montre nous oublions ce que nous apprenons donc il faut réviser de temps en temps par exemple un peu tous les jours. Plus il y a de nuit des sommeils dans la période de révisions mieux c'est
+

@@ -1,5 +1,5 @@
 tags : #informatique, #algorithmes #AlgorithmeDeTri
-links : [[Algorithmes de Tri]]
+links : [[Algorithmes de Tri]], [[NSI]]
 
 ---
 
@@ -34,7 +34,7 @@ fin procédure
 ``` 
 
 
-En python :
+En [[Python]] :
 
 ```python
 from random import randint

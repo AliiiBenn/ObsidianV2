@@ -18,6 +18,11 @@ links : [[000 Index]]
 [[Espagnol]]
 [[Maths]]
 [[Histoire-Géographie]]
-[[Anglais]]
+[[Cours/Matières/Anglais/Anglais]]
 [[EMC]]
 [[Enseignement Scientifique]]
+
+
+### Autres cours
+
+[[Cours Marie]]

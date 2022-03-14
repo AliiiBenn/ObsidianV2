@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole HTTPS.md",
+            "file": "Cours/Cours Marie/ANTHROPOLOGIE/Anthropologie.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201
+    "width": 208
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole HTTPS.md",
+                "file": "Cours/Cours Marie/ANTHROPOLOGIE/Anthropologie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,19 +108,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307
+    "width": 307,
+    "collapsed": true
   },
   "active": "eec4be893ecd6124",
   "lastOpenFiles": [
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole HTTPS.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Sécurisation des communications.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Authentification des participants.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Certificats de tiers de confiance.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Attaque de l’homme du milieu.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Chiffrement asymétrique.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Le système RSA.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole d’échange de clés de Diffie-Hellman.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Code de César.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Différents exemples de chiffrements symétrique.md"
+    "Cours/Cours Marie/ANTHROPOLOGIE/Anthropologie.md",
+    "Cours/Cours Marie/ANGLAIS/Anglais.md",
+    "Cours/Cours Marie/ANGLAIS/Elon Musk Biography.md",
+    "Cours/Cours Marie/ANGLAIS/Vocabulary.md",
+    "Cours/Cours Marie/ANGLAIS/Angela Davis Biography.md",
+    "Cours/Cours Marie/ANCIEN/Histoire Ancienne.md",
+    "Passions/Science/La SVT personnelle/Les molécules/La sérotonine.md",
+    "Passions/Science/La SVT personnelle/Les molécules/La norépinephrine.md",
+    "Passions/Science/La SVT personnelle/Les molécules/La Dopamine.md",
+    "Passions/Science/La SVT personnelle/Les hormones/La mélatonine.md"
   ]
 }

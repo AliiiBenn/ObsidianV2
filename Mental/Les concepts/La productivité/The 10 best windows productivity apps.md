@@ -1,5 +1,5 @@
 tags : 
-links : [[130 MOC Vidéos]], [[Le travail]], [[La productivité]], []
+links : [[130 MOC Vidéos]], [[Le travail]], [[La productivité]], [[030 MOC Mental]]
 
 ****
 
@@ -47,6 +47,3 @@ Bah c'est du cloud quoi, (gg drive en dossier windows)
 ### F.LUX
 
 Lumière bleue
-
-
-
