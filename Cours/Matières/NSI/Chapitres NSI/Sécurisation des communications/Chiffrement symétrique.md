@@ -11,9 +11,10 @@ Le chiffrement symétrique est un chiffrement ou la clé pour chiffrer est aussi
 
 Ici, on fait appel à deux fonctions :
 
-La fonction de chiffrement c avec deux arguments m et k qui représentent le message en clair et la clé de chiffrement.
+La fonction de chiffrement *c* avec deux arguments **m** et **k** qui représentent le message en clair et la clé de chiffrement.
 
-Il y aussi la fonction de déchiffrement d qui prend elle aussi deux arguments s et k, le message chiffré et une fois encore la clé de chiffrement
+Il y aussi la fonction de déchiffrement *d* qui prend elle aussi deux arguments **s** et **k**, le message chiffré et une fois encore la clé de chiffrement
+
 
 ![](https://info.blaisepascal.fr/wp-content/uploads/2021/07/drawit-diagram-7.png "drawit diagram")
 

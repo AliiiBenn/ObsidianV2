@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test.md",
+            "file": "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole HTTPS.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 201
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "8e56633a8f86d7fa",
@@ -109,19 +108,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225
+    "width": 307
   },
   "active": "eec4be893ecd6124",
   "lastOpenFiles": [
-    "test.md",
-    "Cours/Matières/Maths/Chapitres de matghs/Combinatoire et dénombrement/Les exercices sur la combinatoire.md",
-    "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Thème 3 ES/La biodiversité et son évolution/La biodiversité et son évolution.md",
-    "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Thème 3 ES/Thème 3 ES - Une histoire du vivant.md",
-    "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Science de la Vie et de la Terre.md",
-    "Cours/Matières/Enseignement Scientifique/Thème 1 ES - Science, climat et société.md",
-    "Cours/Matières/Enseignement Scientifique/Enseignement Scientifique.md",
-    "Cours/Matières/Enseignement Scientifique/Physique-Chimie/Physique-Chimie.md",
-    "Cours/010 MOC Cours.md",
-    "Cours/Matières/Histoire-Géographie/Chapitres d'histoire/PPO indochine vietnam.md"
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole HTTPS.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Sécurisation des communications.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Authentification des participants.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Certificats de tiers de confiance.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Attaque de l’homme du milieu.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Chiffrement asymétrique.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Le système RSA.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole d’échange de clés de Diffie-Hellman.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Code de César.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Différents exemples de chiffrements symétrique.md"
   ]
 }
