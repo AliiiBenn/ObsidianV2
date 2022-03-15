@@ -1,5 +1,5 @@
 tags : 
-links : [[030 MOC Mental]], [[Apprendre]]
+links : [[030 MOC Mental]], [[Apprendre]], [[100 MOC Gestion des connaissances]]
 
 ****
 

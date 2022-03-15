@@ -12,6 +12,7 @@ links :
 
 
 ### Concepts
+[[système de prise de note]]
 
 ### Livres
 
