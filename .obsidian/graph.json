@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 11092571
       }
+    },
+    {
+      "query": "path:Vidéos",
+      "color": {
+        "a": 1,
+        "rgb": 8795959
+      }
     }
   ],
   "collapse-display": false,
@@ -81,6 +88,6 @@
   "repelStrength": 11.123595505618,
   "linkStrength": 0.623595505617978,
   "linkDistance": 196,
-  "scale": 0.08317427835927836,
+  "scale": 0.11660891579457767,
   "close": true
 }
