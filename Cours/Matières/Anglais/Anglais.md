@@ -12,3 +12,5 @@ links :
 ### Les cours d'anglais
 
 ### Devoirs d'anglais
+
+[[PRE-READING ACTIVITIES]]
