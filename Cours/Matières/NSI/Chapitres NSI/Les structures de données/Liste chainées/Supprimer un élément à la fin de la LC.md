@@ -25,3 +25,4 @@ def supprimer_fin(self):
 		a.suiv = None
 		return a
 ```
+
