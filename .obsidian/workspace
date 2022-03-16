@@ -4,33 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8add1cfd82b8ca0c",
-        "type": "split",
-        "children": [
-          {
-            "id": "ef6d3bd38a566cf7",
-            "type": "leaf",
-            "dimension": 20.876826722338205,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mind map sécurisation des communications.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f6fdaa1196dcd7b",
-            "type": "leaf",
-            "dimension": 79.12317327766179,
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
+        "id": "ef6d3bd38a566cf7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
+            "mode": "source",
+            "source": false
           }
-        ],
-        "direction": "horizontal"
+        }
       }
     ],
     "direction": "vertical"
@@ -87,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mind map sécurisation des communications.md",
+                "file": "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +114,8 @@
   },
   "active": "ef6d3bd38a566cf7",
   "lastOpenFiles": [
-    "Mind map sécurisation des communications.md",
+    "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Mind map sécurisation des communications.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Certificats de tiers de confiance.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Authentification des participants.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Attaque de l’homme du milieu.md",
@@ -139,7 +123,6 @@
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole HTTPS.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Chiffrement asymétrique.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Le système RSA.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole d’échange de clés de Diffie-Hellman.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Chiffrement symétrique.md"
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole d’échange de clés de Diffie-Hellman.md"
   ]
 }
