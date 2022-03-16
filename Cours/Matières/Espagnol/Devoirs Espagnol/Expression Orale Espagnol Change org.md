@@ -37,23 +37,23 @@ links : [[Espagnol]]
 - [ ] salir a la luz -> se dévoilent
 - [ ] ciber amigos -> cyberamis
 - [ ] dar a conocer -> faire connaître
-- [x] a golpe de click -> en un clic
+- [ ] a golpe de click -> en un clic
 - [x] mucho que decir -> beaucoup à dire
 - [ ] immediata, instantanea -> immédiat, instantané
 - [x] plataforma digital -> plateforme numérique
 - [ ] investigar mas rapidamente -> recherche plus rapide
 - [ ] una busqueda -> une recherche
-- [x] compartir -> Partager
-- [x] cambiar el mundo -> change le monde
-- [x] a largo plazo -> à long terme
+- [ ] compartir -> Partager
+- [ ] cambiar el mundo -> change le monde
+- [ ] a largo plazo -> à long terme
 
 
 
-Je vais vous présenter une campagne qui vient de la plateforme numérique change.org **qui selon moi est une bonne campagne d'activisme** de **réseau** et il y a **beaucoup à dire** dessus. 
+Je vais vous présenter une campagne qui vient de la **plateforme numérique** change.org **qui selon moi est une bonne campagne d'activisme** de **réseau** et il y a **beaucoup à dire** dessus. 
 
 Cette campagne parle de 38 chiots Beagle qui sont utilisé dans une experience au laboratoire au Vivocienta. Les scientifiques vont tester des médicaments sur ces chiots pendant 28 jours. Ces chiots sont utilisés car ils sont extremement gentils et ils sont d'excellents compagnons. Ils doivent vraiment être libérés car ces médicaments les rendent de plus en plus malades. 
 
-Cette campagne a déjà **recueilli 1.3 million de signatures** ce qui montre l'**opposition** des **citoyens** sur cet acte très **violent**. Personnellement j'ai choisi cette campagne pour vous partager ce qui se passe dans ce laboratoire et car je trouve que c'est un acte vraiment horrible, j'espere qu'ils seront libérés. Agir sur ces de campagne se fait **en un clic**, bien sur ça ne changera pas le monde mais à long termes des choses pourrait aller mieux.
+Cette campagne a déjà **recueilli 1.3 million de signatures** ce qui montre l'**opposition** des **citoyens** sur cet acte très **violent**. Personnellement j'ai choisi cette campagne pour vous **partager** ce qui se passe dans ce laboratoire et car je trouve que c'est un acte vraiment horrible, j'espere qu'ils seront libérés. Agir sur ces de campagne se fait **en un clic**, bien sur ça ne **changera pas le monde** mais à **long termes** des choses pourrait **aller mieux**.
 
 ---
 
