@@ -4,12 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "eec4be893ecd6124",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "51614dc9e0498ce6",
+        "type": "split",
+        "children": [
+          {
+            "id": "eec4be893ecd6124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Chiffrement asymétrique.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88ac2466dcb3f0e6",
+            "type": "split",
+            "children": [
+              {
+                "id": "ef6d3bd38a566cf7",
+                "type": "leaf",
+                "dimension": 54.69728601252609,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Mind map sécurisation des communications.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "2f6fdaa1196dcd7b",
+                "type": "leaf",
+                "dimension": 45.3027139874739,
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
       }
     ],
     "direction": "vertical"
@@ -49,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 254,
+    "collapsed": true
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -66,6 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Mind map sécurisation des communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,19 +146,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 318,
+    "collapsed": true
   },
-  "active": "eec4be893ecd6124",
+  "active": "ef6d3bd38a566cf7",
   "lastOpenFiles": [
-    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Listes chaînées.md",
-    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Supprimer un élément à la fin de la LC.md",
-    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 2/1 - La fin du monde mycénien.md",
-    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 5/II - Les affrontements militaires entre les Grecs et les Perses entre 500 et 478.md",
-    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 5/Initiation à l'histoire ancienne CM 5.md",
-    "Gestion des connaissances/Système de gestion de prise de notes/système de prise de note.md",
-    "Gestion des connaissances/100 MOC Gestion des connaissances.md",
-    "Gestion des connaissances/Système de gestion de prise de notes/système Cornell.md",
-    "Corps/050 MOC Corps.md",
-    "Articles/140 MOC Articles.md"
+    "Mind map sécurisation des communications.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Chiffrement asymétrique.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Sécurisation des communications.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Chiffrement symétrique.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Différents exemples de chiffrements symétrique.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Algorithme AES.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Code XOR.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Code de César.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Vocabulaire Sécurisation des communications.md",
+    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Listes chaînées.md"
   ]
 }
