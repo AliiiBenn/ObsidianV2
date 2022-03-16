@@ -15,31 +15,45 @@ links : [[Espagnol]]
 
 ### Le vocabulaire à placer
 
-- [ ] las nuevas technologias
-- [ ] ciudadano
-- [ ] redes sociales
-- [ ] los bulos
-- [ ] un estallido social
-- [ ] cambiar de rostro
-- [ ] violentamente
-- [ ] la desigualdades hacia la sociedad
-- [ ] su pais
-- [ ] mejorar
-- [ ] en cambio
-- [ ] su derechos
-- [ ] se opusieron
-- [ ] el resentimento
-- [ ] lanzar una campaña en internet
-- [ ] recoger firmas
-- [ ] ciberactivistas
-- [ ] el ordenador
-- [ ] una buena campana de activismo en la red
-- [ ] salir a la luz
-- [ ] ciber amigos
-- [ ] dar a conocer
-- [ ] a golpe de click
-- [ ] mucho que decir
-- [ ] immediata, instantanea
-- [ ] plataforma digital
-- [ ] investiga
+- [ ] las nuevas technologias -> nouvelles technologies
+- [ ] ciudadano -> citoyen
+- [ ] redes sociales -> réseaux sociaux
+- [ ] los bulos -> canulars
+- [ ] un estallido social -> un déchaînement social
+- [ ] cambiar de rostro -> changer de visage
+- [ ] violentamente -> violemment
+- [ ] la desigualdades hacia la sociedad -> inégalités vis-à-vis de la société
+- [ ] su pais -> son pays
+- [ ] mejorar -> aller mieux
+- [ ] en cambio -> en échange
+- [ ] su derechos -> tes droits
+- [ ] se opusieron -> opposé
+- [ ] el resentimento -> rancœur
+- [x] lanzar una campaña en internet -> lancer une campagne sur internet
+- [ ] recoger firmas -> recueillir des signatures
+- [ ] ciberactivistas -> cyberactivistes
+- [ ] el ordenador -> l'ordinateur
+- [x] una buena campana de activismo en la red -> une bonne campagne d'activisme de réseau
+- [ ] salir a la luz -> se dévoilent
+- [ ] ciber amigos -> cyberamis
+- [ ] dar a conocer -> faire connaître
+- [ ] a golpe de click -> en un clic
+- [ ] mucho que decir -> beaucoup à dire
+- [ ] immediata, instantanea -> immédiat, instantané
+- [ ] plataforma digital -> plateforme numérique
+- [ ] investigar mas rapidamente -> recherche plus rapide
+- [ ] una busqueda -> une recherche
+- [ ] compartir -> Partager
+- [ ] cambiar el mundo -> change le monde
+- [ ] a largo plazo -> à long terme
+
+
+
+Je vais vous présenter une campagne qui vient de l qui selon moi est une bonne campagne d'activisme de réseau
+
+
+
+
+
+
 
