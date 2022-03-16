@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
+            "file": "000 Index.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
+                "file": "000 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +114,7 @@
   },
   "active": "ef6d3bd38a566cf7",
   "lastOpenFiles": [
+    "000 Index.md",
     "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Mind map sécurisation des communications.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Certificats de tiers de confiance.md",
@@ -122,7 +123,6 @@
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Sécurisation des communications.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole HTTPS.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Chiffrement asymétrique.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Le système RSA.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole d’échange de clés de Diffie-Hellman.md"
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Le système RSA.md"
   ]
 }
