@@ -19,5 +19,3 @@
 130 - [[130 MOC Vidéos|Les videos]], mes prises de notes sur des vidéos
 140 - [[140 MOC Articles|Les articles]], notes sur des articles
 
-
-<iframe src="https://calendar.google.com/calendar/embed?src=3ho3bdf0m8g0p3kl8s5qlarh8o%40group.calendar.google.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
