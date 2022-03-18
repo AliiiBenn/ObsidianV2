@@ -18,6 +18,7 @@ links :
 [[Apprendre]]
 [[Le travail]]
 [[La productivité]]
+[[La méditation]]
 
 ### Les vidéos
 
