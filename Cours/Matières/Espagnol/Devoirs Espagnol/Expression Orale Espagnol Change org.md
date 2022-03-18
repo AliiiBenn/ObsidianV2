@@ -29,7 +29,7 @@ Esta campaña se trata de 38 cachorros Beagle que se utilizan en un experimento 
 
 Esta campaña ya ha recogido 1,3 millones de firmas, lo que demuestra la oposición de los ciudadanos a este acto tan violento. Personalmente he escogido esta campaña para compartir con ustedes lo que hay en este laboratorio y porque encuentro que es un acto verdaderamente horrible, estoy esperando a que sean liberados.
 
-Actuar sobre estas campañas se hace a golpe de click, por supuesto que no cambiará el mundo, pero a largo plazo las cosas podrían ser mejores.
+Actuar sobre estas cam**pañas se hace a golpe de click, por supuesto que no cambiará el mundo, pero a largo plazo las cosas podrían ser mejores.
 
 
 
