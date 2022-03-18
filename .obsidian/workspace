@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projets/070 MOC Projets.md",
+            "file": "Apprendre la création d'articles.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projets/070 MOC Projets.md",
+                "file": "Apprendre la création d'articles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +113,8 @@
   },
   "active": "486fc2b76c646065",
   "lastOpenFiles": [
+    "Apprendre la création d'articles.md",
+    "Apprendre la méditation.md",
     "Projets/070 MOC Projets.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Sécurisation des communications.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Mind map sécurisation des communications.md",
@@ -120,8 +122,6 @@
     "000 Index.md",
     "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Certificats de tiers de confiance.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Authentification des participants.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Attaque de l’homme du milieu.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole HTTPS.md"
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Authentification des participants.md"
   ]
 }

@@ -19,7 +19,7 @@ links :
 
 [[Nesalia Inc]]
 [[Apprendre la création d'articles]]
-[[A]]
+[[Apprendre la méditation]]
 
 ### Anciens projets
 
