@@ -18,6 +18,8 @@ links :
 ### Projets futurs
 
 [[Nesalia Inc]]
+[[Apprendre la création d'articles]]
+[[A]]
 
 ### Anciens projets
 
