@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Apprendre la création d'articles.md",
+            "file": "Projets/Projets Actuels/Apprendre la création d'articles/Le guide complet du MARKETING.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Apprendre la création d'articles.md",
+                "file": "Projets/Projets Actuels/Apprendre la création d'articles/Le guide complet du MARKETING.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,20 +109,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318,
-    "collapsed": true
+    "width": 318
   },
   "active": "486fc2b76c646065",
   "lastOpenFiles": [
-    "Apprendre la création d'articles.md",
-    "disposition chambre.md",
+    "Projets/Projets Actuels/Apprendre la création d'articles/Le guide complet du MARKETING.md",
+    "Projets/Projets Actuels/Apprendre la création d'articles/Apprendre la création d'articles.md",
+    "_Autres/disposition chambre.md",
     "Disposition chambre.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Code XOR.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Différents exemples de chiffrements symétrique.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Code de César.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Chiffrement symétrique.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Sécurisation des communications.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Vocabulaire Sécurisation des communications.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole HTTPS.md"
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Vocabulaire Sécurisation des communications.md"
   ]
 }
