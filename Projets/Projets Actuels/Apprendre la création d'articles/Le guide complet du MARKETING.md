@@ -42,6 +42,27 @@ Par contre il faut partir d'un problème et aller à la solution, les faire reve
 Un modèle de page de vente pourrait être celui de MArketong mania 
 
 #### Le problème
-1. Quel est le problème dur que votre prospect veut résoudre ? Soyez le plus précis possible
-2. En quoi ce problème affecte-t-il sa vie quotidienne
-3. Dans quelles situations concrètes est
+1. Quel est le problème dur que votre prospect veut résoudre ? Soyez le plus précis possible.
+2. En quoi ce problème affecte-t-il sa vie quotidienne ?
+3. Dans quelles situations concrètes est-il le plus douloureux ?
+4. Quelle est la source du problème ?
+5. Pourquoi est-il aussi difficile à résoudre ?
+6. Pourquoi les solutions que le prospect a essayées par le passé n'ont-elles pas marché ?
+
+Il faut vraiment décrire la douleur du problème.
+
+
+### La solution 
+1. Quelle est la solution au problème du prospect ?
+2. Comment la solution répond-elle à la source du problème (mieux que les alternatives) ?
+3. Comment pouvez-vous prouver que la solution fonctionne ? (Témoignages clients, statistiques, anecdotes, études de cas, analogies...)
+
+
+Convaincre, décrire le problème puis passer 2000 mots à dire pourquoi c'est utile par la logique avec des raisonnements simple que le client peut comprendre. 
+
+#### Le résultat
+1. Comment votre solution va transformer la vie du prospect ?
+2. Quel résultat va-t-il accomplir ?
+3. Quelles émotions va-t-il ressentir ?
+4. Les gens vont-ils le traiter différement ?
+5. Par contraste, que se passerait-il si votre prospect ne passait pas à l'action ?**
