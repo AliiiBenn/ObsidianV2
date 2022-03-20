@@ -20,12 +20,12 @@ en bas le résumé
 
 ### La partie des notes
 
-On inscrit ce que le professeur dit, ce qui est au tableau ou ce qui est dans le livre. Il ne faut pas marquer tous les mots juste des *mots clés* le but est de résumer. Pour ce genre de méthode pas de pomodoro. 
+[[La partie des notes]] 
 
 ### La partie des question et commentaires
 
-On y met les questions en rapport avec le cours, on se questionne déjà sur nos notes. On peut aussi y mettre des réferences
+[[La partie des question et commentaires]]
 
 ### La partie du résumé 
 
-Comme son nom le dit il faut résumer, il faut penser comme si quelqu'un nous demandait "Qu'est-ce que tu as appris aujourd'hui" et être capable de le résumer en seulement quelques lignes. Il ne faut pas sauter cette partie car elle est très utile pour les révisions 
+[[La partie du résumé]] 

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Gestion des connaissances/Système de gestion de prise de notes/LA METHODE CORNELL  La prise de note EFFICACE.md",
+            "file": "La partie du résumé.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gestion des connaissances/Système de gestion de prise de notes/LA METHODE CORNELL  La prise de note EFFICACE.md",
+                "file": "La partie du résumé.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,15 +113,15 @@
   },
   "active": "486fc2b76c646065",
   "lastOpenFiles": [
+    "La partie du résumé.md",
     "Gestion des connaissances/Système de gestion de prise de notes/LA METHODE CORNELL  La prise de note EFFICACE.md",
+    "La partie des question et commentaires.md",
+    "La partie des notes.md",
     "Gestion des connaissances/Système de gestion de prise de notes/système Cornell.md",
     "Projets/Projets Actuels/Apprendre la création d'articles/Le guide complet du MARKETING.md",
     "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
     "Le copywriting.md",
     "Projets/Projets Actuels/Apprendre la création d'articles/Apprendre la création d'articles.md",
-    "_Autres/disposition chambre.md",
-    "Disposition chambre.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Code XOR.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Différents exemples de chiffrements symétrique.md"
+    "_Autres/disposition chambre.md"
   ]
 }
