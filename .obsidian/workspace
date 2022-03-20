@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
+            "file": "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Vocabulaire Sécurisation des communications.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
+                "file": "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Vocabulaire Sécurisation des communications.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +97,8 @@
   },
   "active": "486fc2b76c646065",
   "lastOpenFiles": [
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Vocabulaire Sécurisation des communications.md",
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Sécurisation des communications.md",
     "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
     "_Autres/templates/template Daily.md",
     "La partie du résumé.md",
@@ -104,8 +106,6 @@
     "La partie des question et commentaires.md",
     "La partie des notes.md",
     "Gestion des connaissances/Système de gestion de prise de notes/système Cornell.md",
-    "Projets/Projets Actuels/Apprendre la création d'articles/Le guide complet du MARKETING.md",
-    "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
-    "Le copywriting.md"
+    "Projets/Projets Actuels/Apprendre la création d'articles/Le guide complet du MARKETING.md"
   ]
 }
