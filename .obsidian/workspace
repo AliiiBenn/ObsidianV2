@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
+            "file": "chapitre histoire.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254,
-    "collapsed": true
+    "width": 254
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
+                "file": "chapitre histoire.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,11 +93,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318,
-    "collapsed": true
+    "width": 318
   },
   "active": "486fc2b76c646065",
   "lastOpenFiles": [
+    "chapitre histoire.md",
     "Cours/Matières/Espagnol/Devoirs Espagnol/Expression Orale Espagnol Change org.md",
     "_Autres/disposition chambre.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Sécurisation des communications.md",
@@ -107,7 +106,6 @@
     "Pasted image 20220320145318.png",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Protocole HTTPS.md",
     "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Certificats de tiers de confiance.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Chiffrement asymétrique.md",
-    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Le système RSA.md"
+    "Cours/Matières/NSI/Chapitres NSI/Sécurisation des communications/Chiffrement asymétrique.md"
   ]
 }
