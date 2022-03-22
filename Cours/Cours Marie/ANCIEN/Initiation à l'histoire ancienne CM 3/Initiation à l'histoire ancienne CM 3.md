@@ -12,7 +12,7 @@ links : [[Histoire Ancienne]], [[Cours Marie]]
 
 ## Introduction
 
-[[Introduction]]
+[[Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 3/Introduction]]
 
 ## I. Etablissements fondés au cours de la colonisation archaïque : un tour d'horizon
 
