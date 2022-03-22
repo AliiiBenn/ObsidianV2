@@ -8,10 +8,7 @@ links : [[I - La guerre froide de la bipolarisation à la détente.]], [[bipolar
 ****
 
 **Une opposition de deux modes de vie** : Plus qu’une lutte entre deux puissances, cette guerre froide met en opposition deux modes de sociétés :
-
-
 - La promotion d’un modèle social égalitaire fondé sur la mise en commun des outils de production en URSS où la dictature du prolétariat est vue comme un outil vers une société égalitaire dans laquelle l’individu travaille pour le progrès de la société dans son ensemble. Dans la société soviétique, les marques d’inégalités doivent disparaître.
-
 - Le modèle américain est au contraire celui de la réussite individuelle, du self made man, qui permet par sa réussite et son exemple de faire avancer la société dans un modèle libéral. Le capitalisme, la foi religieuse et la démocratie libérale sont les piliers de la société américaine.
 
 Bien sûr ces deux modèles de société restent assez théoriques et de nombreux contre-exemples viennent limiter ces définitions, mais ils restent des objectifs et des éléments de doctrine (et de propagande).
