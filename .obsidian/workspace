@@ -4,16 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "2199366d98287096",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "How I made my life a video game.md",
-            "mode": "source",
-            "source": false
+        "id": "071b8a31e5ce06d3",
+        "type": "split",
+        "children": [
+          {
+            "id": "2199366d98287096",
+            "type": "leaf",
+            "dimension": 20.876826722338205,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf372265bfeaf0f8",
+            "type": "leaf",
+            "dimension": 79.12317327766179,
+            "state": {
+              "type": "mindmap",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -53,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 254,
+    "collapsed": true
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -70,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How I made my life a video game.md",
+                "file": "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "How I made my life a video game.md",
+                "file": "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -145,10 +163,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 318,
+    "collapsed": true
   },
   "active": "2199366d98287096",
   "lastOpenFiles": [
+    "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
     "How I made my life a video game.md",
     "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/III - La guerre du Péloponnèse  déroulement et conséquences.md",
     "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/3 - La chute d'Athènes.md",
@@ -157,7 +177,6 @@
     "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/Initiation à l'histoire ancienne CM 6.md",
     "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/II - Sparte face à la montée de la puissance athénienne.md",
     "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/3 - Vers une guerre entre Sparte et Athènes.md",
-    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/2 - Le système d'alliances spartiate.md",
-    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/1 - Le régime spartiate.md"
+    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/2 - Le système d'alliances spartiate.md"
   ]
 }
