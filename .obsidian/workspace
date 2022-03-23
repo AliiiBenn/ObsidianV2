@@ -7,8 +7,12 @@
         "id": "2199366d98287096",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Informatique/Les langages/Python/Cours Python/Afficher un message en Python.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Informatique/Les langages/Python/Cours Python/Afficher un message en Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Informatique/Les langages/Python/Cours Python/Afficher un message en Python.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,6 +148,7 @@
   },
   "active": "2199366d98287096",
   "lastOpenFiles": [
+    "Informatique/Les langages/Python/Cours Python/Afficher un message en Python.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/I - La IVe République face aux enjeux internationaux (1946-1958)..md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
@@ -150,7 +157,6 @@
     "Cours/Matières/Histoire-Géographie/Vocabulaire/IVe République.md",
     "Cours/Matières/Histoire-Géographie/Vocabulaire/les pieds-noirs.md",
     "Cours/Matières/Histoire-Géographie/Vocabulaire/FLN.md",
-    "Cours/Matières/Histoire-Géographie/Vocabulaire/CEE.md",
-    "Cours/Matières/Histoire-Géographie/Vocabulaire/CECA.md"
+    "Cours/Matières/Histoire-Géographie/Vocabulaire/CEE.md"
   ]
 }
