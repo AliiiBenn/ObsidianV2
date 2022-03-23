@@ -10,7 +10,8 @@ links :
 
 ### Cours Python
 
-[[Les conventions en Python]]
+[[Afficher un message en Python]]
+[[types de données en Python]]
 
 ### Astuces Python
 
