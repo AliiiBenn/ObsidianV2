@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "486fc2b76c646065",
+        "id": "28f7e37501294cf5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/bipolarisation et emergence du tiers monde.md",
+            "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Un processus qu s’accélère et se diffuse en Afrique..md",
             "mode": "source",
             "source": false
           }
@@ -62,6 +62,7 @@
       {
         "id": "9b6f06fd6f537a8c",
         "type": "tabs",
+        "dimension": 37.160751565762006,
         "children": [
           {
             "id": "661a3cb9678763c6",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/bipolarisation et emergence du tiers monde.md",
+                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Un processus qu s’accélère et se diffuse en Afrique..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,22 +91,73 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "84fae94fbadf4faf",
+        "type": "tabs",
+        "dimension": 62.839248434237994,
+        "children": [
+          {
+            "id": "60b78f53a4d0834d",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Un processus qu s’accélère et se diffuse en Afrique..md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.713275462622442,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "a26460d2858cfce1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 318
   },
-  "active": "486fc2b76c646065",
+  "active": "28f7e37501294cf5",
   "lastOpenFiles": [
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Un processus qu s’accélère et se diffuse en Afrique..md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/bipolarisation et emergence du tiers monde.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Le Proche et Moyen Orient devient un foyer de conflits majeur..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/B - La contestation du modèle bipolaire..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - L’entrée du Tiers-Monde sur la scène internationale..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Un processus qu s’accélère et se diffuse en Afrique..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/Conclusion.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/B - L’Asie, point de départ de a décolonisation..md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - Un contexte favorable..md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Une détente qui reste limitée (1962-1975)..md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/B - L’opposition de deux modèles..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - Un monde devenu bipolaire (1953-1962)..md"
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - Un monde devenu bipolaire (1953-1962)..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/B - La contestation du modèle bipolaire..md"
   ]
 }
