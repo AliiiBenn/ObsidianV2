@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/B - La contestation du modèle bipolaire..md",
+            "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Un processus qu s’accélère et se diffuse en Afrique..md",
             "mode": "preview",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/B - La contestation du modèle bipolaire..md",
+                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Un processus qu s’accélère et se diffuse en Afrique..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/B - La contestation du modèle bipolaire..md",
+                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Un processus qu s’accélère et se diffuse en Afrique..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +126,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.5087618855792587,
+                  "scale": 0.25883865621816293,
                   "close": true
                 }
               }
@@ -140,8 +140,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,15 +148,15 @@
   },
   "active": "2199366d98287096",
   "lastOpenFiles": [
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/B - La contestation du modèle bipolaire..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/III - L’affirmation du tiers-monde et la remise en cause de l’ordre bipolaire..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - L’entrée du Tiers-Monde sur la scène internationale..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/bipolarisation et emergence du tiers monde.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Un processus qu s’accélère et se diffuse en Afrique..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/bipolarisation et emergence du tiers monde.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/B - L’Asie, point de départ de a décolonisation..md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - Un contexte favorable..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Thème 2 Histoire.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/I - La guerre froide de la bipolarisation à la détente..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Une détente qui reste limitée (1962-1975)..md"
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Une détente qui reste limitée (1962-1975)..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - Un monde devenu bipolaire (1953-1962)..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - L’entrée du Tiers-Monde sur la scène internationale..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/III - L’affirmation du tiers-monde et la remise en cause de l’ordre bipolaire..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/C - Le Proche et Moyen Orient devient un foyer de conflits majeur..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/B - La contestation du modèle bipolaire..md"
   ]
 }
