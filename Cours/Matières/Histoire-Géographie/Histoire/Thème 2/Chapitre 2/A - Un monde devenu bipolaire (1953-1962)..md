@@ -7,7 +7,7 @@ links : [[I - La guerre froide de la bipolarisation à la détente.]], [[bipolar
 
 ****
 
-**Une Europe coupée en deux** : Le blocus de [[Berlin]] aboutit à la partition de [[l’Allemagne]] en deux pays : [[La RFA]] (Ouest) et [[la RDA]] (Est). Sa capitale [[Berlin]] est elle aussi divisée en deux. En 1949, est créée l’Organisation du Traité de l’Atlantique Nord ([[OTAN]]), alliance militaire regroupant l’Europe de l’Ouest, [[la Turquie]], [[le Canada]] et [[les États-Unis]] qui offrent leur protection aux Européens. En réponse, l’URSS organise une alliance militaire avec les pays d’Europe de l’Est, c’est le Pacte de Varsovie. En 1961, le gouvernement de la RDA entoure Berlin Ouest d’un ensemble de fortifications, c’est la naissance du Mur de Berlin.
+**Une Europe coupée en deux** : Le blocus de Berlin aboutit à la partition de l’Allemagne en deux pays : [[La RFA]] (Ouest) et [[la RDA]] (Est). Sa capitale Berlin est elle aussi divisée en deux. En 1949, est créée l’Organisation du Traité de l’Atlantique Nord ([[OTAN]]), alliance militaire regroupant l’Europe de l’Ouest, a Turquie, le Canada et les États-Unis qui offrent leur protection aux Européens. En réponse, l’URSS organise une alliance militaire avec les pays d’Europe de l’Est, c’est le Pacte de Varsovie. En 1961, le gouvernement de la RDA entoure Berlin Ouest d’un ensemble de fortifications, c’est la naissance du Mur de Berlin.
 
 **L’Asie enjeu de la guerre froide** : l’Asie devient rapidement au cœur de la course entre les deux superpuissances au travers de trois pays. Les États-Unis pratiquent la politique de l’Endiguement qui vise à empêcher la propagation du communisme :
 
