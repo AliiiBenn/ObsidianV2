@@ -31,4 +31,17 @@ Introduction
 				- L'urss se dote de l'arme nucléaire
 				- course aux armements
 					- equilibre de la terreur
-					- 
+			- Conquete spatiale 
+				- premier satellite Spoutnik, premier homme dans l’espace Youri Gagarine
+				- 1969 Amstrong
+			- Opposition dans les JO 
+	- C - Une détente qui reste limitée (1962-1975).
+		- Une détente Est/Ouest fragile
+			- Nécessité du dialogue
+				- Téléphone rouge
+				- Accords milotaires TNP et SALT 1
+			- Une détente fragile 
+				- Intervention américaine au vietnam
+				- Aide soviétique
+		- La remise en cause de la bipolarisation
+		- 1966 La France quitte l'otan
