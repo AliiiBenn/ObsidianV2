@@ -1,0 +1,34 @@
+
+Introduction
+- Fin des années 40 marquées par la peur d'un troisième conflit mondial
+- Processus de décolonisation
+- Redistribution géopolitique des espaces
+- I - La guerre froide de la bipolarisation à la détente.
+	- A - Un monde devenu bipolaire (1953-1962).
+		- Une Europe coupée en deux
+			- Allemagne divisée en deux
+				- RFA et RDA
+			- Berlin divisée et occupée
+			- Les alliances militaires en Europe
+				- L'otan 1949
+				- La pacte de Varsovie 1955
+		- L’Asie enjeu de la guerre froide
+			- Politique de l'endiguement
+			- Indochine
+			- réfugiés chinois à Taiwan
+			- Intervention dans la guerre de Corée
+		- Cuba ou le monde au bord du gouffre
+			- Khrouchtchev lance la coexistance pacifique
+			- 1959 : Fidel Castro prend le pouvoir
+				- Rapprochement avec l'URSS
+				- Intallation de missiles nucléaires
+					- 1962 : crise des missiles
+	- B - L’opposition de deux modèles.
+		- Une opposition de deux modes de vie
+			- URSS et US
+		- Une compétition multiforme
+			- Lutte militaire
+				- L'urss se dote de l'arme nucléaire
+				- course aux armements
+					- equilibre de la terreur
+					- 
