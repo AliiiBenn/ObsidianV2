@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - Un monde devenu bipolaire (1953-1962)..md",
+            "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - Un monde devenu bipolaire (1953-1962)..md",
+                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - Un monde devenu bipolaire (1953-1962)..md",
+                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,15 +149,15 @@
   },
   "active": "2199366d98287096",
   "lastOpenFiles": [
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/h2-3-la-france-nouvelle-place-dans-le-monde.md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Thème 2 Histoire.md",
+    "Cours/Matières/Histoire-Géographie/Chapitres d'histoire/Cours d'histoire du 9 mars.md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Histoire.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - Un monde devenu bipolaire (1953-1962)..md",
     "les États-Unis.md",
     "le Canada.md",
     "la Turquie.md",
-    "OTAN.md",
-    "Berlin.md",
-    "la RDA.md",
-    "La RFA.md",
-    "l’Allemagne.md",
-    "_Autres/templates/template Vocab.md"
+    "OTAN.md"
   ]
 }
