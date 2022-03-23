@@ -76,13 +76,6 @@
         "a": 1,
         "rgb": 14261015
       }
-    },
-    {
-      "query": "path:\"Gestion des connaissances\"",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
     }
   ],
   "collapse-display": false,
@@ -95,6 +88,6 @@
   "repelStrength": 11.123595505618,
   "linkStrength": 0.623595505617978,
   "linkDistance": 196,
-  "scale": 0.059326171875003754,
+  "scale": 0.0593261718750038,
   "close": true
 }

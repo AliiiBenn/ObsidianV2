@@ -7,8 +7,12 @@
         "id": "2199366d98287096",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "How I made my life a video game.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "How I made my life a video game.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "How I made my life a video game.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,15 +149,15 @@
   },
   "active": "2199366d98287096",
   "lastOpenFiles": [
-    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 4/3 - Les conséquences des réformes clisthéniennes  vers une démocratie.md",
-    "Projets/Projets Actuels/Apprendre la création d'articles/Le copywriting.md",
-    "Mental/Les concepts/La productivité/Working From Home How to Stay Focused.md",
-    "A ranger/How to Wake Up Early Without Feeling Tired.md",
-    "Gestion des connaissances/Système de gestion de prise de notes/Système Cornell/LA METHODE CORNELL  La prise de note EFFICACE.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/I - La IVe République face aux enjeux internationaux (1946-1958)..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/Introduction.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/Conclusion.md"
+    "How I made my life a video game.md",
+    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/III - La guerre du Péloponnèse  déroulement et conséquences.md",
+    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/3 - La chute d'Athènes.md",
+    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/2 - L'expédition en Sicile.md",
+    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/1 - La première phase  la guerre d'Archidamos (431 - 421).md",
+    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/Initiation à l'histoire ancienne CM 6.md",
+    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/II - Sparte face à la montée de la puissance athénienne.md",
+    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/3 - Vers une guerre entre Sparte et Athènes.md",
+    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/2 - Le système d'alliances spartiate.md",
+    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 6/1 - Le régime spartiate.md"
   ]
 }
