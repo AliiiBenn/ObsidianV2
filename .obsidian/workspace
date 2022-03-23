@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "071b8a31e5ce06d3",
+        "id": "2845d269a15d7919",
         "type": "split",
         "children": [
           {
             "id": "2199366d98287096",
             "type": "leaf",
-            "dimension": 20.876826722338205,
+            "dimension": 21.39874739039666,
             "state": {
               "type": "markdown",
               "state": {
@@ -21,9 +21,9 @@
             }
           },
           {
-            "id": "bf372265bfeaf0f8",
+            "id": "ad5c6018d02b7f6c",
             "type": "leaf",
-            "dimension": 79.12317327766179,
+            "dimension": 78.60125260960335,
             "state": {
               "type": "mindmap",
               "state": {}
