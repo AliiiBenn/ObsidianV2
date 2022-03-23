@@ -7,12 +7,8 @@
         "id": "2199366d98287096",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,15 +142,15 @@
   },
   "active": "2199366d98287096",
   "lastOpenFiles": [
+    "Cours/Matières/Histoire-Géographie/Vocabulaire/l’Assemblée Nationale.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
+    "Cours/Matières/Histoire-Géographie/Vocabulaire/PCF.md",
+    "Cours/Matières/Histoire-Géographie/Vocabulaire/traité de l’Atlantique Nord.md",
+    "Cours/Matières/Histoire-Géographie/Vocabulaire/l’OTAN.md",
+    "Cours/Matières/Histoire-Géographie/Vocabulaire/plan Marshall.md",
+    "Cours/Matières/Histoire-Géographie/Vocabulaire/IVe République.md",
+    "Cours/Matières/Histoire-Géographie/Vocabulaire/RPF.md",
     "Cours/Matières/Histoire-Géographie/Vocabulaire/GPRF.md",
-    "How I made my life a video game.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/I - La IVe République face aux enjeux internationaux (1946-1958)..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/III - Redonner à la France une place nouvelle dans le monde..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/Conclusion.md",
-    "000 Index.md",
-    "Mental/030 MOC Mental.md",
-    "Informatique/020 MOC Informatique.md"
+    "How I made my life a video game.md"
   ]
 }
