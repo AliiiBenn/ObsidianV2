@@ -27,5 +27,5 @@ links : [[Histoire]], [[Thème 2 Histoire]]
 
 ### Conclusion 
 
-![[Conclusion]]
+![[Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/Conclusion]]
 

@@ -7,12 +7,8 @@
         "id": "2199366d98287096",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -62,7 +58,7 @@
       {
         "id": "9b6f06fd6f537a8c",
         "type": "tabs",
-        "dimension": 37.160751565762006,
+        "dimension": 44.676409185803756,
         "children": [
           {
             "id": "661a3cb9678763c6",
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +90,7 @@
       {
         "id": "84fae94fbadf4faf",
         "type": "tabs",
-        "dimension": 62.839248434237994,
+        "dimension": 55.323590814196244,
         "children": [
           {
             "id": "60b78f53a4d0834d",
@@ -103,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,15 +143,15 @@
   },
   "active": "2199366d98287096",
   "lastOpenFiles": [
+    "Cours/Cours Marie/ANCIEN/Initiation à l'histoire ancienne CM 4/3 - Les conséquences des réformes clisthéniennes  vers une démocratie.md",
+    "Projets/Projets Actuels/Apprendre la création d'articles/Le copywriting.md",
+    "Mental/Les concepts/La productivité/Working From Home How to Stay Focused.md",
+    "A ranger/How to Wake Up Early Without Feeling Tired.md",
+    "Gestion des connaissances/Système de gestion de prise de notes/Système Cornell/LA METHODE CORNELL  La prise de note EFFICACE.md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/I - La IVe République face aux enjeux internationaux (1946-1958)..md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/h2-3-la-france-nouvelle-place-dans-le-monde.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Thème 2 Histoire.md",
-    "Cours/Matières/Histoire-Géographie/Chapitres d'histoire/Cours d'histoire du 9 mars.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Histoire.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 2/A - Un monde devenu bipolaire (1953-1962)..md",
-    "les États-Unis.md",
-    "le Canada.md",
-    "la Turquie.md",
-    "OTAN.md"
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/Introduction.md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/Conclusion.md"
   ]
 }
