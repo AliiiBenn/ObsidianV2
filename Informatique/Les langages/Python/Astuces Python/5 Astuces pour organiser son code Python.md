@@ -1,5 +1,5 @@
 tags : 
-links : [[Python]], [[130 MOC Vidéos]]
+links : [[Python]], [[130 MOC Vidéos]], [[020 MOC Informatique]]
 
 ****
 
@@ -38,10 +38,6 @@ from physics import Forces
 ### Une classe = un fichier
 
 Dans la vidéo Tim nous conseille de séparer chaque class en un seul fichier mais, il dit que cela dépend aussi de l'avis de chacun car les développeurs experts n'utilisent pas forcément cette méthode à la lettre.
-
-*Rappel des conventions en Python*
-
-[[Les conventions en Python]]
 
 
 ### Regrouper les fonctionnalités
