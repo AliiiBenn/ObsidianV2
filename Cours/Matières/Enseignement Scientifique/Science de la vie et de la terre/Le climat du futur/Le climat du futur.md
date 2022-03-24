@@ -1,5 +1,5 @@
 tags : 
-links : [[Science de la Vie et de la Terre]]
+links : [[Science de la Vie et de la Terre]], [[Enseignement Scientifique]]
 
 ****
 
