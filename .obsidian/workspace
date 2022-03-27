@@ -7,12 +7,8 @@
         "id": "8721ef4254302e85",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "4 étapes simples pour acquérir rapidement des compétences.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 étapes simples pour acquérir rapidement des compétences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 étapes simples pour acquérir rapidement des compétences.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,8 +134,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,6 +142,7 @@
   },
   "active": "8721ef4254302e85",
   "lastOpenFiles": [
+    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les arbres binaires/Calculer la taille d'un arbre.md",
     "4 étapes simples pour acquérir rapidement des compétences.md",
     "la règle des 20 heures pour apprendre n'importe quoi.md",
     "5 raccourcis Chrome pour booster votre productivité.md",
@@ -157,7 +151,6 @@
     "_Autres/Notes quotidiennes/Jours/2022-03-27.md",
     "Projets/Projets Actuels/MysteryLand/Compte rendu MysteryLand Alpha 27 Mars.md",
     "Projets/Projets Actuels/MysteryLand/MysteryLand.md",
-    "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
-    "Informatique/Les langages/Python/Astuces Python/5 Astuces pour organiser son code Python.md"
+    "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md"
   ]
 }
