@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
+            "file": "Compte rendu MysteryLand Alpha 27 Mars.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
+                "file": "Compte rendu MysteryLand Alpha 27 Mars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
+                "file": "Compte rendu MysteryLand Alpha 27 Mars.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,6 +149,8 @@
   },
   "active": "2199366d98287096",
   "lastOpenFiles": [
+    "Compte rendu MysteryLand Alpha 27 Mars.md",
+    "Projets/Projets Actuels/MysteryLand/MysteryLand.md",
     "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
     "Informatique/Les langages/Python/Astuces Python/5 Astuces pour organiser son code Python.md",
     "Cours/Matières/Enseignement Scientifique/Enseignement Scientifique.md",
@@ -156,8 +158,6 @@
     "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Thème 3 ES/La biodiversité et son évolution/exercice 11 page 178 SVT.md",
     "Informatique/Les langages/Python/Cours Python/types de données en Python.md",
     "Informatique/Les langages/Python/Cours Python/les variables en Python.md",
-    "Excalidraw/Drawing 2022-03-23 22.08.47.excalidraw.md",
-    "Informatique/Les langages/Python/Python.md",
-    "Informatique/Les langages/Python/Cours Python/Les conventions en Python.md"
+    "Excalidraw/Drawing 2022-03-23 22.08.47.excalidraw.md"
   ]
 }
