@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2199366d98287096",
+        "id": "8721ef4254302e85",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Compte rendu MysteryLand Alpha 27 Mars.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "big-calendar",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compte rendu MysteryLand Alpha 27 Mars.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Compte rendu MysteryLand Alpha 27 Mars.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,9 +141,9 @@
     "direction": "horizontal",
     "width": 318
   },
-  "active": "2199366d98287096",
+  "active": "8721ef4254302e85",
   "lastOpenFiles": [
-    "Compte rendu MysteryLand Alpha 27 Mars.md",
+    "Projets/Projets Actuels/MysteryLand/Compte rendu MysteryLand Alpha 27 Mars.md",
     "Projets/Projets Actuels/MysteryLand/MysteryLand.md",
     "Cours/Matières/Enseignement Scientifique/Science de la vie et de la terre/Le climat du futur/Le climat du futur.md",
     "Informatique/Les langages/Python/Astuces Python/5 Astuces pour organiser son code Python.md",
