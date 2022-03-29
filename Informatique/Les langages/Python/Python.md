@@ -11,6 +11,7 @@ links :
 ### Cours Python
 
 [[Afficher un message en Python]]
+[[les variables en Python]]
 [[types de données en Python]]
 
 ### Astuces Python
