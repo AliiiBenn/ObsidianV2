@@ -19,3 +19,7 @@
 130 - [[130 MOC Vidéos|Les videos]], mes prises de notes sur des vidéos
 140 - [[140 MOC Articles|Les articles]], notes sur des articles
 
+
+
+> [!Column]
+

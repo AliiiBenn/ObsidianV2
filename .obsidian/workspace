@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Passions/Science/Les théories/la théorie cognitive.md",
+            "file": "000 Index.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
       {
         "id": "9b6f06fd6f537a8c",
         "type": "tabs",
-        "dimension": 59.46308724832215,
+        "dimension": 43.21503131524008,
         "children": [
           {
             "id": "661a3cb9678763c6",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Passions/Science/Les théories/la théorie cognitive.md",
+                "file": "000 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,22 +88,14 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "c09901f3d6e8dfab",
-            "type": "leaf",
-            "state": {
-              "type": "custom-frames-test",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "84fae94fbadf4faf",
         "type": "tabs",
-        "dimension": 40.53691275167785,
+        "dimension": 56.78496868475992,
         "children": [
           {
             "id": "60b78f53a4d0834d",
@@ -111,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Passions/Science/Les théories/la théorie cognitive.md",
+                "file": "000 Index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,6 +139,14 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "87a80dd67554ed5f",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-pronote",
+              "state": {}
+            }
           }
         ]
       }
@@ -156,6 +156,7 @@
   },
   "active": "8721ef4254302e85",
   "lastOpenFiles": [
+    "000 Index.md",
     "Passions/Science/Les théories/la théorie cognitive.md",
     "Informatique/Les langages/Python/Python.md",
     "Informatique/Les langages/Python/Cours Python/types de données en Python.md",
@@ -164,7 +165,6 @@
     "Cours/Matières/Philosophie/Le langage/Cours sur le langage/Cours sur le langage.md",
     "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 11 sur le langage.md",
     "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Questions sur le langage.md",
-    "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 10 sur le langage.md",
-    "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 9 sur le langage.md"
+    "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 10 sur le langage.md"
   ]
 }
