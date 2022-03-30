@@ -1,0 +1,12 @@
+{
+  "frames": [
+    {
+      "url": "https://calendar.google.com/calendar/u/0/r/week?pli=1",
+      "displayName": "Google Calendar",
+      "icon": "",
+      "minimumWidth": 0,
+      "customCss": ""
+    }
+  ],
+  "padding": 5
+}

@@ -7,8 +7,12 @@
         "id": "8721ef4254302e85",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Passions/Science/Les théories/la théorie cognitive.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Passions/Science/Les théories/la théorie cognitive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,9 +88,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "c09901f3d6e8dfab",
+            "type": "leaf",
+            "state": {
+              "type": "custom-frames-test",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "84fae94fbadf4faf",
@@ -98,6 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Passions/Science/Les théories/la théorie cognitive.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,6 +156,7 @@
   },
   "active": "8721ef4254302e85",
   "lastOpenFiles": [
+    "Passions/Science/Les théories/la théorie cognitive.md",
     "Informatique/Les langages/Python/Python.md",
     "Informatique/Les langages/Python/Cours Python/types de données en Python.md",
     "Informatique/Les langages/Python/Cours Python/les variables en Python.md",
@@ -150,7 +165,6 @@
     "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 11 sur le langage.md",
     "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Questions sur le langage.md",
     "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 10 sur le langage.md",
-    "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 9 sur le langage.md",
-    "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 5 sur le langage.md"
+    "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 9 sur le langage.md"
   ]
 }
