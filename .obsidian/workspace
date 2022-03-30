@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8721ef4254302e85",
+        "id": "536f0a06f4c73893",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "000 Index.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "full-calendar-view",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 Index.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +148,7 @@
     "direction": "horizontal",
     "width": 318
   },
-  "active": "8721ef4254302e85",
+  "active": "536f0a06f4c73893",
   "lastOpenFiles": [
     "000 Index.md",
     "Passions/Science/Les théories/la théorie cognitive.md",
