@@ -7,8 +7,12 @@
         "id": "536f0a06f4c73893",
         "type": "leaf",
         "state": {
-          "type": "full-calendar-view",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Une volonté d’indépendance nationale..md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Une volonté d’indépendance nationale..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Une volonté d’indépendance nationale..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,15 +156,15 @@
   },
   "active": "536f0a06f4c73893",
   "lastOpenFiles": [
-    "000 Index.md",
-    "Passions/Science/Les théories/la théorie cognitive.md",
-    "Informatique/Les langages/Python/Python.md",
-    "Informatique/Les langages/Python/Cours Python/types de données en Python.md",
-    "Informatique/Les langages/Python/Cours Python/les variables en Python.md",
-    "Informatique/Les langages/Python/Cours Python/Afficher un message en Python.md",
-    "Cours/Matières/Philosophie/Le langage/Cours sur le langage/Cours sur le langage.md",
-    "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 11 sur le langage.md",
-    "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Questions sur le langage.md",
-    "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 10 sur le langage.md"
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Une volonté d’indépendance nationale..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/III - Redonner à la France une place nouvelle dans le monde..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/II - La crise algérienne à l’origine de la naissance de la Ve République (1958- 1962)..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/C - Des plaies mémorielles encore ouvertes..md",
+    "le  FLN.md",
+    "Les harkis.md",
+    "les  harkis.md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/B - La Ve République face au défi de la guerre en Algérie (1958-1962)..md",
+    "OAS.md"
   ]
 }
