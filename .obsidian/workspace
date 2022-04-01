@@ -7,8 +7,12 @@
         "id": "536f0a06f4c73893",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "The Single Most Useful Decorator in Python.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "The Single Most Useful Decorator in Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "The Single Most Useful Decorator in Python.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,6 +156,7 @@
   },
   "active": "536f0a06f4c73893",
   "lastOpenFiles": [
+    "The Single Most Useful Decorator in Python.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/III - Redonner à la France une place nouvelle dans le monde..md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/B - La modernisation du pays..md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Une volonté d’indépendance nationale..md",
@@ -158,7 +165,6 @@
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/C - Des plaies mémorielles encore ouvertes..md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/B - La Ve République face au défi de la guerre en Algérie (1958-1962)..md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - « Je vous ai compris ».md",
-    "Ve République.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/I - La IVe République face aux enjeux internationaux (1946-1958)..md"
+    "Ve République.md"
   ]
 }
