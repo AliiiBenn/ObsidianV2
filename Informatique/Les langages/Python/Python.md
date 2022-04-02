@@ -17,6 +17,7 @@ links :
 ### Astuces Python
 
 [[5 Astuces pour organiser son code Python]]
+[[The Single Most Useful Decorator in Python]]
 
 ### Librairies et modules python
 
