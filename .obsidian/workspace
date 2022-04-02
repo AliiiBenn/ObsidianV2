@@ -7,7 +7,7 @@
         "id": "536f0a06f4c73893",
         "type": "leaf",
         "state": {
-          "type": "graph",
+          "type": "empty",
           "state": {}
         }
       }
@@ -150,6 +150,7 @@
   },
   "active": "536f0a06f4c73893",
   "lastOpenFiles": [
+    "itertools.md",
     "000 Index.md",
     "Mental/Les concepts/L'autisme/Quels sont les symptômes du syndrome d’Asperger.md",
     "Mental/Les concepts/L'autisme/l’anxiété.md",
@@ -158,7 +159,6 @@
     "Mental/Les concepts/L'autisme/Syndrome d’Asperger et autisme classique  quelles différences.md",
     "Mental/Les concepts/L'autisme/L'autisme.md",
     "Mental/030 MOC Mental.md",
-    "Informatique/Les langages/Python/Python.md",
-    "Boulanger location.md"
+    "Informatique/Les langages/Python/Python.md"
   ]
 }
