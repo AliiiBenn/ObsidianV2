@@ -7,12 +7,8 @@
         "id": "536f0a06f4c73893",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Quels sont les symptômes du syndrome d’Asperger.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quels sont les symptômes du syndrome d’Asperger.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Quels sont les symptômes du syndrome d’Asperger.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,15 +150,15 @@
   },
   "active": "536f0a06f4c73893",
   "lastOpenFiles": [
-    "Quels sont les symptômes du syndrome d’Asperger.md",
-    "l’anxiété.md",
-    "L'autisme Asperger.md",
-    "C'est quoi le syndrome d'Asperger.md",
-    "Syndrome d’Asperger et autisme classique  quelles différences.md",
-    "L'autisme.md",
+    "000 Index.md",
+    "Mental/Les concepts/L'autisme/Quels sont les symptômes du syndrome d’Asperger.md",
+    "Mental/Les concepts/L'autisme/l’anxiété.md",
+    "Mental/Les concepts/L'autisme/L'autisme Asperger.md",
+    "Mental/Les concepts/L'autisme/C'est quoi le syndrome d'Asperger.md",
+    "Mental/Les concepts/L'autisme/Syndrome d’Asperger et autisme classique  quelles différences.md",
+    "Mental/Les concepts/L'autisme/L'autisme.md",
     "Mental/030 MOC Mental.md",
     "Informatique/Les langages/Python/Python.md",
-    "Boulanger location.md",
-    "Pasted image 20220401182653.png"
+    "Boulanger location.md"
   ]
 }
