@@ -7,8 +7,12 @@
         "id": "536f0a06f4c73893",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -150,15 +156,15 @@
   },
   "active": "536f0a06f4c73893",
   "lastOpenFiles": [
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/I - La IVe République face aux enjeux internationaux (1946-1958)..md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/Conclusion.md",
     "itertools.md",
     "000 Index.md",
     "Mental/Les concepts/L'autisme/Quels sont les symptômes du syndrome d’Asperger.md",
     "Mental/Les concepts/L'autisme/l’anxiété.md",
     "Mental/Les concepts/L'autisme/L'autisme Asperger.md",
-    "Mental/Les concepts/L'autisme/C'est quoi le syndrome d'Asperger.md",
-    "Mental/Les concepts/L'autisme/Syndrome d’Asperger et autisme classique  quelles différences.md",
-    "Mental/Les concepts/L'autisme/L'autisme.md",
-    "Mental/030 MOC Mental.md",
-    "Informatique/Les langages/Python/Python.md"
+    "Mental/Les concepts/L'autisme/C'est quoi le syndrome d'Asperger.md"
   ]
 }
