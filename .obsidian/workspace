@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Informatique/Les langages/Python/Cours Python/les variables en Python.md",
+            "file": "Optimisation du transport de l'électricité.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informatique/Les langages/Python/Cours Python/les variables en Python.md",
+                "file": "Optimisation du transport de l'électricité.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Informatique/Les langages/Python/Cours Python/les variables en Python.md",
+                "file": "Optimisation du transport de l'électricité.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,8 +148,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,6 +156,7 @@
   },
   "active": "536f0a06f4c73893",
   "lastOpenFiles": [
+    "Optimisation du transport de l'électricité.md",
     "Informatique/Les langages/Python/Cours Python/les variables en Python.md",
     "Informatique/Les langages/Python/Cours Python/Afficher un message en Python.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
@@ -165,7 +165,6 @@
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/Conclusion.md",
     "itertools.md",
     "000 Index.md",
-    "Mental/Les concepts/L'autisme/Quels sont les symptômes du syndrome d’Asperger.md",
-    "Mental/Les concepts/L'autisme/l’anxiété.md"
+    "Mental/Les concepts/L'autisme/Quels sont les symptômes du syndrome d’Asperger.md"
   ]
 }
