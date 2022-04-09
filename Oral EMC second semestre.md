@@ -29,7 +29,7 @@ Elon Musk et l'une de ses entreprises Neuralink développe aujourd'hui un projet
 
 ### Les avantages et incovénients du transhumanisme 
 
-Ce concept a plusieurs avantages, un monde où les amputés peuvent retrouver l'usage de leur membre ou pouvoir faire disparaitre les maladies cerebrales semble être un rêve mais, on peut se poser des questions sur l'équité car oui un membre robotique n'a pas tous les problèmes d'un membre naturel. Dans le contexte militaire on peut se demander ce qu'il en est du respect de l'intégrité du corps humain et jusqu'à où tout ça peut aller.
+Ce concept a plusieurs avantages, un monde où les amputés peuvent retrouver l'usage de leur membre ou pouvoir faire disparaitre les maladies cerebrales semble être un rêve mais, on peut se poser des questions sur l'équité car oui un membre robotique n'a pas tous les problèmes d'un membre naturel. Dans le contexte militaire on peut se demander ce qu'il en est du respect de l'intégrité du corps humain et jusqu'à où tout ça peut aller. Concernant l'exemple de Neuralink il y a eu des test avec des singes qui ont fini par mourir
 
 ### Et la loi dans tout ça ?
 
