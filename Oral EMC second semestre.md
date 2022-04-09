@@ -8,7 +8,12 @@ links : [[EMC]]
 ****
 
 
-### Le sujet de l'oral 
+## Le sujet de l'oral 
+
+Est-ce que les lois sur la bioéthique vont pouvoir suivre le transhumanisme ?
 
 
-### Le texte de l'oral
+## Le texte de l'oral
+
+### C'est quoi le transhumanisme ?
+
