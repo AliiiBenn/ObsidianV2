@@ -33,4 +33,7 @@ Ce concept a plusieurs avantages, un monde où les amputés peuvent retrouver l'
 
 ### Et la loi dans tout ça ?
 
-La France a su être en avance dans le monde de la bioéthique avec des premières rélflexions en 1970. Concernant le transhumanisme le droit semble plutôt défavorable à l’amélioration de l’espèce dans son ensemble ne voulant pas que l'espece soit modifié
+La France a su être en avance dans le monde de la bioéthique avec des premières rélflexions en 1970. Concernant le transhumanisme le droit semble plutôt défavorable à l’amélioration de l’espèce dans son ensemble ne voulant pas que l'espece soit modifié. Par contre la loi autorise les modifications du corps humain en cas de nécessité médicale pour la personne. Mais, pour l'instant il n’existe pas de statut juridique de l’humain augmenté.
+
+### La loi dans le futur ?
+
