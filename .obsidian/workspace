@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Optimisation du transport de l'électricité.md",
+            "file": "Oral EMC second semestre.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimisation du transport de l'électricité.md",
+                "file": "Oral EMC second semestre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Optimisation du transport de l'électricité.md",
+                "file": "Oral EMC second semestre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,6 +156,8 @@
   },
   "active": "536f0a06f4c73893",
   "lastOpenFiles": [
+    "Oral EMC second semestre.md",
+    "Cours/Matières/EMC/EMC.md",
     "Optimisation du transport de l'électricité.md",
     "Informatique/Les langages/Python/Cours Python/les variables en Python.md",
     "Informatique/Les langages/Python/Cours Python/Afficher un message en Python.md",
@@ -163,8 +165,6 @@
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/I - La IVe République face aux enjeux internationaux (1946-1958)..md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/Conclusion.md",
-    "itertools.md",
-    "000 Index.md",
-    "Mental/Les concepts/L'autisme/Quels sont les symptômes du syndrome d’Asperger.md"
+    "itertools.md"
   ]
 }
