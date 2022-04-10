@@ -42,7 +42,7 @@ D'ici un futur nous allons voir arriver de premières lois limitant l'usage de c
 
 ### Qu'en est-il de la bioéthique aussi 
 
-La question de la bioéthique est principale car oui qu'en est-il de l'homme lui même ? Allons nous vers un futur où l'homme va devenir homme-machine ? 
+La question de la bioéthique est principale car oui qu'en est-il de l'homme lui même ? Allons nous vers un futur où l'homme va devenir homme-machine ? Est-ce que l'homme va savoir se limiter ou va t-il devenir complètement dépendant de ces technologies ?
 
 
 ### Alors, Est-ce que les lois sur la bioéthique vont pouvoir suivre le transhumanisme ?
