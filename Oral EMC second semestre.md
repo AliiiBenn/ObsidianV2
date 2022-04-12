@@ -47,4 +47,4 @@ La question de la bioéthique est principale car oui qu'en est-il de l'homme lui
 
 ### Alors, Est-ce que les lois sur la bioéthique vont pouvoir suivre le transhumanisme ?
 
-Tout va devoir se jouer dans les années qui viennent, si les lois prennent trop de temps à se mettre en place elles ne pourront plus suivre avec l'explosion de ce domaine qui va arriver. La France elle est déjà bien préparée et doit continuer comme cela maintenant il faudra à une echelle mondiale. L'homme va devoir faire les bonnes décisions pour savoir éviter de gros problèmes 
+Tout va devoir se jouer dans les années qui viennent, si les lois prennent trop de temps à se mettre en place elles ne pourront plus suivre avec l'explosion de ce domaine qui va arriver. La France elle, est déjà bien préparée et doit continuer comme cela maintenant il faudra à une echelle mondiale. L'homme va devoir faire les bonnes décisions pour savoir éviter de gros problèmes 
