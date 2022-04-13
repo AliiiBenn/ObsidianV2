@@ -37,7 +37,7 @@ La France a su être en avance dans le monde de la bioéthique avec des premièr
 
 ### La loi dans le futur ?
 
-D'ici un futur nous allons voir arriver de premières lois limitant l'usage de ces technologies mais où ? Est-ce que ce domaine va se démocratiser dans le monde militaire ? Ou est-ce que les états sauront se limiter. Selon ce qui est dit aujourd'hui nous n'avons pas de quoi nous inquiéter. Et limiter ces technologies à quel prix ? On peut s'imaginer des traffics illégaux de ces technologies qui pourront ammener à de gros problèmes
+D'ici un futur prochr nous allons voir arriver de premières lois limitant l'usage de ces technologies mais où ? Est-ce que ce domaine va se démocratiser dans le monde militaire ? Ou est-ce que les états sauront se limiter. Selon ce qui est dit aujourd'hui nous n'avons pas de quoi nous inquiéter. Et limiter ces technologies à quel prix ? On peut s'imaginer des traffics illégaux de ces technologies qui pourront ammener à de gros problèmes
 
 
 ### Qu'en est-il de la bioéthique aussi 
@@ -47,4 +47,4 @@ La question de la bioéthique est principale car oui qu'en est-il de l'homme lui
 
 ### Alors, Est-ce que les lois sur la bioéthique vont pouvoir suivre le transhumanisme ?
 
-Tout va devoir se jouer dans les années qui viennent, si les lois prennent trop de temps à se mettre en place elles ne pourront plus suivre avec l'explosion de ce domaine qui va arriver. La France elle, est déjà bien préparée et doit continuer comme cela maintenant il faudra voir à une echelle mondiale. L'homme va devoir faire les bonnes décisions pour savoir éviter de gros problèmes 
+Tout va devoir se jouer dans les années qui viennent, si les lois prennent trop de temps à se mettre en place elles ne pourront plus suivre avec l'explosion de ce domaine qui va arriver. La France elle, est déjà bien préparée et doit continuer comme cela maintenant il faudra voir à une echelle mondiale. L'homme va devoir faire les bonnes décisions pour savoir éviter de gros problèmes.
