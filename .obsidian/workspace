@@ -7,12 +7,8 @@
         "id": "536f0a06f4c73893",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Oral EMC second semestre.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Oral EMC second semestre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,15 +77,14 @@
             }
           },
           {
-            "id": "c9c12b3a65b95103",
+            "id": "5d75609babf16340",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "84fae94fbadf4faf",
@@ -103,7 +97,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Oral EMC second semestre.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +141,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,15 +150,15 @@
   },
   "active": "536f0a06f4c73893",
   "lastOpenFiles": [
+    "Le type GameObject.md",
+    "Les variables en Csharp.md",
+    "Syntaxe d'une variable csharp.md",
+    "Les types de variables csharp.md",
+    "Informatique/Les langages/Csharp/Csharp.md",
     "Oral EMC second semestre.md",
     "Cours/Matières/EMC/EMC.md",
     "Optimisation du transport de l'électricité.md",
     "Informatique/Les langages/Python/Cours Python/les variables en Python.md",
-    "Informatique/Les langages/Python/Cours Python/Afficher un message en Python.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/I - La IVe République face aux enjeux internationaux (1946-1958)..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/Conclusion.md",
-    "itertools.md"
+    "Informatique/Les langages/Python/Cours Python/Afficher un message en Python.md"
   ]
 }
