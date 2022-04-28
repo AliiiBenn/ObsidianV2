@@ -7,9 +7,11 @@
         "id": "536f0a06f4c73893",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-04-20 15.03.39.excalidraw.md"
+            "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-04-20 15.03.39.excalidraw.md",
+                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2022-04-20 15.03.39.excalidraw.md",
+                "file": "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,6 +156,7 @@
   },
   "active": "536f0a06f4c73893",
   "lastOpenFiles": [
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
     "Excalidraw/Drawing 2022-04-20 15.03.39.excalidraw.md",
     "Excalidraw/Drawing 2022-04-20 15.03.35.excalidraw.md",
     "Informatique/Les langages/Csharp/les variables/Le type GameObject.md",
@@ -162,7 +165,6 @@
     "Informatique/Les langages/Csharp/les variables/Les types de variables csharp.md",
     "Informatique/Les langages/Csharp/Csharp.md",
     "Oral EMC second semestre.md",
-    "Cours/Matières/EMC/EMC.md",
-    "Optimisation du transport de l'électricité.md"
+    "Cours/Matières/EMC/EMC.md"
   ]
 }
