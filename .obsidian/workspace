@@ -7,9 +7,11 @@
         "id": "8c9d2f9cf29928e6",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-04-29 14.59.30.excalidraw.md"
+            "file": "Questions sur Etat Droit et Justice.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -51,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254,
-    "collapsed": true
+    "width": 254
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-04-29 14.59.30.excalidraw.md",
+                "file": "Questions sur Etat Droit et Justice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2022-04-29 14.59.30.excalidraw.md",
+                "file": "Questions sur Etat Droit et Justice.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,15 +157,15 @@
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
+    "Questions sur Etat Droit et Justice.md",
+    "Question 1 Droit Etat et Justice.md",
+    "1 - Question 1 Droit Etat et Justice.md",
+    "Cours/Matières/Philosophie/Etat Droit et Justice/Etat Droit et Justice.md",
     "Excalidraw/Drawing 2022-04-29 14.59.30.excalidraw.md",
     "Excalidraw/Drawing 2022-04-29 16.50.31.excalidraw.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
     "Excalidraw/Drawing 2022-04-20 15.03.39.excalidraw.md",
     "Excalidraw/Drawing 2022-04-20 15.03.35.excalidraw.md",
-    "Informatique/Les langages/Csharp/les variables/Le type GameObject.md",
-    "Informatique/Les langages/Csharp/les variables/Les variables en Csharp.md",
-    "Informatique/Les langages/Csharp/les variables/Syntaxe d'une variable csharp.md",
-    "Informatique/Les langages/Csharp/les variables/Les types de variables csharp.md",
-    "Informatique/Les langages/Csharp/Csharp.md"
+    "Informatique/Les langages/Csharp/les variables/Le type GameObject.md"
   ]
 }
