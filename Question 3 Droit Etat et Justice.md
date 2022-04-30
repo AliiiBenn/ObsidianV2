@@ -8,3 +8,5 @@ links : [[Questions sur Etat Droit et Justice]]
 ****
 
 Après l’avoir résumée, expliquez ce que nous apprend la tragédie d’Antigone.
+
+La tragédie d'antigone est une tragédie où le fr
