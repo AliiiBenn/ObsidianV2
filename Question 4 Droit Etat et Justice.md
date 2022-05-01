@@ -7,4 +7,5 @@ links : [[Questions sur Etat Droit et Justice]]
 
 ****
 
-Quel sont les dangers d’une justice réduite à  une stricte  égalité,  et comment peut-on y remédier ? (Développez quelques exemples)
+Quel sont les dangers d’une justice réduite à  une stricte égalité,  et comment peut-on y remédier ? (Développez quelques exemples)
+
