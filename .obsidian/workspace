@@ -7,8 +7,10 @@
         "id": "8c9d2f9cf29928e6",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "excalidraw",
+          "state": {
+            "file": "Excalidraw/Projet gestionnaire de fichuiers.md"
+          }
         }
       }
     ],
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Projet gestionnaire de fichuiers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Excalidraw/Projet gestionnaire de fichuiers.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,15 +155,15 @@
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
+    "Excalidraw/Projet gestionnaire de fichuiers.md",
+    "Cours/Matières/NSI/Révisions Bac/Révisions Bac.md",
+    "Cours/Matières/NSI/Révisions Bac/Sujets écrit/sujet_1.pdf",
     "Les algorithmes de l'épreuve pratique.md",
     "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les arbres binaires/Parcours en Largeur.md",
     "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les arbres binaires/Parcours Prefixe, Infixe et Suffixe.md",
     "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les arbres binaires/Calculer la hauteur d'un arbre.md",
     "Informatique/Algorithmes/Algorithmes de recherche/Recherche Dichotomique.md",
     "Informatique/Algorithmes/Algorithmes de recherche/Algorithmes de recherche.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/1 -  Un régime paralysé par la question coloniale..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/B - La France au cœur de la construction européenne..md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/La France une nouvelle place dans le monde.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - Un régime fragilisé par les tensions liées à la guerre froide..md"
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/1 -  Un régime paralysé par la question coloniale..md"
   ]
 }
