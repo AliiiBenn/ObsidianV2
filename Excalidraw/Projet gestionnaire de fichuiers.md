@@ -8,10 +8,9 @@ tags: [excalidraw]
 
 
 # Text Elements
-à quoi sert le projet ?
- ^5LcBAYqf
+à quoi sert le projet ? ^PaczGoMe
 
-à trier mes fichiers  ^jDZi3aBZ
+à trier mes fichiers à des emplacement spéciaux ^tyxfG0v9
 
 %%
 # Drawing
@@ -22,12 +21,12 @@ tags: [excalidraw]
 	"source": "https://excalidraw.com",
 	"elements": [
 		{
-			"id": "5LcBAYqf",
+			"id": "PaczGoMe",
 			"type": "text",
-			"x": 47,
-			"y": -32,
-			"width": 225,
-			"height": 50,
+			"x": 33,
+			"y": -12,
+			"width": 226,
+			"height": 25,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -39,28 +38,33 @@ tags: [excalidraw]
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1024945018,
-			"version": 38,
-			"versionNonce": 1176674022,
+			"version": 57,
+			"versionNonce": 393150522,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1652126281527,
+			"boundElements": [
+				{
+					"id": "LkSxzgMz4mpxB67zrntTX",
+					"type": "arrow"
+				}
+			],
+			"updated": 1652126317340,
 			"link": null,
-			"text": "à quoi sert le projet ?\n",
-			"rawText": "à quoi sert le projet ?\n",
+			"text": "à quoi sert le projet ?",
+			"rawText": "à quoi sert le projet ?",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 43,
+			"baseline": 18,
 			"containerId": null,
-			"originalText": "à quoi sert le projet ?\n"
+			"originalText": "à quoi sert le projet ?"
 		},
 		{
-			"id": "jDZi3aBZ",
+			"id": "tyxfG0v9",
 			"type": "text",
-			"x": 95,
-			"y": 134,
-			"width": 200,
+			"x": -110,
+			"y": 167,
+			"width": 476,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#000000",
@@ -73,21 +77,74 @@ tags: [excalidraw]
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 729403942,
-			"version": 47,
-			"versionNonce": 1002917094,
+			"version": 244,
+			"versionNonce": 1618760422,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1652126295457,
+			"boundElements": [
+				{
+					"id": "LkSxzgMz4mpxB67zrntTX",
+					"type": "arrow"
+				}
+			],
+			"updated": 1652126329781,
 			"link": null,
-			"text": "à trier mes fichiers ",
-			"rawText": "à trier mes fichiers ",
+			"text": "à trier mes fichiers à des emplacement spéciaux",
+			"rawText": "à trier mes fichiers à des emplacement spéciaux",
 			"fontSize": 20,
 			"fontFamily": 1,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"baseline": 18,
 			"containerId": null,
-			"originalText": "à trier mes fichiers "
+			"originalText": "à trier mes fichiers à des emplacement spéciaux"
+		},
+		{
+			"id": "LkSxzgMz4mpxB67zrntTX",
+			"type": "arrow",
+			"x": 120.64624469066864,
+			"y": 24,
+			"width": 10.669925989030332,
+			"height": 132.35159737542273,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2005438502,
+			"version": 262,
+			"versionNonce": 947717670,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1652126329781,
+			"link": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-10.669925989030332,
+					132.35159737542273
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "PaczGoMe",
+				"focus": 0.20739194737989486,
+				"gap": 11
+			},
+			"endBinding": {
+				"elementId": "tyxfG0v9",
+				"focus": -0.0832184819198877,
+				"gap": 10.648402624577272
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
