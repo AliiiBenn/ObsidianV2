@@ -13,7 +13,7 @@ links :
 - [x] La récursivité
 - [ ] Les arbres
 	- [ ] Recherche
-	- [ ] parcours
+	- [x] parcours
 - [x] Les arbres binaires de recherche
 	- [x] Recherche
 - [x] la base 2
