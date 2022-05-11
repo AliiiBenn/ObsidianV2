@@ -8,20 +8,20 @@ links :
 ****
 
 
-- [ ] Les piles
-	- [ ] Savoir utiliser plusieurs piles pour différentes actions
-- [ ] La récursivité
+- [x] Les piles
+	- [x] Savoir utiliser plusieurs piles pour différentes actions
+- [x] La récursivité
 - [ ] Les arbres
 	- [ ] Recherche
 	- [ ] parcours
-- [ ] Les arbres binaires de recherche
-	- [ ] Recherche
-- [ ] la base 2
-- [ ] sql
-	- [ ] join
-	- [ ] insert into
-	- [ ] values
-	- [ ] update
-	- [ ] delete
-	- [ ] set
+- [x] Les arbres binaires de recherche
+	- [x] Recherche
+- [x] la base 2
+- [x] sql
+	- [x] join
+	- [x] insert into
+	- [x] values
+	- [x] update
+	- [x] delete
+	- [x] set
 - [ ] table de routage
