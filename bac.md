@@ -13,6 +13,7 @@ links :
 - [ ] La récursivité
 - [ ] Les arbres
 	- [ ] Recherche
+	- [ ] parcours
 - [ ] Les arbres binaires de recherche
 	- [ ] Recherche
 - [ ] la base 2
@@ -21,4 +22,6 @@ links :
 	- [ ] insert into
 	- [ ] values
 	- [ ] update
+	- [ ] delete
+	- [ ] set
 - [ ] table de routage
