@@ -7,9 +7,11 @@
         "id": "8c9d2f9cf29928e6",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Projet gestionnaire de fichuiers.md"
+            "file": "Corréction sujet 1 NSI.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Projet gestionnaire de fichuiers.md",
+                "file": "Corréction sujet 1 NSI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Projet gestionnaire de fichuiers.md",
+                "file": "Corréction sujet 1 NSI.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,15 +157,15 @@
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
+    "Corréction sujet 1 NSI.md",
+    "Les algorithmes de l'épreuve pratique.md",
+    "000 Index.md",
+    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - « Je vous ai compris ».md",
+    "Excalidraw/Drawing 2022-04-29 16.50.31.excalidraw.md",
     "Excalidraw/Projet gestionnaire de fichuiers.md",
     "Cours/Matières/NSI/Révisions Bac/Révisions Bac.md",
     "Cours/Matières/NSI/Révisions Bac/Sujets écrit/sujet_1.pdf",
-    "Les algorithmes de l'épreuve pratique.md",
     "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les arbres binaires/Parcours en Largeur.md",
-    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les arbres binaires/Parcours Prefixe, Infixe et Suffixe.md",
-    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les arbres binaires/Calculer la hauteur d'un arbre.md",
-    "Informatique/Algorithmes/Algorithmes de recherche/Recherche Dichotomique.md",
-    "Informatique/Algorithmes/Algorithmes de recherche/Algorithmes de recherche.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/1 -  Un régime paralysé par la question coloniale..md"
+    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les arbres binaires/Parcours Prefixe, Infixe et Suffixe.md"
   ]
 }
