@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Corréction sujet 1 NSI.md",
+            "file": "bac.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Corréction sujet 1 NSI.md",
+                "file": "bac.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Corréction sujet 1 NSI.md",
+                "file": "bac.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,6 +157,7 @@
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
+    "bac.md",
     "Corréction sujet 1 NSI.md",
     "Les algorithmes de l'épreuve pratique.md",
     "000 Index.md",
@@ -165,7 +166,6 @@
     "Excalidraw/Projet gestionnaire de fichuiers.md",
     "Cours/Matières/NSI/Révisions Bac/Révisions Bac.md",
     "Cours/Matières/NSI/Révisions Bac/Sujets écrit/sujet_1.pdf",
-    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les arbres binaires/Parcours en Largeur.md",
-    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les arbres binaires/Parcours Prefixe, Infixe et Suffixe.md"
+    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les arbres binaires/Parcours en Largeur.md"
   ]
 }
