@@ -11,8 +11,8 @@ links :
 - [x] Les piles
 	- [x] Savoir utiliser plusieurs piles pour différentes actions
 - [x] La récursivité
-- [ ] Les arbres
-	- [ ] Recherche
+- [x] Les arbres
+	- [x] Recherche
 	- [x] parcours
 - [x] Les arbres binaires de recherche
 	- [x] Recherche
