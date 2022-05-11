@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "bac.md",
+            "file": "Cours/010 MOC Cours.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bac.md",
+                "file": "Cours/010 MOC Cours.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "bac.md",
+                "file": "Cours/010 MOC Cours.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,15 +157,15 @@
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
-    "bac.md",
-    "Corréction sujet 1 NSI.md",
-    "Les algorithmes de l'épreuve pratique.md",
+    "Cours/010 MOC Cours.md",
     "000 Index.md",
+    "Corréction sujet 1 NSI.md",
+    "bac.md",
+    "Les algorithmes de l'épreuve pratique.md",
     "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - « Je vous ai compris ».md",
     "Excalidraw/Drawing 2022-04-29 16.50.31.excalidraw.md",
     "Excalidraw/Projet gestionnaire de fichuiers.md",
     "Cours/Matières/NSI/Révisions Bac/Révisions Bac.md",
-    "Cours/Matières/NSI/Révisions Bac/Sujets écrit/sujet_1.pdf",
-    "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Les arbres binaires/Parcours en Largeur.md"
+    "Cours/Matières/NSI/Révisions Bac/Sujets écrit/sujet_1.pdf"
   ]
 }
