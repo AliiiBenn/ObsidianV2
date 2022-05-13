@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "__Nouveau Second Cerveau/Home.md",
-            "mode": "preview",
+            "file": "MOC Informatique.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Nouveau Second Cerveau/Home.md",
+                "file": "MOC Informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Nouveau Second Cerveau/Home.md",
+                "file": "MOC Informatique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -147,16 +147,16 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 318,
-    "collapsed": true
+    "width": 318
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
+    "MOC Informatique.md",
+    "__Nouveau Second Cerveau/01 Cours/MOC Cours.md",
     "__Nouveau Second Cerveau/Home.md",
     "Cours/010 MOC Cours.md",
     "Espagnol.md",
@@ -164,8 +164,6 @@
     "000 Index.md",
     "Corréction sujet 1 NSI.md",
     "bac.md",
-    "Les algorithmes de l'épreuve pratique.md",
-    "Cours/Matières/Histoire-Géographie/Histoire/Thème 2/Chapitre 3/A - « Je vous ai compris ».md",
-    "Excalidraw/Drawing 2022-04-29 16.50.31.excalidraw.md"
+    "Les algorithmes de l'épreuve pratique.md"
   ]
 }
