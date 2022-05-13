@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOC Informatique.md",
+            "file": "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC Informatique.md",
+                "file": "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC Informatique.md",
+                "file": "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +155,8 @@
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
-    "MOC Informatique.md",
+    "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
+    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Untitled.md",
     "__Nouveau Second Cerveau/01 Cours/MOC Cours.md",
     "__Nouveau Second Cerveau/Home.md",
     "Cours/010 MOC Cours.md",
@@ -163,7 +164,6 @@
     "Cours Marie.md",
     "000 Index.md",
     "Corréction sujet 1 NSI.md",
-    "bac.md",
-    "Les algorithmes de l'épreuve pratique.md"
+    "bac.md"
   ]
 }
