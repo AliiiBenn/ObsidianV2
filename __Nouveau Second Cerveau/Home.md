@@ -1,5 +1,8 @@
 ---
 alias: ["000", "Home", "Hub", "Index"]
+banner_icon: 🏠
+banner: "![[forest.jpg]]"
+banner_y: 0.64
 ---
 
 ## Home 
