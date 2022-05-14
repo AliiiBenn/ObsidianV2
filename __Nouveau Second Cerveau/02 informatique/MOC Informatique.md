@@ -10,7 +10,7 @@ banner: "![[informatique.webp]]"
 
 ### Les langages informatique
 - Langages Web
-	- [[HTML]]
+	- [[Informatique/Les langages/HTML/HTML]]
 	- [[CSS]]
 	- [[JavaScript]]
 - Langages Algorithmique

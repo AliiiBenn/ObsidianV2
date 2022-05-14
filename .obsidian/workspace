@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
+            "file": "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/HTML.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
+                "file": "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/HTML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
+                "file": "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/HTML.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,15 +155,15 @@
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
+    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/HTML.md",
     "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
-    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Untitled.md",
-    "__Nouveau Second Cerveau/01 Cours/MOC Cours.md",
     "__Nouveau Second Cerveau/Home.md",
+    "__Nouveau Second Cerveau/01 Cours/MOC Cours.md",
+    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Untitled.md",
     "Cours/010 MOC Cours.md",
     "Espagnol.md",
     "Cours Marie.md",
     "000 Index.md",
-    "Corréction sujet 1 NSI.md",
-    "bac.md"
+    "Corréction sujet 1 NSI.md"
   ]
 }

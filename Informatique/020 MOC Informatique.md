@@ -14,7 +14,7 @@ links :
 ### Les langages de programmation
 
 [[Python]]
-[[HTML]]
+[[Informatique/Les langages/HTML/HTML]]
 [[CSS]]
 [[JavaScript]]
 [[C++]]
