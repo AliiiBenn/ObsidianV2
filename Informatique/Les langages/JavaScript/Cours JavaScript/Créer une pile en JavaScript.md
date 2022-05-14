@@ -1,5 +1,5 @@
 tags : 
-links : [[JavaScript]], [[Les structures de données]], [[Piles]]
+links : [[Informatique/Les langages/JavaScript/JavaScript]], [[Les structures de données]], [[Piles]]
 
 ****
 

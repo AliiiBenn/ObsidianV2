@@ -1,5 +1,5 @@
 tags : 
-links : [[070 MOC Projets]], [[020 MOC Informatique]], [[Python]]
+links : [[070 MOC Projets]], [[020 MOC Informatique]], [[Informatique/Les langages/Python/Python]]
 
 ****
 

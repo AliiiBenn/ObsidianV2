@@ -24,7 +24,7 @@ Lorsqu’on ajoute un nœud à un ABR, il devient une **feuille** de l’arbre.
 
 ### Créer une arbre binaire de recherche
 
-Pour créer un arbre binaire de recherche en [[Python]] on va créer une classe qui va hériter de celle d'un arbre,
+Pour créer un arbre binaire de recherche en [[Informatique/Les langages/Python/Python]] on va créer une classe qui va hériter de celle d'un arbre,
 
 ```python
 class Arbre_br(Arbre_b):

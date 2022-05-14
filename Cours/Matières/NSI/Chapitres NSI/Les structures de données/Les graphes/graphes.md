@@ -25,7 +25,7 @@ Un **graphe** est un objet mathématique (très utilisé, notamment en informati
 
 ### Créer un graphe
 
-*Il y a deux façons de créer un graphe en [[Python]], avec une [[Matrice d'adjacence]] ou avec un [[dictionnaire d'adjacence]]*
+*Il y a deux façons de créer un graphe en [[Informatique/Les langages/Python/Python]], avec une [[Matrice d'adjacence]] ou avec un [[dictionnaire d'adjacence]]*
 
 *Avec une Matrice :*
 

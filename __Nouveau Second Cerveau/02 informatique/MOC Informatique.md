@@ -11,10 +11,10 @@ banner: "![[informatique.webp]]"
 ### Les langages informatique
 - Langages Web
 	- [[Informatique/Les langages/HTML/HTML]]
-	- [[CSS]]
-	- [[JavaScript]]
+	- [[Informatique/Les langages/CSS/CSS]]
+	- [[Informatique/Les langages/JavaScript/JavaScript]]
 - Langages Algorithmique
-	- [[Python]]
+	- [[Informatique/Les langages/Python/Python]]
 	- [[C]]
 	- [[C++]]
 - Langages Jeux-Vidéos | Langages 3d
@@ -25,7 +25,7 @@ banner: "![[informatique.webp]]"
 ### Les algorithmes
 
 - Algorithmes de tri
-	- [[Bubble Sort]]
+	-  [[Bubble Sort]]
 	-   [[Selection Sort]]
 	-   [[Insertion Sort]]
 	-   [[Merge Sort]]
@@ -41,6 +41,8 @@ banner: "![[informatique.webp]]"
 	- [[Jump Search]]
 	- [[Interpolation Search]]
 	- [[Exponential Search]]
-- Agorithme de recherche de chemin
+- Algorithme de recherche de chemin
 	- [[Algorithme de Djikstra]]
 	- [[Algorithme Astar]]
+- Structures de données
+	- ...

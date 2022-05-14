@@ -1,5 +1,5 @@
 tags : 
-links : [[Listes chaînées]], [[Python]]
+links : [[Listes chaînées]], [[Informatique/Les langages/Python/Python]]
 
 ****
 

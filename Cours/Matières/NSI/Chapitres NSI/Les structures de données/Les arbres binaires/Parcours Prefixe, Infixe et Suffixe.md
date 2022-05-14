@@ -1,5 +1,5 @@
 tags : 
-links : [[Les arbres et les arbres binaires]], [[Les différents parcours d'un arbre]], [[Python]], [[La récursivité]]
+links : [[Les arbres et les arbres binaires]], [[Les différents parcours d'un arbre]], [[Informatique/Les langages/Python/Python]], [[La récursivité]]
 
 ****
 

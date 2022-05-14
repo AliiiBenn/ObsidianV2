@@ -1,5 +1,5 @@
 tags : 
-links : [[Piles]], [[Python]], [[Listes chaînées]], [[Supprimer un élément au début de la LC]]
+links : [[Piles]], [[Informatique/Les langages/Python/Python]], [[Listes chaînées]], [[Supprimer un élément au début de la LC]]
 
 ****
 

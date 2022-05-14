@@ -22,7 +22,7 @@ Le champ de chaque nœud qui contient l’adresse du nœud suivant ou précéden
 
 ### Créer une liste chaînée
 
-On va ici utiliser [[Python]] pour créer notre liste chaînée où nous allons définir une classe Maillon et une classe ListeC
+On va ici utiliser [[Informatique/Les langages/Python/Python]] pour créer notre liste chaînée où nous allons définir une classe Maillon et une classe ListeC
 
 ```python
 class Maillon:
@@ -38,7 +38,7 @@ class ListeC:
 
 ### L'interface d'une liste chaînée
 
-Une liste chaînée a une grande liste de méthodes intégrées qui seront ici implémentées en [[Python]] :
+Une liste chaînée a une grande liste de méthodes intégrées qui seront ici implémentées en [[Informatique/Les langages/Python/Python]] :
 
 [[Savoir si une liste chainée est vide]]
 [[Calculer la taille d'une liste chainée]]

@@ -19,7 +19,7 @@ Les **arbres binaires** (**AB**) sont des cas particuliers d’arbres où chaque
 
 ### Créer un arbre
 
-Pour créer un Arbre nous allons utiliser [[Python]] et définir deux classe
+Pour créer un Arbre nous allons utiliser [[Informatique/Les langages/Python/Python]] et définir deux classe
 
 *Une class Arbre et une classe Noeud*
 

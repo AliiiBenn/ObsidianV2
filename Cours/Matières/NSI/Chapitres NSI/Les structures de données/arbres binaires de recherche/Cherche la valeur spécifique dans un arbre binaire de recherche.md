@@ -1,5 +1,5 @@
 tags : 
-links : [[Les arbres binaires de recherche]], [[Les arbres et les arbres binaires]], [[Python]], [[La récursivité]]
+links : [[Les arbres binaires de recherche]], [[Les arbres et les arbres binaires]], [[Informatique/Les langages/Python/Python]], [[La récursivité]]
 
 ****
 

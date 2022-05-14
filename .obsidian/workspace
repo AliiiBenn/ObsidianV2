@@ -6,10 +6,24 @@
       {
         "id": "8c9d2f9cf29928e6",
         "type": "leaf",
+        "dimension": 53.31088664421997,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/HTML.md",
+            "file": "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Algorithmique/Python.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "ef3c7bc59bec88e3",
+        "type": "leaf",
+        "dimension": 46.68911335578002,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Informatique/Les langages/Python/Python.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/HTML.md",
+                "file": "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Algorithmique/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/HTML.md",
+                "file": "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Algorithmique/Python.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,19 +165,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 318,
+    "collapsed": true
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
-    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/HTML.md",
+    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Algorithmique/Python.md",
+    "Bubble Sort en Python.md",
+    "__Nouveau Second Cerveau/02 informatique/Algorithmes/Algorithmes de tri/Bubble Sort.md",
     "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
-    "__Nouveau Second Cerveau/Home.md",
-    "__Nouveau Second Cerveau/01 Cours/MOC Cours.md",
-    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Untitled.md",
-    "Cours/010 MOC Cours.md",
-    "Espagnol.md",
-    "Cours Marie.md",
-    "000 Index.md",
-    "Corréction sujet 1 NSI.md"
+    "Heap Sort.md",
+    "Informatique/Algorithmes/Algorithmes de tri/Bubble sort.md",
+    "Informatique/Les langages/C/C.md",
+    "Informatique/Les langages/Python/Python.md",
+    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/JavaScript.md",
+    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/CSS.md"
   ]
 }

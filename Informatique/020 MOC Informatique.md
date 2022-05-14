@@ -13,10 +13,10 @@ links :
 
 ### Les langages de programmation
 
-[[Python]]
+[[Informatique/Les langages/Python/Python]]
 [[Informatique/Les langages/HTML/HTML]]
-[[CSS]]
-[[JavaScript]]
+[[Informatique/Les langages/CSS/CSS]]
+[[Informatique/Les langages/JavaScript/JavaScript]]
 [[C++]]
 [[C]]
 [[SQL]]

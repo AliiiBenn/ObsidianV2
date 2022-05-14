@@ -1,5 +1,5 @@
 tags : 
-links : [[Files]], [[Python]], [[Listes chaînées]], [[Ajouter un élément à la fin de la LC]]
+links : [[Files]], [[Informatique/Les langages/Python/Python]], [[Listes chaînées]], [[Ajouter un élément à la fin de la LC]]
 
 ****
 

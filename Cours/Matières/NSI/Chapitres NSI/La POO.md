@@ -8,7 +8,7 @@ links : [[NSI]], [[020 MOC Informatique]]
 ****
 
 
-*En NSI, la POO a été étudié avec le langage [[Python]]*
+*En NSI, la POO a été étudié avec le langage [[Informatique/Les langages/Python/Python]]*
 
 
 ### Exemple de class en Python

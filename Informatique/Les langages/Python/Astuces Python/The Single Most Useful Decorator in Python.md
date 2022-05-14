@@ -1,5 +1,5 @@
 tags : 
-links : [[130 MOC Vidéos]], [[020 MOC Informatique]], [[Python]]
+links : [[130 MOC Vidéos]], [[020 MOC Informatique]], [[Informatique/Les langages/Python/Python]]
 
 ****
 
