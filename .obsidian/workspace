@@ -6,24 +6,10 @@
       {
         "id": "8c9d2f9cf29928e6",
         "type": "leaf",
-        "dimension": 53.31088664421997,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Bubble Sort en Python.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "ef3c7bc59bec88e3",
-        "type": "leaf",
-        "dimension": 46.68911335578003,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Informatique/Les langages/Python/Python.md",
+            "file": "Finance/Trove/Trove.md",
             "mode": "source",
             "source": false
           }
@@ -84,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bubble Sort en Python.md",
+                "file": "Finance/Trove/Trove.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Bubble Sort en Python.md",
+                "file": "Finance/Trove/Trove.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -170,6 +156,8 @@
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
+    "Finance/Trove/Trove.md",
+    "Finance/Trove/Se faire des flux/Le farm d'os blanchi.md",
     "Bubble Sort en Python.md",
     "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Algorithmique/Python.md",
     "__Nouveau Second Cerveau/02 informatique/Algorithmes/Algorithmes de tri/Bubble Sort.md",
@@ -177,8 +165,6 @@
     "Heap Sort.md",
     "Informatique/Algorithmes/Algorithmes de tri/Bubble sort.md",
     "Informatique/Les langages/C/C.md",
-    "Informatique/Les langages/Python/Python.md",
-    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/JavaScript.md",
-    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/CSS.md"
+    "Informatique/Les langages/Python/Python.md"
   ]
 }
