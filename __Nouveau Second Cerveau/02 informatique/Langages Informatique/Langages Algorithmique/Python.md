@@ -10,3 +10,7 @@
 	- [[les variables en Python]]
 	- [[types de données en Python]]
 
+
+### Algorithmes en Python
+- Algorithmes de Tri
+	- [[Bubble Sort en Python]]
