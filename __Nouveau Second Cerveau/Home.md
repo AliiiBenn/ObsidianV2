@@ -5,7 +5,7 @@ banner: "![[forest.jpg]]"
 banner_y: 0.64
 ---
 
-## Home 
+## Home 🌎
 
 *Ceci est la note principale de votre 2nd Cerveau. Vous voici chez vous.*
 
@@ -29,3 +29,4 @@ banner_y: 0.64
 	- 12 - [[MOC Objectifs]]
 
 ---
+
