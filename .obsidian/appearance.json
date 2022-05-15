@@ -3,5 +3,6 @@
   "cssTheme": "LYT Mode",
   "enabledCssSnippets": [
     "columns"
-  ]
+  ],
+  "translucency": false
 }
