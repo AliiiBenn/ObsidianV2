@@ -7,11 +7,9 @@
         "id": "8c9d2f9cf29928e6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "Finance/Trove/Trove.md",
-            "mode": "source",
-            "source": false
+            "file": "Finance/Trove/Le club/La construction/plan de la ville.md"
           }
         }
       }
@@ -53,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 254,
+    "collapsed": true
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Finance/Trove/Trove.md",
+                "file": "Finance/Trove/Le club/La construction/plan de la ville.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Finance/Trove/Trove.md",
+                "file": "Finance/Trove/Le club/La construction/plan de la ville.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,15 +155,15 @@
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
+    "Finance/Trove/Le club/La construction/plan de la ville.md",
+    "Finance/Trove/Le club/La construction/Le style de construction du club.md",
     "Finance/Trove/Trove.md",
-    "Finance/Trove/Se faire des flux/Le farm d'os blanchi.md",
+    "Finance/Trove/l'argent/Les moyens de se faire de l'argent/Le farm d'os blanchi.md",
     "Bubble Sort en Python.md",
     "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Algorithmique/Python.md",
     "__Nouveau Second Cerveau/02 informatique/Algorithmes/Algorithmes de tri/Bubble Sort.md",
     "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
     "Heap Sort.md",
-    "Informatique/Algorithmes/Algorithmes de tri/Bubble sort.md",
-    "Informatique/Les langages/C/C.md",
-    "Informatique/Les langages/Python/Python.md"
+    "Informatique/Algorithmes/Algorithmes de tri/Bubble sort.md"
   ]
 }

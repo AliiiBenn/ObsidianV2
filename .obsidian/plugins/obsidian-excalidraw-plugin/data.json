@@ -5,13 +5,14 @@
   "scriptFolderPath": "Excalidraw/Scripts",
   "compress": false,
   "autosave": true,
-  "autosaveInterval": 15000,
+  "autosaveInterval": 10000,
   "drawingFilenamePrefix": "Drawing ",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
   "displaySVGInPreview": true,
+  "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
   "isLeftHanded": false,
@@ -19,6 +20,7 @@
   "matchThemeAlways": false,
   "matchThemeTrigger": false,
   "defaultMode": "normal",
+  "defaultPenMode": "never",
   "zoomToFitOnResize": true,
   "zoomToFitMaxLevel": 2,
   "linkPrefix": "📍",
@@ -48,7 +50,7 @@
   "experimentalLivePreview": true,
   "experimentalEnableFourthFont": false,
   "experimantalFourthFont": "Virgil",
-  "fieldSuggestor": true,
+  "fieldSuggester": true,
   "compatibilityMode": false,
   "drawingOpenCount": 0,
   "library": "deprecated",
@@ -56,7 +58,41 @@
     "type": "excalidrawlib",
     "version": 2,
     "source": "https://excalidraw.com",
-    "libraryItems": []
+    "libraryItems": [
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "type": "rectangle",
+            "version": 93,
+            "versionNonce": 2131010127,
+            "isDeleted": false,
+            "id": "4v49OiNKR4L6xdyDuI2WE",
+            "fillStyle": "hachure",
+            "strokeWidth": 1,
+            "strokeStyle": "solid",
+            "roughness": 1,
+            "opacity": 100,
+            "angle": 0,
+            "x": 469.14285714285774,
+            "y": 283.7142857142858,
+            "strokeColor": "#000000",
+            "backgroundColor": "transparent",
+            "width": 348.5714285714285,
+            "height": 212.85714285714278,
+            "seed": 84208459,
+            "groupIds": [],
+            "strokeSharpness": "sharp",
+            "boundElements": [],
+            "updated": 1652606823092,
+            "link": null,
+            "locked": false
+          }
+        ],
+        "id": "2pnIIUDdCssW8Xe5mU5lM",
+        "created": 1652606826435
+      }
+    ]
   },
   "imageElementNotice": true,
   "mdSVGwidth": 500,
@@ -67,6 +103,7 @@
   "mdCSS": "",
   "scriptEngineSettings": {},
   "defaultTrayMode": false,
-  "previousRelease": "1.6.20",
-  "showReleaseNotes": true
+  "previousRelease": "1.6.28",
+  "showReleaseNotes": true,
+  "fieldSuggestor": true
 }
