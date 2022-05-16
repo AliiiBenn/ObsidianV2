@@ -1,0 +1,4 @@
+
+L'histoire de ce film est que l'eau du Mexique est désormais sous le contrôle des Etats-Unis, ils ont aussi fermé les frontières. Dans le monde de ce film, les gens peuvent travailler aux Etats-Unis en continuant de vivre au Mexique à l'aide de machines.
+
+Ce monde montre avec une sorte d'éxagération les problèmes présents au Mexique ainsi que l'influence des Etats-Unis dessus. Dans un monde comme celui ci beaucoup vont essayer d'aller aux Etats-Unis pour essayer d'avoir une vie meilleure. En essayant de faire cela ils risquent de se retrouver sleep dealer devenant dépendant des Etats-Unis tout en restant au Mexique. Cett
