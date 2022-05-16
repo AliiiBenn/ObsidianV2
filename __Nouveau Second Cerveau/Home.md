@@ -30,3 +30,7 @@ banner_y: 0.64
 
 ---
 
+| Je veux...                    |...organiser mes cours |
+| ----------------------------- | ---------------------- |
+| Connaitre mes cours de la fac | [[MOC Cours]]          |
+| Apprendre l'informatique      | [[MOC Informatique]]                       |
