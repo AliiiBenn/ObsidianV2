@@ -5,32 +5,40 @@ banner: "![[forest.jpg]]"
 banner_y: 0.64
 ---
 
-## Home 🌎
+# Home 🌎
 
 *Ceci est la note principale de votre 2nd Cerveau. Vous voici chez vous.*
 
-### Les MOC principales
-
-- Les cours
-	- 01 - [[MOC Cours]]
-	- 02 - [[MOC Informatique]]
-- Le développement personnel
-	- 03 - [[MOC Mental]]
-	- 04 - [[MOC Gestion des connaissances]]
-	- 05 - [[MOC Corps]]
-- Passions
-	- 06 - [[MOC Musique]]
-	- 07 - [[MOC Films]]
-	- 08 - [[MOC Lecture]]
-	- 09 - [[MOC Sport]]
-	- 10 - [[MOC Videos]]
-- Management
-	- 11 - [[MOC Projets]]
-	- 12 - [[MOC Objectifs]]
-
----
+## Atlas 🗺️
 
 | Je veux...                    |...organiser mes cours |
 | ----------------------------- | ---------------------- |
 | Connaitre mes cours de la fac | [[MOC Cours]]          |
 | Apprendre l'informatique      | [[MOC Informatique]]                       |
+
+---
+
+| Je veux...                      | ...Développer ma personne            |
+| ------------------------------- | --------------------------------- |
+| Apprendre des concepts          | [[MOC Mental]]                    |
+| Mieux gerer mes connaissances   | [[MOC Gestion des connaissances]] |
+| En apprendre plus sur mon corps | [[MOC Corps]]                     | 
+
+---
+
+| Je veux...                   | ... Développer mes passions |
+| ---------------------------- | --------------------------- |
+| Parler de musique            | [[MOC Musique]]             |
+| En savoir plus sur le cinéma | [[MOC Films]]               |
+| Parler de Lecture            | [[MOC Lecture]]             |
+| En savoir plus sur le sport  | [[MOC Sport]]               |
+| Stocker ce que j'écris       | [[MOC Ecriture]]                            |
+
+---
+| Je veux...          | ... Gerer ma vie  |
+| ------------------- | ----------------- |
+| Gerer mes projets   | [[MOC Projets]]   |
+| Gerer mes objectifs | [[MOC Objectifs]] | 
+
+---
+
