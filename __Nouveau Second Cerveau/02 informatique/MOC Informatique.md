@@ -9,17 +9,22 @@ banner: "![[informatique.webp]]"
 ## MOC Informatique
 
 ### Les langages informatique
-- Langages Web
-	- [[Informatique/Les langages/HTML/HTML]]
-	- [[Informatique/Les langages/CSS/CSS]]
-	- [[Informatique/Les langages/JavaScript/JavaScript]]
-- Langages Algorithmique
-	- [[Informatique/Les langages/Python/Python]]
-	- [[C]]
-	- [[C++]]
-- Langages Jeux-Vidéos | Langages 3d
-	- [[Csharp]]
-	- [[C++]]
+
+
+| Je veux...              | ...Apprendre les langages Web |
+| ----------------------- | ---------------------------------------------- |
+| Apprendre l'HTML        | [[HTML]]                                       |
+| Apprendre le CSS        | [[CSS]]                                        |
+| Apprendre le JavaScript | [[__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Web/JavaScript]]                                               |
+
+---
+
+| Je veux...       | ...Apprendre des langages Algorithmiques                                                         |
+| ---------------- | ------------------------------------------------------------------------------------------------ |
+| Apprendre Python | [[__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Algorithmique/Python]] |
+| Apprendre C++    | [[C++]]                                                                                          |
+| Apprendre C      | [[C]]                                                                                            |
+| Apprendre C#     | [[Csharp]]                                                                                       | 
 
 
 ### Les algorithmes
@@ -46,3 +51,17 @@ banner: "![[informatique.webp]]"
 	- [[Algorithme Astar]]
 - Structures de données
 	- ...
+
+
+| Je veux...     | ...Apprendre les algorithmes de tri |
+| -------------- | ----------------------------------- |
+| Bubble Sort    | [[Bubble Sort]]                     |
+| Selection Sort | [[Selection Sort]]                  |
+| Insertion Sort | [[Insertion Sort]]                  |
+| Merge Sort     | [[Merge Sort]]                      |
+| QuickSort      | [[Quicksort]]                       |
+| Counting Sort  | [[Counting Sort]]                   |
+| Radix Sort     | [[Radix Sort]]                      |
+| Bucket Sort    | [[Bucket Sort]]                     |
+| Heap Sort      | [[Heap Sort]]                       |
+| Shell Sort     | [[Shell Sort]]                                    |
