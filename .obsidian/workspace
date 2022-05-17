@@ -7,11 +7,9 @@
         "id": "8c9d2f9cf29928e6",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
-            "mode": "preview",
-            "source": false
+            "file": "Excalidraw/Drawing 2022-05-17 20.42.40.excalidraw.md"
           }
         }
       }
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
+                "file": "Excalidraw/Drawing 2022-05-17 20.42.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
+                "file": "Excalidraw/Drawing 2022-05-17 20.42.40.excalidraw.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,6 +153,7 @@
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2022-05-17 20.42.40.excalidraw.md",
     "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
     "__Nouveau Second Cerveau/Home.md",
     "la biodiversité et son évolution.md",
@@ -163,7 +162,6 @@
     "Finance/Trove/Le club/La construction/plan de la ville.md",
     "Finance/Trove/Le club/La construction/Le style de construction du club.md",
     "Finance/Trove/Trove.md",
-    "Finance/Trove/l'argent/Les moyens de se faire de l'argent/Le farm d'os blanchi.md",
-    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Algorithmique/Python.md"
+    "Finance/Trove/l'argent/Les moyens de se faire de l'argent/Le farm d'os blanchi.md"
   ]
 }
