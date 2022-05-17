@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "EE Espagnol.md",
+            "file": "la biodiversité et son évolution.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EE Espagnol.md",
+                "file": "la biodiversité et son évolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "EE Espagnol.md",
+                "file": "la biodiversité et son évolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,6 +155,7 @@
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
+    "la biodiversité et son évolution.md",
     "EE Espagnol.md",
     "Bubble Sort en Python.md",
     "__Nouveau Second Cerveau/Home.md",
@@ -163,7 +164,6 @@
     "Finance/Trove/Le club/La construction/Le style de construction du club.md",
     "Finance/Trove/Trove.md",
     "Finance/Trove/l'argent/Les moyens de se faire de l'argent/Le farm d'os blanchi.md",
-    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Algorithmique/Python.md",
-    "__Nouveau Second Cerveau/02 informatique/Algorithmes/Algorithmes de tri/Bubble Sort.md"
+    "__Nouveau Second Cerveau/02 informatique/Langages Informatique/Langages Algorithmique/Python.md"
   ]
 }
