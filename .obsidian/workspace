@@ -4,26 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8c9d2f9cf29928e6",
+        "id": "40849d916be84f17",
         "type": "leaf",
-        "dimension": 52.67412935323384,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dossier Documentaire EMC/Dossier documentaire.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "6f6dad8f9605d202",
-        "type": "leaf",
-        "dimension": 47.32587064676617,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Oral EMC second semestre.md",
+            "file": "la biodiversité et son évolution.md",
             "mode": "source",
             "source": false
           }
@@ -84,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dossier Documentaire EMC/Dossier documentaire.md",
+                "file": "la biodiversité et son évolution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dossier Documentaire EMC/Dossier documentaire.md",
+                "file": "la biodiversité et son évolution.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -168,15 +154,15 @@
     "width": 202.5,
     "collapsed": true
   },
-  "active": "8c9d2f9cf29928e6",
+  "active": "40849d916be84f17",
   "lastOpenFiles": [
-    "Dossier Documentaire EMC/Dossier documentaire.md",
+    "la biodiversité et son évolution.md",
     "Oral EMC second semestre.md",
+    "Dossier Documentaire EMC/Dossier documentaire.md",
     "Dossier Documentaire EMC/Dossier Documentaire page 2.md",
     "Excalidraw/Drawing 2022-05-17 20.42.40.excalidraw.md",
     "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
     "__Nouveau Second Cerveau/Home.md",
-    "la biodiversité et son évolution.md",
     "EE Espagnol.md",
     "Bubble Sort en Python.md",
     "Finance/Trove/Le club/La construction/plan de la ville.md"
