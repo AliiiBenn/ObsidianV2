@@ -7,9 +7,23 @@
         "id": "8c9d2f9cf29928e6",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "Excalidraw/Drawing 2022-05-17 20.42.40.excalidraw.md"
+            "file": "Dossier Documentaire EMC/Dossier documentaire EMC Page 1.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "6f6dad8f9605d202",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Oral EMC second semestre.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -51,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 254,
+    "collapsed": true
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -68,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2022-05-17 20.42.40.excalidraw.md",
+                "file": "Dossier Documentaire EMC/Dossier documentaire EMC Page 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Excalidraw/Drawing 2022-05-17 20.42.40.excalidraw.md",
+                "file": "Dossier Documentaire EMC/Dossier documentaire EMC Page 1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,19 +164,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 202.5
+    "width": 202.5,
+    "collapsed": true
   },
   "active": "8c9d2f9cf29928e6",
   "lastOpenFiles": [
+    "Dossier Documentaire EMC/Dossier documentaire EMC Page 1.md",
+    "Oral EMC second semestre.md",
+    "Dossier Documentaire EMC/Dossier Documentaire page 2.md",
     "Excalidraw/Drawing 2022-05-17 20.42.40.excalidraw.md",
     "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
     "__Nouveau Second Cerveau/Home.md",
     "la biodiversité et son évolution.md",
     "EE Espagnol.md",
     "Bubble Sort en Python.md",
-    "Finance/Trove/Le club/La construction/plan de la ville.md",
-    "Finance/Trove/Le club/La construction/Le style de construction du club.md",
-    "Finance/Trove/Trove.md",
-    "Finance/Trove/l'argent/Les moyens de se faire de l'argent/Le farm d'os blanchi.md"
+    "Finance/Trove/Le club/La construction/plan de la ville.md"
   ]
 }
