@@ -18,9 +18,13 @@ Date : 18/05/2022
 	- Les exemples du présent
 	- Le exemples du futur
 - Les avantages et inconvénients
+	- Les avantages
+	- Les inconvenients
 - Les lois 
-- Le futur de ces lois
+	- Les lois aujourd'hui
+	- Les lois dans le futur
 - La bioéthique
+	- Qu'en est-il de la bioéthique
 - La conclusion
 	- Conclure le sujet
 
@@ -75,6 +79,21 @@ Ce concept a plusieurs avantages, un monde où les amputés peuvent retrouver l'
 
 On peut se poser des questions sur l'équité car oui un membre robotique n'a pas tous les problèmes d'un membre naturel. Dans le contexte militaire on peut se demander ce qu'il en est du respect de l'intégrité du corps humain et jusqu'à où tout ça peut aller. Concernant l'exemple de Neuralin, un test avait été fait sur des singes qui ont fini par mourir.
 
-### Et la loi dans tout ça ?
+### Les lois sur le transhumanisme
+
+#### La loi aujourd'hui
 
 La France a su être en avance dans le monde de la bioéthique avec des premières rélflexions en 1970. Concernant le transhumanisme le droit semble plutôt défavorable à l’amélioration de l’espèce dans son ensemble ne voulant pas que l'espece soit modifié. Par contre la loi autorise les modifications du corps humain en cas de nécessité médicale pour la personne. Mais, pour l'instant il n’existe pas de statut juridique de l’humain augmenté.
+
+#### La loi dans le futur
+
+D'ici un futur proche nous allons voir arriver de premières lois limitant l'usage de ces technologies mais où ? Est-ce que ce domaine va se démocratiser dans le monde militaire ? Ou est-ce que les états sauront se limiter. Selon ce qui est dit aujourd'hui nous n'avons pas de quoi nous inquiéter. Et limiter ces technologies à quel prix ? On peut s'imaginer des traffics illégaux de ces technologies qui pourront ammener à de gros problèmes. Des lois arriveront surement concernant la population qui ne pourra peut-être pas bénéficier de ces technologies comme elle le veut ce qui en soi n'est pas un problème. Après on peut aussi imaginer qu'il y aura juste des limitations mais que ces technologies vont être utilisées par tout le monde.
+
+
+### Qu'en est-il de la bioéthique aussi
+
+La question de la bioéthique est principale car oui qu'en est-il de l'homme lui même ? Allons nous vers un futur où l'homme va devenir homme-machine ? Est-ce que l'homme va savoir se limiter ou va t-il devenir complètement dépendant de ces technologies ? Si l'homme n'arrive pas à se limiter lui même on risque d'aller dans une société où l'homme serait directement lié à la machine ce qui peut poser de gros problèmes bioéthiques alors que si l'homme sait se limiter nous allons juste avoir les avantages de ces technologies.
+
+### Conclusion
+
+Tout va devoir se jouer dans les années qui viennent, si les lois prennent trop de temps à se mettre en place elles ne pourront plus suivre avec l'explosion de ce domaine qui va arriver. La France elle, est déjà bien préparée et doit continuer comme cela maintenant il faudra voir à une echelle mondiale. L'homme va devoir faire les bonnes décisions pour savoir éviter de gros problèmes.

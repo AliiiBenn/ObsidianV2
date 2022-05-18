@@ -4,5 +4,6 @@
   "enabledCssSnippets": [
     "columns"
   ],
-  "translucency": false
+  "translucency": false,
+  "theme": "obsidian"
 }
