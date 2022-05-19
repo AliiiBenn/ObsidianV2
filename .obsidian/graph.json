@@ -1,11 +1,11 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Informatique",
@@ -94,7 +94,7 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.7,
+  "textFadeMultiplier": -2,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
@@ -102,6 +102,6 @@
   "repelStrength": 11.123595505618,
   "linkStrength": 0.623595505617978,
   "linkDistance": 196,
-  "scale": 0.030182895067326857,
+  "scale": 0.16348370567221973,
   "close": true
 }
