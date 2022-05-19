@@ -29,29 +29,6 @@ banner: "![[informatique.webp]]"
 
 ### Les algorithmes
 
-- Algorithmes de tri
-	-  [[Bubble Sort]]
-	-   [[Selection Sort]]
-	-   [[Insertion Sort]]
-	-   [[Merge Sort]]
-	-   [[Quicksort]]
-	-   [[Counting Sort]]
-	-   [[Radix Sort]]
-	-   [[Bucket Sort]]
-	-   [[Heap Sort]]
-	-   [[Shell Sort]]
-- Algorithmes de recherche
-	-   [[Linear Search]]
-	- [[Binary Search]]
-	- [[Jump Search]]
-	- [[Interpolation Search]]
-	- [[Exponential Search]]
-- Algorithme de recherche de chemin
-	- [[Algorithme de Djikstra]]
-	- [[Algorithme Astar]]
-- Structures de données
-	- ...
-
 
 | Je veux...     | ...Apprendre les algorithmes de tri |
 | -------------- | ----------------------------------- |
@@ -65,3 +42,31 @@ banner: "![[informatique.webp]]"
 | Bucket Sort    | [[Bucket Sort]]                     |
 | Heap Sort      | [[Heap Sort]]                       |
 | Shell Sort     | [[Shell Sort]]                                    |
+
+---
+
+| Je veux...           | ...Apprendre les algorithmes de recherche |
+| -------------------- | ----------------------------------------- |
+| Liner Search         | [[Linear Search]]                         |
+| Binary Search        | [[Binary Search]]                         |
+| Jump Search          | [[Jump Search]]                           |
+| Interpolation Search | [[Interpolation Search]]                  |
+| Exponential Search   | [[Exponential Search]]                    | 
+
+---
+
+| Je veux...             | ...Apprendre les algorithmes de recherche |
+| ---------------------- | ----------------------------------------- |
+| Algorithme de Djikstra | [[Algorithme de Djikstra]]                |
+| Algorithme Astar       | [[Algorithme Astar]]                                          |
+
+---
+
+| Je veux...                   | ...Apprendre les structures de données |
+| ---------------------------- | -------------------------------------- |
+| Listes Chaînées              | [[Listes chaînées]]                    |
+| Piles                        | [[Piles]]                              |
+| Files                        | [[Files]]                              |
+| Arbres binaires              | [[Arbres binaires]]                    |
+| Arbres binaires de recherche | [[Arbres binaires de recherche]]       |
+| Graphes                      | [[Graphes]]                                       |
