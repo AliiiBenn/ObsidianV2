@@ -9,7 +9,19 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
+            "file": "__Nouveau Second Cerveau/03 Mental/MOC Mental.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
+        "id": "a514b4d3ea506889",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mental/030 MOC Mental.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 254,
+    "collapsed": true
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
+                "file": "__Nouveau Second Cerveau/03 Mental/MOC Mental.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
+                "file": "__Nouveau Second Cerveau/03 Mental/MOC Mental.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,19 +164,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 253.5,
+    "collapsed": true
   },
   "active": "40849d916be84f17",
   "lastOpenFiles": [
-    "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
+    "__Nouveau Second Cerveau/03 Mental/MOC Mental.md",
+    "Mental/030 MOC Mental.md",
+    "Mental/Les concepts/Le travail/Le travail.md",
     "__Nouveau Second Cerveau/Home.md",
+    "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
     "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Supprimer listes chaines index précis.md",
     "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 2 sur le langage.md",
     "la biodiversité et son évolution.md",
     "Oral EMC second semestre.md",
-    "Dossier Documentaire EMC/Dossier documentaire.md",
-    "Dossier Documentaire EMC/Dossier Documentaire page 2.md",
-    "Excalidraw/Drawing 2022-05-17 20.42.40.excalidraw.md",
-    "EE Espagnol.md"
+    "Dossier Documentaire EMC/Dossier documentaire.md"
   ]
 }
