@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "MOC Corps.md",
+            "file": "MOC Musique.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC Corps.md",
+                "file": "MOC Musique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC Corps.md",
+                "file": "MOC Musique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,15 +155,15 @@
   },
   "active": "40849d916be84f17",
   "lastOpenFiles": [
-    "MOC Corps.md",
+    "MOC Musique.md",
     "__Nouveau Second Cerveau/Home.md",
+    "__Nouveau Second Cerveau/03 Mental/MOC Mental.md",
+    "MOC Corps.md",
     "MOC Gestion des connaissances.md",
     "Gestion des connaissances/100 MOC Gestion des connaissances.md",
-    "__Nouveau Second Cerveau/03 Mental/MOC Mental.md",
     "Les sentiments.md",
     "les haut potentiels intellectuels.md",
     "Mental/030 MOC Mental.md",
-    "Mental/Les concepts/Le travail/Le travail.md",
-    "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md"
+    "Mental/Les concepts/Le travail/Le travail.md"
   ]
 }
