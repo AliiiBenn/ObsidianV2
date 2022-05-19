@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Supprimer listes chaines index précis.md",
+            "file": "__Nouveau Second Cerveau/Home.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Supprimer listes chaines index précis.md",
+                "file": "__Nouveau Second Cerveau/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Supprimer listes chaines index précis.md",
+                "file": "__Nouveau Second Cerveau/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,6 +156,8 @@
   },
   "active": "40849d916be84f17",
   "lastOpenFiles": [
+    "__Nouveau Second Cerveau/Home.md",
+    "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
     "Cours/Matières/NSI/Chapitres NSI/Les structures de données/Liste chainées/Supprimer listes chaines index précis.md",
     "Cours/Matières/Philosophie/Le langage/Questions sur le langage/Question 2 sur le langage.md",
     "la biodiversité et son évolution.md",
@@ -163,8 +165,6 @@
     "Dossier Documentaire EMC/Dossier documentaire.md",
     "Dossier Documentaire EMC/Dossier Documentaire page 2.md",
     "Excalidraw/Drawing 2022-05-17 20.42.40.excalidraw.md",
-    "__Nouveau Second Cerveau/02 informatique/MOC Informatique.md",
-    "__Nouveau Second Cerveau/Home.md",
     "EE Espagnol.md"
   ]
 }
