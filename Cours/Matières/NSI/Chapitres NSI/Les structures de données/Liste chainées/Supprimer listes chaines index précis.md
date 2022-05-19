@@ -11,7 +11,7 @@ appel à [[Savoir si une liste chainée est vide]], [[Avoir l'element à l'indic
 ```python
 def supprimer_indice(self, i):
 	if self.est_vide():
-	raise IndexError("list index out of range")
+		raise IndexError("list index out of range")
 	if i > 0:
 		m = self.get_maillon_indice(i-1)
 		if m.suiv is None:
