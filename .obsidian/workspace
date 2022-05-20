@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "livres français.md",
-            "mode": "source",
+            "file": "__Nouveau Second Cerveau/Home.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "livres français.md",
+                "file": "__Nouveau Second Cerveau/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "livres français.md",
+                "file": "__Nouveau Second Cerveau/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,9 +155,9 @@
   },
   "active": "40849d916be84f17",
   "lastOpenFiles": [
+    "__Nouveau Second Cerveau/Home.md",
     "livres français.md",
     "la biodiversité et son évolution.md",
-    "__Nouveau Second Cerveau/Home.md",
     "MOC Corps.md",
     "MOC Musique.md",
     "__Nouveau Second Cerveau/03 Mental/MOC Mental.md",
