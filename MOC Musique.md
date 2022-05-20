@@ -2,6 +2,8 @@
 banner_icon: 🎵
 ---
 
+[[Home]]
+
 ## MOC Musique
 
 ---
@@ -10,4 +12,4 @@ La musique, l'une de mes plus grandes passions. La musique nous change d'humeur 
 
 Avec **l'ère du streaming**, de nouveaux *artistes* plus ou moins talentueux apparaissent tous les jours, certains arrivent à se démarquer et créent leur propre personnage, d'autres sont la depuis des années et ne risquent pas de partir.
 
-Ce 
+Ce qui rend la musique aussi spéciale est aussi sa quantité de styles différents, [[le rap]], [[la musique classique]], [[la drill]] etc... tous ces styles sont différents mais ne sont pas moins bons, tout dépend des gouts de chacun.

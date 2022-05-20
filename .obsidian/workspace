@@ -7,12 +7,8 @@
         "id": "40849d916be84f17",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "MOC Musique.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MOC Musique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MOC Musique.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,10 +149,10 @@
   },
   "active": "40849d916be84f17",
   "lastOpenFiles": [
-    "MOC Musique.md",
     "__Nouveau Second Cerveau/Home.md",
-    "__Nouveau Second Cerveau/03 Mental/MOC Mental.md",
     "MOC Corps.md",
+    "MOC Musique.md",
+    "__Nouveau Second Cerveau/03 Mental/MOC Mental.md",
     "MOC Gestion des connaissances.md",
     "Gestion des connaissances/100 MOC Gestion des connaissances.md",
     "Les sentiments.md",
