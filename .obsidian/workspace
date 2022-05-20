@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "40849d916be84f17",
+        "id": "27176191e7d5e405",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "__Nouveau Second Cerveau/Home.md",
-            "mode": "preview",
+            "file": "__Nouveau Second Cerveau/Library.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Nouveau Second Cerveau/Home.md",
+                "file": "__Nouveau Second Cerveau/Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Nouveau Second Cerveau/Home.md",
+                "file": "__Nouveau Second Cerveau/Library.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -151,10 +151,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 293.5
   },
-  "active": "40849d916be84f17",
+  "active": "27176191e7d5e405",
   "lastOpenFiles": [
+    "__Nouveau Second Cerveau/Library.md",
     "__Nouveau Second Cerveau/Home.md",
     "livres français.md",
     "la biodiversité et son évolution.md",
@@ -163,7 +164,6 @@
     "__Nouveau Second Cerveau/03 Mental/MOC Mental.md",
     "MOC Gestion des connaissances.md",
     "Gestion des connaissances/100 MOC Gestion des connaissances.md",
-    "Les sentiments.md",
-    "les haut potentiels intellectuels.md"
+    "Les sentiments.md"
   ]
 }
