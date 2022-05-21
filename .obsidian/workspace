@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cours/Matières/Philosophie/Philosophes/Héraclite d'Ephèse.md",
+            "file": "présocratiques.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/Philosophie/Philosophes/Héraclite d'Ephèse.md",
+                "file": "présocratiques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cours/Matières/Philosophie/Philosophes/Héraclite d'Ephèse.md",
+                "file": "présocratiques.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,6 +156,7 @@
   },
   "active": "27176191e7d5e405",
   "lastOpenFiles": [
+    "présocratiques.md",
     "Cours/Matières/Philosophie/Philosophes/Héraclite d'Ephèse.md",
     "Cours/Matières/Philosophie/Temps Et Existence/Temps Et Existence.md",
     "Cours/Matières/Philosophie/Philosophie.md",
@@ -164,7 +165,6 @@
     "Cours/Matières/Philosophie/Philosophes/Aristote.md",
     "__Nouveau Second Cerveau/Library.md",
     "Projets/Projets Actuels/Grand oral/Grand Oral.md",
-    "Projets/Projets Actuels/Obsidian Pages/La structure de obsidian pages.md",
-    "Projets/Projets Actuels/Obsidian Pages/Obsidian Pages.md"
+    "Projets/Projets Actuels/Obsidian Pages/La structure de obsidian pages.md"
   ]
 }
