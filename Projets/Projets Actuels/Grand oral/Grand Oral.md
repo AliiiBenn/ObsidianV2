@@ -13,7 +13,13 @@
 - Algorithmes de labyrinthe.
 	- [ ] Montrer ce qu'est un mauvais labyrithe, un moyen et un bon et comparer des algorithmes.
 - L'algorithme du bruit de perlin
-	- [ ] L'expliquer, montrer des exemples concerts et comment il peut résoudre des problèmes.
+	- [ ] L'expliquer, montrer des exemples concrets et comment il peut résoudre des problèmes.
 
 ### Mon plan 
 
+- Qu'est-ce qu'un algorithme de génération de labyrinthe ?
+- Les types de labyrinthes
+	- Les labyrinthes parfaits
+	- Les labyrinthes imparfaits
+- La notion de chemin
+	- Les chemins avec les graphes orientiés acycliques
