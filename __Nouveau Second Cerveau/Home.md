@@ -26,13 +26,14 @@ banner_y: 0.96371
 
 ---
 
-| Je veux...                   | ... Développer mes passions |
-| ---------------------------- | --------------------------- |
-| Parler de musique            | [[MOC Musique]]             |
-| En savoir plus sur le cinéma | [[MOC Films]]               |
-| Parler de Lecture            | [[MOC Lecture]]             |
-| En savoir plus sur le sport  | [[MOC Sport]]               |
-| Stocker ce que j'écris       | [[MOC Ecriture]]                            |
+| Je veux...                       | ... Développer mes passions |
+| -------------------------------- | --------------------------- |
+| Parler de musique                | [[MOC Musique]]             |
+| En savoir plus sur le cinéma     | [[MOC Films]]               |
+| Parler de Lecture                | [[MOC Lecture]]             |
+| En savoir plus sur le sport      | [[MOC Sport]]               |
+| Stocker ce que j'écris           | [[MOC Ecriture]]            |
+| Stocker les passions secondaires |                             |
 
 ---
 | Je veux...          | ... Gerer ma vie  |

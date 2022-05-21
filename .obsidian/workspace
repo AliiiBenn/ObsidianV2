@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Projets/Projets Actuels/Grand oral/Grand Oral.md",
+            "file": "__Nouveau Second Cerveau/Home.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projets/Projets Actuels/Grand oral/Grand Oral.md",
+                "file": "__Nouveau Second Cerveau/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Projets/Projets Actuels/Grand oral/Grand Oral.md",
+                "file": "__Nouveau Second Cerveau/Home.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,15 +156,15 @@
   },
   "active": "27176191e7d5e405",
   "lastOpenFiles": [
+    "__Nouveau Second Cerveau/Home.md",
+    "Cours/Matières/Philosophie/Philosophie.md",
+    "Cours/Matières/Philosophie/Philosophes/Aristote.md",
+    "__Nouveau Second Cerveau/Library.md",
     "Projets/Projets Actuels/Grand oral/Grand Oral.md",
     "Projets/Projets Actuels/Obsidian Pages/La structure de obsidian pages.md",
     "Projets/Projets Actuels/Obsidian Pages/Obsidian Pages.md",
-    "__Nouveau Second Cerveau/Library.md",
-    "__Nouveau Second Cerveau/Home.md",
     "livres français.md",
     "la biodiversité et son évolution.md",
-    "MOC Corps.md",
-    "MOC Musique.md",
-    "__Nouveau Second Cerveau/03 Mental/MOC Mental.md"
+    "MOC Corps.md"
   ]
 }
