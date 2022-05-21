@@ -25,6 +25,14 @@ Où sont ces notes ? ^x5zRCYG4
 
 On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x minutes pour regarder si il y a de nouvelles notes et si des notes existantes ont eu des modifications ^BU5P5wAS
 
+La class ObsidianPage ^ymEImhlM
+
+On crée un objet pour
+chaque note ^2Iy2jPcr
+
+Convert_markdown_file
+file : markdown ^7dHAB9XE
+
 %%
 # Drawing
 ```json
@@ -121,8 +129,8 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 2003803117,
-			"version": 201,
-			"versionNonce": 952366829,
+			"version": 202,
+			"versionNonce": 185900717,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -136,9 +144,13 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 				{
 					"id": "kUZOP5l0lSy4XeQzSXbE3",
 					"type": "arrow"
+				},
+				{
+					"id": "5h8MbS2zsFMLNRwIA1ro_",
+					"type": "arrow"
 				}
 			],
-			"updated": 1653113849170,
+			"updated": 1653114441629,
 			"link": null,
 			"locked": false
 		},
@@ -160,11 +172,11 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2101584397,
-			"version": 205,
-			"versionNonce": 1265097037,
+			"version": 217,
+			"versionNonce": 2052623875,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1653113988501,
+			"updated": 1653114228833,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -434,11 +446,11 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 242391693,
-			"version": 51,
-			"versionNonce": 82012387,
+			"version": 63,
+			"versionNonce": 185772749,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1653113988505,
+			"updated": 1653114228836,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -486,11 +498,11 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1197231235,
-			"version": 132,
-			"versionNonce": 1007569613,
+			"version": 138,
+			"versionNonce": 1692136579,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1653113988505,
+			"updated": 1653114228836,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -620,11 +632,11 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 235053421,
-			"version": 44,
-			"versionNonce": 787835181,
+			"version": 56,
+			"versionNonce": 1594911779,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1653113988507,
+			"updated": 1653114228838,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -657,7 +669,7 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 		{
 			"id": "W7KQGqYAjIu_4WDjvJSjK",
 			"type": "rectangle",
-			"x": 2273.3333333333326,
+			"x": 2273.333333333332,
 			"y": -746.0000000000002,
 			"width": 663.3333333333335,
 			"height": 326.66666666666674,
@@ -672,8 +684,8 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1052012973,
-			"version": 80,
-			"versionNonce": 151158819,
+			"version": 81,
+			"versionNonce": 1628932611,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -685,14 +697,14 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 					"type": "arrow"
 				}
 			],
-			"updated": 1653113992900,
+			"updated": 1653114046368,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "BU5P5wAS",
 			"type": "text",
-			"x": 2278.3333333333326,
+			"x": 2278.333333333332,
 			"y": -717.6666666666669,
 			"width": 653.3333333333335,
 			"height": 270,
@@ -707,11 +719,11 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 			"groupIds": [],
 			"strokeSharpness": "sharp",
 			"seed": 1587036067,
-			"version": 229,
-			"versionNonce": 1375978211,
+			"version": 230,
+			"versionNonce": 92294061,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1653113989211,
+			"updated": 1653114046370,
 			"link": null,
 			"locked": false,
 			"text": "On met toutes les notes dans un \ndossier notes qui va s'actualiser \ntoutes les x minutes pour regarder \nsi il y a de nouvelles notes et si \ndes notes existantes ont eu des \nmodifications",
@@ -727,10 +739,10 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 		{
 			"id": "N3rspf5YiVu3uGjWkjuCo",
 			"type": "arrow",
-			"x": 2156.6666666666665,
-			"y": -954.3333333333336,
-			"width": 146.66666666666652,
-			"height": 185,
+			"x": 2154.1484389938505,
+			"y": -957.5097341479081,
+			"width": 149.18489433948253,
+			"height": 188.17640081457444,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -742,11 +754,11 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 322474189,
-			"version": 35,
-			"versionNonce": 1585399693,
+			"version": 47,
+			"versionNonce": 252182371,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1653113992904,
+			"updated": 1653114228841,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -755,8 +767,8 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 					0
 				],
 				[
-					146.66666666666652,
-					185
+					149.18489433948253,
+					188.17640081457444
 				]
 			],
 			"lastCommittedPoint": [
@@ -765,13 +777,356 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 			],
 			"startBinding": {
 				"elementId": "T8S5wPh8RjJw4qf7yXZWD",
-				"focus": -0.3785301795744011,
-				"gap": 19.999999999999716
+				"gap": 19.999999999999716,
+				"focus": -0.3785301795744011
 			},
 			"endBinding": {
 				"elementId": "W7KQGqYAjIu_4WDjvJSjK",
-				"focus": -0.3332465079933568,
-				"gap": 23.33333333333337
+				"gap": 23.33333333333337,
+				"focus": -0.3332465079933568
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "kt70u4dq08-7Z7Am1nz-E",
+			"type": "rectangle",
+			"x": 749.9999999999998,
+			"y": -869.3333333333345,
+			"width": 403.3333333333335,
+			"height": 235,
+			"angle": 0,
+			"strokeColor": "#e67700",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 176493411,
+			"version": 66,
+			"versionNonce": 490154093,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "ymEImhlM"
+				},
+				{
+					"id": "nhJaxt-LJsYbD_6wfluUe",
+					"type": "arrow"
+				}
+			],
+			"updated": 1653114192918,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "ymEImhlM",
+			"type": "text",
+			"x": 754.9999999999998,
+			"y": -796.8333333333345,
+			"width": 393.3333333333335,
+			"height": 90,
+			"angle": 0,
+			"strokeColor": "#e67700",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1623528525,
+			"version": 30,
+			"versionNonce": 1400873187,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1653114192918,
+			"link": null,
+			"locked": false,
+			"text": "La class \nObsidianPage",
+			"rawText": "La class ObsidianPage",
+			"fontSize": 36.03053435114505,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 77,
+			"containerId": "kt70u4dq08-7Z7Am1nz-E",
+			"originalText": "La class ObsidianPage"
+		},
+		{
+			"id": "nhJaxt-LJsYbD_6wfluUe",
+			"type": "arrow",
+			"x": 959.9999999999998,
+			"y": -622.6666666666679,
+			"width": 636.6666666666667,
+			"height": 158.33333333333337,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1245532579,
+			"version": 85,
+			"versionNonce": 1157913677,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1653114228843,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					1.6666666666667425,
+					153.33333333333337
+				],
+				[
+					636.6666666666667,
+					158.33333333333337
+				]
+			],
+			"lastCommittedPoint": [
+				636.6666666666667,
+				158.33333333333337
+			],
+			"startBinding": {
+				"elementId": "kt70u4dq08-7Z7Am1nz-E",
+				"gap": 11.666666666666629,
+				"focus": -0.03414416424905084
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "2Iy2jPcr",
+			"type": "text",
+			"x": 1063.3333333333333,
+			"y": -502.0000000000009,
+			"width": 391,
+			"height": 90,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 948504867,
+			"version": 84,
+			"versionNonce": 840695373,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1653114076699,
+			"link": null,
+			"locked": false,
+			"text": "On crée un objet pour\nchaque note",
+			"rawText": "On crée un objet pour\nchaque note",
+			"fontSize": 36,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 77,
+			"containerId": null,
+			"originalText": "On crée un objet pour\nchaque note"
+		},
+		{
+			"id": "xGCn5iTGOq7OjYoS5PrLi",
+			"type": "rectangle",
+			"x": 1966.333333333333,
+			"y": -140.99999999999886,
+			"width": 457,
+			"height": 259,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 692030595,
+			"version": 103,
+			"versionNonce": 1833316429,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"type": "text",
+					"id": "7dHAB9XE"
+				},
+				{
+					"id": "EIz5-Vd3K7En-Wad_8uyU",
+					"type": "arrow"
+				},
+				{
+					"id": "5h8MbS2zsFMLNRwIA1ro_",
+					"type": "arrow"
+				}
+			],
+			"updated": 1653114441629,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "7dHAB9XE",
+			"type": "text",
+			"x": 1971.333333333333,
+			"y": -56.49999999999886,
+			"width": 447,
+			"height": 90,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1097675939,
+			"version": 105,
+			"versionNonce": 1635045101,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1653114300121,
+			"link": null,
+			"locked": false,
+			"text": "Convert_markdown_file\nfile : markdown",
+			"rawText": "Convert_markdown_file\nfile : markdown",
+			"fontSize": 36.0270880361174,
+			"fontFamily": 1,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 77,
+			"containerId": "xGCn5iTGOq7OjYoS5PrLi",
+			"originalText": "Convert_markdown_file\nfile : markdown"
+		},
+		{
+			"id": "EIz5-Vd3K7En-Wad_8uyU",
+			"type": "arrow",
+			"x": 2033.333333333333,
+			"y": -167.6666666666655,
+			"width": 433.3333333333335,
+			"height": 260,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 827005357,
+			"version": 132,
+			"versionNonce": 1173842061,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1653114300115,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-5,
+					-230
+				],
+				[
+					-433.3333333333335,
+					-260
+				]
+			],
+			"lastCommittedPoint": [
+				-433.3333333333335,
+				-260
+			],
+			"startBinding": {
+				"elementId": "xGCn5iTGOq7OjYoS5PrLi",
+				"gap": 26.66666666666663,
+				"focus": -0.6835048478298326
+			},
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "5h8MbS2zsFMLNRwIA1ro_",
+			"type": "arrow",
+			"x": 1948.333333333333,
+			"y": 125.66666666666606,
+			"width": 871.6666666666667,
+			"height": 248.33333333333326,
+			"angle": 0,
+			"strokeColor": "#c92a2a",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 943039075,
+			"version": 211,
+			"versionNonce": 1426828963,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1653114441633,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-186.66666666666674,
+					121.66666666666674
+				],
+				[
+					-571.6666666666667,
+					135
+				],
+				[
+					-871.6666666666667,
+					-113.33333333333326
+				]
+			],
+			"lastCommittedPoint": [
+				-871.6666666666667,
+				-113.33333333333326
+			],
+			"startBinding": {
+				"elementId": "xGCn5iTGOq7OjYoS5PrLi",
+				"focus": 0.08439555975992988,
+				"gap": 18
+			},
+			"endBinding": {
+				"elementId": "YBerOJFY_-yAs-AS8TvhZ",
+				"focus": 0.38676927860696436,
+				"gap": 23.333333333332803
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -780,7 +1135,7 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#000000",
+		"currentItemStrokeColor": "#c92a2a",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
@@ -789,7 +1144,7 @@ On met toutes les notes dans un dossier notes qui va s'actualiser toutes les x m
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 36,
-		"currentItemTextAlign": "left",
+		"currentItemTextAlign": "center",
 		"currentItemStrokeSharpness": "sharp",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
