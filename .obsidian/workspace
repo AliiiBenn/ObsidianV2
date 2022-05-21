@@ -7,12 +7,8 @@
         "id": "27176191e7d5e405",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Cours/Matières/Philosophie/Temps Et Existence/Temps Et Existence.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cours/Matières/Philosophie/Temps Et Existence/Temps Et Existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cours/Matières/Philosophie/Temps Et Existence/Temps Et Existence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",

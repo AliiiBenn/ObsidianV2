@@ -12,4 +12,4 @@
 
 [[Héraclite et le temps]], [[Vladimir Jankélévitch]]
 
-
+Selon les grecs cette intuition du temps comme *fugacité* et *évanescence* leur ont fait voir qu'une *existance imparfaite* dans l'*existence temporelle*.
