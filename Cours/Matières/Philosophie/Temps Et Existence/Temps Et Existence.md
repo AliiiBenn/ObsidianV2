@@ -8,6 +8,8 @@
 
 ### I : Temps et Eternite - L'héritage Grec
 
-### A : Le temps - Image mobile de l'éternité
+#### A : Le temps - Image mobile de l'éternité
 
-[[Héraclite et le temps]]
+[[Héraclite et le temps]], [[Vladimir Jankélévitch]]
+
+

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "présocratiques.md",
+            "file": "Cours/Matières/Philosophie/Temps Et Existence/Temps Et Existence.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "présocratiques.md",
+                "file": "Cours/Matières/Philosophie/Temps Et Existence/Temps Et Existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "présocratiques.md",
+                "file": "Cours/Matières/Philosophie/Temps Et Existence/Temps Et Existence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,15 +156,15 @@
   },
   "active": "27176191e7d5e405",
   "lastOpenFiles": [
-    "présocratiques.md",
-    "Cours/Matières/Philosophie/Philosophes/Héraclite d'Ephèse.md",
     "Cours/Matières/Philosophie/Temps Et Existence/Temps Et Existence.md",
+    "Héraclite et le temps.md",
+    "Vladimir Jankélévitch.md",
+    "Cours/Matières/Philosophie/Philosophes/Héraclite d'Ephèse.md",
+    "présocratiques.md",
     "Cours/Matières/Philosophie/Philosophie.md",
     "A ranger/Refaire toutes mes affaires.md",
     "__Nouveau Second Cerveau/Home.md",
     "Cours/Matières/Philosophie/Philosophes/Aristote.md",
-    "__Nouveau Second Cerveau/Library.md",
-    "Projets/Projets Actuels/Grand oral/Grand Oral.md",
-    "Projets/Projets Actuels/Obsidian Pages/La structure de obsidian pages.md"
+    "__Nouveau Second Cerveau/Library.md"
   ]
 }
