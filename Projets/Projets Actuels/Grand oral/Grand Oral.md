@@ -21,6 +21,7 @@
 - Les types de labyrinthes
 	- Les labyrinthes parfaits
 	- Les labyrinthes imparfaits
+	- labyrithe simple et complexe
 - La notion de chemin
 	- Les chemins avec les graphes orientiés acycliques
 - Le lien avec les graphes
