@@ -23,3 +23,5 @@
 	- Les labyrinthes imparfaits
 - La notion de chemin
 	- Les chemins avec les graphes orientiés acycliques
+- Le lien avec les graphes
+- Montrer et comparer deux algorithmes
