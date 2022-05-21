@@ -33,7 +33,7 @@ banner_y: 0.96371
 | Parler de Lecture                | [[MOC Lecture]]             |
 | En savoir plus sur le sport      | [[MOC Sport]]               |
 | Stocker ce que j'écris           | [[MOC Ecriture]]            |
-| Stocker les passions secondaires |                             |
+| Stocker les passions secondaires | [[MOC Passions]]                            |
 
 ---
 | Je veux...          | ... Gerer ma vie  |

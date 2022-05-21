@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "__Nouveau Second Cerveau/Home.md",
+            "file": "Cours/Matières/Philosophie/Temps Et Existence/Temps Et Existence.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "__Nouveau Second Cerveau/Home.md",
+                "file": "Cours/Matières/Philosophie/Temps Et Existence/Temps Et Existence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "__Nouveau Second Cerveau/Home.md",
+                "file": "Cours/Matières/Philosophie/Temps Et Existence/Temps Et Existence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,6 +156,7 @@
   },
   "active": "27176191e7d5e405",
   "lastOpenFiles": [
+    "Cours/Matières/Philosophie/Temps Et Existence/Temps Et Existence.md",
     "__Nouveau Second Cerveau/Home.md",
     "Cours/Matières/Philosophie/Philosophie.md",
     "Cours/Matières/Philosophie/Philosophes/Aristote.md",
@@ -164,7 +165,6 @@
     "Projets/Projets Actuels/Obsidian Pages/La structure de obsidian pages.md",
     "Projets/Projets Actuels/Obsidian Pages/Obsidian Pages.md",
     "livres français.md",
-    "la biodiversité et son évolution.md",
-    "MOC Corps.md"
+    "la biodiversité et son évolution.md"
   ]
 }
