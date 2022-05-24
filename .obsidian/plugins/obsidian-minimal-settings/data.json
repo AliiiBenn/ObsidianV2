@@ -39,5 +39,6 @@
   "useSystemTheme": false,
   "folding": true,
   "lineNumbers": false,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "devBlockWidth": false
 }
