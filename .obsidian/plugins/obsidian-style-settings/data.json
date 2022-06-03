@@ -1,0 +1,11 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-chocolate-topaz",
+  "blue-topaz-theme@@background-image-settings-markdown-page-options": "background-image-settings-markdown-page-four-seasons",
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
+  "blue-topaz-theme@@right-ribbon-style": "hide-right-ribbon-button-top",
+  "blue-topaz-theme@@text-normal@@dark": "#BDBDBD",
+  "blue-topaz-theme@@text-normal@@light": "#0E0E0E",
+  "blue-topaz-theme@@default-split-style": true,
+  "blue-topaz-theme@@file-bg-shape-option": "file-bg-rounded-rectangle"
+}

@@ -35,8 +35,14 @@
       "type": "gcal",
       "color": "#ff0000",
       "url": "ojata9bg3uo7s5hkje2e5348fs@group.calendar.google.com"
+    },
+    {
+      "type": "local",
+      "color": "hsl(225, 14%, 40%)",
+      "directory": "_Autres"
     }
   ],
   "defaultCalendar": 0,
-  "recursiveLocal": false
+  "recursiveLocal": false,
+  "firstDay": 0
 }

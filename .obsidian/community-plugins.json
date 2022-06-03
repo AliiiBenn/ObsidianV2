@@ -4,7 +4,6 @@
   "obsidian-vault-statistics-plugin",
   "periodic-notes",
   "file-explorer-note-count",
-  "obsidian-mind-map",
   "obsidian-git",
   "note-refactor-obsidian",
   "table-editor-obsidian",
@@ -12,9 +11,11 @@
   "obsidian-excalidraw-plugin",
   "dataview",
   "obsidian-admonition",
-  "obsidian-custom-frames",
-  "obsidian-full-calendar",
-  "obsidian-minimal-settings",
   "obsidian-emoji-toolbar",
-  "obsidian-banners"
+  "obsidian-banners",
+  "obsidian-discordrpc",
+  "highlightr-plugin",
+  "cmenu-plugin",
+  "obsidian-mind-map",
+  "obsidian-kanban"
 ]

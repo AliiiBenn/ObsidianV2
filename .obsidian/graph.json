@@ -60,7 +60,7 @@
       "query": "path:Passions",
       "color": {
         "a": 1,
-        "rgb": 11092571
+        "rgb": 1853985
       }
     },
     {
@@ -102,6 +102,6 @@
   "repelStrength": 10,
   "linkStrength": 0.662650602409639,
   "linkDistance": 30,
-  "scale": 0.2292013594174955,
+  "scale": 0.05932617187500028,
   "close": true
 }

@@ -5,5 +5,6 @@
     "columns"
   ],
   "translucency": false,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "textFontFamily": ""
 }

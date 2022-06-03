@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c4e9e78fc12593f4",
+        "id": "50d1dbe75e381602",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "le bonheur et les désirs.md",
+            "file": "02 informatique/Langages Informatique/Langages Algorithmique/Python/NSI/Chapitres NSI/Les structures de données/arbres binaires de recherche/Cherche la valeur spécifique dans un ABR.md",
             "mode": "source",
             "source": false
           }
@@ -62,7 +62,7 @@
       {
         "id": "9b6f06fd6f537a8c",
         "type": "tabs",
-        "dimension": 37.44769874476987,
+        "dimension": 58.47280334728033,
         "children": [
           {
             "id": "661a3cb9678763c6",
@@ -70,8 +70,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "le bonheur et les désirs.md",
-                "collapseAll": false,
+                "file": "02 informatique/Langages Informatique/Langages Algorithmique/Python/NSI/Chapitres NSI/Les structures de données/arbres binaires de recherche/Cherche la valeur spécifique dans un ABR.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -89,13 +89,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "84fae94fbadf4faf",
         "type": "tabs",
-        "dimension": 62.55230125523012,
+        "dimension": 41.52719665271967,
         "children": [
           {
             "id": "60b78f53a4d0834d",
@@ -103,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "le bonheur et les désirs.md",
+                "file": "02 informatique/Langages Informatique/Langages Algorithmique/Python/NSI/Chapitres NSI/Les structures de données/arbres binaires de recherche/Cherche la valeur spécifique dans un ABR.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -126,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.25883865621816293,
+                  "scale": 0.017341529915832644,
                   "close": false
                 }
               }
@@ -155,17 +154,17 @@
     "direction": "horizontal",
     "width": 308.5
   },
-  "active": "c4e9e78fc12593f4",
+  "active": "50d1dbe75e381602",
   "lastOpenFiles": [
-    "le bonheur et les désirs.md",
-    "les haut potentiels intellectuels.md",
-    "le bonheur et les stoiciens.md",
-    "les stoiciens.md",
-    "Le stoicisme.md",
-    "Epictète.md",
-    "Epictète et le bonheur.md",
-    "les passions selon les stoiciens.md",
-    "Passions/Philosophie/Le Bonheur/Le Bonheur.md",
-    "les grecs et le bonheur.md"
+    "02 informatique/Langages Informatique/Langages Algorithmique/Python/NSI/Chapitres NSI/Les structures de données/arbres binaires de recherche/Cherche la valeur spécifique dans un ABR.md",
+    "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
+    "11 Passions/Philosophie/Cours/La science/Descartes et les maths.md",
+    "11 Passions/Philosophie/Cours/La science/Qu'est-ce qu'une démonstration.md",
+    "10 Ecriture/L'heureux/L'heureux.md",
+    "10 Ecriture/L'imperfection voulue/L'imperfection voulue.md",
+    "Mon organisation.md",
+    "Home.md",
+    "02 informatique/MOC Informatique.md",
+    "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md"
   ]
 }
