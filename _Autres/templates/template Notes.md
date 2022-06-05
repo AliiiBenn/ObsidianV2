@@ -1,10 +1,16 @@
-tags : 
-links :
+---
+MOC:
+Projets:
+tags:
+Date: <% tp.date.now("DD-MM-YYYY", -1) %>
+---
 
-****
+## <% tp.file.title %>
 
-<h2 style="text-align: center;"> <% tp.file.title %> </h2>
-
-****
+---
 
 
+
+
+---
+### Liens :
