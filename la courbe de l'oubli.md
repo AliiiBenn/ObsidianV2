@@ -11,3 +11,7 @@ On peut, selon cette hypothèse décrire l'oubli à l'aide de l'a formule $R = e
 Elle peut être modélisée comme ci-dessous
 
 ![[Pasted image 20220603212302.png|600]]
+
+
+
+

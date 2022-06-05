@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "12 Projets/MOC Projets.md",
+            "file": "le principe du tiers exclu.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Projets/MOC Projets.md",
+                "file": "le principe du tiers exclu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Projets/MOC Projets.md",
+                "file": "le principe du tiers exclu.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,6 +156,8 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "le principe du tiers exclu.md",
+    "la courbe de l'oubli.md",
     "12 Projets/MOC Projets.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
     "12 Projets/Projets Actuels/Coder un jeu avec Marie/Coder un jeu avec Marie.md",
@@ -163,8 +165,6 @@
     "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
     "Descartes et le rationalisme.md",
     "les maths.md",
-    "Hume.md",
-    "Hume et les sciences de la nature.md",
-    "10 Ecriture/L'heureux/L'heureux et les sacrifices.md"
+    "Hume.md"
   ]
 }
