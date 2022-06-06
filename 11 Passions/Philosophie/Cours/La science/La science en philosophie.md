@@ -66,4 +66,9 @@ C'est parce que la science teste ces théories qu'on la croit autant mais c'est 
 
 Cette attitude va au début favoriser le progrès des [[les sciences de la nature|sciences de la nature]] car souvent, [[le rationalisme]] faisait de belle théories mathématiques mais qui étaient fausses car ils ne souciaient pas de l'expérience
 
-L'empirisme va aussi montrer rapidement ses limites [[les limites de l'empirisme]]. [[Russel]] nous montre les limites de [[l'inductivisme]] et de [[l'empirisme]] avec son exeple de la dinde. [[Hume]] lui même va arriver à un scepticisme radical envers la science [[Hume et le scepticisme envers la science]] 
+L'empirisme va aussi montrer rapidement ses limites [[les limites de l'empirisme]]. [[Russel]] nous montre les limites de [[l'inductivisme]] et de [[l'empirisme]] avec son exeple de la dinde. [[Hume]] lui même va arriver à un scepticisme radical envers la science [[Hume et le scepticisme envers la science]].
+
+il semble impossible d'expliquer toutes les connaissances humaines comme dérivant seulement de sensations neutres. [[les mathématique]] sont capables de produire des certitudes et des vérités bien plus certaines qu'une simple généralisation plus ou moins aléatoire de l'expérience.
+
+#### C - La révolution copernicienne de Kant : que sait-on du réel
+
