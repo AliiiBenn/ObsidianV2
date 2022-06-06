@@ -55,7 +55,17 @@ C'est le début qui sera le plus compliqué que ce soit mentalement ou physiquem
 
 ##### Le nouveaux
 
-Comme dit au dessus, une personne qui veut avoir cette vie et qui vient de commencer sa grande remise en question va souffrir, mais cela va payer, c'est le moment le plus dur car vous allez comprendre que, comme la majorité des gens, vous ne savez rien mais vous pensiez tout savoir. Vous allez devoir apprendre à 
+Comme dit au dessus, une personne qui veut avoir cette vie et qui vient de commencer sa grande remise en question va souffrir, mais cela va payer, c'est le moment le plus dur car vous allez comprendre que, comme la majorité des gens, vous ne savez rien mais vous pensiez tout savoir. Vous allez devoir apprendre à dormir, manger, faire du sport, savoir apprendre, vous organiser, être plus [[Le stoicisme|stoïque]] etc...
+
+##### L'initié
+
+Une fois que vous avez appris les quelques bases, vous vous sentirez beaucoup mieux car vous aurez compris que les choses le plus simple sont les plus importantes, vous allez commencer à mieux dormir, si possible vous aurez commencé à faire du sport. en bref, vous vous sentirez beaucoup plus vivant, vous pourrez dire que vous êtes initié
+
+##### La remise en question et le blocage
+
+A vrai dire, je ne sais pas si cette phase est commune, je parle avec mon vécu. Vous allez continuer à apprendre et à devenir meilleur mais un jour vous allez avoir un blocage, une sensation d'un manque d'une chose en vous et quand cela arrive ne paniquez pas, c'est justement en paniquant que vous allez gacher tout votre travail et vos connaissances durement acquises. 
+
+Posez vous quelque part et cherchez ce qui peut vous manquer, que ce soit dans votre vie ou votre organisation
 
 ### Les avantages de cette vie
 
@@ -74,7 +84,11 @@ Comme dit au dessus, une personne qui veut avoir cette vie et qui vient de comme
 
 #### La nutririon
 
+#### Le sommeil
+
 #### Les habitudes
+
+#### La procrastination
 
 #### La difficulté
 
