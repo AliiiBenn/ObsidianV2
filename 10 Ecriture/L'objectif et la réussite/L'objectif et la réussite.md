@@ -35,7 +35,13 @@ Ces personnes qui veulent devenir un meilleur soi apprennent chaque jour au moin
 
 ### Vouloir changer le monde à son échelle
 
-Les deux visions peuvent être liées mais tout aussi bien indépendantes. Dans cette vision, la personne va chercher à changer le monde à son échelle avec pour but d'agrandir cette échelle chaque jour. Cela peut se faire par exemple à l'aide d'une entreprise qui va aider une grande partie des gens, ici tout le monde profite : les gens et le chef d'entreprise mais ici vous êtes le chef d'entreprise. Cette vision fonctionne aussi en tant que professeur par exemple où vous allez chercher à apprendre chaque jour à de nouvelles choses à vos élèves. 
+Les deux visions peuvent être liées mais tout aussi bien indépendantes. Dans cette vision, la personne va chercher à changer le monde à son échelle avec pour but d'agrandir cette échelle chaque jour. Cela peut se faire par exemple à l'aide d'une entreprise qui va aider une grande partie des gens, ici tout le monde profite : les gens et le chef d'entreprise mais vous êtes le chef d'entreprise. Cette vision fonctionne aussi en tant que professeur par exemple où vous allez chercher à apprendre chaque jour à de nouvelles choses à vos élèves. 
+
+Les personnes ayant cette vision de la vie peuvent mettre de côté une partie de leur bien être pour le bien être général, cela depend de chacun, vous n'avez pas besoin de mettre toute votre vie de côté pour les autres mais simplement essayer d'aider à votre échelle. N'oubliez pas que cela doit aussi être à votre avantage, ne cherchez pas à rendre les gens heureux en mettant votre bonheur de côté, cela ne fonctionnera pas et personne n'y gagnera. Il faut trouver un juste milieu pour rendre tout le monde heureux.
+
+Quand je dis qu'il ne faut pas tout faire pour rendre les gens heureux c'est parce que les gens ne savent pas qui vous êtes, ils n'ont aucune idée de votre existence et ceux qui vous connaissent mais ne sont pas proches de vous ne se soucient en aucun cas de votre bonheur, il faut avoir cette vision du vouloir de l'heureux de l'autre uniquement avec vos proches qui eux on une réelle importance pour vous. Bien sur, vos proches ne sont pas justes vos parents, vos frères et soeurs mais aussi vos amis proches, votre copain ou votre copine etc... Ces gens comptent pour vous alors, faites en sorte qu'ils le vois.
+
+Attention, ne cherchez pas betement à être bon avec eux et ne vous mettez pas à detester
 
 ### Le cout de cette vie
 
@@ -43,7 +49,22 @@ Les deux visions peuvent être liées mais tout aussi bien indépendantes. Dans 
 
 ### pourquoi cette vision peut tout changer
 
+### Comment avoir cette vie
 
+#### La remise en question
+
+#### L'objectif
+(se fixer un seul objectif....)
+
+#### Le sport
+
+#### L'organisation
+
+#### La nutririon
+
+#### Les habitudes
+
+#### La difficulté
 
 
 ---
