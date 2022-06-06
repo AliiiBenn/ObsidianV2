@@ -82,5 +82,7 @@ Son [[le logos|logos]] qui e base est invisible est seulement accessible avec [[
 
 L'exercice de [[la raison]] à travers [[la science|les sciences]] aurait donc le pouvoir de nous dire ce qu'est le réel, de nous faire atteindre son essence même. Ici on confond *le vrai* et [[le réel]], ce qui est *vrai* est *réel* et le *réel* c'est le *vrai*. On a ici une conception de [[la vérité]] commune entre [[le rationalisme]] et [[l'empirisme]] d'une adéquation entre les choses et l'esprit. On conçoit [[la vérité|vérité]] et [[la fausseté|fausseté]] comme conformité ou non conformité à ce qui est.
 
-Mais, qu'est-ce qui nous permet d'affirmer que [[le réel]] et sopi
+Mais, qu'est-ce qui nous permet d'affirmer que [[le réel]] et soi est tel que [[La science]] le connait et que l'ordre qu'elle découvre dans le réel est bien celui du réel ? Ce qu'on sait du réel grace à la science est-ce vraiment l'essence même du réel ?
+
+
 
