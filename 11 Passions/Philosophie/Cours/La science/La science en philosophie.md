@@ -72,3 +72,7 @@ il semble impossible d'expliquer toutes les connaissances humaines comme dériva
 
 #### C - La révolution copernicienne de Kant : que sait-on du réel
 
+[[Kant et la révolution copernicienne]]
+
+[[Kant]] vahériter de l'impuissance de [[l'empirisme]] à rendre compte de la possibilité d'une connaissance scientifique [[le réel|du réel]] chez l'Homme et va donc tenter de sortir des impasses de [[l'empirisme]] sans pour autant retomber dans les impasses [[la Métaphysique|Métaphysique]] du [[le rationalisme|rationalisme]]. [[Kant et la révolution copernicienne]]
+

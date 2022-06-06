@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
+            "file": "Kant et la révolution copernicienne.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
+                "file": "Kant et la révolution copernicienne.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
+                "file": "Kant et la révolution copernicienne.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,6 +156,7 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "Kant et la révolution copernicienne.md",
     "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
     "11 Passions/Philosophie/Philosophes/Hume.md",
     "11 Passions/Philosophie/Cours/La science/Hume et les sciences de la nature.md",
@@ -164,7 +165,6 @@
     "11 Passions/Philosophie/Cours/La science/Descartes et le rationalisme.md",
     "000 Index.md",
     "11 Passions/Philosophie/Cours/Temps Et Existence/Temps Et Existence.md",
-    "_Autres/templates/template Week.md",
-    "_Autres/templates/template Notes.md"
+    "_Autres/templates/template Week.md"
   ]
 }
