@@ -82,7 +82,9 @@ Son [[le logos|logos]] qui e base est invisible est seulement accessible avec [[
 
 L'exercice de [[la raison]] à travers [[la science|les sciences]] aurait donc le pouvoir de nous dire ce qu'est le réel, de nous faire atteindre son essence même. Ici on confond *le vrai* et [[le réel]], ce qui est *vrai* est *réel* et le *réel* c'est le *vrai*. On a ici une conception de [[la vérité]] commune entre [[le rationalisme]] et [[l'empirisme]] d'une adéquation entre les choses et l'esprit. On conçoit [[la vérité|vérité]] et [[la fausseté|fausseté]] comme conformité ou non conformité à ce qui est.
 
-Mais, qu'est-ce qui nous permet d'affirmer que [[le réel]] et soi est tel que [[La science]] le connait et que l'ordre qu'elle découvre dans le réel est bien celui du réel ? Ce qu'on sait du réel grace à la science est-ce vraiment l'essence même du réel ?
+Mais, qu'est-ce qui nous permet d'affirmer que [[le réel]] et soi est tel que [[La science]] le connait et que l'ordre qu'elle découvre dans le réel est bien celui du réel ? Ce qu'on sait du réel grace à la science est-ce vraiment l'essence même du réel ? Peut-on avoir accès à ce qu'est le réel indépendamment de nous ? Il faudrait soit supposer que les principes de [[la raison]] humaine sont ceux qui régissent [[l'Univers]] ([[le rationalisme]]) soit penser que nos factultés sont des récépteurs neutrs ([[l'empirisme]]). [[Kant]] lui va rejeter les deux.
+
+[[L'esprit Humain]] prend ses propres conditions d'intélligibilité [[le réel|du réel]] pour des conditions d'existence [[le réel|du réel]] projetant ses propres limites et règles sur lui. [[Kant]] va appliquer notre rapport intélligible aux choses la même relativité qui est celle de notre rapport sensible [[le réel|au réel]], le rapport intélligible ne donne pas accès *au réel* en soi, il donne accès à quelque chose *du réel*. Il est aussi impossible de rendre compte de la possibilité de [[la science]] en partant de l'idée que nos facultés ne seraient que des pages blanches  
 
 
 
