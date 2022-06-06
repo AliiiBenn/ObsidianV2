@@ -74,5 +74,13 @@ il semble impossible d'expliquer toutes les connaissances humaines comme dériva
 
 [[Kant et la révolution copernicienne]]
 
-[[Kant]] vahériter de l'impuissance de [[l'empirisme]] à rendre compte de la possibilité d'une connaissance scientifique [[le réel|du réel]] chez l'Homme et va donc tenter de sortir des impasses de [[l'empirisme]] sans pour autant retomber dans les impasses [[la Métaphysique|Métaphysique]] du [[le rationalisme|rationalisme]]. [[Kant et la révolution copernicienne]]
+[[Kant]] vahériter de l'impuissance de [[l'empirisme]] à rendre compte de la possibilité d'une connaissance scientifique [[le réel|du réel]] chez l'Homme et va donc tenter de sortir des impasses de [[l'empirisme]] sans pour autant retomber dans les impasses [[la Métaphysique|Métaphysique]] du [[le rationalisme|rationalisme]]. [[Kant et la révolution copernicienne]].
+
+Notre croyance la plus spontanée est de croire que [[le réel]] est tel que nous nous le représentons et qu'il est aussi tel que nous le voyons; [[Platon]] et [[les savants grecs]] ont montré que ce que nous percevons *du réel* n'est qu'une image *du réel* et non lui-même. 
+
+Son [[le logos|logos]] qui e base est invisible est seulement accessible avec [[la raison]] à travers d'idées, de concepts, formes, nombres. Cette coviction d'une essence du réel au dela de son apparence sensible affirme l'existence réelle et [[la Métaphysique|Métaphysique]] d'une logique dans [[le réel]] sauf qu'ici, on affirme que [[le réel]] est tel que nos représentations rationnelles nous le font concevoir et nons pas tel que nos représentations sensibles nous le font voir. De ce fait, il y aurait parfaite conrrespondance entre les propriétés [[le réel|du réel]] et de [[la raison]]. On passe du connaitre à [[l'etre]], on transpose [[le logos]] de [[la raison]] dans [[le réel]].
+
+L'exercice de [[la raison]] à travers [[la science|les sciences]] aurait donc le pouvoir de nous dire ce qu'est le réel, de nous faire atteindre son essence même. Ici on confond *le vrai* et [[le réel]], ce qui est *vrai* est *réel* et le *réel* c'est le *vrai*. On a ici une conception de [[la vérité]] commune entre [[le rationalisme]] et [[l'empirisme]] d'une adéquation entre les choses et l'esprit. On conçoit [[la vérité|vérité]] et [[la fausseté|fausseté]] comme conformité ou non conformité à ce qui est.
+
+Mais, qu'est-ce qui nous permet d'affirmer que [[le réel]] et sopi
 
