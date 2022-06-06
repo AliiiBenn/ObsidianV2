@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
+            "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5,
-    "collapsed": true
+    "width": 294.5
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
+                "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
+                "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,11 +152,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
     "11 Passions/Philosophie/Philosophes/Hermann Ebbinghaus.md",
     "03 Mental/Les concepts/La mémoire/La mémoire.md",
@@ -166,7 +165,6 @@
     "Pasted Image 20220429162340_689.png",
     "03 Mental/Les concepts/La mémoire/la courbe de l'oubli.md",
     "12 Projets/MOC Projets.md",
-    "12 Projets/Projets Actuels/Coder un jeu avec Marie/Coder un jeu avec Marie.md",
-    "12 Projets/Projets Actuels/Coder un jeu avec Marie/la structure du projet avec Marie.md"
+    "12 Projets/Projets Actuels/Coder un jeu avec Marie/Coder un jeu avec Marie.md"
   ]
 }
