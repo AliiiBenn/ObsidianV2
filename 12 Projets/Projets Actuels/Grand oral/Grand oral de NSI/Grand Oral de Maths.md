@@ -49,6 +49,16 @@ $uk+1=2^(k+1) - 1$
 
 on part de l'hypothèse de récurrence
 
+$uk = 2^k-1$
+on multiplie par deux le tout
+$2uk=2(2^k-1)$
+puis on ajoute 1
+$2uk+1=2(2^k-1)+1$
+soit
+$uk+1=2^k-1$
+
+on conclu donc que la propriété est donc vraie au rang n=0 et héréditaire à partir de ce rang
+
 ### L'histoire du raisonnement par récurrence
 
 #### Avant le XVIIème siècle
@@ -72,4 +82,6 @@ Toujours au *XVIIème siècle* *Pierre de Fermat* et *Jacques Bernouilli* vont p
 (**Soit P(n) une propriété faisant intervenir un entier naturel n. On cherche à démontrer que P(n) est fausse pour tout n. Pour cela, on raisonne par l'absurde. On suppose donc que pour un certain entier n, P(n) est vraie. On démontre par ailleurs que pour chaque entier naturel n pour lequel P(n) est vraie, il existe un entier naturel m strictement inférieur à n pour lequel P(m) est également vraie. On peut conclure que P(n) n'est jamais vraie, car la suite des entiers naturels vérifiant la propriété P ne peut pas être strictement décroissante et infinie.**)
 
 Quant à lui *Bernouilli* va proposer de démontrer le passage de *n* à *n+1* soit exactement le raisonnement par récurrence.  Ensuite, au cours du *XVIIIème et XIXème siècle* le raisonnement par reccurence fut de plus en plus utilisé pour aboutir à son normalisation. 
+
+Pour conclure, le raisonnement par récurrence à une grande histoire qui a commencé au 11ème siècle et qui s'est normalisée au 19ème, aujourd'hui notre raisonnment nous permet de démontrer un bon nombre de propriétés sans trop de difficultés et ce grace à de noubreux mathématiciens qui ont beaucoup travailler pour nous faciliter la vie. 
 
