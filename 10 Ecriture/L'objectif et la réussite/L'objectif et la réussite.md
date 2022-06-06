@@ -41,9 +41,21 @@ Les personnes ayant cette vision de la vie peuvent mettre de côté une partie d
 
 Quand je dis qu'il ne faut pas tout faire pour rendre les gens heureux c'est parce que les gens ne savent pas qui vous êtes, ils n'ont aucune idée de votre existence et ceux qui vous connaissent mais ne sont pas proches de vous ne se soucient en aucun cas de votre bonheur, il faut avoir cette vision du vouloir de l'heureux de l'autre uniquement avec vos proches qui eux on une réelle importance pour vous. Bien sur, vos proches ne sont pas justes vos parents, vos frères et soeurs mais aussi vos amis proches, votre copain ou votre copine etc... Ces gens comptent pour vous alors, faites en sorte qu'ils le vois.
 
-Attention, ne cherchez pas betement à être bon avec eux et ne vous mettez pas à detester
+Attention, ne cherchez pas betement à être bon avec eux et ne vous mettez pas à detester ou ignorer les gens, au moindre manque de respect de l'un de vos proches, si il ne s'excuse pas, arretez de suite d'être bon et devenez simplement respectueux et en aucun cas mauvais. Vous ne devez jamais être mauvais, c'est chercher à être plus bas que le plus bas et c'est ridicule, soyez intélligents et malins. Quant aux gens, soyez respectueux et c'est tout, chercher à être bon est une perte de temps et chercher à être mauvais est simplement ridicule.
+
+Il y a un cas très spécial, chercher à manipuler les gens pour aider les gens. Ce cas la est bon et mauvais c'est ce qui le rend aussi spécial, personnellement je dirais de continuer tant que vous ne tombez pas trop dans le mauvais, trouvez simplement le juste milieu
 
 ### Le cout de cette vie
+
+Cette vie est compliquée à avoir voir même très compliquée, c'est un travail constant sur soi, vous devrez vous remettre en question sur tout car vous ne savez rien, vous allez devoir repartir de 0. 
+
+C'est le début qui sera le plus compliqué que ce soit mentalement ou physiquement, une fatigue mentale et physique qui deviendra de plus en plus forte, vous commencerez à vous dire que cette vie vous rend juste malheureux, qu'en plus d'être fatigué vous ne savez rien. C'est ici que vous allez devoir tenir le plus, soyez courageux et ça va payer.
+
+#### Les phases de cette vie
+
+##### Le nouveaux
+
+Comme dit au dessus, une personne qui veut avoir cette vie et qui vient de commencer sa grande remise en question va souffrir, mais cela va payer, c'est le moment le plus dur car vous allez comprendre que, comme la majorité des gens, vous ne savez rien mais vous pensiez tout savoir. Vous allez devoir apprendre à 
 
 ### Les avantages de cette vie
 
