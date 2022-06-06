@@ -48,4 +48,6 @@ Durant le Moyen Âge européen, le philosophe et mathématicien *Levi ben Gersho
 
 #### Le XVIIème siècle et ensuite
 
-*Blaise Pascal* est considéré comme le premier ayant utilisé le raisonnement par recurrence de manière tout à fait explicite, on voit ce premier raisonnement dans le *Traité du triangle arithmétique* de 1654
+*Blaise Pascal* est considéré comme le premier ayant utilisé le raisonnement par recurrence de manière tout à fait explicite, on voit ce premier raisonnement dans le *Traité du triangle arithmétique* de 1654 où avec *le triangle de pascal* il montre qu'une proportion est dans toutes les bases (**diagonale de son triangle**)
+
+Toujours au *XVIIème siècle* *Pierre de Fermat* et *Jacques Bernouilli* 
