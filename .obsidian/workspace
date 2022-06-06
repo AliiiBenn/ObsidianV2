@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
+            "file": "les limites de l'empirisme.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
+                "file": "les limites de l'empirisme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
+                "file": "les limites de l'empirisme.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,15 +156,15 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "les limites de l'empirisme.md",
+    "_Autres/templates/template Week.md",
+    "_Autres/templates/template Notes.md",
     "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
     "11 Passions/Philosophie/Philosophes/Hermann Ebbinghaus.md",
     "03 Mental/Les concepts/La mémoire/La mémoire.md",
     "11 Passions/Philosophie/Cours/La science/le principe du tiers exclu.md",
     "Les algorithmes de l'épreuve pratique.md",
-    "Pasted Image 20220429162340_689.png",
-    "03 Mental/Les concepts/La mémoire/la courbe de l'oubli.md",
-    "12 Projets/MOC Projets.md",
-    "12 Projets/Projets Actuels/Coder un jeu avec Marie/Coder un jeu avec Marie.md"
+    "Pasted Image 20220429162340_689.png"
   ]
 }

@@ -2,7 +2,7 @@
 MOC:
 Projets:
 tags:
-Date: <% tp.date.now("DD-MM-YYYY", -1) %>
+Date: <% tp.date.now("DD-MM-YYYY") %>
 ---
 
 ## <% tp.file.title %>

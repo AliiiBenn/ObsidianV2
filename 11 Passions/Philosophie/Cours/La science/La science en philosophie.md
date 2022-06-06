@@ -57,4 +57,13 @@ C'est parce que la science teste ces théories qu'on la croit autant mais c'est 
 
 #### B - L'empirisme : s'en tenir aux faits et à l'experience
 
-[[Hume]] s'inscrit dans un débat entre le 17ème et le 18ème entre [[le rationalisme]] et [[l'empirisme]]. [[Descartes]] était un [[le rationalisme|rationaliste]] qui pour rendre compte de la possibilité de la connaissance scientifique affirme l'existence et l'idée de *connaissance innées* [[Descartes et le rationalisme]]; Quant à lui, [[l'empirisme]] s'engage dans l'affirmation inverse donc que tout vient de l'*expérience* donc d'un contact direct avec [[le réel]] et pour eux c'est seulement ça qui peut fonder l'obectivité de [[La science]]. Il n'y aurait donc aucune connaissance innée dont les autres seraient déduites, [[L'esprit Humain]] ne serait donc qu'une *page blanche*.
+[[Hume]] s'inscrit dans un débat entre le 17ème et le 18ème entre [[le rationalisme]] et [[l'empirisme]]. [[Descartes]] était un [[le rationalisme|rationaliste]] qui pour rendre compte de la possibilité de la connaissance scientifique affirme l'existence et l'idée de *connaissance innées* [[Descartes et le rationalisme]]; Quant à lui, [[l'empirisme]] s'engage dans l'affirmation inverse donc que tout vient de l'*expérience* donc d'un contact direct avec [[le réel]] et pour eux c'est seulement ça qui peut fonder l'obectivité de [[La science]]. Il n'y aurait donc aucune connaissance innée dont les autres seraient déduites, [[L'esprit Humain]] ne serait donc qu'une *page blanche* qui va se remplir au contact du réel à partir de l'expérience. [[Aristote]] disait que "**rien n'est dans l'esprit qui ne fut d'abord dans le sens.**". Cette philosophie va mettre les maths au second plan ainsi que la déduction logique et va privilégier l'expérimentation.
+
+- Induire :
+	- Remonter les effets jusqu'à leur cause
+- Déduire
+	- descendre des causes jusqu'à leurs effets
+
+Cette attitude va au début favoriser le progrès des [[les sciences de la nature|sciences de la nature]] car souvent, [[le rationalisme]] faisait de belle théories mathématiques mais qui étaient fausses car ils ne souciaient pas de l'expérience
+
+L'empirisme va aussi montrer rapidement ses limites [[les limites de l'empirisme]]
