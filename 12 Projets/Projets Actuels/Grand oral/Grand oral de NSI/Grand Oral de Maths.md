@@ -17,7 +17,6 @@
 - L'histoire du raisonement par récurrence
 	- Avant le XVIIème siècle
 	- Le XVIIème siècle et ensuite
-	- aujourd'hui
 - A quoi sert le raisonnement par récurrence
 - Conclusion
 
@@ -30,7 +29,7 @@
 
 *le raisonnement par récurrence* fonctionne en 3 étapes, et comme dit plus haut a pour but de démontrer une propriété portant sur tous les entiers naturels. 
 
-...
+On a 
 
 ### L'histoire du raisonnement par récurrence
 
@@ -50,4 +49,9 @@ Durant le Moyen Âge européen, le philosophe et mathématicien *Levi ben Gersho
 
 *Blaise Pascal* est considéré comme le premier ayant utilisé le raisonnement par recurrence de manière tout à fait explicite, on voit ce premier raisonnement dans le *Traité du triangle arithmétique* de 1654 où avec *le triangle de pascal* il montre qu'une proportion est dans toutes les bases (**diagonale de son triangle**)
 
-Toujours au *XVIIème siècle* *Pierre de Fermat* et *Jacques Bernouilli* 
+Toujours au *XVIIème siècle* *Pierre de Fermat* et *Jacques Bernouilli* vont proposer pour l'un une méthode et pour l'autre une démonstration. Ils critiquent tous deux *la méthode d'induction* de *John Wallis* qui était une démonstration pour les premiers entiers et "ainsi de suite" c'est-à-dire une base de raisonnement par récurrence. *Fermat* va proposer la *méthode de la descente infinie* liée à la recurrence
+
+(**Soit P(n) une propriété faisant intervenir un entier naturel n. On cherche à démontrer que P(n) est fausse pour tout n. Pour cela, on raisonne par l'absurde. On suppose donc que pour un certain entier n, P(n) est vraie. On démontre par ailleurs que pour chaque entier naturel n pour lequel P(n) est vraie, il existe un entier naturel m strictement inférieur à n pour lequel P(m) est également vraie. On peut conclure que P(n) n'est jamais vraie, car la suite des entiers naturels vérifiant la propriété P ne peut pas être strictement décroissante et infinie.**)
+
+Quant à lui *Bernouilli* va proposer de démontrer le passage de *n* à *n+1* soit exactement le raisonnement par récurrence.  Ensuite, au cours du *XVIIIème et XIXème siècle* le raisonnement par reccurence fut de plus en plus utilisé pour aboutir à son normalisation. 
+
