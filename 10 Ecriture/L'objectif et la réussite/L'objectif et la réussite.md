@@ -65,7 +65,19 @@ Une fois que vous avez appris les quelques bases, vous vous sentirez beaucoup mi
 
 A vrai dire, je ne sais pas si cette phase est commune, je parle avec mon vécu. Vous allez continuer à apprendre et à devenir meilleur mais un jour vous allez avoir un blocage, une sensation d'un manque d'une chose en vous et quand cela arrive ne paniquez pas, c'est justement en paniquant que vous allez gacher tout votre travail et vos connaissances durement acquises. 
 
-Posez vous quelque part et cherchez ce qui peut vous manquer, que ce soit dans votre vie ou votre organisation
+Posez vous quelque part et cherchez ce qui peut vous manquer, que ce soit dans votre vie ou votre organisation. Vous allez finir par trouver et tout reviendra à la normale mais ne vous inquietez pas si cela prend du temps.
+
+##### L'expérimenté
+
+Une fois que vous êtes ici vous verrez bien la différence avec votre vous d'aujourd'hui et celui du début, aujourd'hui vous êtes quelqu'un de fort, vous dormez bien et pendant 8 heures, vous mangez mieux (en tout cas vous avez plus d'appétit), vous faites encore du sport, vous êtes tellement organisé que les gens vous prennent pour un fou, si possible vos connaissances sont stockées dans votre second cerveau, vous êtes le meilleur dans votre passion et l'essentiel, vous êtes sur la fin de la quête de l'heureux
+
+##### L'expert
+
+une fois expert, vous avez fini la phase principale de vôtre quête, vous êtes enfin heureux, votre organisation est parfaite, vous vous endormez comme un bébé tous les soirs et votre horloge interne est complètement fixe, vous avez continué le sport et les premiers bon résultats sont déjà présents, vous avez votre belle petite morning routine etc... (suite demain)
+
+##### Le maitre
+
+(Partage des connaissances etc...)
 
 ### Les avantages de cette vie
 
@@ -81,6 +93,8 @@ Posez vous quelque part et cherchez ce qui peut vous manquer, que ce soit dans v
 #### Le sport
 
 #### L'organisation
+
+#### Le second cerveau
 
 #### La nutririon
 
