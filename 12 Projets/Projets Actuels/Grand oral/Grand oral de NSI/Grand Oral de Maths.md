@@ -29,7 +29,25 @@
 
 *le raisonnement par récurrence* fonctionne en 3 étapes, et comme dit plus haut a pour but de démontrer une propriété portant sur tous les entiers naturels. 
 
-On a 
+On a $u0 = 0, un+1=2un+1$ et on veut démontrer que $un = 2^n - 1$ 
+
+On commence avec l'initialisation, c'est  dire qu'on va tester la propriété pour $n=0$
+
+$u0=2^0-1$
+$0 = 1 - 1$
+$0 = 0$
+
+donc la propriété est vrai au rang 0
+
+On passe à l'hérédité :
+
+On suppose que pour tout entier naturel *k*, la propriété P(k) est vraie c'est à dire $uk = 2^k - 1$ c'est ce qu'on appelle l'hypothèse de récurrence
+
+On cherche alors à démontrer que (Pk+1) est vraie
+
+$uk+1=2^(k+1) - 1$
+
+on part de l'hypothèse de récurrence
 
 ### L'histoire du raisonnement par récurrence
 
