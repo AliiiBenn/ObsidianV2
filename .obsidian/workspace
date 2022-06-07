@@ -7,8 +7,12 @@
         "id": "50d1dbe75e381602",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -149,15 +155,15 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
+    "Home.md",
+    "Library.md",
+    "Mon organisation.md",
     "02 informatique/Langages Informatique/Langages Algorithmique/Python/NSI/Chapitres NSI/Les structures de données/Les graphes/Voisinage et adjacence.md",
     "02 informatique/MOC Informatique.md",
     "11 Passions/Philosophie/Le stoicisme/Le stoicisme.md",
     "11 Passions/Philosophie/Le stoicisme/les stoiciens.md",
     "11 Passions/Philosophie/Cours/Le Bonheur/Le Bonheur.md",
-    "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
-    "11 Passions/Philosophie/Cours/Temps Et Existence/Temps Et Existence.md",
-    "11 Passions/Philosophie/Philosophes/Zenon de Kition.md",
-    "11 Passions/Philosophie/Cours/Temps Et Existence/Saint-Augustin et le temps.md",
-    "11 Passions/Philosophie/Cours/Temps Et Existence/Aristote et le temps.md"
+    "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md"
   ]
 }
