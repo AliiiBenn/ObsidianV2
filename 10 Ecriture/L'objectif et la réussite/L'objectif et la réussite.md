@@ -97,7 +97,18 @@ Maintenant que vous avez un meilleur contrôle de vous même, vous pouvez commen
 
 #### Comment le changer
 
-dire qu'on veut changer le monde peut sembler beaucoup grand mais non, il faut voir les choses autrement si vous all
+dire qu'on veut changer le monde peut sembler beaucoup grand mais non, il faut voir les choses autrement si vous aidez quelqu'un à accomplir ses objectif, vous n'allez pas changer le monde mais changer son monde, c'est cela que l'on recherche. Il faut changer le monde de quelques personnes puis chaque jour augmenter cette echelle.
+
+Plusieurs choix s'offrent à vous, vous pouvez vendre vos services, faires des cours sur votre domaine principal ou alors chercher à aider les gens à changer de vie avec tous ce que vous avez appris et dans ce cas la vous deviendrez [[#Le maitre|un maitre]].
+
+Le but n'est pas de tout faire pour les gens et ne plus profiter bien au contraire, faites des choses pour les gens mais faites toujours en sorte soit que cela soit aussi à votre avantage ou que cela vous prenne assez peu de temps pour que ce ne soit pas grave si ce n'est pas à votre avantage par exemple :
+
+vendre votre formation : vous aidez des gens mais vous gagnez aussi de l'argent
+vous faites un livre ou un e-book : idem vous aidez mais vous gagnez de l'argent
+vous faites des cours sur internet : généralement la plateforme va vous rémunerer
+etc...
+
+Dans tous les cas vous y gagnez aussi 
 
 ### pourquoi cette vision peut tout changer
 
