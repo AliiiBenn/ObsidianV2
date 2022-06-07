@@ -7,12 +7,8 @@
         "id": "50d1dbe75e381602",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,15 +150,15 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "11 Passions/Philosophie/Cours/Temps Et Existence/Temps Et Existence.md",
+    "11 Passions/Philosophie/Le stoicisme/les stoiciens.md",
+    "11 Passions/Philosophie/Philosophes/Zenon de Kition.md",
+    "11 Passions/Philosophie/Le stoicisme/Le stoicisme.md",
+    "11 Passions/Philosophie/Cours/Temps Et Existence/Saint-Augustin et le temps.md",
+    "11 Passions/Philosophie/Cours/Temps Et Existence/Aristote et le temps.md",
     "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
-    "11 Passions/Philosophie/Cours/La science/les limites de l'empirisme.md",
-    "11 Passions/Philosophie/Cours/La science/Kant et la révolution copernicienne.md",
-    "11 Passions/Science/La science.md",
-    "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
-    "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
-    "11 Passions/Philosophie/Philosophes/Hume.md",
-    "11 Passions/Philosophie/Cours/La science/Hume et les sciences de la nature.md",
-    "11 Passions/Philosophie/Cours/La science/Hume et le scepticisme envers la science.md",
-    "11 Passions/Philosophie/Cours/La science/Descartes et le rationalisme.md"
+    "11 Passions/Philosophie/Cours/Temps Et Existence/Platon et le temps.md",
+    "11 Passions/Philosophie/Cours/Temps Et Existence/Parménide d'Elée et le temps.md",
+    "11 Passions/Philosophie/Les présocratique/Héraclite et le temps.md"
   ]
 }
