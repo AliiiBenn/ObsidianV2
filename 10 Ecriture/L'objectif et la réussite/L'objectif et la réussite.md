@@ -81,6 +81,24 @@ une fois expert, vous avez fini la phase principale de vôtre quête, vous êtes
 
 ### Les avantages de cette vie
 
+Je ne pourrais dire tous les avantages de cette vie tellement il y en a mais, pour résumer :
+
+vous allez devenir organisés, sportifs, les meilleirs dans votre domaine, vous allez avior plus de facilité à apprendre, vous vous sentirez forts, vous allez prendre confiance en vous et surtout vous allez être heureux. 
+
+Cette vie peut être compliquée à atteindre mais avec assez de motivation tout se passera bien et ça va payer
+
+Je pense que ce qui est le plus important est surtout le bien être en plus de [[L'heureux]], avec cette vie on se sent mieux, on voit que nos projets avancent, que notre santé va aller de mieux de mieux et qu'on se sent surtout reveillé.
+
+### Ne pas oublier l'objectif 
+
+L'un de vos *objectif principal* est aussi de changer le monde à votre échelle. Cette partie est externe car elle peut ne pas être utile pour quelqu'un qui ne le veut pas.
+
+Maintenant que vous avez un meilleur contrôle de vous même, vous pouvez commencer à "*changer le monde*", bien sûr il ne faut pas forcément être expert pour atteindre cet objectif, un expérimenté peut très bien y arriver. 
+
+#### Comment le changer
+
+dire qu'on veut changer le monde peut sembler beaucoup grand mais non, il faut voir les choses autrement si vous all
+
 ### pourquoi cette vision peut tout changer
 
 ### Comment avoir cette vie
