@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
+            "file": "11 Passions/Philosophie/Le stoicisme/Le stoicisme.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
+                "file": "11 Passions/Philosophie/Le stoicisme/Le stoicisme.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,11 +102,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
+                "file": "11 Passions/Philosophie/Le stoicisme/Le stoicisme.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
-                  "localJumps": 1,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": false,
@@ -125,8 +125,8 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.017341529915832644,
-                  "close": false
+                  "scale": 0.18462326225858183,
+                  "close": true
                 }
               }
             }
@@ -147,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,15 +155,15 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "11 Passions/Philosophie/Le stoicisme/Le stoicisme.md",
+    "11 Passions/Philosophie/Le stoicisme/les stoiciens.md",
+    "11 Passions/Philosophie/Cours/Le Bonheur/Le Bonheur.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
     "11 Passions/Philosophie/Cours/Temps Et Existence/Temps Et Existence.md",
-    "11 Passions/Philosophie/Le stoicisme/les stoiciens.md",
     "11 Passions/Philosophie/Philosophes/Zenon de Kition.md",
-    "11 Passions/Philosophie/Le stoicisme/Le stoicisme.md",
     "11 Passions/Philosophie/Cours/Temps Et Existence/Saint-Augustin et le temps.md",
     "11 Passions/Philosophie/Cours/Temps Et Existence/Aristote et le temps.md",
     "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
-    "11 Passions/Philosophie/Cours/Temps Et Existence/Platon et le temps.md",
-    "11 Passions/Philosophie/Cours/Temps Et Existence/Parménide d'Elée et le temps.md"
+    "11 Passions/Philosophie/Cours/Temps Et Existence/Platon et le temps.md"
   ]
 }
