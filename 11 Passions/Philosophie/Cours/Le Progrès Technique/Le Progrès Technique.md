@@ -19,7 +19,15 @@ On pourrait penser que des animaux comme [[les abeilles]] font preuve de techniq
 
 Le fait que [[L'Homme]] ai inventé des techniques résulte d'une [[la consience|conscience]] réfléchie qui est consciente d'elle même, l'homme a ce pouvoir de se penser lui-même et pouvoir dire non à [[la nature]]. Il a le pouvoir de [[le bonheur et les désirs|désirer]] des choses que [[la nature]] n'a pas prévue pour lui.
 
-[[L'Homme]] va aussi inventer des techniques dans le but de satisfaire *ses besoins naturels et vitaux* et ainsi augementer sa puissance de survie.  On pense aussi que *la technique* fut l'une des premières manifestations de [[l'intelligence ]]
+[[L'Homme]] va aussi inventer des techniques dans le but de satisfaire *ses besoins naturels et vitaux* et ainsi augementer sa puissance de survie.  On pense aussi que *la technique* fut l'une des premières manifestations de [[l'intelligence humaine]].
+
+Attention, il ne faut pas penser que des animaux qui utilisent des objets pour arriver à leur fin tels que des singes qui pourraient utiliser une branche pour faire tomber un fruit ou utiliser une pierre pour casser une noix font preuve de *technique*. Une vraie *démarche technicienne* consiste à frabriquer des outils ayant pour but d'en fabriquer d'autre etc... Par exemple, seul [[L'Homme]] utilise une pierre pour en tailler une autre avec pour but final de fabriquer une flèche pour chasser. Il détourne les choses de leur fonction naturelle pour les transformer en outils à produire puis en outils à fabriquer des outils etc.. dans un processus qui semble infini. 
+
+On pourrait penser que *la technique* fait partie intégrante de *l'humanité* de l'essence de [[L'Homme]] qui exprime sa liberté face à [[la nature]].
+
+[[Bergson]] pense que l'on devrait cesser de définir l'homme seulement comme [[l'homo sapiens]] mais aussi comme [[l'homo faber]]. [[Bergson et l'homo faber]].
+
+
 
 #### B - Histoire de la nature : artisanat et industrie
 
