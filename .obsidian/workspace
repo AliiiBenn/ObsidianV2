@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
-            "mode": "preview",
+            "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,6 +155,7 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
     "Home.md",
     "Mon organisation.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
@@ -163,7 +164,6 @@
     "02 informatique/Langages Informatique/Langages Algorithmique/Python/NSI/Chapitres NSI/Les structures de données/Les graphes/Voisinage et adjacence.md",
     "02 informatique/MOC Informatique.md",
     "11 Passions/Philosophie/Le stoicisme/Le stoicisme.md",
-    "11 Passions/Philosophie/Le stoicisme/les stoiciens.md",
-    "11 Passions/Philosophie/Cours/Le Bonheur/Le Bonheur.md"
+    "11 Passions/Philosophie/Le stoicisme/les stoiciens.md"
   ]
 }

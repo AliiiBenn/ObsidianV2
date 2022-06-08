@@ -90,7 +90,13 @@ Mais, qu'est-ce qui nous permet d'affirmer que [[le réel]] et soi est tel que [
 
 notre sensibilité est structurée par deux formes d'a priori, [[l'espace]] et [[Temps Et Existence|le temps]]. Les choses se manifestent à nous dans *le temps et l'espace* parce que ce sont les deux structures qui définissent à priori notre sensibilité. Cela montre que même le rapport sensible [[le réel|au réel]] n'a rien de direct, il n'y a jamais de contact durect avec ce qui est. 
 
-Dès qu'on a affaire à une vision organisée [[le réel|du réel]] on peut être certains que sont intervenus des pricipes organisateurs à priori amenés par nos facultés. Nos sens ne sont pas des capteurs neutres , pas plus que notre esprit est une page blanche. Ses concepts expliquent le passage de l'expérience à [[La science]]. L'a priori existe nécessairement pour [[Kant]] même si nouis croyons que le réel nous apparait directement.
+Dès qu'on a affaire à une vision organisée [[le réel|du réel]] on peut être certains que sont intervenus des pricipes organisateurs à priori amenés par nos facultés. Nos sens ne sont pas des capteurs neutres , pas plus que notre esprit est une page blanche. Ses concepts expliquent le passage de l'expérience à [[La science]]. L'a priori existe nécessairement pour [[Kant]] même si nouis croyons que le réel nous apparait directement. Ce qui prouve sone xistence c'est l'existence des visions organisées *du réel*. 
+
+Pour pouvoir sortir [[le réel|du réel]] c'est avoir un point de comparaison, pouvoir en sortir, avoir un contact direct avec le réel or c'est impossible car à tout contact avec le réel nos principes organisateurs à priori se déclenchent. 
+
+Selon [[Kant]] toute connaissance débute et se termine avec l'expérience, ce qui donne raison à [[l'empirisme]] mais sans que cela signifie que cela signifie que l'expérience puisse être la cause de la connaissance ce qui donne tort à [[l'empirisme]]. 
+
+Puisque toute connaissance provient d'un esdprit conditionné à priori par certaines règles logiques elle rend impossible l'idée d'un [[le savoir absolu|savoir absolu]] d'une [[La science|science]] qui montrerait [[le réel]] tel qu'il est en soi. Comme le disais [[Kant]] "**nous ne connaissons que des phénomènes, jamais la chose en soi...**" Ce monde de phénomène n'est pas une vision fausse [[le réel|du réel]]
 
 
 
