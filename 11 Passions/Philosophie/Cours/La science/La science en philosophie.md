@@ -100,7 +100,11 @@ Puisque toute connaissance provient d'un esdprit conditionné à priori par cert
 
 #### D - L'épistémologie contemporaine
 
-Le terme *épistémologie* signifie étude rationnelle de [[La science]]. La révolution copernicienne de Kant a tiré comme léçon que **rien n'est donné, tous est construit en matière de faits**, l'expérience n'instruit pas, elle ne nous apprend rien par elle même, mais seulement en fonction d'initiatives théoriques. Expérimenter c'est donc provoquer certains faits n'existant pas comme tel à l'état naturel, ordre qui a été mis par nous même
+Le terme *épistémologie* signifie étude rationnelle de [[La science]]. La révolution copernicienne de Kant a tiré comme léçon que **rien n'est donné, tous est construit en matière de faits**, l'expérience n'instruit pas, elle ne nous apprend rien par elle même, mais seulement en fonction d'initiatives théoriques. Expérimenter c'est donc provoquer certains faits n'existant pas comme tel à l'état naturel, ordre qui a été mis par nous même. L'obsercation sensible n'est fertile que si l'on y attend confirmation ou réfutation d'une théorie qui la précède et que l'on a inventée indépendamment d'elle. C'est grace à l'expérience que [[Claude Bernard]] a découvert [[la fonction glycogénique du foie]].
+
+Nous voyons bien que l'expérience a un fort impact sur nous et notre besoin de [[les vérités absolues|vérités absolues]], une expérience permet de prouver définitivement qu'une théorie est fausse et n'apportera jamais la preuve qu'elle est [[la vérité]]
+
+[[Karl Popper]] parle dans [[la théorie de la falsificabilité]] de la portée falsificatrice de l'expérience
 
 
 
