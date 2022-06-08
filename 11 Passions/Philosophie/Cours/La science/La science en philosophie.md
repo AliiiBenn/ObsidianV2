@@ -96,7 +96,11 @@ Pour pouvoir sortir [[le réel|du réel]] c'est avoir un point de comparaison, p
 
 Selon [[Kant]] toute connaissance débute et se termine avec l'expérience, ce qui donne raison à [[l'empirisme]] mais sans que cela signifie que cela signifie que l'expérience puisse être la cause de la connaissance ce qui donne tort à [[l'empirisme]]. 
 
-Puisque toute connaissance provient d'un esdprit conditionné à priori par certaines règles logiques elle rend impossible l'idée d'un [[le savoir absolu|savoir absolu]] d'une [[La science|science]] qui montrerait [[le réel]] tel qu'il est en soi. Comme le disais [[Kant]] "**nous ne connaissons que des phénomènes, jamais la chose en soi...**" Ce monde de phénomène n'est pas une vision fausse [[le réel|du réel]]
+Puisque toute connaissance provient d'un esdprit conditionné à priori par certaines règles logiques elle rend impossible l'idée d'un [[le savoir absolu|savoir absolu]] d'une [[La science|science]] qui montrerait [[le réel]] tel qu'il est en soi. Comme le disais [[Kant]] "**nous ne connaissons que des phénomènes, jamais la chose en soi...**" Ce monde de phénomène n'est pas une vision fausse [[le réel|du réel]], c'est quelque chose du réel mais simplement l'une des visions que l'on peut se faire de ce fait notre science permet d'établir *une vérité* et non [[la vérité]]
+
+#### D - L'épistémologie contemporaine
+
+Le terme *épistémologie* signifie étude rationnelle de [[La science]]. La révolution copernicienne de Kant a tiré comme léçon que **rien n'est donné, tous est construit en matière de faits**, l'expérience n'instruit pas, elle ne nous apprend rien par elle même, mais seulement en fonction d'initiatives théoriques. Expérimenter c'est donc provoquer certains faits n'existant pas comme tel à l'état naturel, ordre qui a été mis par nous même
 
 
 
