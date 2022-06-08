@@ -1,9 +1,10 @@
 ---
-alias: ["000", "Home", "Hub", "Index"]
 banner_icon: 🏠
 banner: "![[forest.jpg]]"
 banner_y: 0.96371
 ---
+
+*Il n’existe que deux façons de vivre votre vie.L’une comme si rien n’était un miracle.L’autre comme si tout était un miracle. ALBERT EINSTEIN*
 
 # Home 🌎
 
