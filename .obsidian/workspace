@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+            "file": "04 Gestion des connaissances/l'effet dunning-kruger/l'effet dunning-kruger.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+                "file": "04 Gestion des connaissances/l'effet dunning-kruger/l'effet dunning-kruger.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+                "file": "04 Gestion des connaissances/l'effet dunning-kruger/l'effet dunning-kruger.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,15 +155,15 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "04 Gestion des connaissances/l'effet dunning-kruger/l'effet dunning-kruger.md",
+    "04 Gestion des connaissances/La structure de mon second cerveau/les Map Of Content.md",
+    "04 Gestion des connaissances/La structure de mon second cerveau/Les notes.md",
     "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
     "11 Passions/Science/La science.md",
     "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
     "Home.md",
     "Mon organisation.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
-    "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
-    "Library.md",
-    "02 informatique/Langages Informatique/Langages Algorithmique/Python/NSI/Chapitres NSI/Les structures de données/Les graphes/Voisinage et adjacence.md",
-    "02 informatique/MOC Informatique.md"
+    "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md"
   ]
 }
