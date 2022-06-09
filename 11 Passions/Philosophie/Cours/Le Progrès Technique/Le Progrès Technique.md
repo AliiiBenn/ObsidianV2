@@ -51,19 +51,22 @@ Cette révolution a fait apparaitre des nouveaux outils, les *machines* ou *outi
 *Les machines* ont remplacé [[L'Homme]] et les animaux pour les soulager des peines et pénibles travaux mais en ont au final crées des nouveaux tel que *le travail à la chaine, le chomage de masse, la pollution etc...*
 De plus depuis [[la révolution informatique]] [[L'Homme]] devient de moins en moins utile et aujourd'hui on ne cherche plus de la dextérité manuelle mais des connaissances scientifiques.
 
-[[Martin Heidegger]] fait la différence de l'*artisanat* à l'*industrie*
+[[Martin Heidegger]] fait la différence de l'*artisanat* à l'*industrie* avec un pont construit au-dessus du Rhin ou un moulin sur ses rives et un barrage assorti d'une centrale hydraulique. L'un contourne un obstacle naturel ou l'utilise à on avantage sans changer la nature pendant que l'autre la réduit à état d'objet pour être plus puissante.
 
+Pour conclure, *la technique* renvoie à ce qu'elle produit mais aussi au type de pensée qu'elle implique. L'univers de la technique est l'univers de l'utile  où tout est moyen et non fin en soi où l'on est toujours en quête de plus de [[La productivité|productivité]]. Un bon technicien est une personne qui arrive à instrumentaliser les choses dans le but de le rendre moyens utiles.
 
 ### Chapitre 2 - La technique : amie ou ennemie de l'homme
 
 #### A - La sagesse de l'Antiquité : contempler la nature
+
+Dans [[l'Antiquité]], *la technique* n'est pas une activité noble, selon eux elle rappelle l'animalité qu'il y a dans [[L'Homme]] car elle est uniquement destinés à satisfaires les besoins vitaux de [[L'Homme]]
 
 #### B - La puissance des modernes : maitriser la nature
 
 #### C - Le nouveau défi post-moderne : maitriser la technique
 
 
-
+[[]]
 
 ---
 ### Liens :

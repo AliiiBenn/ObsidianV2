@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "84fae94fbadf4faf",
@@ -125,7 +126,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.13168724279835456,
+                  "scale": 0.047787637109624824,
                   "close": true
                 }
               }
@@ -156,14 +157,14 @@
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
     "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+    "04 Gestion des connaissances/l'effet dunning-kruger/l'effet dunning-kruger.md",
+    "04 Gestion des connaissances/l'effet dunning-kruger/Comment éviter l'effet dunning-kruger.md",
     "11 Passions/Philosophie/Cours/Le Progrès Technique/Bergson et l'homo faber.md",
     "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
     "02 informatique/Algorithmes/Structures de données/Structures de données.md",
     "02 informatique/MOC Informatique.md",
     "02 informatique/Algorithmes/Algorithmes de recherche/Algorithmes de recherche.md",
     "02 informatique/Algorithmes/Algorithmes de tri/Algorithmes de tri.md",
-    "02 informatique/Algorithmes/Algorithmes de tri/Bubble Sort.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
-    "02 informatique/Algorithmes/Structures de données/Liste chainées/Listes chaînées.md"
+    "02 informatique/Algorithmes/Algorithmes de tri/Bubble Sort.md"
   ]
 }
