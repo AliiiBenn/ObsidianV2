@@ -129,11 +129,15 @@ Je pense que ce n'est pas utile de dire pourquoi le sport est utile mais je vais
 Je vais d'abord raconter comment en simplement 3 mois ma vie a changé avec le sport. Avant de faire du sport j'avais très mal partout que ce soit aux articulations, au dos, à la nuque etc... j'avais beaucoup de difficultés à m'endormir, je mangeais "bizarrement" et j'avais du mal à me concentrer (surement à cause de ma perte de mémoire : voir => [[ma perte de mémoire]] et => [[Comment ma perte de mémoire a changé ma vie]]). 
 Puis, un jour grâce à mon meilleur ami je me suis mis au sport, j'ai commencé par 4 séances par semaine. Au début c'etait dur, je faisais peu et ça me faisait mal mais j'ai continué et aujourd'hui je fais 5 à 6 séances par semaine, je n'ai plus aucune douleur, je me tiens droit, maintenant je dors comme un petit bébé quand je ne fais pas d'insomnies (voir => [[mes insomnies]]), je mange comme un ours et j'ai jamais eu autant de facilités pour me concentrer.
 
-Le sport est plus qu'essentiel pour chacun, que ce soit pour la réussite dans la vie ou simplement pour votre santé. Bon, je ne suis pas coach sportif et ce n'est pas moi qui vais vous expliquer comment devenir un grand sportif à partir d'aujourd'hui. Mais, si je devais vous donner un seul 
+Le sport est plus qu'essentiel pour chacun, que ce soit pour la réussite dans la vie ou simplement pour votre santé. Bon, je ne suis pas coach sportif et ce n'est pas moi qui vais vous expliquer comment devenir un grand sportif à partir d'aujourd'hui. Mais, si je devais vous donner un seul conseil ça serait de rester motivé et de ne jamais lacher et de ne surtout pas vous trouver des excuses pour ne pas en faire car ça sera le début de la fin.
 
 #### L'organisation
 
+Alors, je pense que c'est assez logique de dire que l'organisation est essentielle pour avoir un mode de vie organisé.. Mais je vais vous expliquer ce qu'il faut faire pour devenir beaucoup plus organisé qu'avant. Si vous voulez devenir un véritable pro de l'organisation allez voir à => [[Comment devenir un pro de l'organisation ]]
+
 #### Le second cerveau
+
+[[Mon second cerveau]]
 
 #### La nutririon
 
