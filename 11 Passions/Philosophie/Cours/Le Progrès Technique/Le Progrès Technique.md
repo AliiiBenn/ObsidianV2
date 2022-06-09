@@ -67,7 +67,13 @@ Au plus haut, il y a [[la théoria]] qui désigne tous ceux qui détiennent un s
 
 Pour [[Aristote]], c'est [[L'esprit Humain]] qui constitue chez [[L'Homme]] sa part de *divin* car c'est le seul qui a le pouvoir de décider par lui même. De ce fait, cultiver et maitriser son esprit doit être une fin en soi, c'est [[Le Progrès Spirituel]] et non *Le Progrès Technique* qui fait s'accomplir [[L'Homme]] en tant [[L'Homme|qu'homme]] qui se réalise en devenant plus savant et plus sage et non plus habile et puissant.
 
-Ce mépris pour [[la poiesis]] vient du fait qu'elle utilise les connais
+Ce mépris pour [[la poiesis]] vient du fait qu'elle utilise les connaissances pour autre chose qu'elles-mêmes, l'esprit n'est pas une valeur en soi mais un vulgaire moyen au service de la production de biens. 
+
+Malgré tout, [[Aristote]] admet qu'un certain confort matériel doit être assuré et que c'est grace à *la technique*, qu'elle est utile à [[L'Homme]] mais uniquement pour l'aider à pratiquer des activirés plus hautes et essentielles et qu'elle doit rester à sa place, celle d'une chose utile.
+
+Il dira aussi que ce n'est pas parce qu'il a des mains que [[L'Homme]] est le plus intelligent mais parce qu'il est le plus intelligent qu'il a des mains. Donc, ce n'est pas son habilité qui l'a rend plus homme, plus conscient, plus libre mais l'inverse : sa conscience qui la a permis de développer un pouvoir *technique*. Il ne faut pas inverser l'ordre des causes et des effets. Selon lui, *la technique* est l'effet de notre liberté et non la cause. 
+
+Dans cette vision des chose, il y a une séparation entre *technique* et [[La science en philosophie|science]] car pour les penseur [[les grecs|grecs]] on ne doit pas trop les lier car [[la vérité]] doit être recherchée pour elle même 
 
 #### B - La puissance des modernes : maitriser la nature
 
