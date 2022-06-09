@@ -1,5 +1,5 @@
 tags : 
-links : [[Piles]], [[Informatique/Les langages/Python/Python]], [[Listes chaînées]], [[Savoir si une liste chainée est vide]]
+links : [[Les Piles]], [[Informatique/Les langages/Python/Python]], [[Listes chaînées]], [[Savoir si une liste chainée est vide]]
 
 ****
 

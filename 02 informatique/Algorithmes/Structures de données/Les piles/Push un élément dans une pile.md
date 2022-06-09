@@ -1,5 +1,5 @@
 tags : 
-links : [[Piles]], [[Informatique/Les langages/Python/Python]], [[Listes chaînées]], [[Ajouter un élément au début de la LC]]
+links : [[Les Piles]], [[Informatique/Les langages/Python/Python]], [[Listes chaînées]], [[Ajouter un élément au début de la LC]]
 
 ****
 

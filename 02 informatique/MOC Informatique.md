@@ -29,29 +29,11 @@ banner: "![[informatique.webp]]"
 
 ### Les algorithmes
 
-
-| Je veux...     | ...Apprendre les algorithmes de tri |
-| -------------- | ----------------------------------- |
-| Bubble Sort    | [[Bubble Sort]]                     |
-| Selection Sort | [[Selection Sort]]                  |
-| Insertion Sort | [[Insertion Sort]]                  |
-| Merge Sort     | [[Merge Sort]]                      |
-| QuickSort      | [[Quicksort]]                       |
-| Counting Sort  | [[Counting Sort]]                   |
-| Radix Sort     | [[Radix Sort]]                      |
-| Bucket Sort    | [[Bucket Sort]]                     |
-| Heap Sort      | [[Heap Sort]]                       |
-| Shell Sort     | [[Shell Sort]]                                    |
+[[Algorithmes de tri]]
 
 ---
 
-| Je veux...           | ...Apprendre les algorithmes de recherche |
-| -------------------- | ----------------------------------------- |
-| Liner Search         | [[Linear Search]]                         |
-| Binary Search        | [[Binary Search]]                         |
-| Jump Search          | [[Jump Search]]                           |
-| Interpolation Search | [[Interpolation Search]]                  |
-| Exponential Search   | [[Exponential Search]]                    | 
+[[Algorithmes de recherche]]
 
 ---
 
@@ -65,8 +47,8 @@ banner: "![[informatique.webp]]"
 | Je veux...                   | ...Apprendre les structures de données |
 | ---------------------------- | -------------------------------------- |
 | Listes Chaînées              | [[Listes chaînées]]                    |
-| Piles                        | [[Piles]]                              |
-| Files                        | [[Files]]                              |
+| Piles                        | [[Les Piles]]                              |
+| Files                        | [[Les Files]]                              |
 | Arbres binaires              | [[Arbres binaires]]                    |
 | Arbres binaires de recherche | [[Arbres binaires de recherche]]       |
 | Graphes                      | [[graphes]]                                       |

@@ -1,41 +1,37 @@
+tags : 
+links : [[Les structures de données]], [[020 MOC Informatique]], [[NSI]]
+
+****
+
+<h2 style="text-align: center;"> Piles </h2>
+
+****
 
 
-Up : [[MOC Informatique]]
 
-## Les piles
+### C'est quoi une pile ?
 
----
+Une **Pile** (ou _Stack_) est une structure de données linéaire dans laquelle les éléments sont accessibles selon une discipline **LIFO** (“**L**ast-**I**n **F**irst-**O**ut”) : l’élément inséré en dernier est le premier à sortir.
 
+-   Ajouter un élément dans la pile est appelé **empiler** ou **pousser** (**_push_**)
+-   Supprimer un élément de la pile est appelé **dépiler** (_**pop**_)
 
-### Qu'est-ce qu'une pile
+L’accès aux objets de la pile se fait grâce à un unique pointeur vers le **sommet** de la pile, appelé **_top_**.
 
-*Une pile* est un structure de données linéaire suivant la règle **LIFO** (“**L**ast-**I**n **F**irst-**O**ut”) : l’élément inséré en dernier est le premier à sortir. 
+### Créer une pile 
 
-#### Les méthodes d'une pile
-
-A vrai dire il n'y a que *deux méthode disponible* dans une pile mais on peut en rajouter une troisième :
-
-- On peut ajouter un élément dans la pile, on dit qu'on pousse un élément dans la pile (push)
-- On peut supprimer un élément dans la pile, on dit ici qu'on dépile la pile d'un élément (pop)
-- On peut regarder si la pile est vide
-
-Bien sur on peut ajouter des méthodes/fonctions supplémentaire à notre pile mais elle ne seront pas des méthodes principales, il y a par exemple une méthode qui permet de retourner un pile à l'aide de deux autres piles.
-
-### Créer une pile
-
-Pour créer une pile on peut suivre le pseudo code ci dessous
-
-```
-class Pile
-	constructeur
-		liste vide qui va contenir les éléments
-```
- 
-On va donc créer une nouvelle classe qui ne prend aucun argument mais qui aura un attribut de type liste de préférence qui va contenir les éléments de notre pile. Le code ci dessous nous montre comment créer une pile en langage [[Python]] :
+On peut créer une pile deux façons en [[Informatique/Les langages/Python/Python]], avec une liste ou avec une [[Listes chaînées]]. Ici nous allons utiliser une LC,
 
 ```python
 class Pile:
 	def __init__(self):
-		self.liste = []
+		self.listeC = ListeC()
 ```
 
+### L'interface d'une pile 
+
+L'interface d'une pile est assez simple car elle composée de seulement 3 méthodes,
+
+[[Savoir si une pile est vide]]
+[[Push un élément dans une pile]]
+[[Pop un élément dans un pile]]

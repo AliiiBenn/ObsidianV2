@@ -1,5 +1,5 @@
 tags : 
-links : [[Les arbres et les arbres binaires]], [[Les différents parcours d'un arbre]], [[Informatique/Les langages/Python/Python]], [[Files]]
+links : [[Les arbres et les arbres binaires]], [[Les différents parcours d'un arbre]], [[Informatique/Les langages/Python/Python]], [[Les Files]]
 
 ****
 

@@ -1,5 +1,5 @@
 tags : 
-links : [[Files]], [[Informatique/Les langages/Python/Python]], [[Piles]], [[Savoir si une pile est vide]], [[Pop un élément dans un pile]]
+links : [[Les Files]], [[Informatique/Les langages/Python/Python]], [[Les Piles]], [[Savoir si une pile est vide]], [[Pop un élément dans un pile]]
 
 ****
 
