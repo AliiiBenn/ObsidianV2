@@ -38,7 +38,11 @@ Quand on pense à la technique on pense surtout à ce qui est produit mais peu a
 
 [[Aristote]] définissait la technique comme "**[[L'art]] de trouver et d'agencer des moyens en vue de parvenir à une fin voulue au départ**". Cette définition montre bien ce que sont la pensée et l'intélligence technique car en effet toute technique est un moyen pour obtenir quelque chose de non naturel c'est-à-dire artificiel. La technique est un savoir, une forme d'intelligence, c'est ce qu'on appelle un *savoir-faire* donc que le but est de faire et que le savoir n'est qu'un moyen dont on se sert pour créer des moyens de faire.
 
-C'est grâce à [[La science en philosophie]] qui va découvrir par un enchainnement de causes et d'effets, par quelle lois est gouvernée [[la matière]] et donc [[la nature]]. De ce fait [[La science en philosophie|sciences]] et *techniques* sont indissociables. Les savants s'emploient à savoir pendant que les 
+C'est grâce à [[La science en philosophie]] qui va découvrir par un enchainnement de causes et d'effets, par quelle lois est gouvernée [[la matière]] et donc [[la nature]]. De ce fait [[La science en philosophie|sciences]] et *techniques* sont indissociables. Les savants s'emploient à savoir pendant que les ingénieurs transforment ce savoir en pouvoir. Tout ce que nous utilisons aujourd'hui que ce soit des fourchettes ou des fusées sont crées grâce à la technique et permettent d'augmenter notre [[La productivité|productivité]] d'ou la notion de *Progrès Technique*.
+
+Au *19ème siècle* lors de [[La Révolution Industrielle]] il y a eu un grand changement dans notre technique. Lors de cette periode, il y a eu une exploitation foudroyante de la nature ainsi que de notre [[La productivité|productivité]] et de nos de *changements sociaux*. Nous sommes passé d'une *technique artisanale* individuelle ou en petites collectivités au sein d'un atelier ou d'une fabrique à un mode industriel qui se passe en usine.
+
+Cette révolution a fait apparaitre des nouveaux outils, les *machines* ou *outil-machine*. Un nouvel outil révolutionnaire car il est *autonome*
 
 ### Chapitre 2 - La technique : amie ou ennemie de l'homme
 
