@@ -32,7 +32,13 @@ La question qui se pose est : est-ce que l'homme reduit simplement à sa techniq
 
 #### B - Histoire de la nature : artisanat et industrie
 
+La technique une certaine histoire, nous avons commencé avec la technique artisanale et nous sommes aujourd'hui dans une technique industrielle. Ce qu'il faut se demander c'est est-ce qu'on peut les mettre sur le même plan ?
 
+Quand on pense à la technique on pense surtout à ce qui est produit mais peu au fait que *la technique* est aussi une *attitude de pensée, une mentalité* qui elle a permis de créer ces fameux outils.
+
+[[Aristote]] définissait la technique comme "**[[L'art]] de trouver et d'agencer des moyens en vue de parvenir à une fin voulue au départ**". Cette définition montre bien ce que sont la pensée et l'intélligence technique car en effet toute technique est un moyen pour obtenir quelque chose de non naturel c'est-à-dire artificiel. La technique est un savoir, une forme d'intelligence, c'est ce qu'on appelle un *savoir-faire* donc que le but est de faire et que le savoir n'est qu'un moyen dont on se sert pour créer des moyens de faire.
+
+C'est grâce à [[La science en philosophie]] qui va découvrir par un enchainnement de causes et d'effets, par quelle lois est gouvernée [[la matière]] et donc [[la nature]]. De ce fait [[La science en philosophie|sciences]] et *techniques* sont indissociables. Les savants s'emploient à savoir pendant que les 
 
 ### Chapitre 2 - La technique : amie ou ennemie de l'homme
 
