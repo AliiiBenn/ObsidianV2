@@ -106,20 +106,27 @@ Le but n'est pas de tout faire pour les gens et ne plus profiter bien au contrai
 vendre votre formation : vous aidez des gens mais vous gagnez aussi de l'argent
 vous faites un livre ou un e-book : idem vous aidez mais vous gagnez de l'argent
 vous faites des cours sur internet : généralement la plateforme va vous rémunerer
-etc...
 
-Dans tous les cas vous y gagnez aussi 
 
-### pourquoi cette vision peut tout changer
+Dans tous les cas vous y gagnez aussi.
 
 ### Comment avoir cette vie
 
 #### La remise en question
 
+Pour avoir cette vie il faut clairement se remettre en question sur tout, absolument tout. Le but va être de tout réapprendre mais cette fois ci correctement. Cette remise en question se fait au début de votre quête et va s'arreter dès que vous allez devenir [[#L'initié|initié]] 
+
 #### L'objectif
-(se fixer un seul objectif....)
+
+Certains penseront différement la dessus mais, pour moi il faut se fixer un objectif et un seul. Par exemple mon objectif est et a été de devenir le meilleur développeur et c'est avec cet objectif que je suis motivé chaque jour à devenir meilleur
+
+Se fixer un objectif aussi difficile (voir même impossible) est efficace dans tous les domaines, il l'est dans le domaine de votre objectif, c'est-à-dire que vous allez vouloir produire 150% de vos compétences mais vous allez au final en produire "que" 120% pendant que les autres en produisent 80% mais j'en parle plus en détails dans => [[Comment exploser ses objectifs]]. Il l'est aussi dans tous les autres domaines car vouloir devenir le meilleur développeur implique d'avoir une vie différente, un sommeil irréprochable, un edt parfait etc...Donc cet objectif va améliorer votre vie en général.
 
 #### Le sport
+
+Je pense que ce n'est pas utile de dire pourquoi le sport est utile mais je vais quand même le faire.
+
+
 
 #### L'organisation
 
