@@ -38,11 +38,21 @@ Quand on pense à la technique on pense surtout à ce qui est produit mais peu a
 
 [[Aristote]] définissait la technique comme "**[[L'art]] de trouver et d'agencer des moyens en vue de parvenir à une fin voulue au départ**". Cette définition montre bien ce que sont la pensée et l'intélligence technique car en effet toute technique est un moyen pour obtenir quelque chose de non naturel c'est-à-dire artificiel. La technique est un savoir, une forme d'intelligence, c'est ce qu'on appelle un *savoir-faire* donc que le but est de faire et que le savoir n'est qu'un moyen dont on se sert pour créer des moyens de faire.
 
-C'est grâce à [[La science en philosophie]] qui va découvrir par un enchainnement de causes et d'effets, par quelle lois est gouvernée [[la matière]] et donc [[la nature]]. De ce fait [[La science en philosophie|sciences]] et *techniques* sont indissociables. Les savants s'emploient à savoir pendant que les ingénieurs transforment ce savoir en pouvoir. Tout ce que nous utilisons aujourd'hui que ce soit des fourchettes ou des fusées sont crées grâce à la technique et permettent d'augmenter notre [[La productivité|productivité]] d'ou la notion de *Progrès Technique*.
+C'est grâce à [[La science en philosophie|la science]] qui va découvrir par un enchainnement de causes et d'effets, par quelle lois est gouvernée [[la matière]] et donc [[la nature]]. De ce fait [[La science en philosophie|sciences]] et *techniques* sont indissociables. Les savants s'emploient à savoir pendant que les ingénieurs transforment ce savoir en pouvoir. Tout ce que nous utilisons aujourd'hui que ce soit des fourchettes ou des fusées sont crées grâce à la technique et permettent d'augmenter notre [[La productivité|productivité]] d'ou la notion de *Progrès Technique*.
 
 Au *19ème siècle* lors de [[La Révolution Industrielle]] il y a eu un grand changement dans notre technique. Lors de cette periode, il y a eu une exploitation foudroyante de la nature ainsi que de notre [[La productivité|productivité]] et de nos de *changements sociaux*. Nous sommes passé d'une *technique artisanale* individuelle ou en petites collectivités au sein d'un atelier ou d'une fabrique à un mode industriel qui se passe en usine.
 
-Cette révolution a fait apparaitre des nouveaux outils, les *machines* ou *outil-machine*. Un nouvel outil révolutionnaire car il est *autonome*
+Cette révolution a fait apparaitre des nouveaux outils, les *machines* ou *outil-machine*. 
+
+- Un nouvel outil révolutionnaire car il est *autonome*,  au lieu d'accompagner la main de [[L'Homme]] il la remplace et utilise d'autres [[les énergies|énergies]] que celles de [[L'Homme]] tel que [[la vapeur]] ou [[le nucléaire]] qui sont infiniment plus puissantes que celle de [[L'Homme]]. Ces [[les énergies|énergies]] ont été découvertes par [[La science en philosophie|la science]] puis maîtrisées et détournées par *la technique*. Ces outils ne laissent plus place aux défauts et ne produisent que de l'identitique car elles n'ont aucun savoir faire étant controlées par des algorithmes.
+
+- Quant à lui, l'*outil artisanal* est un outil tributaire de la main de [[L'Homme]] dans le but d'augmenter [[La productivité]] de cet Homme tout en ayant pour limite la force de cet Homme. Ces outils nécessite un certain savoir faire ainsi qu'une adresse qui va se développer à force de l'utiliser.
+
+*Les machines* ont remplacé [[L'Homme]] et les animaux pour les soulager des peines et pénibles travaux mais en ont au final crées des nouveaux tel que *le travail à la chaine, le chomage de masse, la pollution etc...*
+De plus depuis [[la révolution informatique]] [[L'Homme]] devient de moins en moins utile et aujourd'hui on ne cherche plus de la dextérité manuelle mais des connaissances scientifiques.
+
+[[Martin Heidegger]] fait la différence de l'*artisanat* à l'*industrie*
+
 
 ### Chapitre 2 - La technique : amie ou ennemie de l'homme
 
