@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 informatique/Algorithmes/Structures de données/Structures de données.md",
+            "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 informatique/Algorithmes/Structures de données/Structures de données.md",
+                "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 informatique/Algorithmes/Structures de données/Structures de données.md",
+                "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,15 +155,15 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+    "11 Passions/Philosophie/Cours/Le Progrès Technique/Bergson et l'homo faber.md",
+    "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
     "02 informatique/Algorithmes/Structures de données/Structures de données.md",
     "02 informatique/MOC Informatique.md",
     "02 informatique/Algorithmes/Algorithmes de recherche/Algorithmes de recherche.md",
     "02 informatique/Algorithmes/Algorithmes de tri/Algorithmes de tri.md",
     "02 informatique/Algorithmes/Algorithmes de tri/Bubble Sort.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
-    "02 informatique/Algorithmes/Structures de données/Liste chainées/Listes chaînées.md",
-    "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
-    "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md",
-    "Home.md"
+    "02 informatique/Algorithmes/Structures de données/Liste chainées/Listes chaînées.md"
   ]
 }

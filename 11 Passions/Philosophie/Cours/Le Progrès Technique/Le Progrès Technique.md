@@ -27,9 +27,12 @@ On pourrait penser que *la technique* fait partie intégrante de *l'humanité* d
 
 [[Bergson]] pense que l'on devrait cesser de définir l'homme seulement comme [[l'homo sapiens]] mais aussi comme [[l'homo faber]]. [[Bergson et l'homo faber]].
 
+La question qui se pose est : est-ce que l'homme reduit simplement à sa technique n'est pas qu'un animal *matériellement plus puissant* mais tout autant asservis à la nature ? Car se dire que c'est seulement *la technique* qui nous rend plus humains en se fixant des buts autres que celui de la nature qu'en est-il des idéaux tels que le beau, le bien etc... ? Ces idéaux ne sont en aucun cas atteignables uniquement à l'aide de l'aide de la technique.
 
 
 #### B - Histoire de la nature : artisanat et industrie
+
+
 
 ### Chapitre 2 - La technique : amie ou ennemie de l'homme
 
