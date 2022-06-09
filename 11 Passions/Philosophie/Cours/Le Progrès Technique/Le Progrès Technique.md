@@ -61,12 +61,20 @@ Pour conclure, *la technique* renvoie à ce qu'elle produit mais aussi au type d
 
 Dans [[l'Antiquité]], *la technique* n'est pas une activité noble, selon eux elle rappelle l'animalité qu'il y a dans [[L'Homme]] car elle est uniquement destinés à satisfaires les besoins vitaux de [[L'Homme]]
 
+[[Aristote]] restreint la porté de *la technique* à sa *matérialité* car sa seule fonction est de produire des biens de consommation. *La technique* est sous la résponsabilité d'une classe sociale appelée [[la poiesis]] c'est-à-dire *les producteurs, artisans, paysans et même les artistes*. De plus, la société Grecque est hiérarchisée, [[Aristote]] situe [[la poiesis]] au plus bas de l'échelle sociale.
+
+Au plus haut, il y a [[la théoria]] qui désigne tous ceux qui détiennent un savoir théorique, des connaissances sur [[la nature]] et sur [[L'Homme]] donc *les savants et les sages*. Au milieu il y a [[la praxis]] qui applique valeurs et lois dans la cité mais qui ne se préoccupe pas de [[l'économie]] qui est à la charge de [[la politique]]. [[la praxis]] s'occupe des fins pendant que [[la poiesis]] s'occupe des moyens. [[la praxis]] s'occupe des valeurs de la cité qui ne sont pas comprises seulement comme techniques mais plutot comme une affaire [[l'âme|d'âme]].
+
+Pour [[Aristote]], c'est [[L'esprit Humain]] qui constitue chez [[L'Homme]] sa part de *divin* car c'est le seul qui a le pouvoir de décider par lui même. De ce fait, cultiver et maitriser son esprit doit être une fin en soi, c'est [[Le Progrès Spirituel]] et non *Le Progrès Technique* qui fait s'accomplir [[L'Homme]] en tant [[L'Homme|qu'homme]] qui se réalise en devenant plus savant et plus sage et non plus habile et puissant.
+
+Ce mépris pour [[la poiesis]] vient du fait qu'elle utilise les connais
+
 #### B - La puissance des modernes : maitriser la nature
 
 #### C - Le nouveau défi post-moderne : maitriser la technique
 
 
-[[]]
+
 
 ---
 ### Liens :
