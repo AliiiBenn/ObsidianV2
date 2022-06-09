@@ -133,7 +133,7 @@ Le sport est plus qu'essentiel pour chacun, que ce soit pour la réussite dans l
 
 #### L'organisation
 
-Alors, je pense que c'est assez logique de dire que l'organisation est essentielle pour avoir un mode de vie organisé.. Mais je vais vous expliquer ce qu'il faut faire pour devenir beaucoup plus organisé qu'avant. Si vous voulez devenir un véritable pro de l'organisation allez voir à => [[Comment devenir un pro de l'organisation ]]
+Alors, je pense que c'est assez logique de dire que l'organisation est essentielle pour avoir un mode de vie organisé.. Mais je vais vous expliquer ce qu'il faut faire pour devenir beaucoup plus organisé qu'avant. Si vous voulez devenir un véritable pro de l'organisation allez voir à => [[Comment devenir un pro de l'organisation]]
 
 #### Le second cerveau
 
