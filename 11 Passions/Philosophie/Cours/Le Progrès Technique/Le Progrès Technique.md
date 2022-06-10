@@ -77,10 +77,13 @@ Dans cette vision des chose, il y a une séparation entre *technique* et [[La sc
 
 [[l'Antiquité]] [[les grecs|grecque]] se fait une vision contemplative des rapports entre [[L'Homme]] et [[la nature]] car perçue comme un être *divin*, intelligent, d'un [[le logos|logos]] dont [[L'Homme]] a reçu une partie. De ce fait le rapport entre [[L'Homme]] et [[la nature]] est un rapport [[la spititualité|spitituel]] et non *matériel*.
 
-[[la nature]] serait donc un ordre, 
+[[la nature]] serait donc un ordre, organisé et équilibré selon une intelligence suprême et ce fait [[L'Homme]] doit s'en inspirer, la connaitre et la prendre pour modèle ainsi que vivre en accord avec cette intelligence qui anime [[la nature]] tout en cherchant à l'améliorer et l'accompagner.
 
+Il y a déjà eu plusieurs [[les mythes|mythes]] cherchant à mettre en garde [[L'Homme]] contre toute approche matérielle de [[la nature]] avec par exemple [[le mythe de prométhée]] ou [[le mythe d'Icare]]. 
 
 #### B - La puissance des modernes : maitriser la nature
+
+
 
 #### C - Le nouveau défi post-moderne : maitriser la technique
 
