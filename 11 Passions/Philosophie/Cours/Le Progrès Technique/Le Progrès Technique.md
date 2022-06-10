@@ -75,8 +75,7 @@ Il dira aussi que ce n'est pas parce qu'il a des mains que [[L'Homme]] est le pl
 
 Dans cette vision des chose, il y a une séparation entre *technique* et [[La science en philosophie|science]] car pour les penseur [[les grecs|grecs]] on ne doit pas trop les lier car [[la vérité]] doit être recherchée pour elle même et non pour ses applications techniques, il faut que [[L'esprit Humain]] soit désintéressé donc qu'il connaissance uniquement dans le but de connaitre sans quoi il ne verrait du réel que la où il verrait une utilité materielle. 
 
-[[l'Antiquité]] [[les grecs|gracque]] se fait une vision contemplative des rapports entre [[L'Homme]] et [[la nature]] car perçue comme un être *divin*, intelligent, d'un [[le logos|logos]] dont [[L'Homme]] a reçu une partie. De ce fait le rapport entre [[L'Homme]] et 
-
+[[l'Antiquité]] [[les grecs|grecque]] se fait une vision contemplative des rapports entre [[L'Homme]] et [[la nature]] car perçue comme un être *divin*, intelligent, d'un [[le logos|logos]] dont [[L'Homme]] a reçu une partie. De ce fait le rapport entre [[L'Homme]] et 
 
 
 #### B - La puissance des modernes : maitriser la nature
