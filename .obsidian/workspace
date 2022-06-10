@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+            "file": "04 Gestion des connaissances/La structure de mon second cerveau/Notes Journalières.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+                "file": "04 Gestion des connaissances/La structure de mon second cerveau/Notes Journalières.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+                "file": "04 Gestion des connaissances/La structure de mon second cerveau/Notes Journalières.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +126,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224466,
+                  "scale": 0.2588386562181643,
                   "close": true
                 }
               }
@@ -152,10 +152,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 312.5
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "04 Gestion des connaissances/La structure de mon second cerveau/Notes Journalières.md",
     "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
     "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
     "04 Gestion des connaissances/l'effet dunning-kruger/l'effet dunning-kruger.md",
@@ -164,7 +165,6 @@
     "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
     "02 informatique/Algorithmes/Structures de données/Structures de données.md",
     "02 informatique/MOC Informatique.md",
-    "02 informatique/Algorithmes/Algorithmes de recherche/Algorithmes de recherche.md",
-    "02 informatique/Algorithmes/Algorithmes de tri/Algorithmes de tri.md"
+    "02 informatique/Algorithmes/Algorithmes de recherche/Algorithmes de recherche.md"
   ]
 }
