@@ -5,6 +5,6 @@
   "showWeeklyNote": true,
   "weeklyNoteFormat": "",
   "weeklyNoteTemplate": "",
-  "weeklyNoteFolder": "_Autres/Notes quotidiennes/Semaines",
+  "weeklyNoteFolder": "",
   "localeOverride": "system-default"
 }

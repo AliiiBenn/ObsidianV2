@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Autres/templates/template Daily.md",
+            "file": "13 Daily/Daily notes/10-06-2022.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Autres/templates/template Daily.md",
+                "file": "13 Daily/Daily notes/10-06-2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Autres/templates/template Daily.md",
+                "file": "13 Daily/Daily notes/10-06-2022.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +126,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18462326225858244,
+                  "scale": 0.13168724279835492,
                   "close": true
                 }
               }
@@ -156,15 +156,15 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "13 Daily/Daily notes/10-06-2022.md",
+    "11 Passions/Philosophie/Philosophie.md",
     "_Autres/templates/template Daily.md",
+    "04 Gestion des connaissances/La structure de mon second cerveau/Notes Journalières.md",
     "11 Passions/Philosophie/Philosophes/Parménide d'Elée.md",
     "11 Passions/Philosophie/Philosophes/Hume.md",
     "11 Passions/Philosophie/Philosophes/Platon.md",
     "11 Passions/Philosophie/Philosophes/Pythagore.md",
     "11 Passions/Philosophie/Philosophes/Rousseau.md",
-    "11 Passions/Philosophie/Philosophes/Saint-Augustin.md",
-    "11 Passions/Philosophie/Philosophes/Sartre.md",
-    "11 Passions/Philosophie/Philosophes/Zenon de Kition.md",
-    "11 Passions/Philosophie/Philosophes/Vladimir Jankélévitch.md"
+    "11 Passions/Philosophie/Philosophes/Saint-Augustin.md"
   ]
 }
