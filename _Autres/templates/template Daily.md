@@ -1,17 +1,10 @@
 
 
----
-###  <% tp.date.now("YYYY-MM-DD") %>
+# <%tp.date.now("YYYY-MM-DD")%>
+
+<< [[<%tp.date.now("YYYY-MM-DD", -1)%>]] - [[<%tp.date.now("YYYY-MM-DD", 1)%>]] >>
 
 ---
 
+### Rappels
 
-
-
-### Choses à faire
-
-### Temps de sommeil du jour
-
-### Bilan sport quotidien
-
-### Bilan nutritionnel

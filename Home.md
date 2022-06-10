@@ -41,7 +41,8 @@ banner_y: 0.96371
 | Je veux...          | ... Gerer ma vie  |
 | ------------------- | ----------------- |
 | Gerer mes projets   | [[MOC Projets]]   |
-| Gerer mes objectifs | [[MOC Objectifs]] | 
+| Gerer mes objectifs | [[MOC Objectifs]] |
+| Gerer mon quotidien | [[MOC Daily]]                  |
 
 ---
 
