@@ -91,7 +91,11 @@ Il va y avoir un cap décisif frachi avec [[Galilée]] qui grace à l'alliance e
 
 [[Descartes]] avait beaucoup d'enthousiasme pour tous les instruments techniques de son époque et critiquait le mépris [[les anciens|des anciens]] pour la technique car selon lui, [[L'Homme]] un jour arrivera à créer des *machines* capables de travailler à sa place ce qui mettra fin à l'*esclavage* et que *la technique* favorisera *le progrès scientifique et matériel* mais aussi *le progrès social et moral*
 
-[[Leonard de Vinci]] lui, avait déjà commencé à fabriquer des outils techniques bien avant de savoir comment les alimenter
+[[Leonard de Vinci]] lui, avait déjà commencé à fabriquer des outils techniques bien avant de savoir comment les alimenter. Il avait par exemple fait des plans pour des avions et des sou-marins.
+
+[[Les Lumières]] vont prioriser l'idée du *progrès humain*. Par exemple, [[Diderot]] accuse les mépris de [[l'Antiquité]] contre la technique. En même temps, [[L'Etat]] va changer, désormais on ne sépare plus [[l'économie]] et [[la politique]] c'est donc ici que va apparaitre l'idée de *L'Etat Libéral*, cela va donc faire en sorte que le *développement économique* va dépendre du *progrès technique*. Dans cette période, les jugements sur *la technique* vont changer et on va de plus en plus considérer que *la technique* fait partie intégrante de [[L'Homme]].
+
+[[Hegel]] va affirmer que *la technique* a aussi une *fonction psychique* car [[L'Homme]] peut s'extérioriser dans une matière en la transformant ce qui va permettre à [[L'esprit]] d'être plus conscient de lui même. Le fait de tra
 
 #### C - Le nouveau défi post-moderne : maitriser la technique
 
