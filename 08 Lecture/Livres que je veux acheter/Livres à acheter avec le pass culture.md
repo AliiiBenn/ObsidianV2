@@ -39,17 +39,17 @@ the subtle art of not giving a fuck
 
 ---
 
-| livres                                               | prix       | prix cumulé  |
-| ---------------------------------------------------- | ---------- | ------------ |
-| Atomic Habits                                        | 22 euros   | 22 euros     |
-| Deep Work                                            | 22.5 euros | 44.5 euros   |
-| Miracle Morning                                      | 7.7 euros  | 52.2 euros   |
-| Pourquoi nous dormons                                | 8.5 euros  | 60.7 euros   |
-| L'autoroute du millionaire                           | 24.9 euros | 85.6 euros   |
-| système 1 système 2 ; les deux vitesses de la pensée | 14 euros   | 99.6 euros   |
-| Philosophie                                          | 60 euros   | 160 euros    |
-| La semaine de 4 heures                               | 20.5 euros | 180.5 euros  |
-| Bullshit jobs                                        | 8.90 euros | 189.40 euros | 
+| livres                                               | prix       | prix cumulé  | acheté |
+| ---------------------------------------------------- | ---------- | ------------ | ------ |
+| Atomic Habits                                        | 22 euros   | 22 euros     | non    |
+| Deep Work                                            | 22.5 euros | 44.5 euros   | non    |
+| Miracle Morning                                      | 7.7 euros  | 52.2 euros   | oui    |
+| Pourquoi nous dormons                                | 8.5 euros  | 60.7 euros   | non    |
+| L'autoroute du millionaire                           | 24.9 euros | 85.6 euros   | oui    |
+| système 1 système 2 ; les deux vitesses de la pensée | 14 euros   | 99.6 euros   | non    |
+| Philosophie                                          | 60 euros   | 160 euros    | non    |
+| La semaine de 4 heures                               | 20.5 euros | 180.5 euros  | oui    |
+| Bullshit jobs                                        | 8.90 euros | 189.40 euros | oui    | 
 
 ---
 

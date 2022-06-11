@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "13 Daily/Daily notes/11-06-2022.md",
+            "file": "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 Daily/Daily notes/11-06-2022.md",
+                "file": "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "13 Daily/Daily notes/11-06-2022.md",
+                "file": "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,6 +156,7 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
     "13 Daily/Daily notes/11-06-2022.md",
     "11 Passions/Science/La science.md",
     "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
@@ -164,7 +165,6 @@
     "Mon organisation.md",
     "L'esprit.md",
     "13 Daily/Daily notes/10-06-2022.md",
-    "_Autres/templates/template Daily.md",
-    "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md"
+    "_Autres/templates/template Daily.md"
   ]
 }
