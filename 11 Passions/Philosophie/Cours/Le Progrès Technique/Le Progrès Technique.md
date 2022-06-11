@@ -89,7 +89,9 @@ Il va y avoir un cap décisif frachi avec [[Galilée]] qui grace à l'alliance e
 
 [[Descartes]] lui séparer [[la matière]] et [[L'esprit]] comme étant deux substances de [[la nature]] distinctes. Pour lui, [[la nature]] n'est qu'un objet *technique* tel une ingénieuse machinerie régis seulement par des lois [[les mathématique|mathématiques]]. [[L'Homme]] doit devenir *maitre et possesseur* de [[la nature]] et ce grâce à *la technique* qui doit et va devenir une proiorité essentielle.
 
-[[Descartes]] s'
+[[Descartes]] avait beaucoup d'enthousiasme pour tous les instruments techniques de son époque et critiquait le mépris [[les anciens|des anciens]] pour la technique car selon lui, [[L'Homme]] un jour arrivera à créer des *machines* capables de travailler à sa place ce qui mettra fin à l'*esclavage* et que *la technique* favorisera *le progrès scientifique et matériel* mais aussi *le progrès social et moral*
+
+[[Leonard de Vinci]] lui, avait déjà commencé à fabriquer des outils techniques bien avant de savoir comment les alimenter
 
 #### C - Le nouveau défi post-moderne : maitriser la technique
 
