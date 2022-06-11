@@ -95,7 +95,11 @@ Il va y avoir un cap décisif frachi avec [[Galilée]] qui grace à l'alliance e
 
 [[Les Lumières]] vont prioriser l'idée du *progrès humain*. Par exemple, [[Diderot]] accuse les mépris de [[l'Antiquité]] contre la technique. En même temps, [[L'Etat]] va changer, désormais on ne sépare plus [[l'économie]] et [[la politique]] c'est donc ici que va apparaitre l'idée de *L'Etat Libéral*, cela va donc faire en sorte que le *développement économique* va dépendre du *progrès technique*. Dans cette période, les jugements sur *la technique* vont changer et on va de plus en plus considérer que *la technique* fait partie intégrante de [[L'Homme]].
 
-[[Hegel]] va affirmer que *la technique* a aussi une *fonction psychique* car [[L'Homme]] peut s'extérioriser dans une matière en la transformant ce qui va permettre à [[L'esprit]] d'être plus conscient de lui même. Le fait de tra
+[[Hegel]] va affirmer que *la technique* a aussi une *fonction psychique* car [[L'Homme]] peut s'extérioriser dans une matière en la transformant ce qui va permettre à [[L'esprit]] d'être plus conscient de lui même. Le fait de transformer [[la nature]] va contribuer à la prise de conscience de lui même, au progrès de la conscience de soi mais pas seulement au progrès technique.
+
+Ce qui [[Aristote]] redoutait sur l'alliance de *la technique* et de [[La science]] va finalement être fructueux pour les deux car chacune utilise l'autre. Elles vont permettre *le progrès* c'est-à-dire que les découvertes *techniques* vont permettre de nouvelles découvertes *scientifiques* qui vont permettre de nouvelles découvertes *techniques* etc... 
+
+Malgrès le confort matériel acquis, le progrès technique va s'essouffler au *20ème siècle* avec les inquiètantes impasses écologiques et sociales.
 
 #### C - Le nouveau défi post-moderne : maitriser la technique
 
