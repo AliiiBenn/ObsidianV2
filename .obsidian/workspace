@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "13 Daily/Daily notes/11-06-2022.md",
+            "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 Daily/Daily notes/11-06-2022.md",
+                "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "13 Daily/Daily notes/11-06-2022.md",
+                "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,6 +156,8 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+    "L'esprit.md",
     "13 Daily/Daily notes/11-06-2022.md",
     "13 Daily/Daily notes/10-06-2022.md",
     "_Autres/templates/template Daily.md",
@@ -163,8 +165,6 @@
     "Comprendre les différents types de taches.md",
     "Comment organiser son agenda.md",
     "Le système de taches.md",
-    "Comment devenir un pro de l'organisation.md",
-    "10 Ecriture/L'heureux/L'heureux et les sacrifices.md",
-    "11 Passions/Philosophie/Philosophie.md"
+    "Comment devenir un pro de l'organisation.md"
   ]
 }

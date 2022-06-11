@@ -65,7 +65,7 @@ Dans [[l'Antiquité]], *la technique* n'est pas une activité noble, selon eux e
 
 Au plus haut, il y a [[la théoria]] qui désigne tous ceux qui détiennent un savoir théorique, des connaissances sur [[la nature]] et sur [[L'Homme]] donc *les savants et les sages*. Au milieu il y a [[la praxis]] qui applique valeurs et lois dans la cité mais qui ne se préoccupe pas de [[l'économie]] qui est à la charge de [[la politique]]. [[la praxis]] s'occupe des fins pendant que [[la poiesis]] s'occupe des moyens. [[la praxis]] s'occupe des valeurs de la cité qui ne sont pas comprises seulement comme techniques mais plutot comme une affaire [[l'âme|d'âme]].
 
-Pour [[Aristote]], c'est [[L'esprit Humain]] qui constitue chez [[L'Homme]] sa part de *divin* car c'est le seul qui a le pouvoir de décider par lui même. De ce fait, cultiver et maitriser son esprit doit être une fin en soi, c'est [[Le Progrès Spirituel]] et non *Le Progrès Technique* qui fait s'accomplir [[L'Homme]] en tant [[L'Homme|qu'homme]] qui se réalise en devenant plus savant et plus sage et non plus habile et puissant.
+Pour [[Aristote]], c'est [[L'esprit]] qui constitue chez [[L'Homme]] sa part de *divin* car c'est le seul qui a le pouvoir de décider par lui même. De ce fait, cultiver et maitriser son esprit doit être une fin en soi, c'est [[Le Progrès Spirituel]] et non *Le Progrès Technique* qui fait s'accomplir [[L'Homme]] en tant [[L'Homme|qu'homme]] qui se réalise en devenant plus savant et plus sage et non plus habile et puissant.
 
 Ce mépris pour [[la poiesis]] vient du fait qu'elle utilise les connaissances pour autre chose qu'elles-mêmes, l'esprit n'est pas une valeur en soi mais un vulgaire moyen au service de la production de biens. 
 
@@ -73,7 +73,7 @@ Malgré tout, [[Aristote]] admet qu'un certain confort matériel doit être assu
 
 Il dira aussi que ce n'est pas parce qu'il a des mains que [[L'Homme]] est le plus intelligent mais parce qu'il est le plus intelligent qu'il a des mains. Donc, ce n'est pas son habilité qui l'a rend plus homme, plus conscient, plus libre mais l'inverse : sa conscience qui la a permis de développer un pouvoir *technique*. Il ne faut pas inverser l'ordre des causes et des effets. Selon lui, *la technique* est l'effet de notre liberté et non la cause. 
 
-Dans cette vision des chose, il y a une séparation entre *technique* et [[La science en philosophie|science]] car pour les penseur [[les grecs|grecs]] on ne doit pas trop les lier car [[la vérité]] doit être recherchée pour elle même et non pour ses applications techniques, il faut que [[L'esprit Humain]] soit désintéressé donc qu'il connaissance uniquement dans le but de connaitre sans quoi il ne verrait du réel que la où il verrait une utilité materielle. 
+Dans cette vision des chose, il y a une séparation entre *technique* et [[La science en philosophie|science]] car pour les penseur [[les grecs|grecs]] on ne doit pas trop les lier car [[la vérité]] doit être recherchée pour elle même et non pour ses applications techniques, il faut que [[L'esprit]] soit désintéressé donc qu'il connaissance uniquement dans le but de connaitre sans quoi il ne verrait du réel que la où il verrait une utilité materielle. 
 
 [[l'Antiquité]] [[les grecs|grecque]] se fait une vision contemplative des rapports entre [[L'Homme]] et [[la nature]] car perçue comme un être *divin*, intelligent, d'un [[le logos|logos]] dont [[L'Homme]] a reçu une partie. De ce fait le rapport entre [[L'Homme]] et [[la nature]] est un rapport [[la spititualité|spitituel]] et non *matériel*.
 
@@ -83,7 +83,13 @@ Il y a déjà eu plusieurs [[les mythes|mythes]] cherchant à mettre en garde [[
 
 #### B - La puissance des modernes : maitriser la nature
 
+Ce qui est assez *paradoxal* c'est que l'immense progrès *théorique* [[les grecs|des grecs]] qui a permis cet immense progrès technique.
 
+Il va y avoir un cap décisif frachi avec [[Galilée]] qui grace à l'alliance entre *la technique* et [[La science]] va découvrir que la Terre tourne autour du soleil et non l'inverse. C'est ce qu'on va appeller la naissance de la modernité avec au premier rang des priorités *la technique*.
+
+[[Descartes]] lui séparer [[la matière]] et [[L'esprit]] comme étant deux substances de [[la nature]] distinctes. Pour lui, [[la nature]] n'est qu'un objet *technique* tel une ingénieuse machinerie régis seulement par des lois [[les mathématique|mathématiques]]. [[L'Homme]] doit devenir *maitre et possesseur* de [[la nature]] et ce grâce à *la technique* qui doit et va devenir une proiorité essentielle.
+
+[[Descartes]] s'
 
 #### C - Le nouveau défi post-moderne : maitriser la technique
 
