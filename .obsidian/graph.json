@@ -90,6 +90,13 @@
         "a": 1,
         "rgb": 4476970
       }
+    },
+    {
+      "query": "path:\"13 Daily\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,

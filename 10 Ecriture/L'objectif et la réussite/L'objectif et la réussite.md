@@ -133,7 +133,9 @@ Le sport est plus qu'essentiel pour chacun, que ce soit pour la réussite dans l
 
 #### L'organisation
 
-Alors, je pense que c'est assez logique de dire que l'organisation est essentielle pour avoir un mode de vie organisé.. Mais je vais vous expliquer ce qu'il faut faire pour devenir beaucoup plus organisé qu'avant. Si vous voulez devenir un véritable pro de l'organisation allez voir à => [[Comment devenir un pro de l'organisation]]
+Alors, je pense que c'est assez logique de dire que l'organisation est essentielle pour avoir un mode de vie organisé.. Mais je vais vous expliquer ce qu'il faut faire pour devenir beaucoup plus organisé qu'avant. Si vous voulez devenir un véritable pro de l'organisation allez voir à => [[Comment devenir un pro de l'organisation]].
+
+D'abord, ayez un agenda. Personellement j'utilise *Google Agenda* car c'est beaucoup plus pratique mais vous pouvez très bien avoir un agenda papier => [[Comment organiser son agenda]]. Ayez un système de [[les todo-list|todo-list]] et de [[les checklist|checklist]] pour stocker toutes vos taches => [[Le système de taches]], => [[Comprendre les différents types de taches]]. Si vous prenez des notes, ayez un système de prise de note, je recommande le système de *2nd cerveau* et si vous ne prenez pas de notes, prenez en et revenez au début de la phrase. 
 
 #### Le second cerveau
 

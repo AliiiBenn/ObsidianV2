@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "13 Daily/Daily notes/10-06-2022.md",
+            "file": "13 Daily/Daily notes/11-06-2022.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 Daily/Daily notes/10-06-2022.md",
+                "file": "13 Daily/Daily notes/11-06-2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "13 Daily/Daily notes/10-06-2022.md",
+                "file": "13 Daily/Daily notes/11-06-2022.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,15 +156,15 @@
   },
   "active": "50d1dbe75e381602",
   "lastOpenFiles": [
+    "13 Daily/Daily notes/11-06-2022.md",
     "13 Daily/Daily notes/10-06-2022.md",
-    "11 Passions/Philosophie/Philosophie.md",
     "_Autres/templates/template Daily.md",
-    "04 Gestion des connaissances/La structure de mon second cerveau/Notes Journalières.md",
-    "11 Passions/Philosophie/Philosophes/Parménide d'Elée.md",
-    "11 Passions/Philosophie/Philosophes/Hume.md",
-    "11 Passions/Philosophie/Philosophes/Platon.md",
-    "11 Passions/Philosophie/Philosophes/Pythagore.md",
-    "11 Passions/Philosophie/Philosophes/Rousseau.md",
-    "11 Passions/Philosophie/Philosophes/Saint-Augustin.md"
+    "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
+    "Comprendre les différents types de taches.md",
+    "Comment organiser son agenda.md",
+    "Le système de taches.md",
+    "Comment devenir un pro de l'organisation.md",
+    "10 Ecriture/L'heureux/L'heureux et les sacrifices.md",
+    "11 Passions/Philosophie/Philosophie.md"
   ]
 }
