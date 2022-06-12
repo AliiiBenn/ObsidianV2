@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Push un élément dans une pile en Python.md",
+            "file": "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Push un élément dans une pile en Python.md",
+                "file": "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Push un élément dans une pile en Python.md",
+                "file": "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -165,15 +165,15 @@
   },
   "active": "32d8570bbc982739",
   "lastOpenFiles": [
-    "Push un élément dans une pile en Python.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Push un élément dans une pile.md",
+    "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
+    "02 informatique/Algorithmes/Structures de données/Les piles/Push un élément dans une pile.md",
+    "Push un élément dans une pile en Python.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Savoir si une pile est vide.md",
     "Savoir si une pile est vide en Python.md",
     "02 informatique/Algorithmes/Structures de données/arbres binaires de recherche/Les arbres binaires de recherche.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
     "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md",
-    "Ma Miracle Morning.md",
-    "13 Daily/Daily notes/12-06-2022.md"
+    "Ma Miracle Morning.md"
   ]
 }

@@ -16,6 +16,7 @@ def push(self, nM):
 	self.listeC.ajouter_debut(nM)
 ```
 
+Pour une liste, on va simplement append un l'élément voulu
 
 ```python
 def push(self, element):
