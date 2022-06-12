@@ -105,9 +105,19 @@ Ce qui s'est réalisé est le pronostic de [[Rousseau]] qui disait que si [[L'Ho
 
 De ce fait, les prévisions de [[Descartes]] étaient partiellement fausses car, il pensait que *les machines* allaient être au sevice de [[L'Homme]] mais il s'est passé l'inverse, c'est [[L'Homme]] qui est au service *des machines*.
 
-[[L'Homme]] est aujourd'hui obligé de s'
+[[L'Homme]] est aujourd'hui obligé de s'adapter au *progrès technique* peu importe le prix à payer. pour certains industriels, *les machines* ont plus de valeurs que [[L'Homme]]. De plus, [[Le travail]] lui aussi est devenu plus machinal avec *le travail à la chaîne* par exemple.
+
+Au final, au lieu d'avoir aporté la paix, *le progrès technique* a rendu [[L'Homme]] plus meurtrier, nous avons aujourd'hui de nouveaux types d'armes dites de [[les armes de destruction massive|destruction massive]] c'est-à-dire que certains ont le pouvoir de détruire la Terre à tout moment. 
+
+[[L'Homme]] risque lui aussi de devenir une *machine* si l'on ne change pas avec l'arrivée des [[les biotechnologies|technologies]] et des [[les manipulations génétiques|manipulations génétiques]] où certains pensent même à cloner [[L'Homme]] qui si ce n'etais qu'une *machine*.
 
 #### C - Le nouveau défi post-moderne : maitriser la technique
+
+[[L'Homme]] a désormais un nouveau défi, en plus de devoir maîtriser [[la nature]] avec *la technique* il doit aussi maîtriser sa maîtrise de la nature ce qui revient à dire qu'il y a un manque de [[la mairise de soi|maitrise de soi]] et que [[L'Homme]] n'a plus aucun pouvoir sur ses pouvoirs.
+
+Les Etats cherchent des solutions *techniques* à des problèmes *techniques* donc toujours plus de technique devient nécéssaire pour pouvoir contrecarrer les effets de *la technique* donc on fini par comprendre que *la technique* fini par s'auto-gérérer indépendamment de la volonté de [[L'Homme]]. La technique nous sauvera-t-elle de la technique ?
+
+
 
 
 
