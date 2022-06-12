@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
+            "file": "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
+                "file": "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "84fae94fbadf4faf",
@@ -103,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
+                "file": "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,15 +155,15 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
+    "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+    "03 Mental/Les concepts/Le travail/Le travail.md",
     "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
     "Les variables en C++.md",
     "Les bases de C++.md",
     "Afficher un message en C++.md",
     "Les déclarations en C++.md",
     "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
-    "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md",
-    "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
-    "_Autres/templates/template livres.md",
-    "03 Mental/Les concepts/Le développement personnel/Le développement personnel.md"
+    "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md"
   ]
 }

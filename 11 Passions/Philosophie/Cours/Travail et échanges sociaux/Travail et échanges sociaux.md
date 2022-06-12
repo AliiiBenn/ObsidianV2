@@ -29,6 +29,17 @@ Il faut se demander si il n'est pas dangereux d'appeller toute activité du *tra
 
 #### A - Travailler : une contrainte extérieure et matérielle
 
+Dans [[l'Antiquité]] *le travail* est assez mal vu car pour eux les activités ayant vraiment de la valeur ne doivent pas être considérées comme du *travail*. Ils ont le même avis avec [[Le Progrès Technique]].
+
+[[Aristote]] lui reduit seulement le travail à une dépendance matérielle, selon lui c'est ce qui nous rapproche de *l'animal* et ce qui nous éloigne des *Dieux* car eux ne travaillent pas.
+
+Por eux travailler est indigne de [[L'Homme]] et de son *humanité*. Tout ce qui concerne [[la poiesis]] est considéré comme du *travail* mais [[la théoria]] elle n'est pas un travail mais une passion car elle est pratiquée pour elle même c'est-à-dire que pour [[les grecs]], penser n'est pas travailler. Idem pour le fait de gouverner le peuple. Penser est un effort qui peut parfois être pénible mais il reste déinréressé et a sa propre fin.
+
+Ce n'est qu'à la modernité que va apparaitre la notion de travail intellectuel mais pour eux connaitre, réfléchir, diriger la cité doivent rester des activités libres donc des loisirs qui sont un privilège de [[L'Homme]] libree dont [[la liberté]] se définit par l'acquisition de savoir et de sagesse.
+
+
+
+
 
 #### B - Travailler : une nécéssité interne et psychologique
 

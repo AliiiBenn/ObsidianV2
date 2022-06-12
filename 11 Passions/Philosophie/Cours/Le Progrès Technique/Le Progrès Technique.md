@@ -105,7 +105,7 @@ Ce qui s'est réalisé est le pronostic de [[Rousseau]] qui disait que si [[L'Ho
 
 De ce fait, les prévisions de [[Descartes]] étaient partiellement fausses car, il pensait que *les machines* allaient être au sevice de [[L'Homme]] mais il s'est passé l'inverse, c'est [[L'Homme]] qui est au service *des machines*.
 
-[[L'Homme]] est aujourd'hui obligé de s'adapter au *progrès technique* peu importe le prix à payer. pour certains industriels, *les machines* ont plus de valeurs que [[L'Homme]]. De plus, [[Le travail]] lui aussi est devenu plus machinal avec *le travail à la chaîne* par exemple.
+[[L'Homme]] est aujourd'hui obligé de s'adapter au *progrès technique* peu importe le prix à payer. pour certains industriels, *les machines* ont plus de valeurs que [[L'Homme]]. De plus, [[Travail et échanges sociaux|Le travail]] lui aussi est devenu plus machinal avec *le travail à la chaîne* par exemple.
 
 Au final, au lieu d'avoir aporté la paix, *le progrès technique* a rendu [[L'Homme]] plus meurtrier, nous avons aujourd'hui de nouveaux types d'armes dites de [[les armes de destruction massive|destruction massive]] c'est-à-dire que certains ont le pouvoir de détruire la Terre à tout moment. 
 
@@ -134,9 +134,6 @@ On peut se demander si, au final la technique n'as pas aussi, à côté des fonc
 On peut aussi se dire que chercher à maitriser la nature procure une sensation de puissance bien que [[L'Homme]] reste toujours aussi impuissant, toujours aussi *mortel*.
 
 [[Martin Heidegger]], à l'aube de [[l'ère atomique]] disait que *la technique* n'est pas seulement et surtout une menace matérelle et écologique mais aussi une menace pour l'essece de [[L'Homme]]. Pour lui, *la technique* est avant tout une pensée qui peut agir sur [[L'esprit]] qu'il qualifie de *pensée calculante* c'es-à-dire qui calcule les moyens d'arriver au fins sans penser aux fins contairement à la *pensée méditante* qui elle pense à l'existance en son sens. Il faut donc areter de faire de *la techique* un but en soi, pour trouver une solution pour maitriser notre pouvoir *technique* est de réfléchir à l'essence de *la technique* et de ne plus sous-estimer son emprise sur nous et faire en sorte qu'elle revienne à sa place, celle d'une chose utile mais pas essentielle à [[L'Homme]].
-
-
-
 
 
 
