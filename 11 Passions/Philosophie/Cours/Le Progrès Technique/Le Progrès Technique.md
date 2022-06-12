@@ -125,7 +125,13 @@ Maintenant, faut-il considerer que c'est la faute de la technique ? ou seulement
 
 [[Rousseau]] est l'un des premiers à avoir signaler l'action de *la technique* sur l'homme, le plus naïf à ses yeux était de penser qu'on ne fait que transformer [[la nature]] avec *la technique* et qu'on ne transforme pas [[L'Homme]] lui même.
 
-[[L'Homme]] agit sur *la technique* mais elle agis aussi en retour sur lui et le modifier en profondeur car elle a aussi une portée *psychique*. Elle modifie la conscience et la mentalité de [[L'Homme]], elle n'envahit pas que la nature mais aussi [[L'esprit]] Humain de manière invisible. [[Rousseau]] ne condamne pas *la technique* pour sa portée matérielle comme le faisait [[Aristote]] mais aussi car elle a une portée psychique. *La tedchnique* est aussi une mentalité, une *pensée technicienne*. De ce fait l'invasion *technique* est partout, [[Descartes]] voyai
+[[L'Homme]] agit sur *la technique* mais elle agis aussi en retour sur lui et le modifier en profondeur car elle a aussi une portée *psychique*. Elle modifie la conscience et la mentalité de [[L'Homme]], elle n'envahit pas que la nature mais aussi [[L'esprit]] Humain de manière invisible. [[Rousseau]] ne condamne pas *la technique* pour sa portée matérielle comme le faisait [[Aristote]] mais aussi car elle a une portée psychique. *La tedchnique* est aussi une mentalité, une *pensée technicienne*. De ce fait l'invasion *technique* est partout, [[Descartes]] voyait [[la nature]] et [[L'Homme]] comme des machines. Aujourd'hui, notre cerveau est de plus en plus vu comme un ordinateur qui traite des informations.
+
+On peut se demander si, au final la technique n'as pas aussi, à côté des fonction spirituelles possibles une fonction psycologique plus néfaste qui servirait à fuir la question de l'existence.
+
+[[Blaise Pascal]] disait que tout activité chez [[L'Homme]], que ce soit [[Le travail]], *les passions* etc... avaient pour but de permettre à l'homme de fuir sa propres [[la consience|conscience]] et surtout le fait qu'il est morte. [[Blaise Pascal]] en a tiré la conclusion que [[L'Homme]] cherchent ous les moyen de s'occuper pour ne pas avoir à penser. 
+
+
 
 
 
