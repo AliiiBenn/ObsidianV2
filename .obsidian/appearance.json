@@ -6,5 +6,6 @@
   ],
   "translucency": false,
   "theme": "obsidian",
-  "textFontFamily": "Fira Code"
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code"
 }
