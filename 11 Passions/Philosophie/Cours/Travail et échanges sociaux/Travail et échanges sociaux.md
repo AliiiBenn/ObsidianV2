@@ -65,7 +65,11 @@ Avec la fin de l'esclavage, il y a eu un changement du status du travail. Mainte
 
 La notion *d'échanges* implique une certaine réprocité car qui dit échnage dit donner et recevoir il y a donc un certain équilibre ainsi qu'une certaine liberté. Ces échanges se font logiquement dans un  intéret commun mais on peut se dire que les échanges favorisent le rapporchement avec les autres. Il y a aussi les intéret privés car je fais aussi cet échnage pour satisfaire l'un de mes intéret privé.
 
-Il font comprendre qu'il y a deux types d'échanges : *les échanges d'idées* et les *échanges de choses*. Les *échanges d'idées* sont tous les échnages etre des [[la consience|consiences]] à partir d'elle mêmes, un échnage entre des [[l'âme|âmes]] c'est-à-dire des échanges de pensées, d'opinions, des sentiments etc... Ces échnages ont lieu avec [[le langage]] et [[l'art]].
+Il font comprendre qu'il y a deux types d'échanges : *les échanges d'idées* et les *échanges de choses*. 
+
+Les *échanges d'idées* sont tous les échnages etre des [[la consience|consiences]] à partir d'elle mêmes, un échnage entre des [[l'âme|âmes]] c'est-à-dire des échanges de pensées, d'opinions, des sentiments etc... Ces échnages ont lieu avec [[le langage]] et [[l'art]]. Cet échange permet une réelle rencontre de *l'autre* avec une certaine forme de désintéssement uniquement dans un but de plaisir, voulant favoriser une amitié et un respect entre hommes.
+
+Les *échanges de choses* eux sont tous les échnages qui ont un but économique, bien que 
 
 #### B - Développement du commerce et de la propriété
 
