@@ -46,7 +46,7 @@ On peut utiliser ces représentations en arbre pour *la résolution de labyrithe
 
 #### Comment le modéliser ?
 
-Pour créer un *labyrinthe* il faut déjà modéliser *une structure de base*, nous allons donc créer une grille, une ligne sur deux sera remplie de murs et l'autre un mur et un espace libre, il faut penser au fait que si le labyrithe a une largeur paire il ne sera pas fermé à la fin, idem pour la hauteur, il va donc falloir pour ces tailles ajouter une ligne supplémentaire pour créer une grille fermée. Pour créer l'entrée et la sortie on enlève deux cases aléatoires sur les murs aux extrémités, pour l'exemple j'ai enlevé les cases au positions x = 0 et y = 1 pour l'entrée et x = -1 (**la dernière position**) et y = -2 (**...**).
+Pour créer un *labyrinthe* il faut déjà modéliser *une structure de base*, nous allons donc créer une grille, une ligne sur deux sera remplie de murs et l'autre un mur et un espace libre, il faut penser au fait que si le labyrithe a une largeur paire il ne sera pas fermé à la fin, idem pour la hauteur, il va donc falloir pour ces tailles ajouter une valeur supplémentaire pour créer une grille fermée. Pour créer l'entrée et la sortie on enlève deux cases aléatoires sur les murs aux extrémités, pour l'exemple j'ai enlevé les cases au positions x = 0 et y = 1 pour l'entrée et x = -1 (**la dernière position**) et y = -2 (**...**).
 
 #### L'algorithme
 
@@ -58,4 +58,4 @@ L'algorithme qui vient d'être expliqué est *l'algorithme de fusion aléatoire 
 
 ### Conclusion
 
-Pour conclure, il est assez simple de générer des labyrithes à l'aide d'algorithmes, deux des plus connus sont l'algorithme de fusion aléatoire de chemin et l'algorithme de retour sur trace, il en existe pleins d'autres plus ou moins efficace bien sur. Ces algorithmes peuvent être utiles pour des algorithmes de recherche de chemin, dans des jeux vidéos ou pour des simulations.
+Pour conclure, il est assez simple de générer des labyrithes à l'aide d'algorithmes, deux des plus connus sont l'algorithme de fusion aléatoire de chemin et l'algorithme de retour sur trace, il en existe pleins d'autres plus ou moins efficace bien sur (**algo de prism, kruskal**). Ces algorithmes peuvent être utiles pour des algorithmes de recherche de chemin, dans des jeux vidéos ou pour des simulations.

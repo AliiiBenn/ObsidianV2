@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Les variables en C++.md",
+            "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les variables en C++.md",
+                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les variables en C++.md",
+                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,6 +156,7 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
     "Les variables en C++.md",
     "Les bases de C++.md",
     "Afficher un message en C++.md",
@@ -164,7 +165,6 @@
     "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
     "_Autres/templates/template livres.md",
-    "03 Mental/Les concepts/Le développement personnel/Le développement personnel.md",
-    "_Autres/templates/template Daily.md"
+    "03 Mental/Les concepts/Le développement personnel/Le développement personnel.md"
   ]
 }
