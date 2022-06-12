@@ -145,11 +145,13 @@ Je pense que beaucoup ne savent pas ce qu'est le second cerveau et cela ne pose 
 
 Ca serait vous prendre pour des idiots de dire que vous ne savez pas que la nutrition est essentielle pour un bon hygiène de vie c'est pour cela que je vais juste donner quelques exemples et liens avec les autres catégories.
 
-Après avoir commencé à faire du sport, mon appétit est devenu extrême, j'avais tout le temps faire et à vrai dire c'est encore le cas mais
+Après avoir commencé à faire du sport, mon appétit est devenu extrême, j'avais tout le temps faire et à vrai dire c'est encore le cas mais aujourd'hui j'essaye juste d'éviter toutce qui peut être dangereux comme les sucres ou ce qui est trop gras. Avant de commencer cette vie  j'avais une très mauvaise habitude, très peu boire, à vrai dire deux verre d'eau plate par jour était mon maximum et c'est l'une des premières habitudes que j'ai voulu changer. Aujourd'hui j'ai toujours ma bouteille d'eau sur mon bureau que je bois généralement en 4 heures. Si je ne me limitais pas je viderais jusq'à deux bouteilles par jours.
 
-(boire)
+Grâce à tout cela, aujourd'hui je n'ai plus aucunes douleurs aux articulations et surtout je me sens beaucoup plus fort.
 
 #### Le sommeil
+
+Le sommeil est ce qui le plus important pour votre corps =
 
 #### Les habitudes
 
