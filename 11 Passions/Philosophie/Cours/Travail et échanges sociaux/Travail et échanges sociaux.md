@@ -61,7 +61,11 @@ Cet aspect du travail est un aspect qui a bien été néglibé par [[Aristote]] 
 
 #### A - Qu'est-ce qu'un échange économique
 
-Avec la fin de l'esclavage, il y a eu un changement du status du travail. Maintenant, on gagne de l'argent par son travail ainsi que des droits. Cependant, du fait qu'il devient une réalité économique, le travail ne devient qu'une simple marchnadise comme une atre qu'on vend et qu'on achète. il faut se demander si faire du travail une marc
+Avec la fin de l'esclavage, il y a eu un changement du status du travail. Maintenant, on gagne de l'argent par son travail ainsi que des droits. Cependant, du fait qu'il devient une réalité économique, le travail ne devient qu'une simple marchnadise comme une atre qu'on vend et qu'on achète. il faut se demander si faire du travail une marchandise ne le déshumanise pas ? Car le travail n'est pas juste un objet, il y a derrière tout un travail de l'homme.
+
+La notion *d'échanges* implique une certaine réprocité car qui dit échnage dit donner et recevoir il y a donc un certain équilibre ainsi qu'une certaine liberté. Ces échanges se font logiquement dans un  intéret commun mais on peut se dire que les échanges favorisent le rapporchement avec les autres. Il y a aussi les intéret privés car je fais aussi cet échnage pour satisfaire l'un de mes intéret privé.
+
+Il font comprendre qu'il y a deux types d'échanges : *les échanges d'idées* et les *échanges de choses*. Les *échanges d'idées* sont tous les échnages etre des [[la consience|consiences]] à partir d'elle mêmes, un échnage entre des [[l'âme|âmes]] c'est-à-dire des échanges de pensées, d'opinions, des sentiments etc... Ces échnages ont lieu avec [[le langage]] et [[l'art]].
 
 #### B - Développement du commerce et de la propriété
 
