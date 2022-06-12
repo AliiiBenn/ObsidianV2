@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "marie.md",
+            "file": "13 Daily/Daily notes/10-06-2022.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "marie.md",
+                "file": "13 Daily/Daily notes/10-06-2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "84fae94fbadf4faf",
@@ -102,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "marie.md",
+                "file": "13 Daily/Daily notes/10-06-2022.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,6 +156,8 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "13 Daily/Daily notes/10-06-2022.md",
+    "13 Daily/Daily notes/12-06-2022.md",
     "marie.md",
     "12 Projets/Projets Actuels/Coder un jeu avec Marie/Coder un jeu avec Marie.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
@@ -162,8 +165,6 @@
     "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
     "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
     "03 Mental/Les concepts/Le travail/Le travail.md",
-    "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
-    "02 informatique/Langages Informatique/Langages Algorithmique/C++/Les variables en C++.md",
-    "02 informatique/Langages Informatique/Langages Algorithmique/C++/Les bases de C++.md"
+    "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md"
   ]
 }
