@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Les bases de C++.md",
+            "file": "Les variables en C++.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Les bases de C++.md",
+                "file": "Les variables en C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Les bases de C++.md",
+                "file": "Les variables en C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,15 +156,15 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "Les variables en C++.md",
     "Les bases de C++.md",
+    "Afficher un message en C++.md",
     "Les déclarations en C++.md",
     "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
     "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
     "_Autres/templates/template livres.md",
     "03 Mental/Les concepts/Le développement personnel/Le développement personnel.md",
-    "_Autres/templates/template Daily.md",
-    "_Autres/templates/template Notes.md",
-    "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md"
+    "_Autres/templates/template Daily.md"
   ]
 }
