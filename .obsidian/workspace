@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Autres/templates/template livres.md",
+            "file": "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Autres/templates/template livres.md",
+                "file": "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Autres/templates/template livres.md",
+                "file": "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +126,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.09392927902847054,
+                  "scale": 0.1316872427983552,
                   "close": true
                 }
               }
@@ -156,15 +156,15 @@
   },
   "active": "1a7d21fe241b9c00",
   "lastOpenFiles": [
-    "_Autres/templates/template livres.md",
-    "_Autres/templates/template Notes.md",
-    "_Autres/templates/template Daily.md",
     "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md",
+    "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
+    "_Autres/templates/template livres.md",
     "03 Mental/Les concepts/Le développement personnel/Le développement personnel.md",
+    "_Autres/templates/template Daily.md",
+    "_Autres/templates/template Notes.md",
     "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
     "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
     "03 Mental/Les concepts/La mémoire/la courbe de l'oubli.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md"
+    "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md"
   ]
 }

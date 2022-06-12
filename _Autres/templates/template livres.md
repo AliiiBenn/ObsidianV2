@@ -9,7 +9,7 @@ Status: #status
 Author: [[]]
 Medium: #literature/books 
 Tags:
-Links: [[Livres que je lis actuellement]] - [[<> Application]]
+Links: [[Livres que je lis actuellement]] - [[<%tp.file.title%> Application]]
 
 ## <% tp.file.title %>
 
