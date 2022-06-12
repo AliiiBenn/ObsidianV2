@@ -49,7 +49,7 @@ the subtle art of not giving a fuck
 | système 1 système 2 ; les deux vitesses de la pensée | 14 euros   | 99.6 euros   | non    |
 | Philosophie                                          | 60 euros   | 160 euros    | non    |
 | La semaine de 4 heures                               | 20.5 euros | 180.5 euros  | oui    |
-| Bullshit jobs                                        | 8.90 euros | 189.40 euros | oui    | 
+| Bullshit jobs                                        | 8.90 euros | 189.40 euros | non    | 
 
 ---
 

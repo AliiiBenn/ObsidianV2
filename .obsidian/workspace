@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
+            "file": "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
+                "file": "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
+                "file": "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,6 +155,7 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
     "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
     "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
     "03 Mental/Les concepts/Le travail/Le travail.md",
@@ -163,7 +164,6 @@
     "Les bases de C++.md",
     "Afficher un message en C++.md",
     "Les déclarations en C++.md",
-    "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
-    "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md"
+    "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md"
   ]
 }
