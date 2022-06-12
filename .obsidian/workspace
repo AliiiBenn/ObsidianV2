@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
+            "file": "Les bases de C++.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
+                "file": "Les bases de C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
+                "file": "Les bases de C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,6 +156,7 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "Les bases de C++.md",
     "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
     "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
@@ -164,7 +165,6 @@
     "_Autres/templates/template Daily.md",
     "_Autres/templates/template Notes.md",
     "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
-    "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
-    "03 Mental/Les concepts/La mémoire/la courbe de l'oubli.md"
+    "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md"
   ]
 }

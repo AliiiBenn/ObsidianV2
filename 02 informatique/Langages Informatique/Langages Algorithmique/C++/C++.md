@@ -13,6 +13,8 @@ Le *C++* etst un langage de programmation crée en 1985 par *Bjarne Stroustrup*.
 
 ### Cours en C++
 
+[[Les bases de C++]]
+
 
 ---
 ### Liens :
