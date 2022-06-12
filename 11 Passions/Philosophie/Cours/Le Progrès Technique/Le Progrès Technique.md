@@ -119,7 +119,13 @@ Les Etats cherchent des solutions *techniques* à des problèmes *techniques* do
 
 pour maîtriser *la technique* cela ne relève plus de *la technique* elle même mais d'une décision morale et/ou politique d'un progrès de [[la consience de soi]], sur les fins que [[L'Homme]] poursuit. De ce fait seul un *progrès moral et spirituel* peut lui permettre de maîtriser *la technique*. Bien que *la technique* apporte une maitrise de [[la matière]] et donc de [[la nature]] elle n'aide en rien pour [[la mairise de soi]]. *le progrès technique* ne change rien aux angoisses de [[L'Homme]] sur ses questions existentielle.
 
-Il faut comprendre que ce n'est pas à nos moyens *techniques* de décider de nos fins mais à nos fins de décider des moyens qu'elles ont besoin, il y a eu une véritable inversion des *moyens* et des *fins* ainsi qu'un oubli des *fins*. [[L'Homme]] en se donnant comme fin en soi *le progrès technique* est devenu incapable de se donner des fins en soi car 
+Il faut comprendre que ce n'est pas à nos moyens *techniques* de décider de nos fins mais à nos fins de décider des moyens qu'elles ont besoin, il y a eu une véritable inversion des *moyens* et des *fins* ainsi qu'un oubli des *fins*. [[L'Homme]] en se donnant comme fin en soi *le progrès technique* est devenu incapable de se donner des fins en soi car *la technique* ne reste par définition qu'un moyen. Au final, c'est *le progrès technique* qui semble décider du destin de [[L'Homme]]
+
+Maintenant, faut-il considerer que c'est la faute de la technique ? ou seulement de la faute de [[L'Homme]] lui même qui n'a pas su faire les bons usages de *la technique* ? Est-ce de la faute des machines si [[L'Homme]] les utilise à des fins meurtrières plutôt qu'humanitaires ? il est naif de penser que tout est de la faute de la technique mais est-ce naif de les croire innoffensives ?
+
+[[Rousseau]] est l'un des premiers à avoir signaler l'action de *la technique* sur l'homme, le plus naïf à ses yeux était de penser qu'on ne fait que transformer [[la nature]] avec *la technique* et qu'on ne transforme pas [[L'Homme]] lui même.
+
+[[L'Homme]] agit sur *la technique* mais elle agis aussi en retour sur lui et le modifier en profondeur car elle a aussi une portée *psychique*. Elle modifie la conscience et la mentalité de [[L'Homme]], elle n'envahit pas que la nature mais aussi [[L'esprit]] Humain de manière invisible. [[Rousseau]] ne condamne pas *la technique* pour sa portée matérielle comme le faisait [[Aristote]] mais aussi car elle a une portée psychique. *La tedchnique* est aussi une mentalité, une *pensée technicienne*. De ce fait l'invasion *technique* est partout, [[Descartes]] voyai
 
 
 
