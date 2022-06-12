@@ -139,9 +139,13 @@ D'abord, ayez un agenda. Personellement j'utilise *Google Agenda* car c'est beau
 
 #### Le second cerveau
 
-[[Mon second cerveau]]
+Je pense que beaucoup ne savent pas ce qu'est le second cerveau et cela ne pose pas problème, il suffit d'aller voir à => [[Qu'est-ce qu'un second cerveau]] pour ceux qui connaissent, le second cerveau est l'élement le plus important pour stocker vos connaissances. Ce second cevreau doit vous aider à ne rien oublier et faire en sorte que vous n'ayez que l'essentiel à retenir. Le cerveau n'est pas fait pour retenir pleins de choses à vrai dire inutiles, il est la pour retenir l'essentiel et créer de ce fait stocker vos connaissances dans un *second cerveau* est plus qu'important. Si vous avez déjà un *second cerveau* et que vous cherchez à le rendre meilleur allez voir à => [[Comment rendre son second cerveau parfait]] et sinon allez faire un tour dans [[Mon second cerveau]]
 
 #### La nutririon
+
+Ca serait vous prendre pour des idiots de dire que vous ne savez pas que la nutrition est essentielle pour un bon hygiène de vie c'est pour cela que je vais juste donner quelques exemples et liens avec les autres catégories.
+
+Après avoir commencé à faire du sport 
 
 #### Le sommeil
 
