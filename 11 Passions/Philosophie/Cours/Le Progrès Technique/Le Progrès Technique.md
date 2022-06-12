@@ -117,7 +117,9 @@ Au final, au lieu d'avoir aporté la paix, *le progrès technique* a rendu [[L'H
 
 Les Etats cherchent des solutions *techniques* à des problèmes *techniques* donc toujours plus de technique devient nécéssaire pour pouvoir contrecarrer les effets de *la technique* donc on fini par comprendre que *la technique* fini par s'auto-gérérer indépendamment de la volonté de [[L'Homme]]. La technique nous sauvera-t-elle de la technique ?
 
+pour maîtriser *la technique* cela ne relève plus de *la technique* elle même mais d'une décision morale et/ou politique d'un progrès de [[la consience de soi]], sur les fins que [[L'Homme]] poursuit. De ce fait seul un *progrès moral et spirituel* peut lui permettre de maîtriser *la technique*. Bien que *la technique* apporte une maitrise de [[la matière]] et donc de [[la nature]] elle n'aide en rien pour [[la mairise de soi]]. *le progrès technique* ne change rien aux angoisses de [[L'Homme]] sur ses questions existentielle.
 
+Il faut comprendre que ce n'est pas à nos moyens *techniques* de décider de nos fins mais à nos fins de décider des moyens qu'elles ont besoin, il y a eu une véritable inversion des *moyens* et des *fins* ainsi qu'un oubli des *fins*. [[L'Homme]] en se donnant comme fin en soi *le progrès technique* est devenu incapable de se donner des fins en soi car 
 
 
 
