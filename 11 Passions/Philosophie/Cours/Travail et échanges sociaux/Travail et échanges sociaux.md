@@ -35,13 +35,19 @@ Dans [[l'Antiquité]] *le travail* est assez mal vu car pour eux les activités 
 
 Por eux travailler est indigne de [[L'Homme]] et de son *humanité*. Tout ce qui concerne [[la poiesis]] est considéré comme du *travail* mais [[la théoria]] elle n'est pas un travail mais une passion car elle est pratiquée pour elle même c'est-à-dire que pour [[les grecs]], penser n'est pas travailler. Idem pour le fait de gouverner le peuple. Penser est un effort qui peut parfois être pénible mais il reste déinréressé et a sa propre fin.
 
-Ce n'est qu'à la modernité que va apparaitre la notion de travail intellectuel mais pour eux connaitre, réfléchir, diriger la cité doivent rester des activités libres donc des loisirs qui sont un privilège de [[L'Homme]] libree dont [[la liberté]] se définit par l'acquisition de savoir et de sagesse.
-
-
-
-
+Ce n'est qu'à la modernité que va apparaitre la notion de travail intellectuel mais pour eux connaitre, réfléchir, diriger la cité doivent rester des activités libres donc des loisirs qui sont un privilège de [[L'Homme]] libree dont [[la liberté]] se définit par l'acquisition de savoir et de sagesse. Souvent des esclaves travaillaient pour les savants car pour eux ce n'est pas parce qu'on est par nature des esclaves qu'on l'est dans les faits mais c'est parce que le travail est un esclavage qu'il doit être fait par des esclaves.
 
 #### B - Travailler : une nécéssité interne et psychologique
+
+Dans nos sociétés modernes hyper industrialisées les rapports ce sont inversés, aujourd'hui ne pas travailler est signe de faiblesse et baisser le temps de travail semble chose impossible. Bien que le travail ait été automatisé grâce au machines il a juste été transformé.
+
+Bien sûr, il parrait évident que le travail n'a pas qu'une porté materielle, sans quoi [[L'Homme]] travaillerait moins. *Le travail* a une dimension [[la psychologie|pshycologique]] ou même [[la spititualité|spiituelle]] comme un moyen de réalisation de soi ainsi qu'un moyen de sociabilisation.
+
+Si l'on considère comme [[Hegel]] que toute [[la consience|conscience]] a besoin de s'exterioriser pour se développer alors *le travail* et [[Le Progrès Technique]] peuvent apparaitre comme une donnée fondamentale du [[le développement psychique|développement psychique]] qui nous fera prendre conscience de notre pouvoir 
+
+Dans [[La dialectique du maitre et de l'esclave]], [[Hegel]] montre le pouvoir du *travail*. Un homme devient esclave lorsqu'il perd un combat, il devient donc esclave de son maitre pour survivre mais, pendant que le maitre ne fera rien, l'esclave lui va apprendre à maitriser [[la nature]] [[Le Progrès Technique|la technique]]. Le maitre lui va devenir de plus en plus esclave de ses désirs qu'il ne pourra satisfaire, il va être obligé de reconnaitre l'esclave, d'égal à égal car au final l'esclave du maitre devient le maitre du maitre. Donc on voit que *le travail* a été un instrument de libération de l'esclave.
+
+[[Marx]]
 
 ### Chapitre 2 - Travail et échanges économique
 
