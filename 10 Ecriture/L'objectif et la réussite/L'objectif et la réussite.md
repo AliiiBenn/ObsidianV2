@@ -27,7 +27,7 @@ Beaucoup de personnes se disent que leur personne est déjà "*très bien*" et n
 
 #### L'Homme à la naissance et son éducation
 
-Quand un Homme vient au monde, il n'est rien, c'est un animal, c'est seulement avec ce qu'on va lui apprendre qu'il va devenir un Homme. Mais, à vrai dire beaucoup de ces choses qu'on lui a appris quand il était enfant étaient vraies mais.. mauvaises et peu développées (**lien possible vers [[Pourquoi les parents apprennent peu à leurs enfants ]]**) donc quand ces enfants deviennent des adultes il pensent qu'ils n'ont plus à apprendre toutes ces choses comme comment bien [[Les sommeil|dormir]] ou même savoir [[Apprendre]] alors que pour beaucoup leur sommeil est mauvais et pour eux apprendre c'est simplement lire qulque chose jusqu'a le connaitre par coeur. C'est ce qui est différent avec ces personnes qui veulent devenir un meilleur soi
+Quand un Homme vient au monde, il n'est rien, c'est un animal, c'est seulement avec ce qu'on va lui apprendre qu'il va devenir un Homme. Mais, à vrai dire beaucoup de ces choses qu'on lui a appris quand il était enfant étaient vraies mais.. mauvaises et peu développées (**lien possible vers [[Pourquoi les parents apprennent peu à leurs enfants]]**) donc quand ces enfants deviennent des adultes ils pensent qu'ils n'ont plus à apprendre toutes ces choses comme comment bien [[Les sommeil|dormir]] ou même savoir [[Apprendre]] alors que pour beaucoup leur sommeil est mauvais et pour eux apprendre c'est simplement lire qulque chose jusqu'a le connaitre par coeur. C'est ce qui est différent avec ces personnes qui veulent devenir un meilleur soi
 
 #### Ceux qui veulent devenir un meilleur soi
 
