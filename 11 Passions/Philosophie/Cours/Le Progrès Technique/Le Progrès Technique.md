@@ -129,7 +129,11 @@ Maintenant, faut-il considerer que c'est la faute de la technique ? ou seulement
 
 On peut se demander si, au final la technique n'as pas aussi, à côté des fonction spirituelles possibles une fonction psycologique plus néfaste qui servirait à fuir la question de l'existence.
 
-[[Blaise Pascal]] disait que tout activité chez [[L'Homme]], que ce soit [[Le travail]], *les passions* etc... avaient pour but de permettre à l'homme de fuir sa propres [[la consience|conscience]] et surtout le fait qu'il est morte. [[Blaise Pascal]] en a tiré la conclusion que [[L'Homme]] cherchent ous les moyen de s'occuper pour ne pas avoir à penser. 
+[[Blaise Pascal]] disait que tout activité chez [[L'Homme]], que ce soit [[Le travail]], *les passions* etc... avaient pour but de permettre à l'homme de fuir sa propres [[la consience|conscience]] et surtout le fait qu'il est morte. [[Blaise Pascal]] en a tiré la conclusion que [[L'Homme]] cherchent ous les moyen de s'occuper pour ne pas avoir à penser. Tous les objets *techniques* d'aujourd'hui deviennent des raisons d'être
+
+On peut aussi se dire que chercher à maitriser la nature procure une sensation de puissance bien que [[L'Homme]] reste toujours aussi impuissant, toujours aussi *mortel*.
+
+[[Martin Heidegger]], à l'aube de [[l'ère atomique]] disait que *la technique* n'est pas seulement et surtout une menace matérelle et écologique mais aussi une menace pour l'essece de [[L'Homme]]. Pour lui, *la technique* est avant tout une pensée qui peut agir sur [[L'esprit]] qu'il qualifie de *pensée calculante* c'es-à-dire qui calcule les moyens d'arriver au fins sans penser aux fins contairement à la *pensée méditante* qui elle pense à l'existance en son sens. Il faut donc areter de faire de *la techique* un but en soi, pour trouver une solution pour maitriser notre pouvoir *technique* est de réfléchir à l'essence de *la technique* et de ne plus sous-estimer son emprise sur nous et faire en sorte qu'elle revienne à sa place, celle d'une chose utile mais pas essentielle à [[L'Homme]].
 
 
 
