@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a8e03b5521b14727",
+        "id": "1a7d21fe241b9c00",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "_Autres/templates/template livres.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -49,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -67,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_Autres/templates/template livres.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,6 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "_Autres/templates/template livres.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -147,20 +152,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
-  "active": "a8e03b5521b14727",
+  "active": "1a7d21fe241b9c00",
   "lastOpenFiles": [
+    "_Autres/templates/template livres.md",
+    "_Autres/templates/template Notes.md",
+    "_Autres/templates/template Daily.md",
+    "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md",
+    "03 Mental/Les concepts/Le développement personnel/Le développement personnel.md",
     "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
     "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
     "03 Mental/Les concepts/La mémoire/la courbe de l'oubli.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Push un élément dans une pile.md",
-    "Push un élément dans une pile en Python.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Savoir si une pile est vide.md",
-    "Savoir si une pile est vide en Python.md",
-    "02 informatique/Algorithmes/Structures de données/arbres binaires de recherche/Les arbres binaires de recherche.md"
+    "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md"
   ]
 }

@@ -1,18 +1,23 @@
 ---
-MOC: [[MOC Lecture]]
-Projets: [[Lire une heure par jour]]
-tags: #lecture, #productivité
-Date: 08-06-2022
+started:
+finished:
+rating:
+Created: {{date}} {{time}}
 ---
 
-## Miracle Morning
+Status: #status
+Author: [[]]
+Medium: #literature/books 
+Tags:
+Links: [[Livres que je lis actuellement]] - [[{{title}} Application]]
 
----
+## {{title}}
+
+___
 
 
 
+___
 
----
 ### Liens :
 
-[[La productivité]], [[Lire une heure par jour]], [[MOC Lecture]]
