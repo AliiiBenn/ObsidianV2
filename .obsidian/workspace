@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+            "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
+                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,6 +156,7 @@
   },
   "active": "a8e03b5521b14727",
   "lastOpenFiles": [
+    "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
     "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
     "03 Mental/Les concepts/La mémoire/la courbe de l'oubli.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
@@ -164,7 +165,6 @@
     "Push un élément dans une pile en Python.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Savoir si une pile est vide.md",
     "Savoir si une pile est vide en Python.md",
-    "02 informatique/Algorithmes/Structures de données/arbres binaires de recherche/Les arbres binaires de recherche.md",
-    "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md"
+    "02 informatique/Algorithmes/Structures de données/arbres binaires de recherche/Les arbres binaires de recherche.md"
   ]
 }

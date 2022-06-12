@@ -6,6 +6,10 @@
 ---
 
 
+### Problématique
+
+Ma problématique est comment créer *des labyrinthes* à l'aide d'*algorithmes*
+
 ### Mon plan 
 
 - Qu'est-ce qu'un algorithme de génération de labyrinthe ?
@@ -21,10 +25,6 @@
 	- l'algorithme de création
 - La comparaison avec un autre algorithme
 - Conclusion
-
-### Problématique
-
-Ma problématique est comment créer *des labyrinthes* à l'aide d'*algorithmes*
 
 ### Qu'est-ce qu'un algorithme de génération de labyrinthe ?
 
