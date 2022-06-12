@@ -151,7 +151,11 @@ Grâce à tout cela, aujourd'hui je n'ai plus aucunes douleurs aux articulations
 
 #### Le sommeil
 
-Le sommeil est ce qui le plus important pour votre corps =
+Le sommeil est ce qui le plus important pour votre corps (voir => [[les bienfaits d'une bonne nuit de sommeil]]). Concernant le temps de sommeil, soit vous écoutez tout le monde et vous dormez 8 heures soit vous suivez une routine personnalisée comme la [[Miracle Morning]] de [[Hal Elrod]] donc vous ne dormez que 6 heures. 
+
+Evitez absolument les écrans avant de dormir, la lumière émise par les écrans font croire à votre cerveau qu'il fait encore jour ce qui bloque le sommeil une fois dans votre lit, le production de [[La mélatonine]] va être perturbée et vous risquez de faire des insomnies. La meilleure chose à faire avant de dormir est de lire.
+
+Pour le reveil, essayez de laisser un verre d'eau à côté de vous pour le boire au reveil et dès que le reveil sonne levez vous et commencez votre journée.
 
 #### Les habitudes
 

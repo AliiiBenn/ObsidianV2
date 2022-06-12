@@ -20,7 +20,7 @@ L’accès aux objets de la pile se fait grâce à un unique pointeur vers le **
 
 ### Créer une pile 
 
-On peut créer une pile deux façons en [[Informatique/Les langages/Python/Python]], avec une liste ou avec une [[Listes chaînées]]. Ici nous allons utiliser une LC,
+On peut créer une pile deux façons en *Python*, avec une liste ou avec une [[Listes chaînées]]. Ici nous allons utiliser une LC,
 
 ```python
 class Pile:
