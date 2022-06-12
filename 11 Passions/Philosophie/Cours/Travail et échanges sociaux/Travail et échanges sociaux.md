@@ -51,11 +51,17 @@ Selon [[Marx]], travailler n'est pas seuement un moyen et peut être aussi une f
 
 Il fait une comparaison entre une abeille et une architecte. L'abeille execute sans avoir conscience de ce qu'elle fait et ce depuis des milliers d'années alors que l'architecte lui doit préparer des plans, acquérir une compétence etc... les technique d'architecture ont aussi évoluées avec le temps. Pour [[L'Homme]], le travail correspond à un projet c'est-à-dire une liberté car il n'y a du travail que la où il y a de [[la consience]]. Mais l'accomplissemnt est double selon [[Marx]], il est individuel car travailler est une oeuvre, un objet dont je suis sujet  qui permet de me découvrir et d'affirmer ma personnalité. Au niveau social, montravail est utile aux autres et je peux aussi éprouver une satisfaction de la jouissance que les autres peuvent retirer du fruit de mon travail. 
 
-Le travail est doublement libérateur car il 
+Le travail est doublement libérateur car il permet de me sociabiliser, il m'apprend à vivre avec les autres, il m'oblige à apprendre à collaborer et à me dépasser mais il me permet aussi de me réaliser en tant qu'individu car le résulatat de l'effort sera bien mon oeuvre.
+
+Cet aspect du travail est un aspect qui a bien été néglibé par [[Aristote]] car ce n'est pas seulement un rapport aux xhoses que l'on produit mais aussi un rapport à soi et aux autres.
+
+[[Rousseau]] lui, avait montré que l'apparation du travail a été responsable des premières association durables entreles hommes car pour lui [[L'Homme]] n'est pas naturellement sociable, il 'est devenu sous la nécéssité du travail ensemble. Il fait remarquer que le travail est aussi responsable de nombreuses inégalités et violences et de ce fait il a créer en même temps que *la sociabilité*, une *insociabilité* et si l'on a besoin du travail pour moraliser les hommes c'est aussi parce qu'il à l'origine des pies immoralités. Donc le travail a une portée *psychologique* mais ui n'est pas pour autant libératrice de l'esprit.
 
 ### Chapitre 2 - Travail et échanges économique
 
 #### A - Qu'est-ce qu'un échange économique
+
+Avec la fin de l'esclavage, il y a eu un changement du status du travail. Maintenant, on gagne de l'argent par son travail ainsi que des droits. Cependant, du fait qu'il devient une réalité économique, le travail ne devient qu'une simple marchnadise comme une atre qu'on vend et qu'on achète. il faut se demander si faire du travail une marc
 
 #### B - Développement du commerce et de la propriété
 
