@@ -47,7 +47,11 @@ Si l'on considère comme [[Hegel]] que toute [[la consience|conscience]] a besoi
 
 Dans [[La dialectique du maitre et de l'esclave]], [[Hegel]] montre le pouvoir du *travail*. Un homme devient esclave lorsqu'il perd un combat, il devient donc esclave de son maitre pour survivre mais, pendant que le maitre ne fera rien, l'esclave lui va apprendre à maitriser [[la nature]] [[Le Progrès Technique|la technique]]. Le maitre lui va devenir de plus en plus esclave de ses désirs qu'il ne pourra satisfaire, il va être obligé de reconnaitre l'esclave, d'égal à égal car au final l'esclave du maitre devient le maitre du maitre. Donc on voit que *le travail* a été un instrument de libération de l'esclave.
 
-[[Marx]]
+Selon [[Marx]], travailler n'est pas seuement un moyen et peut être aussi une fin en soi car [[L'Homme]] grâce au travail peut développer ses facultés intellectuelles et morales "**le travail est l'essence même de l'homme**" car [[L'Homme]] s'humanise en travaillant et il s'éloigen de la condition animal car l'animal lui ne travaille pas 
+
+Il fait une comparaison entre une abeille et une architecte. L'abeille execute sans avoir conscience de ce qu'elle fait et ce depuis des milliers d'années alors que l'architecte lui doit préparer des plans, acquérir une compétence etc... les technique d'architecture ont aussi évoluées avec le temps. Pour [[L'Homme]], le travail correspond à un projet c'est-à-dire une liberté car il n'y a du travail que la où il y a de [[la consience]]. Mais l'accomplissemnt est double selon [[Marx]], il est individuel car travailler est une oeuvre, un objet dont je suis sujet  qui permet de me découvrir et d'affirmer ma personnalité. Au niveau social, montravail est utile aux autres et je peux aussi éprouver une satisfaction de la jouissance que les autres peuvent retirer du fruit de mon travail. 
+
+Le travail est doublement libérateur car il 
 
 ### Chapitre 2 - Travail et échanges économique
 
