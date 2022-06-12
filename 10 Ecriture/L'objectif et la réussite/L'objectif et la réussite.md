@@ -145,7 +145,9 @@ Je pense que beaucoup ne savent pas ce qu'est le second cerveau et cela ne pose 
 
 Ca serait vous prendre pour des idiots de dire que vous ne savez pas que la nutrition est essentielle pour un bon hygiène de vie c'est pour cela que je vais juste donner quelques exemples et liens avec les autres catégories.
 
-Après avoir commencé à faire du sport 
+Après avoir commencé à faire du sport, mon appétit est devenu extrême, j'avais tout le temps faire et à vrai dire c'est encore le cas mais
+
+(boire)
 
 #### Le sommeil
 

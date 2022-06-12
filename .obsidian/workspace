@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
+            "file": "13 Daily/Daily notes/11-06-2022.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
+                "file": "13 Daily/Daily notes/11-06-2022.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
+                "file": "13 Daily/Daily notes/11-06-2022.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -126,7 +126,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.13168724279835492,
+                  "scale": 0.3628873693012145,
                   "close": true
                 }
               }
@@ -156,15 +156,15 @@
   },
   "active": "16b345f8482a0d56",
   "lastOpenFiles": [
+    "13 Daily/Daily notes/11-06-2022.md",
+    "13 Daily/Daily notes/12-06-2022.md",
+    "11 Passions/Science/La science.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
     "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
-    "13 Daily/Daily notes/11-06-2022.md",
-    "11 Passions/Science/La science.md",
     "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
     "Home.md",
     "Library.md",
     "Mon organisation.md",
-    "L'esprit.md",
-    "13 Daily/Daily notes/10-06-2022.md"
+    "L'esprit.md"
   ]
 }
