@@ -99,7 +99,13 @@ Il va y avoir un cap décisif frachi avec [[Galilée]] qui grace à l'alliance e
 
 Ce qui [[Aristote]] redoutait sur l'alliance de *la technique* et de [[La science]] va finalement être fructueux pour les deux car chacune utilise l'autre. Elles vont permettre *le progrès* c'est-à-dire que les découvertes *techniques* vont permettre de nouvelles découvertes *scientifiques* qui vont permettre de nouvelles découvertes *techniques* etc... 
 
-Malgrès le confort matériel acquis, le progrès technique va s'essouffler au *20ème siècle* avec les inquiètantes impasses écologiques et sociales.
+Malgrès le confort matériel acquis, le progrès technique va s'essouffler au *20ème siècle* avec les inquiètantes impasses écologiques et sociales. [[L'Homme]] est moins escalave de [[la nature]] mais de plus en plus esclave *du progrès technique*
+
+Ce qui s'est réalisé est le pronostic de [[Rousseau]] qui disait que si [[L'Homme]] fait un mauvais usage de [[la liberté|sa liberté]] il allait devenir **tyran de la nature et de lui même** 
+
+De ce fait, les prévisions de [[Descartes]] étaient partiellement fausses car, il pensait que *les machines* allaient être au sevice de [[L'Homme]] mais il s'est passé l'inverse, c'est [[L'Homme]] qui est au service *des machines*.
+
+[[L'Homme]] est aujourd'hui obligé de s'
 
 #### C - Le nouveau défi post-moderne : maitriser la technique
 

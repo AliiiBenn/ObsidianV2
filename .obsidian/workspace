@@ -4,23 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "32d8570bbc982739",
+        "id": "a8e03b5521b14727",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
+            "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
             "mode": "source",
             "source": false
           }
-        }
-      },
-      {
-        "id": "6b171444a8481795",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
         }
       }
     ],
@@ -78,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
+                "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
+                "file": "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -160,11 +152,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5,
-    "collapsed": true
+    "width": 312.5
   },
-  "active": "32d8570bbc982739",
+  "active": "a8e03b5521b14727",
   "lastOpenFiles": [
+    "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Push un élément dans une pile.md",
@@ -173,7 +165,6 @@
     "Savoir si une pile est vide en Python.md",
     "02 informatique/Algorithmes/Structures de données/arbres binaires de recherche/Les arbres binaires de recherche.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
-    "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md",
-    "Ma Miracle Morning.md"
+    "08 Lecture/Mes livres/Miracle Morning/Miracle Morning.md"
   ]
 }
