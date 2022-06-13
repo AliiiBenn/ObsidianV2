@@ -123,7 +123,9 @@ La question de la propriété déjà analysée par [[Rousseau]] prend ici une ut
 
 Selon [[Marx]], le travail humain rapporte beaucoup plus que ce qu'il coute dou la nouvele explotation capitaliste du travail. Le progrès, à cause des machine a créer une nouvelle catégrie d'hommes désoeuvrés, sans travail et miséreux qui viennent de l'artisanat et de la paysannerie et qui affluent en masse vers la ville pour trouver du travil. Il va appeller cette classe *le prolétariat* qui est le produit [[Le Progrès Technique|du progrs technique]] et est inutile à lui même, il dépend des machines et de leur propriétaire, il doit vendre sa force de travail pour survivre et la vend à prix cassé aux capitalistes car leur survie en dépend et les capitaliste eux vont se faire un bénéfice immense.
 
-La solution de [[Marx]] est qu'il faut repenser 
+La solution de [[Marx]] est qu'il faut repenser la propriété et mettre fin à la spéculation sur la plus value du travail et donc que les bénéfices du traval reviennent a travail lui même et non au propriétaire. Cette solution a coe espoir une société sans classes. Selon lui cela ne pourrait se faire que par la force, c'est-a-dire par une révolution.
+
+
 
 
 
