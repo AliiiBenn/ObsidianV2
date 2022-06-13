@@ -117,7 +117,13 @@ Ces méthodes de travail ont favorisé la division du travail et donc des hommes
 
 Le travail perds tous ses effets libérateurs car je ne peux plus me considérer comme sujet de mon oeuvre, l'ouvrier ne participe plus à la conception du produit et n'a plus aucun pouvoir, il ne décide de plus rien car il n'est pas propriétaire de l'usine. L'ouvrier devient donc comme l'abeille dans la ruche éxécutant une tache définie par les d'autres.
 
+Cette nouvelle organiqation créée une nouvelle division des classes, une société très hiérarchisée. [[Marx]] va appeller cela la lutte des classes. Travailler dans ces conditions n'a plus aucun sens en soi si ce n'est pour obtenir un salaire.
 
+La question de la propriété déjà analysée par [[Rousseau]] prend ici une utre tournure que [[Marx]] va appeller [[le capitalisme]]. le capitaliste est celui qui détient le capitalet le capitalisme consiste à spéculer sur le travail donc échanger de l'argent contre une marchandise puis cette marchandise contre de l'argent sauf que cette marchandise est l'ouvrier lui même.
+
+Selon [[Marx]], le travail humain rapporte beaucoup plus que ce qu'il coute dou la nouvele explotation capitaliste du travail. Le progrès, à cause des machine a créer une nouvelle catégrie d'hommes désoeuvrés, sans travail et miséreux qui viennent de l'artisanat et de la paysannerie et qui affluent en masse vers la ville pour trouver du travil. Il va appeller cette classe *le prolétariat* qui est le produit [[Le Progrès Technique|du progrs technique]] et est inutile à lui même, il dépend des machines et de leur propriétaire, il doit vendre sa force de travail pour survivre et la vend à prix cassé aux capitalistes car leur survie en dépend et les capitaliste eux vont se faire un bénéfice immense.
+
+La solution de [[Marx]] est qu'il faut repenser 
 
 
 
