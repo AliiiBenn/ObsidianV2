@@ -81,7 +81,15 @@ Grâce à l'argent, tout devient échangeable, désormais je vends et j'achete, 
 
 Avec *le troc* j'évalue avec la valeur de nos objets pour l'échange mais avec *la monnaie*, plus elle va proliférer plus elle va m'échapper et je vais devoir suivre des lois économique, [[les lois du marché]] dites de l'offre et de la demande supposées neutres et objectives. Mais, rien ne me dit au final que ces lois le sont vraiment car toutes sortes de manipulations peuvent être cachées dans le but de baisser ou d'augmenter un prix. 
 
-Au final, toutes ces pratiques économiques ne sont qu'un moyen pour m'enrichier matériellement
+Au final, toutes ces pratiques économiques ne sont qu'un moyen pour m'enrichier matériellement ce qui est le contraire même d'un lien avec l'autre, c'est désormais les lois du marché qui décident du prix des choses qui n'aura pas forcément de lien avec l'effort fourni.
+
+*La monnaie* a créer le commerce et avec lui une nouvelle activité, la spéculation d'échanges  donc l'art d'acquérir de l'argent avec des des échanges donc en ne produisant rien. L'argent qui a la base a été crée pour faciliter les échanges est devenue la seule finalité des échanges où il est pratiqué seulement pour l'argent qu'il rapporte. De ce fait l'argent st passée de moyen à fin en soi. Le développement du commerce a augmenter la quantité d'échanges sociaux mais a-t-il augmenté leur qualité ?
+
+Le sens de *la propriété* est l'une des conséquence inévitable du *travail*, il semble légitime qui si j'ai cultivé un champ, que je me l'approprie avec sa récolte sinon quel sens y auraittil à travailler ?
+
+Comme l'explique [[Rousseau]], la propriété est en soi légitimemais peut générer les plus grandes inégalités car elle peut être *héréditaire*. Tant qu'il reste encore des sols inhabité j'ai la possibilité de m'enrichir mais dès que tous sont occupés je suis condamné de travailler pour les riches propriétaires. De ce fait, on ne devient pas plus riche ou plus pauvre légitimement mais en fonction de sa naissance qui est un critre purement arbitraire. 
+
+Cela aboutit donc à une société où les riches s'enrichissent en travaillant peu et où les pauvres
 
 ### Chapitre 3 - L'alienation du travail
 
