@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
+            "file": "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
+                "file": "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
+                "file": "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -157,15 +157,15 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
     "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
+    "02 informatique/Langages Informatique/Langages Algorithmique/C++/Les bases de C++.md",
     "13 Daily/Daily notes/12-06-2022.md",
     "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
     "marie.md",
     "10 Ecriture/L'objectif et la réussite/L'objectif et la réussite.md",
     "13 Daily/Daily notes/10-06-2022.md",
     "12 Projets/Projets Actuels/Coder un jeu avec Marie/Coder un jeu avec Marie.md",
-    "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
-    "11 Passions/Philosophie/Cours/Le Progrès Technique/Le Progrès Technique.md",
-    "03 Mental/Les concepts/Le travail/Le travail.md"
+    "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md"
   ]
 }
