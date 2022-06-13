@@ -79,7 +79,9 @@ Grâce à l'argent, tout devient échangeable, désormais je vends et j'achete, 
 
 #### B - Développement du commerce et de la propriété
 
+Avec *le troc* j'évalue avec la valeur de nos objets pour l'échange mais avec *la monnaie*, plus elle va proliférer plus elle va m'échapper et je vais devoir suivre des lois économique, [[les lois du marché]] dites de l'offre et de la demande supposées neutres et objectives. Mais, rien ne me dit au final que ces lois le sont vraiment car toutes sortes de manipulations peuvent être cachées dans le but de baisser ou d'augmenter un prix. 
 
+Au final, toutes ces pratiques économiques ne sont qu'un moyen pour m'enrichier matériellement
 
 ### Chapitre 3 - L'alienation du travail
 
