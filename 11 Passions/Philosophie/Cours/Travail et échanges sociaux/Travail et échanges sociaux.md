@@ -111,6 +111,12 @@ Cet ordre social auquel m'oblige le traail est-il lui même humain , L'échange 
 
 #### B - L'exploitation capitaliste du travail : l'analyse marxiste
 
+[[Marx]] lui même, montre que pendanr [[La Révolution Industrielle]], [[La productivité]] a changé les rapports économiques, creusant les écarts en tre les riches et les pauvres. Les machines, cencée être moyen au service de [[L'Homme]] est devenue une fin en soi tandis que [[L'Homme]] lui est devenu un moyen au service de l'industrialisation. Les machnine, du fait de leur productivité jamais atteinte par les hommes a un très grand pouvoir économique donc la machine a plus de valeur que le travailleur.
+
+Ces méthodes de travail ont favorisé la division du travail et donc des hommes car il s'agit maintenant d'une division quantitativé et non qualitative. Les taches des ouvrirs sont tellement répétitives qu'elles en deviennent abutissantes mais grace au machine il n'y a plus ce problème et il ne nécessite plus aucune adresse .
+
+Le travail perds tous ses effets libérateurs car je ne peux plus me considérer comme sujet de mon oeuvre, l'ouvrier ne participe plus à la conception du produit et n'a plus aucun pouvoir, il ne décide de plus rien car il n'est pas propriétaire de l'usine. L'ouvrier devient donc comme l'abeille dans la ruche éxécutant une tache définie par les d'autres.
+
 
 
 
