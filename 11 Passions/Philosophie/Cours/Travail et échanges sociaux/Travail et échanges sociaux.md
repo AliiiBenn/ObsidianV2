@@ -69,9 +69,17 @@ Il font comprendre qu'il y a deux types d'échanges : *les échanges d'idées* e
 
 Les *échanges d'idées* sont tous les échnages etre des [[la consience|consiences]] à partir d'elle mêmes, un échnage entre des [[l'âme|âmes]] c'est-à-dire des échanges de pensées, d'opinions, des sentiments etc... Ces échnages ont lieu avec [[le langage]] et [[l'art]]. Cet échange permet une réelle rencontre de *l'autre* avec une certaine forme de désintéssement uniquement dans un but de plaisir, voulant favoriser une amitié et un respect entre hommes.
 
-Les *échanges de choses* eux sont tous les échnages qui ont un but économique, bien que 
+Les *échanges de choses* eux sont tous les échanges qui ont un but économique, bien qu'on les appellesdes choses, cela ne désigne pas que des objets mais aussi des services, des compétences ou un savoir faire. 
+
+A la base les échanges se faisaient grâce au troc donc un échnage direct de produits. De ce fait je peux grâceà mes compétences échanger ce que je sais fare contre une autre chose que je veux. Dans ce cas la, mon objet a en plus d'une *valeur d'usage* une *valeur d'échange*. Gâce au troc mes envies ne sont plus limitées à ce que je peux produire ce qui est une véritable conquête de liberté mais paradoxalement, cela montre aussi que désormais je suis dépendant des autres.
+
+l'échange montre vite ses limites avec la différence de valeur entre les objets, comment échanger des chaussures contre un bateau ? Ce n'est pas possible. C'est pour cela que [[L'Homme]] a créer la monnaie, une convention purement humine e fictive qui permet de fixer la valeur des choses. Nous passons donc d'un troc à un échange entre de la monnaie et un objet. 
+
+Grâce à l'argent, tout devient échangeable, désormais je vends et j'achete, cela va modifier la nature même *du travail* car grace à lui j'obtiens désormais du pouvoir d'achat. 
 
 #### B - Développement du commerce et de la propriété
+
+
 
 ### Chapitre 3 - L'alienation du travail
 
