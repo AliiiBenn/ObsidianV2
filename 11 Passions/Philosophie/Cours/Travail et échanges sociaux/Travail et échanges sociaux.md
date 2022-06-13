@@ -89,11 +89,17 @@ Le sens de *la propriété* est l'une des conséquence inévitable du *travail*,
 
 Comme l'explique [[Rousseau]], la propriété est en soi légitimemais peut générer les plus grandes inégalités car elle peut être *héréditaire*. Tant qu'il reste encore des sols inhabité j'ai la possibilité de m'enrichir mais dès que tous sont occupés je suis condamné de travailler pour les riches propriétaires. De ce fait, on ne devient pas plus riche ou plus pauvre légitimement mais en fonction de sa naissance qui est un critre purement arbitraire. 
 
-Cela aboutit donc à une société où les riches s'enrichissent en travaillant peu et où les pauvres
+Cela aboutit donc à une société où les riches s'enrichissent en travaillant peu et où les pauvres restent pauvres en travaillant énormément. De plus, les lois de protection de la propriété ne font qu'instituer cette injustice.
+
+Donc, selon [[Rousseau]], Dans la mesue où elle n'abolissent pas son hérédité. Puis-je vivre de mon travail comme une oeuvre pour la communauté si je suis obligé de vendre aux riches ?
+
+Il faut aussi se demander si nous travaillerons sans cette hérédité, si c'était pour enrichir la communauté et non simplement le cercle fermé de la famille.
 
 ### Chapitre 3 - L'alienation du travail
 
 #### A -Les limites du libéralisme économique
+
+Pour les défenseurs du *libéralisme économique*, nous devons laisser se développer librement tout échange commercial car il favorise le rapprochement des hommes qui n'ont aucun intéret de detruire l'autre mais aussi car, c'est la meilleur garantie du respect de l'autre ce qui peut se voir entre les pays. Il y aussi le fait que personne n'est frcé à faire un échange donc il n'y a aucun besoin de poser des limites ce qui pourrait aussi causer une auto-régulation des échanges. La troisième raison vient d'une vision péssimiste de [[L'Homme]] qui pour eux est incapable de désintéressement et sont tous rivés sur leur intéréts privés 
 
 #### B - L'exploitation capitaliste du travail : l'analyse marxiste
 
