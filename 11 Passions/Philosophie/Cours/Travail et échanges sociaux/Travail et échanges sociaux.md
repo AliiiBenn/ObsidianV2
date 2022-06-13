@@ -99,7 +99,15 @@ Il faut aussi se demander si nous travaillerons sans cette hérédité, si c'ét
 
 #### A -Les limites du libéralisme économique
 
-Pour les défenseurs du *libéralisme économique*, nous devons laisser se développer librement tout échange commercial car il favorise le rapprochement des hommes qui n'ont aucun intéret de detruire l'autre mais aussi car, c'est la meilleur garantie du respect de l'autre ce qui peut se voir entre les pays. Il y aussi le fait que personne n'est frcé à faire un échange donc il n'y a aucun besoin de poser des limites ce qui pourrait aussi causer une auto-régulation des échanges. La troisième raison vient d'une vision péssimiste de [[L'Homme]] qui pour eux est incapable de désintéressement et sont tous rivés sur leur intéréts privés 
+Pour les défenseurs du *libéralisme économique*, nous devons laisser se développer librement tout échange commercial car il favorise le rapprochement des hommes qui n'ont aucun intéret de detruire l'autre mais aussi car, c'est la meilleur garantie du respect de l'autre ce qui peut se voir entre les pays. Il y aussi le fait que personne n'est frcé à faire un échange donc il n'y a aucun besoin de poser des limites ce qui pourrait aussi causer une auto-régulation des échanges. La troisième raison vient d'une vision péssimiste de [[L'Homme]] qui pour eux est incapable de désintéressement et sont tous rivés sur leur intéréts privés donc l'échange commercial est le seul moyen de les rendre un peu respectueux.
+
+[[Hume]] sera du même avis, selon lui les activités écnomiques créent une epérience quotidienne et concrète de l'autre basée sur la confiance et que tout est finalement plus efficace pour sociabiliser les hommes. Dans ce cas comment exmpliquer la violence économique généée par la pratique du libéralisme économique ?
+
+[[Montesquieu]] souligne que l'esprit de commerce représente certe un progrès social mais il dénonce aussi l'illusion qu'il pourrait nous rendre plus moraux, justes, plus humain. 
+
+Dans une société où tout est considéré comme travail on ne va pas chercher à aider une personne agée mais on va créer un service d'aide à la personne payant. Cette contrainte est loin de suffir pour créer un athentique respect de l'autre 
+
+Cet ordre social auquel m'oblige le traail est-il lui même humain , L'échange économique est ni moral, ni immoral, il est amoral, étant par nature fondé sur un ntéret privé et subjéctif
 
 #### B - L'exploitation capitaliste du travail : l'analyse marxiste
 
