@@ -7,10 +7,8 @@
         "id": "615f4d021edd7ee7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -151,11 +147,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "Home.md",
     "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
     "12 Projets/Projets Actuels/Mon business/Le Bot Discord à vendre.md",
     "12 Projets/Projets Actuels/Mon business/Mon business.md",
