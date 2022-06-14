@@ -27,7 +27,9 @@ Déjà je remarque que les vendeurs de *Bots Discord* proposent vraiment peu de 
 
 De plus, il faut que tout soit très modulable c'est-à-dire que la personne qui achète doit avoir le choix de ce qu'il veut ce qui va le faire payer pour ce qu'il veut vraiment. De ce vait je vais devoir créer une grille tarifaire [[#grille tarifaire du bot]].
 
+il faut que tout soit beau, que ce soit la page du bot ou directement les fonctionnalités du bot, il doit y avoir des embeds "partout" avec la possibilité d'avoir des images personnalisées si voulu. L'objectif va être de rendre le bot "attirant" pour les acheteurs.
 
+Le code va aussi devoir être documenté, il faudra proposer au client de l'aide pour héberger le bot
 
 ### Le bot pour le business
 
