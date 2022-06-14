@@ -7,11 +7,9 @@
         "id": "615f4d021edd7ee7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "kanban",
           "state": {
-            "file": "12 Projets/Projets Actuels/Mon business/Mon business.md",
-            "mode": "source",
-            "source": false
+            "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md"
           }
         }
       }
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Mon business.md",
+                "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Mon business.md",
+                "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,9 +156,9 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
-    "12 Projets/Projets Actuels/Mon business/Mon business.md",
     "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
     "12 Projets/Projets Actuels/Mon business/Le Bot Discord à vendre.md",
+    "12 Projets/Projets Actuels/Mon business/Mon business.md",
     "Mon organisation.md",
     "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Structures de données/Les Piles/Les Piles.md",
     "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Structures de données/Structures de données.md",
