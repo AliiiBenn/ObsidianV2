@@ -1,5 +1,5 @@
 tags : 
-links : [[070 MOC Projets]]
+links : [[MOC Projets]]
 
 ****
 
