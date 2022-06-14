@@ -16,10 +16,8 @@ Ce que j'appelle les bases de *C++* sont les concepts présents dans tous les ut
 [[Les déclarations en C++]]
 [[Afficher un message en C++]]
 [[Les variables en C++]]
-[[Les boucles for en C++]]
-[[Les boucles while en C++]]
 [[Lire des informations en C++]]
-[[Les conditions en C++]]
+[[L'instruction using]]
 
 
 ---
