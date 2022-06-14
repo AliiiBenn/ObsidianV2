@@ -47,7 +47,7 @@ banner: "![[informatique.webp]]"
 | Je veux...                   | ...Apprendre les structures de données |
 | ---------------------------- | -------------------------------------- |
 | Listes Chaînées              | [[Listes chaînées]]                    |
-| Piles                        | [[Les Piles]]                              |
+| Piles                        | [[02 informatique/Algorithmes/Structures de données/Les piles/Les Piles]]                              |
 | Files                        | [[Les Files]]                              |
 | Arbres binaires              | [[Arbres binaires]]                    |
 | Arbres binaires de recherche | [[Arbres binaires de recherche]]       |

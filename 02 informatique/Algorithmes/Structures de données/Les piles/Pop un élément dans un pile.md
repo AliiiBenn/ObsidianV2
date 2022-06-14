@@ -19,4 +19,4 @@ def pop(self):
 ---
 ### Liens :
 
-[[Les Piles]], [[Apprendre les structures de données]]
+[[02 informatique/Algorithmes/Structures de données/Les piles/Les Piles]], [[Apprendre les structures de données]]

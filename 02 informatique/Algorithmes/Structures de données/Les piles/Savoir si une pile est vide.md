@@ -21,4 +21,4 @@ Pour savoir si une pile est vide, il y a principales façons de le faire, si on 
 ---
 ### Liens :
 
-[[Les Piles]], [[Apprendre les structures de données]]
+[[02 informatique/Algorithmes/Structures de données/Les piles/Les Piles]], [[Apprendre les structures de données]]

@@ -1,5 +1,5 @@
 tags : 
-links : [[Les Files]], [[Informatique/Les langages/Python/Python]], [[Les Piles]], [[Push un élément dans une pile]]
+links : [[Les Files]], [[Informatique/Les langages/Python/Python]], [[02 informatique/Algorithmes/Structures de données/Les piles/Les Piles]], [[Push un élément dans une pile]]
 
 ****
 

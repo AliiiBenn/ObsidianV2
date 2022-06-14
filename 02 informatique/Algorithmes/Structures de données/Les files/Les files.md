@@ -22,7 +22,7 @@ L’accès aux objets de la file se fait grâce à deux pointeurs, l’un pointa
 
 ### Créer une file :
 
-Ici aussi il y a deux façon de créer une file en [[Informatique/Les langages/Python/Python]], avec une [[Listes chaînées]] ou avec une [[Les Piles]],
+Ici aussi il y a deux façon de créer une file en [[Informatique/Les langages/Python/Python]], avec une [[Listes chaînées]] ou avec une [[02 informatique/Algorithmes/Structures de données/Les piles/Les Piles]],
 
 *Avec une liste chaînée :*
 

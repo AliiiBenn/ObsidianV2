@@ -19,4 +19,4 @@ Vu qu'une *Pile* suit la logique *LIFO* de ce fait le dernier élément ajouté 
 ---
 ### Liens :
 
-[[Les Piles]], [[Apprendre les structures de données]]
+[[02 informatique/Algorithmes/Structures de données/Les piles/Les Piles]], [[Apprendre les structures de données]]
