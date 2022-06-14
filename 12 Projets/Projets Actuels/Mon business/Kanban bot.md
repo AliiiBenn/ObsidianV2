@@ -56,10 +56,18 @@ kanban-plugin: basic
 ## Système de niveau
 
 - [ ] Gagner de l'xp avec des actions comme parler, passer du temps dans des salons vocaux etc...
+- [ ] Multiplicateur d'xp selon le role
+- [ ] roles avec l'xp
 
 
 ## Guildes
 
+- [ ] Créer des guildes prédéfinies par le serveur et/ou des guildes crées par les membres eux mêmes
+- [ ] Améliorer sa guilde avec l'argent des membres
+- [ ] Avantages de guilde
+- [ ] Inviter des gens dans sa guilde
+- [ ] Alliances
+- [ ] Utilité à aider les autres guildes pour éviter une simple guilde principale
 
 
 ## Api
@@ -82,16 +90,10 @@ kanban-plugin: basic
 
 
 
-## Server info
-
-
-
 ## Utilitaire
 
-
-
-## Commandes à faire
-
+- [ ] Message de bienvenue
+- [ ] Server Info
 
 
 ## Commandes en cours
