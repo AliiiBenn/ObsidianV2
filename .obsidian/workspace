@@ -7,9 +7,11 @@
         "id": "615f4d021edd7ee7",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md"
+            "file": "12 Projets/Projets Actuels/Mon business/Mon business.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -51,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
+                "file": "12 Projets/Projets Actuels/Mon business/Mon business.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
+                "file": "12 Projets/Projets Actuels/Mon business/Mon business.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -157,10 +158,10 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "12 Projets/Projets Actuels/Mon business/Mon business.md",
     "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
     "12 Projets/Projets Actuels/Mon business/Le Bot Discord à vendre.md",
     "Mon organisation.md",
-    "12 Projets/Projets Actuels/Mon business/Mon business.md",
     "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Structures de données/Les Piles/Les Piles.md",
     "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Structures de données/Structures de données.md",
     "Le système de taches.md",
