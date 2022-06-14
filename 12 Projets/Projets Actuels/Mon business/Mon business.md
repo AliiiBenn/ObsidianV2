@@ -21,11 +21,19 @@ Avant de commencer à proposer mes services je vais faire un bot avec toutes les
 
 Il va falloir que je me démarque des autres vendeurs, que je domine le marché de la vente de *Bots Discord*. Pour ce faire il va falloir que je procède comme les meilleurs et que j'ajoute un plus, il va falloir que je propose des services que les meilleurs ne proposent pas en plus des leurs. Pour les idées, je n'ai pas besoin de chercher pendant des heures, je vais sur les bots discord les plus connus et je refait leurs commandes idem pour ce que les vendeurs proposent sur Fiverr
 
-#### Comment me démarquer avec des exemples 
+#### Comment me démarquer avec des exemples  
+
+Déjà je remarque que les vendeurs de *Bots Discord* proposent vraiment peu de fonctionnalités dans leur version standard surement dans l'objectif que le client prenne la version supérieure qui coute beaucoup plus cher. Je pense que ce n'est pas une bonne idée, la version de base d'un bot doit avoir toutes les fonctionnalités de base, la version standard elle doit avoir les bases en plus poussé et la version premium elle doit tout avoir. 
+
+De plus, il faut que tout soit très modulable c'est-à-dire que la personne qui achète doit avoir le choix de ce qu'il veut ce qui va le faire payer pour ce qu'il veut vraiment. De ce vait je vais devoir créer une grille tarifaire [[#grille tarifaire du bot]].
+
+
 
 ### Le bot pour le business
 
 [[Le Bot Discord à vendre]]
+
+### Grille tarifaire du bot
 
 
 
