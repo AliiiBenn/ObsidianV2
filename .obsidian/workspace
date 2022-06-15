@@ -7,8 +7,12 @@
         "id": "615f4d021edd7ee7",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Afficher un message en Python.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -66,6 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Afficher un message en Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Afficher un message en Python.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -150,6 +156,8 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Afficher un message en Python.md",
+    "03 Mental/MOC Mental.md",
     "07 Films/MOC Films.md",
     "12 Projets/MOC Projets.md",
     "_Autres/templates/template Notes.md",
@@ -157,8 +165,6 @@
     "Library.md",
     "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
     "09 Sport/MOC Sport.md",
-    "09 Sport/La musculation/la musculation.md",
-    "09 Sport/La musculation/15 techniques pour avoir des gros pectoraux.md",
-    "02 informatique/Langages Informatique/Langages Algorithmique/C++/Les bases de C++.md"
+    "09 Sport/La musculation/la musculation.md"
   ]
 }
