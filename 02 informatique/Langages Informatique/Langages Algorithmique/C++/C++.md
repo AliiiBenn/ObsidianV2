@@ -39,9 +39,3 @@ Le *C++* etst un langage de programmation crée en 1985 par *Bjarne Stroustrup*.
 
 [[MOC Informatique]], [[Apprendre le C++]]
 
-
-```cpp
-for (i = 0; i < 10; i++) {
-	cout << i << endl;
-}
-```
