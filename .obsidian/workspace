@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11 Passions/Philosophie/Cours/La science/Descartes et le rationalisme.md",
+            "file": "Home.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/La science/Descartes et le rationalisme.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/La science/Descartes et le rationalisme.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -157,11 +157,11 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "Home.md",
     "11 Passions/Philosophie/Cours/La science/Descartes et le rationalisme.md",
     "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
     "03 Mental/Les concepts/Le travail/Le travail.md",
     "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
-    "Home.md",
     "08 Lecture/Livres que je veux acheter/Livres à acheter avec le pass culture.md",
     "13 Daily/Daily notes/15-06-2022.md",
     "Library.md",
