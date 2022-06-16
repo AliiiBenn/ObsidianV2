@@ -28,7 +28,7 @@ Ma problématique est comment créer *des labyrinthes* à l'aide d'*algorithmes*
 
 ### Qu'est-ce qu'un algorithme de génération de labyrinthe ?
 
-Un *algorithme de génération de labyrinthes* est l'une des deux catégorie de *modélisation mathématique d'un labyrinthe* avec comme autre catégorie *résolution de labyrithe* dont on parlera rapidement à la fin. 
+Un *algorithme de génération de labyrinthes* est l'une des deux catégorie de *modélisation mathématique d'un labyrinthe* avec comme autre catégorie *résolution de labyrithe* dont on parlera rapidement à la fin. il permet gâce à un programme de générer un layrithe suivant ce
 
 ### Les types de labyrinthes
 
