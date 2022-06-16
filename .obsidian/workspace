@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_Autres/templates/template Notes.md",
+            "file": "Home.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Autres/templates/template Notes.md",
+                "file": "Home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Autres/templates/template Notes.md",
+                "file": "Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -157,11 +157,11 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "Home.md",
     "_Autres/templates/template Notes.md",
     "_Autres/templates/template Vocab.md",
     "_Autres/templates/template Week.md",
     "02 informatique/MOC Informatique.md",
-    "Home.md",
     "Library.md",
     "3.2.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
