@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "_Autres/templates/template Notes.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "_Autres/templates/template Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "_Autres/templates/template Notes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -157,15 +157,15 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "_Autres/templates/template Notes.md",
+    "_Autres/templates/template Vocab.md",
+    "_Autres/templates/template Week.md",
+    "02 informatique/MOC Informatique.md",
     "Home.md",
     "Library.md",
     "3.2.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Push un élément dans une pile.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Savoir si une pile est vide.md",
-    "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Structures de données/Les Piles/Savoir si une pile est vide en Python.md",
-    "11 Passions/Philosophie/Cours/La science/Descartes et le rationalisme.md",
-    "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
-    "03 Mental/Les concepts/Le travail/Le travail.md"
+    "02 informatique/Algorithmes/Structures de données/Les piles/Savoir si une pile est vide.md"
   ]
 }
