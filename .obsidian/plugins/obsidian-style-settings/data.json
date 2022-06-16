@@ -7,5 +7,6 @@
   "blue-topaz-theme@@text-normal@@dark": "#BDBDBD",
   "blue-topaz-theme@@text-normal@@light": "#0E0E0E",
   "blue-topaz-theme@@default-split-style": true,
-  "blue-topaz-theme@@file-bg-shape-option": "file-bg-rounded-rectangle"
+  "blue-topaz-theme@@file-bg-shape-option": "file-bg-rounded-rectangle",
+  "lyt-mode@@highlight-style": "lyt-gradient-bg-highlights"
 }
