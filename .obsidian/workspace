@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 informatique/MOC Informatique.md",
+            "file": "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 informatique/MOC Informatique.md",
+                "file": "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 informatique/MOC Informatique.md",
+                "file": "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -157,6 +157,7 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
     "02 informatique/MOC Informatique.md",
     "02 informatique/Algorithmes/Structures de données/Structures de données.md",
     "02 informatique/Algorithmes/Algorithmes de recherche/Algorithmes de recherche.md",
@@ -165,7 +166,6 @@
     "_Autres/templates/template Notes.md",
     "_Autres/templates/template Vocab.md",
     "_Autres/templates/template Week.md",
-    "Library.md",
-    "3.2.md"
+    "Library.md"
   ]
 }
