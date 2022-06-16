@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Home.md",
+            "file": "02 informatique/MOC Informatique.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "02 informatique/MOC Informatique.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Home.md",
+                "file": "02 informatique/MOC Informatique.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -157,15 +157,15 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "02 informatique/MOC Informatique.md",
+    "02 informatique/Algorithmes/Structures de données/Structures de données.md",
+    "02 informatique/Algorithmes/Algorithmes de recherche/Algorithmes de recherche.md",
     "Home.md",
+    "02 informatique/Algorithmes/Algorithmes de tri/Algorithmes de tri.md",
     "_Autres/templates/template Notes.md",
     "_Autres/templates/template Vocab.md",
     "_Autres/templates/template Week.md",
-    "02 informatique/MOC Informatique.md",
     "Library.md",
-    "3.2.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Push un élément dans une pile.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Savoir si une pile est vide.md"
+    "3.2.md"
   ]
 }
