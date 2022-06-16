@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
+            "file": "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Structures de données/Les Piles/Push un élément dans une pile en Python.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
+                "file": "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Structures de données/Les Piles/Push un élément dans une pile en Python.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
+                "file": "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Structures de données/Les Piles/Push un élément dans une pile en Python.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -157,6 +157,8 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Structures de données/Les Piles/Push un élément dans une pile en Python.md",
+    "02 informatique/Algorithmes/Structures de données/Les piles/Push un élément dans une pile.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
     "02 informatique/MOC Informatique.md",
     "02 informatique/Algorithmes/Structures de données/Structures de données.md",
@@ -164,8 +166,6 @@
     "Home.md",
     "02 informatique/Algorithmes/Algorithmes de tri/Algorithmes de tri.md",
     "_Autres/templates/template Notes.md",
-    "_Autres/templates/template Vocab.md",
-    "_Autres/templates/template Week.md",
-    "Library.md"
+    "_Autres/templates/template Vocab.md"
   ]
 }
