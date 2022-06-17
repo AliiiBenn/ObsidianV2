@@ -7,9 +7,11 @@
         "id": "615f4d021edd7ee7",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md"
+            "file": "Library.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -51,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
+                "file": "Library.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
+                "file": "Library.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -157,15 +158,15 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "Library.md",
+    "Home.md",
     "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
     "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
-    "Home.md",
     "12 Projets/Projets Actuels/Mon business/Le Bot Discord à vendre.md",
     "12 Projets/Projets Actuels/Mon business/Mon business.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
     "02 informatique/Langages Informatique/Langages Algorithmique/Python/Cours Python/Structures de données/Les Piles/Push un élément dans une pile en Python.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Push un élément dans une pile.md",
-    "02 informatique/MOC Informatique.md"
+    "02 informatique/Algorithmes/Structures de données/Les piles/Push un élément dans une pile.md"
   ]
 }
