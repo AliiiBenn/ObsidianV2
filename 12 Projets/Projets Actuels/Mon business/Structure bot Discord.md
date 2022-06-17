@@ -15,6 +15,12 @@ description :Les membres de chaque serveur peuvent créer leur guilde (si voulu 
 attributs :
 nom : str
 chef : member ou nextcord.member
+liste_membres : list
+niveau : int
+xp : float ou int
+pnj : list[PNJ]
+liste_avantages : list
+banque_personnelle : None ou Bank
 ---
 méthodes :
 --- ^T2D6RNpP
@@ -42,8 +48,8 @@ méthodes :
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 149,
-			"versionNonce": 28799867,
+			"version": 155,
+			"versionNonce": 1389500405,
 			"isDeleted": false,
 			"id": "pC_NQ-Wwe0NGkRimo_Zhp",
 			"fillStyle": "hachure",
@@ -57,7 +63,7 @@ méthodes :
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 506,
-			"height": 442,
+			"height": 586,
 			"seed": 1254528405,
 			"groupIds": [],
 			"strokeSharpness": "round",
@@ -67,7 +73,7 @@ méthodes :
 					"id": "T2D6RNpP"
 				}
 			],
-			"updated": 1655449559326,
+			"updated": 1655450209235,
 			"link": null,
 			"locked": false
 		},
@@ -77,7 +83,7 @@ méthodes :
 			"x": 79.69724331338568,
 			"y": -829.0190122010083,
 			"width": 496,
-			"height": 432,
+			"height": 576,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -89,22 +95,22 @@ méthodes :
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1843175861,
-			"version": 801,
-			"versionNonce": 60578453,
+			"version": 1006,
+			"versionNonce": 1961657141,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655449576217,
+			"updated": 1655450345987,
 			"link": null,
 			"locked": false,
-			"text": "Les Guildes (class)\n---\ndescription :Les membres de chaque serveur\npeuvent créer leur guilde (si voulu \nseulement ceux ayant une certaine \ncondition comme un rôle). Ces guildes \nseront comme des minis serveurs dans \nchaque serveur. les chefs de guildes \npourront inviter des nouveaux membres. \nSelon le niveau de la guilde les membres \nauront différents avantages\n---\nattributs :\nnom : str\nchef : member ou nextcord.member\n---\nméthodes :\n---",
-			"rawText": "Les Guildes (class)\n---\ndescription :Les membres de chaque serveur peuvent créer leur guilde (si voulu seulement ceux ayant une certaine condition comme un rôle). Ces guildes seront comme des minis serveurs dans chaque serveur. les chefs de guildes pourront inviter des nouveaux membres. Selon le niveau de la guilde les membres auront différents avantages\n---\nattributs :\nnom : str\nchef : member ou nextcord.member\n---\nméthodes :\n---",
+			"text": "Les Guildes (class)\n---\ndescription :Les membres de chaque serveur\npeuvent créer leur guilde (si voulu \nseulement ceux ayant une certaine \ncondition comme un rôle). Ces guildes \nseront comme des minis serveurs dans \nchaque serveur. les chefs de guildes \npourront inviter des nouveaux membres. \nSelon le niveau de la guilde les membres \nauront différents avantages\n---\nattributs :\nnom : str\nchef : member ou nextcord.member\nliste_membres : list\nniveau : int\nxp : float ou int\npnj : list[PNJ]\nliste_avantages : list\nbanque_personnelle : None ou Bank\n---\nméthodes :\n---",
+			"rawText": "Les Guildes (class)\n---\ndescription :Les membres de chaque serveur peuvent créer leur guilde (si voulu seulement ceux ayant une certaine condition comme un rôle). Ces guildes seront comme des minis serveurs dans chaque serveur. les chefs de guildes pourront inviter des nouveaux membres. Selon le niveau de la guilde les membres auront différents avantages\n---\nattributs :\nnom : str\nchef : member ou nextcord.member\nliste_membres : list\nniveau : int\nxp : float ou int\npnj : list[PNJ]\nliste_avantages : list\nbanque_personnelle : None ou Bank\n---\nméthodes :\n---",
 			"fontSize": 20,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 427,
+			"baseline": 571,
 			"containerId": "pC_NQ-Wwe0NGkRimo_Zhp",
-			"originalText": "Les Guildes (class)\n---\ndescription :Les membres de chaque serveur peuvent créer leur guilde (si voulu seulement ceux ayant une certaine condition comme un rôle). Ces guildes seront comme des minis serveurs dans chaque serveur. les chefs de guildes pourront inviter des nouveaux membres. Selon le niveau de la guilde les membres auront différents avantages\n---\nattributs :\nnom : str\nchef : member ou nextcord.member\n---\nméthodes :\n---"
+			"originalText": "Les Guildes (class)\n---\ndescription :Les membres de chaque serveur peuvent créer leur guilde (si voulu seulement ceux ayant une certaine condition comme un rôle). Ces guildes seront comme des minis serveurs dans chaque serveur. les chefs de guildes pourront inviter des nouveaux membres. Selon le niveau de la guilde les membres auront différents avantages\n---\nattributs :\nnom : str\nchef : member ou nextcord.member\nliste_membres : list\nniveau : int\nxp : float ou int\npnj : list[PNJ]\nliste_avantages : list\nbanque_personnelle : None ou Bank\n---\nméthodes :\n---"
 		},
 		{
 			"id": "noPTVhmsimGJRTpYvQyFb",
