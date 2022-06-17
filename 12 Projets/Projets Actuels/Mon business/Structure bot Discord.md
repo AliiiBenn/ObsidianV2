@@ -13,6 +13,8 @@ Les Guildes (class)
 description :Les membres de chaque serveur peuvent créer leur guilde (si voulu seulement ceux ayant une certaine condition comme un rôle). Ces guildes seront comme des minis serveurs dans chaque serveur. les chefs de guildes pourront inviter des nouveaux membres. Selon le niveau de la guilde les membres auront différents avantages
 ---
 attributs :
+nom : str
+chef : member ou nextcord.member
 ---
 méthodes :
 --- ^T2D6RNpP
@@ -40,8 +42,8 @@ méthodes :
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 145,
-			"versionNonce": 473653019,
+			"version": 149,
+			"versionNonce": 28799867,
 			"isDeleted": false,
 			"id": "pC_NQ-Wwe0NGkRimo_Zhp",
 			"fillStyle": "hachure",
@@ -55,7 +57,7 @@ méthodes :
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 506,
-			"height": 394,
+			"height": 442,
 			"seed": 1254528405,
 			"groupIds": [],
 			"strokeSharpness": "round",
@@ -65,7 +67,7 @@ méthodes :
 					"id": "T2D6RNpP"
 				}
 			],
-			"updated": 1655448504192,
+			"updated": 1655449559326,
 			"link": null,
 			"locked": false
 		},
@@ -75,7 +77,7 @@ méthodes :
 			"x": 79.69724331338568,
 			"y": -829.0190122010083,
 			"width": 496,
-			"height": 384,
+			"height": 432,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -87,28 +89,28 @@ méthodes :
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1843175861,
-			"version": 746,
-			"versionNonce": 1084182779,
+			"version": 801,
+			"versionNonce": 60578453,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655448514614,
+			"updated": 1655449576217,
 			"link": null,
 			"locked": false,
-			"text": "Les Guildes (class)\n---\ndescription :Les membres de chaque serveur\npeuvent créer leur guilde (si voulu \nseulement ceux ayant une certaine \ncondition comme un rôle). Ces guildes \nseront comme des minis serveurs dans \nchaque serveur. les chefs de guildes \npourront inviter des nouveaux membres. \nSelon le niveau de la guilde les membres \nauront différents avantages\n---\nattributs :\n---\nméthodes :\n---",
-			"rawText": "Les Guildes (class)\n---\ndescription :Les membres de chaque serveur peuvent créer leur guilde (si voulu seulement ceux ayant une certaine condition comme un rôle). Ces guildes seront comme des minis serveurs dans chaque serveur. les chefs de guildes pourront inviter des nouveaux membres. Selon le niveau de la guilde les membres auront différents avantages\n---\nattributs :\n---\nméthodes :\n---",
+			"text": "Les Guildes (class)\n---\ndescription :Les membres de chaque serveur\npeuvent créer leur guilde (si voulu \nseulement ceux ayant une certaine \ncondition comme un rôle). Ces guildes \nseront comme des minis serveurs dans \nchaque serveur. les chefs de guildes \npourront inviter des nouveaux membres. \nSelon le niveau de la guilde les membres \nauront différents avantages\n---\nattributs :\nnom : str\nchef : member ou nextcord.member\n---\nméthodes :\n---",
+			"rawText": "Les Guildes (class)\n---\ndescription :Les membres de chaque serveur peuvent créer leur guilde (si voulu seulement ceux ayant une certaine condition comme un rôle). Ces guildes seront comme des minis serveurs dans chaque serveur. les chefs de guildes pourront inviter des nouveaux membres. Selon le niveau de la guilde les membres auront différents avantages\n---\nattributs :\nnom : str\nchef : member ou nextcord.member\n---\nméthodes :\n---",
 			"fontSize": 20,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
-			"baseline": 379,
+			"baseline": 427,
 			"containerId": "pC_NQ-Wwe0NGkRimo_Zhp",
-			"originalText": "Les Guildes (class)\n---\ndescription :Les membres de chaque serveur peuvent créer leur guilde (si voulu seulement ceux ayant une certaine condition comme un rôle). Ces guildes seront comme des minis serveurs dans chaque serveur. les chefs de guildes pourront inviter des nouveaux membres. Selon le niveau de la guilde les membres auront différents avantages\n---\nattributs :\n---\nméthodes :\n---"
+			"originalText": "Les Guildes (class)\n---\ndescription :Les membres de chaque serveur peuvent créer leur guilde (si voulu seulement ceux ayant une certaine condition comme un rôle). Ces guildes seront comme des minis serveurs dans chaque serveur. les chefs de guildes pourront inviter des nouveaux membres. Selon le niveau de la guilde les membres auront différents avantages\n---\nattributs :\nnom : str\nchef : member ou nextcord.member\n---\nméthodes :\n---"
 		},
 		{
 			"id": "noPTVhmsimGJRTpYvQyFb",
 			"type": "rectangle",
-			"x": -99.08729166896796,
-			"y": -345.021151644078,
+			"x": -495.7539583356347,
+			"y": -180.57670719963357,
 			"width": 449.3345341271777,
 			"height": 394,
 			"angle": 0,
@@ -122,8 +124,8 @@ méthodes :
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1365677691,
-			"version": 52,
-			"versionNonce": 811111387,
+			"version": 97,
+			"versionNonce": 497832949,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -131,15 +133,15 @@ méthodes :
 					"id": "CYxU1qv1"
 				}
 			],
-			"updated": 1655448685390,
+			"updated": 1655449551922,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "CYxU1qv1",
 			"type": "text",
-			"x": -94.08729166896796,
-			"y": -340.021151644078,
+			"x": -490.7539583356347,
+			"y": -175.57670719963357,
 			"width": 439.3345341271777,
 			"height": 384,
 			"angle": 0,
@@ -153,11 +155,11 @@ méthodes :
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2075620027,
-			"version": 390,
-			"versionNonce": 926046741,
+			"version": 435,
+			"versionNonce": 552260059,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655448725211,
+			"updated": 1655449551922,
 			"link": null,
 			"locked": false,
 			"text": "Membres de la guilde (class)\n---\ndescription : Chaque membre \nappartenant à une guilde est un objet\nde type GuildMember même pour le \nchef. Chaque membre a un role \nspécifique qui peut être promu\n---\nattributs :\ngived_money : int\ngrade : str\npermissions_list : list\n\n---\nméthodes :\n---",
