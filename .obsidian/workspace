@@ -7,11 +7,9 @@
         "id": "615f4d021edd7ee7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "excalidraw",
           "state": {
-            "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
-            "mode": "source",
-            "source": false
+            "file": "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md"
           }
         }
       }
@@ -70,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
+                "file": "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
+                "file": "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,12 +156,12 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
     "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
     "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
     "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
     "12 Projets/Projets Actuels/Mon business/Le Bot Discord à vendre.md",
     "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
-    "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
     "_Autres/templates/template Daily.md",
     "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
     "Library.md",

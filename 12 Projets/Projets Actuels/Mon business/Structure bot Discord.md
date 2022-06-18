@@ -174,6 +174,36 @@ Leaderboard des membres ^TLvwofn2
 
 Gif du personnage en idle ^seXjAy8s
 
+Principe de citoyenneté ^ZPpNpoSs
+
+Travail ^48J7dcJS
+
+Membre ^255xuSOn
+
+Créer une guilde ^9xYY4bQZ
+
+Devient chef de la Guilde ^8J3TF01O
+
+Guilde : Nesalia ^15IasHmj
+
+Membres du serveur ^xiUFUdEV
+
+peut les inviter ^MBjJ2rmK
+
+Chef : Nesalia ^0eTKo8kH
+
+Si ils acceptent ils
+deviennent membres ^WXKAaJW5
+
+peut choisir la politique
+de la Guilde ^7PYjziEK
+
+Système de politique de la Guilde ^3ApcICCP
+
+Alliances avec d'autres Guildes ^LbPN2iAr
+
+Guerres avec d'autres Guildes ^3LDXauWa
+
 %%
 # Drawing
 ```json
@@ -215,8 +245,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 1120,
-			"versionNonce": 242790117,
+			"version": 1131,
+			"versionNonce": 676936928,
 			"isDeleted": false,
 			"id": "T2D6RNpP",
 			"fillStyle": "hachure",
@@ -235,7 +265,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071038,
+			"updated": 1655574221348,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -281,8 +311,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 478,
-			"versionNonce": 903470571,
+			"version": 489,
+			"versionNonce": 311263520,
 			"isDeleted": false,
 			"id": "CYxU1qv1",
 			"fillStyle": "hachure",
@@ -301,7 +331,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071040,
+			"updated": 1655574221354,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.0457570550196,
@@ -316,8 +346,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 404,
-			"versionNonce": 592997829,
+			"version": 433,
+			"versionNonce": 1015381216,
 			"isDeleted": false,
 			"id": "IMjvHIBc8VbUTGFPROy5m",
 			"fillStyle": "hachure",
@@ -326,8 +356,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1014.4478329650664,
-			"y": -331.5677009701626,
+			"x": -165.55216703493352,
+			"y": -3321.567700970162,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 165.58358358358439,
@@ -361,14 +391,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655538081342,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 584,
-			"versionNonce": 788659467,
+			"version": 621,
+			"versionNonce": 809374944,
 			"isDeleted": false,
 			"id": "DsCdoMn6",
 			"fillStyle": "hachure",
@@ -377,8 +407,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1019.4478329650664,
-			"y": -306.9756088780703,
+			"x": -160.55216703493352,
+			"y": -3296.97560887807,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 155.58358358358439,
@@ -387,7 +417,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081343,
+			"updated": 1655574221358,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.932858231365769,
@@ -402,8 +432,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 372,
-			"versionNonce": 503591109,
+			"version": 398,
+			"versionNonce": 41112864,
 			"isDeleted": false,
 			"id": "EEBLiaK7-b2PN8y74INJp",
 			"fillStyle": "hachure",
@@ -412,8 +442,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1730.4748599920972,
-			"y": 67.37624297378301,
+			"x": 550.4748599920972,
+			"y": -2922.6237570262165,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 172.01401401401532,
@@ -435,14 +465,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655534422767,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 575,
-			"versionNonce": 947467589,
+			"version": 612,
+			"versionNonce": 438460704,
 			"isDeleted": false,
 			"id": "IHoFnKti",
 			"fillStyle": "hachure",
@@ -451,8 +481,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1735.4748599920972,
-			"y": 93.97784457538489,
+			"x": 555.4748599920972,
+			"y": -2896.0221554246145,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 162.01401401401532,
@@ -461,7 +491,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071043,
+			"updated": 1655574221360,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.953360058623328,
@@ -476,8 +506,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 1389,
-			"versionNonce": 1333011371,
+			"version": 1525,
+			"versionNonce": 761821408,
 			"isDeleted": false,
 			"id": "nedUsKK5O3O_rDUh2BfgD",
 			"fillStyle": "hachure",
@@ -486,28 +516,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1186.4618469790883,
-			"y": -271.34971025079705,
+			"x": 6.461846979088477,
+			"y": -3261.3497102507963,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 540.7999557360429,
-			"height": 352.0109863085014,
+			"height": 352.01098630850083,
 			"seed": 609115061,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081344,
+			"updated": 1655574221359,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "IMjvHIBc8VbUTGFPROy5m",
-				"gap": 6.430430430437468,
-				"focus": -0.4069514211848598
+				"gap": 6.43043043043761,
+				"focus": -0.4069514211848608
 			},
 			"endBinding": {
 				"elementId": "EEBLiaK7-b2PN8y74INJp",
-				"gap": 3.21305727696609,
-				"focus": -0.29170462041017997
+				"gap": 3.213057276965799,
+				"focus": -0.29170462041017814
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -519,14 +549,14 @@ Gif du personnage en idle ^seXjAy8s
 				],
 				[
 					540.7999557360429,
-					352.0109863085014
+					352.01098630850083
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 604,
-			"versionNonce": 391409835,
+			"version": 630,
+			"versionNonce": 1178227936,
 			"isDeleted": false,
 			"id": "8JG8oXe3",
 			"fillStyle": "hachure",
@@ -535,8 +565,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0.6138914029734632,
-			"x": 1268.0098901515437,
-			"y": -116.76726928050064,
+			"x": 88.00989015154391,
+			"y": -3106.7672692805,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 249,
@@ -545,7 +575,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534422768,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.673986510422113,
@@ -560,8 +590,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 904,
-			"versionNonce": 1789589797,
+			"version": 932,
+			"versionNonce": 283765024,
 			"isDeleted": false,
 			"id": "WwfE_GbsBbg1rzKuB1d0j",
 			"fillStyle": "hachure",
@@ -570,8 +600,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2153.2756607928914,
-			"y": 73.00286960040953,
+			"x": 973.2756607928914,
+			"y": -2916.99713039959,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 849,
@@ -589,14 +619,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655538212075,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1425,
-			"versionNonce": 611866539,
+			"version": 1452,
+			"versionNonce": 970766560,
 			"isDeleted": false,
 			"id": "7gZtxOck",
 			"fillStyle": "hachure",
@@ -605,8 +635,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2158.2756607928914,
-			"y": 130.50286960040953,
+			"x": 978.2756607928914,
+			"y": -2859.49713039959,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 839,
@@ -615,7 +645,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538212075,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.302489610265992,
@@ -630,8 +660,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 705,
-			"versionNonce": 736816965,
+			"version": 731,
+			"versionNonce": 1402117344,
 			"isDeleted": false,
 			"id": "TERcQSTK",
 			"fillStyle": "hachure",
@@ -640,8 +670,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0.0023047704925023282,
-			"x": 1957.6536109931874,
-			"y": 89.66717761939088,
+			"x": 777.6536109931876,
+			"y": -2900.3328223806084,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 161,
@@ -650,7 +680,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538219393,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 17.15737618510264,
@@ -665,8 +695,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 1508,
-			"versionNonce": 1031581963,
+			"version": 1644,
+			"versionNonce": 628702496,
 			"isDeleted": false,
 			"id": "W61ML9OEJVG8auIExfr5G",
 			"fillStyle": "hachure",
@@ -675,28 +705,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2137.7918612038366,
-			"y": 120.06596012824156,
+			"x": 957.7918612038366,
+			"y": -2869.7404416925488,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 219.81918760867256,
-			"height": 11.365274354378883,
+			"height": 11.502827546108165,
 			"seed": 122859925,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538212075,
+			"updated": 1655574221361,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "WwfE_GbsBbg1rzKuB1d0j",
-				"gap": 15.48379958905467,
-				"focus": 0.1866053430318817
+				"gap": 15.483799589054797,
+				"focus": 0.18660566576394913
 			},
 			"endBinding": {
 				"elementId": "EEBLiaK7-b2PN8y74INJp",
-				"gap": 15.483799589051387,
-				"focus": -0.1386767631393274
+				"gap": 15.483799589051557,
+				"focus": -0.1386767631393293
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -708,14 +738,14 @@ Gif du personnage en idle ^seXjAy8s
 				],
 				[
 					-219.81918760867256,
-					-11.365274354378883
+					-11.502827546108165
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 360,
-			"versionNonce": 392635973,
+			"version": 386,
+			"versionNonce": 82575584,
 			"isDeleted": false,
 			"id": "xfaDIZbJGsVYk-FJu7zYn",
 			"fillStyle": "hachure",
@@ -724,8 +754,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1740.8941364113698,
-			"y": -687.1875708400328,
+			"x": 560.8941364113698,
+			"y": -3677.187570840032,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -751,14 +781,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655534422768,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 661,
-			"versionNonce": 1615508843,
+			"version": 698,
+			"versionNonce": 748743904,
 			"isDeleted": false,
 			"id": "aTWT3s2s",
 			"fillStyle": "hachure",
@@ -767,8 +797,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1745.8941364113698,
-			"y": -678.5954787479404,
+			"x": 565.8941364113698,
+			"y": -3668.59547874794,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -777,7 +807,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071047,
+			"updated": 1655574221366,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.932858231365769,
@@ -792,8 +822,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 737,
-			"versionNonce": 1584504715,
+			"version": 873,
+			"versionNonce": 1502910752,
 			"isDeleted": false,
 			"id": "5U-diJVxi0P5j_BqoWlFg",
 			"fillStyle": "hachure",
@@ -802,28 +832,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1189.3525948698289,
-			"y": -300.3329851700913,
+			"x": 9.352594869828863,
+			"y": -3290.332985170091,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 540.3333333333328,
-			"height": 308.5411457490326,
+			"height": 308.54114574903224,
 			"seed": 532533589,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081349,
+			"updated": 1655574221365,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "IMjvHIBc8VbUTGFPROy5m",
-				"gap": 9.321178321178081,
-				"focus": 0.49211363445226275
+				"gap": 9.321178321177996,
+				"focus": 0.4921136344522625
 			},
 			"endBinding": {
 				"elementId": "xfaDIZbJGsVYk-FJu7zYn",
 				"gap": 11.208208208208134,
-				"focus": 0.18268004763309614
+				"focus": 0.18268004763309798
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -835,14 +865,14 @@ Gif du personnage en idle ^seXjAy8s
 				],
 				[
 					540.3333333333328,
-					-308.5411457490326
+					-308.54114574903224
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 425,
-			"versionNonce": 1618360203,
+			"version": 451,
+			"versionNonce": 670315808,
 			"isDeleted": false,
 			"id": "QyyvyEZ4OHof3cgeMBok0",
 			"fillStyle": "hachure",
@@ -851,8 +881,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2294.9496919669255,
-			"y": -1089.4653486178108,
+			"x": 1114.9496919669255,
+			"y": -4079.4653486178104,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -878,14 +908,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655535471015,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 665,
-			"versionNonce": 976469381,
+			"version": 702,
+			"versionNonce": 1416562976,
 			"isDeleted": false,
 			"id": "3B4f7W37",
 			"fillStyle": "hachure",
@@ -894,8 +924,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2299.9496919669255,
-			"y": -1064.8732565257185,
+			"x": 1119.9496919669255,
+			"y": -4054.8732565257183,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -904,7 +934,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071048,
+			"updated": 1655574221368,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.932858231365769,
@@ -919,8 +949,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 817,
-			"versionNonce": 485587147,
+			"version": 953,
+			"versionNonce": 1202737376,
 			"isDeleted": false,
 			"id": "wxSOIO0M9nTNsdZfIlJB2",
 			"fillStyle": "hachure",
@@ -929,28 +959,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2285.215834619179,
-			"y": -1005.5790222599807,
+			"x": 1105.526657158512,
+			"y": -3995.841001761649,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 377.37381650197494,
-			"height": 318.0728289603745,
+			"width": 377.68463904130795,
+			"height": 318.3348084620434,
 			"seed": 168423221,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081351,
+			"updated": 1655574221367,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "QyyvyEZ4OHof3cgeMBok0",
-				"gap": 10.101957790095184,
-				"focus": 0.31540035324839777
+				"gap": 9.73385734774638,
+				"focus": 0.31540035324839844
 			},
 			"endBinding": {
 				"elementId": "xfaDIZbJGsVYk-FJu7zYn",
 				"gap": 1,
-				"focus": 0.2699743423712612
+				"focus": 0.26997434237125933
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -961,15 +991,15 @@ Gif du personnage en idle ^seXjAy8s
 					0
 				],
 				[
-					-377.37381650197494,
-					318.0728289603745
+					-377.68463904130795,
+					318.3348084620434
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 230,
-			"versionNonce": 145535077,
+			"version": 256,
+			"versionNonce": 955217120,
 			"isDeleted": false,
 			"id": "YqAe17Hh",
 			"fillStyle": "hachure",
@@ -978,8 +1008,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 5.574932607495024,
-			"x": 1992.880372647606,
-			"y": -876.1788120812735,
+			"x": 812.8803726476062,
+			"y": -3866.1788120812726,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 207,
@@ -988,7 +1018,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534422768,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1003,8 +1033,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 736,
-			"versionNonce": 1022914027,
+			"version": 764,
+			"versionNonce": 1364418848,
 			"isDeleted": false,
 			"id": "GXxOT1yr1ZiCJ64Up4wVa",
 			"fillStyle": "hachure",
@@ -1013,8 +1043,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3118.6775178952958,
-			"y": -704.3233316007929,
+			"x": 1938.6775178952958,
+			"y": -3694.3233316007927,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -1066,20 +1096,16 @@ Gif du personnage en idle ^seXjAy8s
 				{
 					"id": "79J7njpQ9357mYHoMYXNu",
 					"type": "arrow"
-				},
-				{
-					"id": "igZ1hg7I8woGVejssi1xE",
-					"type": "arrow"
 				}
 			],
-			"updated": 1655536496325,
+			"updated": 1655573880397,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 436,
-			"versionNonce": 184227269,
+			"version": 473,
+			"versionNonce": 1564347616,
 			"isDeleted": false,
 			"id": "haq1SIfQ",
 			"fillStyle": "hachure",
@@ -1088,8 +1114,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3123.6775178952958,
-			"y": -682.7312395087006,
+			"x": 1943.6775178952958,
+			"y": -3672.7312395087006,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -1098,7 +1124,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071051,
+			"updated": 1655574221371,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1113,8 +1139,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 529,
-			"versionNonce": 476376843,
+			"version": 556,
+			"versionNonce": 45446432,
 			"isDeleted": false,
 			"id": "WfwE0REzk7YrM8kxHVCye",
 			"fillStyle": "hachure",
@@ -1123,8 +1149,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2106.594184561962,
-			"y": -214.32333160079293,
+			"x": 926.5941845619618,
+			"y": -3204.3233316007927,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -1158,14 +1184,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655534422768,
+			"updated": 1655573880400,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 279,
-			"versionNonce": 1682853451,
+			"version": 316,
+			"versionNonce": 1006364960,
 			"isDeleted": false,
 			"id": "1vQBRUSh",
 			"fillStyle": "hachure",
@@ -1174,8 +1200,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2111.594184561962,
-			"y": -192.73123950870064,
+			"x": 931.5941845619618,
+			"y": -3182.7312395087006,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -1184,7 +1210,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071052,
+			"updated": 1655574221374,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1199,8 +1225,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 711,
-			"versionNonce": 866418949,
+			"version": 847,
+			"versionNonce": 665415904,
 			"isDeleted": false,
 			"id": "Yxd95os7SPS6sVH7x8P8x",
 			"fillStyle": "hachure",
@@ -1209,28 +1235,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1193.7608512286286,
-			"y": -262.628041821657,
+			"x": 13.76085122862878,
+			"y": -3252.6280418216566,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 903.3333333333333,
-			"height": 87.38420836018682,
+			"height": 87.38420836018668,
 			"seed": 857493163,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081356,
+			"updated": 1655574221373,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "IMjvHIBc8VbUTGFPROy5m",
-				"gap": 13.729434679977828,
-				"focus": 0.39115587186910866
+				"gap": 13.729434679977913,
+				"focus": 0.39115587186910333
 			},
 			"endBinding": {
 				"elementId": "WfwE0REzk7YrM8kxHVCye",
-				"gap": 9.500000000000227,
-				"focus": -0.15292572190631343
+				"gap": 9.499999999999773,
+				"focus": -0.15292572190630827
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1242,14 +1268,14 @@ Gif du personnage en idle ^seXjAy8s
 				],
 				[
 					903.3333333333333,
-					87.38420836018682
+					87.38420836018668
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 583,
-			"versionNonce": 339275397,
+			"version": 610,
+			"versionNonce": 853543200,
 			"isDeleted": false,
 			"id": "ULRWp4_f6XfsGPg6EmGQv",
 			"fillStyle": "hachure",
@@ -1258,8 +1284,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2655.344184561962,
-			"y": -414.3233316007929,
+			"x": 1475.3441845619618,
+			"y": -3404.3233316007927,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -1293,14 +1319,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655534422768,
+			"updated": 1655573880402,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 304,
-			"versionNonce": 932960933,
+			"version": 341,
+			"versionNonce": 1618608352,
 			"isDeleted": false,
 			"id": "HlqIdtfN",
 			"fillStyle": "hachure",
@@ -1309,8 +1335,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2660.344184561962,
-			"y": -392.73123950870064,
+			"x": 1480.3441845619618,
+			"y": -3382.7312395087006,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -1319,7 +1345,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071054,
+			"updated": 1655574221377,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1334,8 +1360,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 1073,
-			"versionNonce": 744604613,
+			"version": 1209,
+			"versionNonce": 1658963232,
 			"isDeleted": false,
 			"id": "J9993LsxLnmR4CCzmd-1m",
 			"fillStyle": "hachure",
@@ -1344,28 +1370,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3146.4892287700704,
-			"y": -619.1561281399472,
+			"x": 1966.4892287700704,
+			"y": -3609.1561281399463,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 320.64504420810863,
-			"height": 207.81625437949435,
+			"height": 207.81625437949424,
 			"seed": 470186789,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081357,
+			"updated": 1655574221375,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "GXxOT1yr1ZiCJ64Up4wVa",
-				"gap": 3.9830192766610253,
-				"focus": -0.09330318167085327
+				"gap": 3.98301927666148,
+				"focus": -0.09330318167086217
 			},
 			"endBinding": {
 				"elementId": "ULRWp4_f6XfsGPg6EmGQv",
 				"gap": 4.5,
-				"focus": 0.20237968058691114
+				"focus": 0.20237968058691488
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1377,14 +1403,14 @@ Gif du personnage en idle ^seXjAy8s
 				],
 				[
 					-320.64504420810863,
-					207.81625437949435
+					207.81625437949424
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 854,
-			"versionNonce": 1096745765,
+			"version": 990,
+			"versionNonce": 1756111136,
 			"isDeleted": false,
 			"id": "SWOnAv2UC9yLerYg_m-V9",
 			"fillStyle": "hachure",
@@ -1393,28 +1419,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2652.186276654054,
-			"y": -334.5425586412505,
+			"x": 1472.1862766540535,
+			"y": -3324.54255864125,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 366.3420920920921,
-			"height": 151.85658564605566,
+			"height": 151.85658564605592,
 			"seed": 412984933,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081357,
+			"updated": 1655574221375,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "ULRWp4_f6XfsGPg6EmGQv",
-				"gap": 3.157907907907884,
-				"focus": -0.04632691692877697
+				"gap": 3.1579079079083385,
+				"focus": -0.04632691692877833
 			},
 			"endBinding": {
 				"elementId": "WfwE0REzk7YrM8kxHVCye",
-				"gap": 13.25,
-				"focus": 0.41258704531063345
+				"gap": 13.249999999999545,
+				"focus": 0.4125870453106294
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1426,14 +1452,14 @@ Gif du personnage en idle ^seXjAy8s
 				],
 				[
 					-366.3420920920921,
-					151.85658564605566
+					151.85658564605592
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 292,
-			"versionNonce": 1373163845,
+			"version": 318,
+			"versionNonce": 1629741344,
 			"isDeleted": false,
 			"id": "yiuwbjaN",
 			"fillStyle": "hachure",
@@ -1442,8 +1468,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 5.887495715124999,
-			"x": 2328.3441845619614,
-			"y": -282.4812395087006,
+			"x": 1148.3441845619614,
+			"y": -3272.4812395087,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 273,
@@ -1452,7 +1478,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534422768,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1467,8 +1493,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 421,
-			"versionNonce": 657085157,
+			"version": 448,
+			"versionNonce": 1686160608,
 			"isDeleted": false,
 			"id": "guHapAJGLcWlF8xhpuCro",
 			"fillStyle": "hachure",
@@ -1477,8 +1503,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2231.594184561962,
-			"y": -576.8233316007929,
+			"x": 1051.5941845619618,
+			"y": -3566.8233316007927,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -1516,14 +1542,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655535301786,
+			"updated": 1655573880405,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 146,
-			"versionNonce": 115687621,
+			"version": 183,
+			"versionNonce": 1186671840,
 			"isDeleted": false,
 			"id": "BiN7GkxQ",
 			"fillStyle": "hachure",
@@ -1532,8 +1558,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2236.594184561962,
-			"y": -555.2312395087006,
+			"x": 1056.5941845619618,
+			"y": -3545.2312395087006,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -1542,7 +1568,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071055,
+			"updated": 1655574221381,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1557,8 +1583,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 479,
-			"versionNonce": 2000508549,
+			"version": 615,
+			"versionNonce": 1195828448,
 			"isDeleted": false,
 			"id": "1cGGeorB25-gWZHTeEQ4f",
 			"fillStyle": "hachure",
@@ -1567,28 +1593,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1190.0108512286286,
-			"y": -279.4212119125587,
+			"x": 10.01085122862878,
+			"y": -3269.4212119125577,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 1032.0833333333333,
-			"height": 236.20847877114528,
+			"height": 236.2084787711451,
 			"seed": 533195877,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081359,
+			"updated": 1655574221378,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "IMjvHIBc8VbUTGFPROy5m",
-				"gap": 9.979434679977828,
-				"focus": 0.5506615256955334
+				"gap": 9.979434679977913,
+				"focus": 0.5506615256955377
 			},
 			"endBinding": {
 				"elementId": "guHapAJGLcWlF8xhpuCro",
-				"gap": 9.500000000000227,
-				"focus": 0.009541003620622131
+				"gap": 9.499999999999773,
+				"focus": 0.00954100362061119
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1600,14 +1626,14 @@ Gif du personnage en idle ^seXjAy8s
 				],
 				[
 					1032.0833333333333,
-					-236.20847877114528
+					-236.2084787711451
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 193,
-			"versionNonce": 1034005835,
+			"version": 219,
+			"versionNonce": 34041056,
 			"isDeleted": false,
 			"id": "YZBROixl",
 			"fillStyle": "hachure",
@@ -1616,8 +1642,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 6.068613935690513,
-			"x": 1727.0941845619616,
-			"y": -465.81457284203384,
+			"x": 547.0941845619618,
+			"y": -3455.814572842033,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 339,
@@ -1626,7 +1652,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534425799,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1641,8 +1667,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 342,
-			"versionNonce": 222414117,
+			"version": 368,
+			"versionNonce": 370823456,
 			"isDeleted": false,
 			"id": "HFN0LJOFfZ00KrkH-xKW3",
 			"fillStyle": "hachure",
@@ -1651,8 +1677,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1364.9275178952953,
-			"y": -967.6566649341264,
+			"x": 184.9275178952953,
+			"y": -3957.6566649341257,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -1686,14 +1712,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655534526324,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 85,
-			"versionNonce": 1522897797,
+			"version": 122,
+			"versionNonce": 465401056,
 			"isDeleted": false,
 			"id": "csUsh6fl",
 			"fillStyle": "hachure",
@@ -1702,8 +1728,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1369.9275178952953,
-			"y": -946.0645728420341,
+			"x": 189.9275178952953,
+			"y": -3936.0645728420336,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -1712,7 +1738,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071056,
+			"updated": 1655574221383,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1727,8 +1753,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 242,
-			"versionNonce": 1627105675,
+			"version": 378,
+			"versionNonce": 612536544,
 			"isDeleted": false,
 			"id": "sshybHxABAZsL6XNKHZse",
 			"fillStyle": "hachure",
@@ -1737,28 +1763,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1129.5941845619623,
-			"y": -347.0645728420336,
+			"x": -50.405815438037905,
+			"y": -3337.0645728420336,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 260.0000000000002,
-			"height": 526.6666666666669,
+			"width": 260.00000000000057,
+			"height": 526.666666666667,
 			"seed": 424445509,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081360,
+			"updated": 1655574221382,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "IMjvHIBc8VbUTGFPROy5m",
-				"gap": 15.496871871871008,
-				"focus": 0.045366422861606484
+				"gap": 15.496871871871235,
+				"focus": 0.04536642286160405
 			},
 			"endBinding": {
 				"elementId": "HFN0LJOFfZ00KrkH-xKW3",
-				"gap": 12.741241241241426,
-				"focus": 0.31060256569409683
+				"gap": 12.741241241240687,
+				"focus": 0.3106025656940977
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1769,15 +1795,15 @@ Gif du personnage en idle ^seXjAy8s
 					0
 				],
 				[
-					260.0000000000002,
-					-526.6666666666669
+					260.00000000000057,
+					-526.666666666667
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 127,
-			"versionNonce": 903591275,
+			"version": 153,
+			"versionNonce": 1169168608,
 			"isDeleted": false,
 			"id": "HMeeR5Yo",
 			"fillStyle": "hachure",
@@ -1786,8 +1812,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 5.194902275407166,
-			"x": 1096.260851228629,
-			"y": -597.8979061753673,
+			"x": -83.73914877137122,
+			"y": -3587.8979061753666,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 264,
@@ -1796,7 +1822,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534515124,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1811,8 +1837,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 457,
-			"versionNonce": 2098579621,
+			"version": 565,
+			"versionNonce": 1196649760,
 			"isDeleted": false,
 			"id": "DhxQGCqhTS0-LmJUY9NI5",
 			"fillStyle": "hachure",
@@ -1821,28 +1847,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3167.292156137969,
-			"y": -717.0645728420343,
+			"x": 1987.292156137969,
+			"y": -3707.0645728420336,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 1631.6428512697207,
+			"width": 1632.207166300982,
 			"height": 563.3333333333333,
 			"seed": 1463275531,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081360,
+			"updated": 1655574221382,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "GXxOT1yr1ZiCJ64Up4wVa",
-				"gap": 12.741241241241369,
-				"focus": -0.36204527365605627
+				"gap": 12.741241241241141,
+				"focus": -0.36204527365605604
 			},
 			"endBinding": {
 				"elementId": "HFN0LJOFfZ00KrkH-xKW3",
-				"gap": 5.333333333333485,
-				"focus": -0.07312159079974308
+				"gap": 4.721786972952941,
+				"focus": -0.07312159079974813
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -1861,15 +1887,15 @@ Gif du personnage en idle ^seXjAy8s
 					-563.3333333333333
 				],
 				[
-					-1631.6428512697207,
-					-253.0718445447568
+					-1632.207166300982,
+					-252.83055122104497
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 265,
-			"versionNonce": 404340171,
+			"version": 291,
+			"versionNonce": 1308228832,
 			"isDeleted": false,
 			"id": "T7CFTWlx",
 			"fillStyle": "hachure",
@@ -1878,8 +1904,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0.2742481157964587,
-			"x": 2501.2608512286292,
-			"y": -1264.5645728420347,
+			"x": 1321.2608512286292,
+			"y": -4254.564572842034,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 403,
@@ -1888,7 +1914,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655535687963,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1903,8 +1929,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 327,
-			"versionNonce": 941831493,
+			"version": 353,
+			"versionNonce": 609796384,
 			"isDeleted": false,
 			"id": "wutD40emUmHK1V-AY5nnH",
 			"fillStyle": "hachure",
@@ -1913,8 +1939,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2708.260851228629,
-			"y": -694.3233316007938,
+			"x": 1528.2608512286288,
+			"y": -3684.323331600793,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -1956,14 +1982,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655535592153,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 153,
-			"versionNonce": 1562325803,
+			"version": 190,
+			"versionNonce": 304340256,
 			"isDeleted": false,
 			"id": "Lsr2vx2G",
 			"fillStyle": "hachure",
@@ -1972,8 +1998,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2713.260851228629,
-			"y": -689.3233316007938,
+			"x": 1533.2608512286288,
+			"y": -3679.323331600793,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -1982,7 +2008,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071058,
+			"updated": 1655574221387,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1997,8 +2023,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 234,
-			"versionNonce": 1795124229,
+			"version": 370,
+			"versionNonce": 838588640,
 			"isDeleted": false,
 			"id": "-xCd7oCzAzwQE12YHk1Ng",
 			"fillStyle": "hachure",
@@ -2007,28 +2033,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3109.594184561963,
-			"y": -653.9248066379959,
+			"x": 1929.5941845619627,
+			"y": -3643.924806637995,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 225.00000000000045,
-			"height": 5.181908168163204,
+			"height": 5.181908168163318,
 			"seed": 1747525989,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081362,
+			"updated": 1655574221385,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "GXxOT1yr1ZiCJ64Up4wVa",
 				"gap": 9.08333333333303,
-				"focus": -0.28061541661107314
+				"focus": -0.28061541661108286
 			},
 			"endBinding": {
 				"elementId": "wutD40emUmHK1V-AY5nnH",
-				"gap": 10.33333333333394,
-				"focus": -0.3571468938686638
+				"gap": 10.333333333333485,
+				"focus": -0.35714689386866405
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2040,14 +2066,14 @@ Gif du personnage en idle ^seXjAy8s
 				],
 				[
 					-225.00000000000045,
-					-5.181908168163204
+					-5.181908168163318
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 230,
-			"versionNonce": 1721607013,
+			"version": 366,
+			"versionNonce": 986561760,
 			"isDeleted": false,
 			"id": "UDg5hDDwBYPm7CDLc0wqo",
 			"fillStyle": "hachure",
@@ -2056,28 +2082,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2398.594184561962,
-			"y": -545.916354618787,
+			"x": 1218.5941845619618,
+			"y": -3535.9163546187865,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 294.33333333333394,
-			"height": 85.33798294849544,
+			"height": 85.33798294849566,
 			"seed": 1529664901,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081362,
+			"updated": 1655574221385,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "guHapAJGLcWlF8xhpuCro",
 				"gap": 1,
-				"focus": 0.22688328866875096
+				"focus": 0.22688328866875002
 			},
 			"endBinding": {
 				"elementId": "wutD40emUmHK1V-AY5nnH",
 				"gap": 15.33333333333303,
-				"focus": 0.23433022374541265
+				"focus": 0.2343302237454191
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2089,14 +2115,14 @@ Gif du personnage en idle ^seXjAy8s
 				],
 				[
 					294.33333333333394,
-					-85.33798294849544
+					-85.33798294849566
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 81,
-			"versionNonce": 2007638955,
+			"version": 107,
+			"versionNonce": 668938528,
 			"isDeleted": false,
 			"id": "gZBNWw91",
 			"fillStyle": "hachure",
@@ -2105,8 +2131,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0.03521578743903753,
-			"x": 2917.8584151929476,
-			"y": -675.931786243281,
+			"x": 1737.8584151929472,
+			"y": -3665.93178624328,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 196,
@@ -2115,7 +2141,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655535652803,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 17.526177208300222,
@@ -2130,8 +2156,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 56,
-			"versionNonce": 40061227,
+			"version": 82,
+			"versionNonce": 767553760,
 			"isDeleted": false,
 			"id": "11y45v0r",
 			"fillStyle": "hachure",
@@ -2140,8 +2166,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 6.021140806831623,
-			"x": 2434.5941845619627,
-			"y": -607.8979061753683,
+			"x": 1254.5941845619627,
+			"y": -3597.897906175368,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 207,
@@ -2150,7 +2176,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655535290784,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2165,8 +2191,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 197,
-			"versionNonce": 1971109611,
+			"version": 305,
+			"versionNonce": 667301152,
 			"isDeleted": false,
 			"id": "KMPGMy19UakZRwOg72tCo",
 			"fillStyle": "hachure",
@@ -2175,28 +2201,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3126.2608512286297,
-			"y": -717.0645728420355,
+			"x": 1946.2608512286301,
+			"y": -3707.064572842035,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 788.333333333333,
+			"width": 788.3333333333339,
 			"height": 243.33333333333337,
 			"seed": 1132837579,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081359,
+			"updated": 1655574221379,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "GXxOT1yr1ZiCJ64Up4wVa",
-				"gap": 12.741241241242676,
-				"focus": -0.029532190026788675
+				"gap": 12.741241241242506,
+				"focus": -0.029532190026790337
 			},
 			"endBinding": {
 				"elementId": "guHapAJGLcWlF8xhpuCro",
-				"gap": 15.241241241242676,
-				"focus": -0.2762349477905283
+				"gap": 15.241241241242506,
+				"focus": -0.27623494779052754
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2207,23 +2233,23 @@ Gif du personnage en idle ^seXjAy8s
 					0
 				],
 				[
-					-158.33333333333303,
+					-158.33333333333348,
 					-118.33333333333337
 				],
 				[
-					-553.333333333333,
+					-553.3333333333335,
 					-101.66666666666663
 				],
 				[
-					-788.333333333333,
+					-788.3333333333339,
 					125
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 49,
-			"versionNonce": 1116174949,
+			"version": 75,
+			"versionNonce": 1448006880,
 			"isDeleted": false,
 			"id": "Wnk6e5K3",
 			"fillStyle": "hachure",
@@ -2232,8 +2258,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2719.5941845619636,
-			"y": -871.2312395087022,
+			"x": 1539.5941845619636,
+			"y": -3861.2312395087015,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 170,
@@ -2242,7 +2268,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655535314291,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2257,8 +2283,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 439,
-			"versionNonce": 369914219,
+			"version": 506,
+			"versionNonce": 1872822560,
 			"isDeleted": false,
 			"id": "GN-5Gb0qF0ZbD7BzpX8O2",
 			"fillStyle": "hachure",
@@ -2267,8 +2293,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2416.2608512286306,
-			"y": -687.0645728420352,
+			"x": 1236.2608512286306,
+			"y": -3677.0645728420345,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 656.6666666666661,
@@ -2277,14 +2303,14 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081362,
+			"updated": 1655574221385,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
 			"endBinding": {
 				"elementId": "wutD40emUmHK1V-AY5nnH",
 				"gap": 22.25875875875863,
-				"focus": -0.571278855757804
+				"focus": -0.5712788557578035
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2326,8 +2352,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 84,
-			"versionNonce": 1548139755,
+			"version": 110,
+			"versionNonce": 1398880480,
 			"isDeleted": false,
 			"id": "mjoU9BLk",
 			"fillStyle": "hachure",
@@ -2336,8 +2362,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 6.206216836395926,
-			"x": 2226.2608512286306,
-			"y": -414.5645728420352,
+			"x": 1046.2608512286306,
+			"y": -3404.5645728420345,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 300,
@@ -2346,7 +2372,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655535408889,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2361,8 +2387,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 332,
-			"versionNonce": 1786722501,
+			"version": 358,
+			"versionNonce": 2031306016,
 			"isDeleted": false,
 			"id": "-fvDbmDO5XREpcVRBq3qw",
 			"fillStyle": "hachure",
@@ -2371,8 +2397,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3496.5941845619654,
-			"y": -994.3233316007941,
+			"x": 2316.5941845619654,
+			"y": -3984.3233316007936,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -2410,14 +2436,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655535557509,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 28,
-			"versionNonce": 1833096293,
+			"version": 55,
+			"versionNonce": 1903577312,
 			"isDeleted": false,
 			"id": "1FsuKrFE",
 			"fillStyle": "hachure",
@@ -2426,8 +2452,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3501.5941845619654,
-			"y": -963.2312395087017,
+			"x": 2321.5941845619654,
+			"y": -3953.2312395087015,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -2436,7 +2462,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655535469420,
+			"updated": 1655573880418,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2451,8 +2477,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 213,
-			"versionNonce": 847105573,
+			"version": 349,
+			"versionNonce": 401291552,
 			"isDeleted": false,
 			"id": "bnoNhAGEYLmAY4PuSaebN",
 			"fillStyle": "hachure",
@@ -2461,28 +2487,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3301.260851228632,
-			"y": -702.0645728420352,
+			"x": 2121.2608512286324,
+			"y": -3692.0645728420345,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 201.66666666666652,
-			"height": 199.99999999999977,
+			"height": 200,
 			"seed": 423374507,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081364,
+			"updated": 1655574221388,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "GXxOT1yr1ZiCJ64Up4wVa",
-				"gap": 16.583333333336213,
-				"focus": 0.4916515677716528
+				"gap": 16.583333333336668,
+				"focus": 0.49165156777165553
 			},
 			"endBinding": {
 				"elementId": "-fvDbmDO5XREpcVRBq3qw",
-				"gap": 11.074574574574456,
-				"focus": 0.19825202265512581
+				"gap": 11.074574574574626,
+				"focus": 0.19825202265511924
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2494,14 +2520,14 @@ Gif du personnage en idle ^seXjAy8s
 				],
 				[
 					201.66666666666652,
-					-199.99999999999977
+					-200
 				]
 			]
 		},
 		{
 			"type": "arrow",
-			"version": 215,
-			"versionNonce": 273334661,
+			"version": 351,
+			"versionNonce": 610735392,
 			"isDeleted": false,
 			"id": "EQbcAqSvt3iy-nRWeEsIO",
 			"fillStyle": "hachure",
@@ -2510,8 +2536,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2469.5941845619654,
-			"y": -1045.397906175368,
+			"x": 1289.5941845619654,
+			"y": -4035.397906175367,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 1011.6666666666665,
@@ -2520,18 +2546,18 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081364,
+			"updated": 1655574221388,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "QyyvyEZ4OHof3cgeMBok0",
 				"gap": 8.644492595039992,
-				"focus": -0.10603186970107066
+				"focus": -0.10603186970106594
 			},
 			"endBinding": {
 				"elementId": "-fvDbmDO5XREpcVRBq3qw",
 				"gap": 15.333333333333485,
-				"focus": -0.2597286165436085
+				"focus": -0.25972861654361323
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2549,8 +2575,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 22,
-			"versionNonce": 555898821,
+			"version": 48,
+			"versionNonce": 772655328,
 			"isDeleted": false,
 			"id": "vK4C52fg",
 			"fillStyle": "hachure",
@@ -2559,8 +2585,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0.10238051025009831,
-			"x": 2871.0941845619654,
-			"y": -1029.5645728420347,
+			"x": 1691.0941845619654,
+			"y": -4019.564572842034,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 67,
@@ -2569,7 +2595,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655535483804,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2584,8 +2610,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 93,
-			"versionNonce": 1538590149,
+			"version": 119,
+			"versionNonce": 1496823072,
 			"isDeleted": false,
 			"id": "vjta3Ogl",
 			"fillStyle": "hachure",
@@ -2594,8 +2620,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 5.4773818130955885,
-			"x": 3288.4275178952994,
-			"y": -816.2312395087015,
+			"x": 2108.4275178952994,
+			"y": -3806.231239508701,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 189,
@@ -2604,7 +2630,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655535505840,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2619,8 +2645,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 339,
-			"versionNonce": 637917221,
+			"version": 366,
+			"versionNonce": 794923232,
 			"isDeleted": false,
 			"id": "EokmLKLjvlpzZclmHMqxx",
 			"fillStyle": "hachure",
@@ -2629,8 +2655,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3344.9275178952976,
-			"y": -469.3233316007929,
+			"x": 2164.9275178952976,
+			"y": -3459.3233316007927,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -2664,14 +2690,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655535557510,
+			"updated": 1655573880419,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 66,
-			"versionNonce": 1778777733,
+			"version": 103,
+			"versionNonce": 22189280,
 			"isDeleted": false,
 			"id": "4vn14rGT",
 			"fillStyle": "hachure",
@@ -2680,8 +2706,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3349.9275178952976,
-			"y": -447.73123950870064,
+			"x": 2169.9275178952976,
+			"y": -3437.7312395087006,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -2690,7 +2716,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071061,
+			"updated": 1655574221391,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2705,8 +2731,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 200,
-			"versionNonce": 166650859,
+			"version": 336,
+			"versionNonce": 1580970208,
 			"isDeleted": false,
 			"id": "79J7njpQ9357mYHoMYXNu",
 			"fillStyle": "hachure",
@@ -2715,28 +2741,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3251.2608512286315,
-			"y": -612.0645728420338,
+			"x": 2071.2608512286315,
+			"y": -3602.064572842033,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 105,
-			"height": 133.33333333333337,
+			"height": 133.33333333333348,
 			"seed": 1265519435,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081365,
+			"updated": 1655574221391,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "GXxOT1yr1ZiCJ64Up4wVa",
-				"gap": 11.074574574574456,
-				"focus": -0.07737776600170239
+				"gap": 11.074574574574626,
+				"focus": -0.07737776600170115
 			},
 			"endBinding": {
 				"elementId": "EokmLKLjvlpzZclmHMqxx",
-				"gap": 9.407907907907543,
-				"focus": -0.2808794784604331
+				"gap": 9.407907907907202,
+				"focus": -0.28087947846043554
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2748,14 +2774,14 @@ Gif du personnage en idle ^seXjAy8s
 				],
 				[
 					105,
-					133.33333333333337
+					133.33333333333348
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 67,
-			"versionNonce": 1827717707,
+			"version": 93,
+			"versionNonce": 1703561504,
 			"isDeleted": false,
 			"id": "riiJr9Dm",
 			"fillStyle": "hachure",
@@ -2764,8 +2790,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0.902867268309075,
-			"x": 3277.760851228632,
-			"y": -574.5645728420338,
+			"x": 2097.7608512286324,
+			"y": -3564.564572842033,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 67,
@@ -2774,7 +2800,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655535551235,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2789,8 +2815,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 153,
-			"versionNonce": 2077353029,
+			"version": 261,
+			"versionNonce": 2033995040,
 			"isDeleted": false,
 			"id": "K8N9Zlx1GiPIvfLxv6H5d",
 			"fillStyle": "hachure",
@@ -2799,28 +2825,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3668.81905256569,
-			"y": -903.9796048328313,
+			"x": 2488.0804375238004,
+			"y": -3895.804418465734,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 214.3333333333344,
-			"height": 444.30779684868025,
+			"height": 446.1326104815839,
 			"seed": 98058475,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081365,
+			"updated": 1655574221391,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "-fvDbmDO5XREpcVRBq3qw",
-				"gap": 11.074574574575706,
-				"focus": -0.6948326411809276
+				"gap": 9.15954258377792,
+				"focus": -0.6948326411809257
 			},
 			"endBinding": {
 				"elementId": "EokmLKLjvlpzZclmHMqxx",
 				"gap": 1,
-				"focus": 0.5553266989099994
+				"focus": 0.5553266989100012
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2831,19 +2857,19 @@ Gif du personnage en idle ^seXjAy8s
 					0
 				],
 				[
-					57.44179866294189,
-					141.91503199079762
+					58.18041370483161,
+					143.73984562370106
 				],
 				[
-					-156.8915346703925,
-					444.30779684868025
+					-156.1529196285028,
+					446.1326104815839
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 120,
-			"versionNonce": 994687461,
+			"version": 146,
+			"versionNonce": 195306784,
 			"isDeleted": false,
 			"id": "ltAaPRPR",
 			"fillStyle": "hachure",
@@ -2852,8 +2878,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 5.387129922608242,
-			"x": 3495.4275178952985,
-			"y": -637.8979061753671,
+			"x": 2315.4275178952985,
+			"y": -3627.897906175366,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 245,
@@ -2867,7 +2893,7 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655535592153,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2882,8 +2908,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "arrow",
-			"version": 187,
-			"versionNonce": 1950215877,
+			"version": 281,
+			"versionNonce": 398663904,
 			"isDeleted": false,
 			"id": "Qebm8UBY6Szv_esGLjEWt",
 			"fillStyle": "hachure",
@@ -2892,28 +2918,28 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3641.2608512286315,
-			"y": -627.0645728420338,
+			"x": 2461.2608512286315,
+			"y": -3617.064572842033,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 990,
+			"width": 989.9999999999995,
 			"height": 441.66666666666674,
 			"seed": 774481067,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538081362,
+			"updated": 1655574221385,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "ltAaPRPR",
-				"focus": -0.10513852446936597,
-				"gap": 9.553198950409978
+				"focus": -0.10513852446936424,
+				"gap": 9.553198950408841
 			},
 			"endBinding": {
 				"elementId": "wutD40emUmHK1V-AY5nnH",
-				"gap": 15.592092092093367,
-				"focus": 0.12772681245339512
+				"gap": 15.59209209209348,
+				"focus": 0.12772681245339587
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -2936,15 +2962,15 @@ Gif du personnage en idle ^seXjAy8s
 					371.66666666666674
 				],
 				[
-					-805,
-					53.33333333333337
+					-804.9999999999995,
+					53.333333333333485
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 621975237,
+			"version": 87,
+			"versionNonce": 1679584,
 			"isDeleted": false,
 			"id": "wUJ70vBl",
 			"fillStyle": "hachure",
@@ -2953,8 +2979,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3367.7608512286315,
-			"y": -207.89790617536732,
+			"x": 2187.7608512286315,
+			"y": -3197.8979061753666,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 207,
@@ -2963,7 +2989,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655535619001,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2978,8 +3004,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 462,
-			"versionNonce": 1593250725,
+			"version": 594,
+			"versionNonce": 1168602400,
 			"isDeleted": false,
 			"id": "1QcHUVUYuXAo3BNGHUitu",
 			"fillStyle": "hachure",
@@ -2988,8 +3014,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3458.260851228632,
-			"y": 472.3433350658741,
+			"x": 3656.594184561966,
+			"y": 575.676668399208,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -3013,20 +3039,16 @@ Gif du personnage en idle ^seXjAy8s
 				{
 					"type": "text",
 					"id": "g4SQM2G2"
-				},
-				{
-					"id": "igZ1hg7I8woGVejssi1xE",
-					"type": "arrow"
 				}
 			],
-			"updated": 1655538081367,
+			"updated": 1655573816916,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 150,
-			"versionNonce": 63558507,
+			"version": 279,
+			"versionNonce": 1924953312,
 			"isDeleted": false,
 			"id": "g4SQM2G2",
 			"fillStyle": "hachure",
@@ -3035,8 +3057,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3463.260851228632,
-			"y": 503.4354271579664,
+			"x": 3661.594184561966,
+			"y": 606.7687604913003,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -3045,7 +3067,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655536487777,
+			"updated": 1655573880421,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3337,8 +3359,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 72,
-			"versionNonce": 1920440043,
+			"version": 83,
+			"versionNonce": 1651878176,
 			"isDeleted": false,
 			"id": "iJsNjKjt",
 			"fillStyle": "hachure",
@@ -3357,7 +3379,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071064,
+			"updated": 1655574221397,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3415,8 +3437,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 143,
-			"versionNonce": 1134682437,
+			"version": 154,
+			"versionNonce": 1743583456,
 			"isDeleted": false,
 			"id": "PD7yTpZl",
 			"fillStyle": "hachure",
@@ -3435,7 +3457,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071066,
+			"updated": 1655574221399,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3571,8 +3593,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 55,
-			"versionNonce": 685474187,
+			"version": 66,
+			"versionNonce": 337872160,
 			"isDeleted": false,
 			"id": "MVYNB7dQ",
 			"fillStyle": "hachure",
@@ -3591,7 +3613,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071068,
+			"updated": 1655574221403,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3649,8 +3671,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 73,
-			"versionNonce": 96432293,
+			"version": 84,
+			"versionNonce": 1436212448,
 			"isDeleted": false,
 			"id": "O5xRO1q5",
 			"fillStyle": "hachure",
@@ -3669,7 +3691,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071068,
+			"updated": 1655574221406,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3762,8 +3784,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 436,
-			"versionNonce": 844474213,
+			"version": 446,
+			"versionNonce": 1815913760,
 			"isDeleted": false,
 			"id": "0lFTDkXoahrCjFL_XNa3Z",
 			"fillStyle": "hachure",
@@ -3772,7 +3794,7 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4219.9275178953,
+			"x": 4143.260851228633,
 			"y": 470.67666839920753,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3799,14 +3821,14 @@ Gif du personnage en idle ^seXjAy8s
 					"id": "6vZd3NPm"
 				}
 			],
-			"updated": 1655536113355,
+			"updated": 1655573824121,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 65,
-			"versionNonce": 1286150187,
+			"version": 86,
+			"versionNonce": 196469024,
 			"isDeleted": false,
 			"id": "6vZd3NPm",
 			"fillStyle": "hachure",
@@ -3815,7 +3837,7 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4224.9275178953,
+			"x": 4148.260851228633,
 			"y": 492.2687604912998,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3825,7 +3847,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071070,
+			"updated": 1655574221417,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3840,8 +3862,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 382,
-			"versionNonce": 2121344299,
+			"version": 406,
+			"versionNonce": 468467936,
 			"isDeleted": false,
 			"id": "5ISfKvr8odSWjmSjsW1qt",
 			"fillStyle": "hachure",
@@ -3850,7 +3872,7 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4406.594184561965,
+			"x": 4329.9275178952985,
 			"y": 472.34333506587404,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3877,14 +3899,14 @@ Gif du personnage en idle ^seXjAy8s
 					"id": "W95Ubwld"
 				}
 			],
-			"updated": 1655538081378,
+			"updated": 1655574221418,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 17,
-			"versionNonce": 540710795,
+			"version": 27,
+			"versionNonce": 1633231072,
 			"isDeleted": false,
 			"id": "W95Ubwld",
 			"fillStyle": "hachure",
@@ -3893,7 +3915,7 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4411.594184561965,
+			"x": 4334.9275178952985,
 			"y": 503.4354271579664,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3903,7 +3925,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655536254211,
+			"updated": 1655573824122,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3918,8 +3940,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 340,
-			"versionNonce": 2053127813,
+			"version": 350,
+			"versionNonce": 1424874784,
 			"isDeleted": false,
 			"id": "RSTUvE3zBzZjc6iCmZ00s",
 			"fillStyle": "hachure",
@@ -3928,7 +3950,7 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4593.260851228631,
+			"x": 4516.594184561964,
 			"y": 474.01000173254056,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3955,14 +3977,14 @@ Gif du personnage en idle ^seXjAy8s
 					"id": "HEq1mePr"
 				}
 			],
-			"updated": 1655536300134,
+			"updated": 1655573824122,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 76,
-			"versionNonce": 1540020939,
+			"version": 97,
+			"versionNonce": 412925216,
 			"isDeleted": false,
 			"id": "HEq1mePr",
 			"fillStyle": "hachure",
@@ -3971,7 +3993,7 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 4598.260851228631,
+			"x": 4521.594184561964,
 			"y": 479.01000173254056,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -3981,7 +4003,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071072,
+			"updated": 1655574221424,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4039,8 +4061,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 45,
-			"versionNonce": 1056787301,
+			"version": 56,
+			"versionNonce": 1517364448,
 			"isDeleted": false,
 			"id": "HvPhBER6",
 			"fillStyle": "hachure",
@@ -4059,7 +4081,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071073,
+			"updated": 1655574221427,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4117,8 +4139,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 50,
-			"versionNonce": 853231979,
+			"version": 61,
+			"versionNonce": 474487072,
 			"isDeleted": false,
 			"id": "AgiDPGyU",
 			"fillStyle": "hachure",
@@ -4137,7 +4159,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071073,
+			"updated": 1655574221429,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4351,8 +4373,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 73,
-			"versionNonce": 1919456965,
+			"version": 84,
+			"versionNonce": 1052346592,
 			"isDeleted": false,
 			"id": "Tx6aWnpc",
 			"fillStyle": "hachure",
@@ -4371,7 +4393,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071076,
+			"updated": 1655574221437,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4741,8 +4763,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 39,
-			"versionNonce": 925164555,
+			"version": 50,
+			"versionNonce": 1244132640,
 			"isDeleted": false,
 			"id": "BkolHhv8",
 			"fillStyle": "hachure",
@@ -4761,7 +4783,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071080,
+			"updated": 1655574221449,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4775,62 +4797,9 @@ Gif du personnage en idle ^seXjAy8s
 			"originalText": "Débloque des avantages"
 		},
 		{
-			"type": "arrow",
-			"version": 162,
-			"versionNonce": 1306603147,
-			"isDeleted": false,
-			"id": "igZ1hg7I8woGVejssi1xE",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 0,
-			"opacity": 100,
-			"angle": 0,
-			"x": 3192.927517895295,
-			"y": -610.3979061753672,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 251.66666666666697,
-			"height": 1130,
-			"seed": 1035087371,
-			"groupIds": [],
-			"strokeSharpness": "round",
-			"boundElements": [],
-			"updated": 1655538081367,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "GXxOT1yr1ZiCJ64Up4wVa",
-				"gap": 12.741241241241084,
-				"focus": 0.10542168674699892
-			},
-			"endBinding": {
-				"elementId": "1QcHUVUYuXAo3BNGHUitu",
-				"gap": 13.666666666670153,
-				"focus": -0.7931215503683332
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					921.6666666666667
-				],
-				[
-					251.66666666666697,
-					1130
-				]
-			]
-		},
-		{
 			"type": "text",
-			"version": 106,
-			"versionNonce": 1151889963,
+			"version": 132,
+			"versionNonce": 744002848,
 			"isDeleted": false,
 			"id": "g0NWjKSo",
 			"fillStyle": "hachure",
@@ -4839,8 +4808,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 1.5246752107803827,
-			"x": 3148.760851228629,
-			"y": 42.10209382463301,
+			"x": 1968.7608512286288,
+			"y": -2947.897906175366,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 95,
@@ -4849,7 +4818,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655536510733,
+			"updated": 1655573799390,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4864,8 +4833,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 443,
-			"versionNonce": 1839005797,
+			"version": 536,
+			"versionNonce": 1955155168,
 			"isDeleted": false,
 			"id": "5E6CFDoBKVEKwfMRhhVZP",
 			"fillStyle": "hachure",
@@ -4874,8 +4843,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3514.2495271501316,
-			"y": 1711.5813704903085,
+			"x": 3770.2495271501316,
+			"y": 1665.5813704903085,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -4901,14 +4870,14 @@ Gif du personnage en idle ^seXjAy8s
 					"id": "7uwX81Oe"
 				}
 			],
-			"updated": 1655537034861,
+			"updated": 1655573620148,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 119,
-			"versionNonce": 117269611,
+			"version": 212,
+			"versionNonce": 1831235872,
 			"isDeleted": false,
 			"id": "7uwX81Oe",
 			"fillStyle": "hachure",
@@ -4917,8 +4886,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3519.2495271501316,
-			"y": 1742.6734625824008,
+			"x": 3775.2495271501316,
+			"y": 1696.6734625824008,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -4927,7 +4896,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655537034861,
+			"updated": 1655573620148,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4942,8 +4911,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 382,
-			"versionNonce": 2101980101,
+			"version": 475,
+			"versionNonce": 864858336,
 			"isDeleted": false,
 			"id": "H6zYqIgu7Vou1MfJ7nfb0",
 			"fillStyle": "hachure",
@@ -4952,8 +4921,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3512.375132472644,
-			"y": 1814.673077752092,
+			"x": 3768.375132472644,
+			"y": 1768.673077752092,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -4979,14 +4948,14 @@ Gif du personnage en idle ^seXjAy8s
 					"id": "hCmcJNuZ"
 				}
 			],
-			"updated": 1655537034861,
+			"updated": 1655573620148,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 93,
-			"versionNonce": 1695774245,
+			"version": 197,
+			"versionNonce": 1146449120,
 			"isDeleted": false,
 			"id": "hCmcJNuZ",
 			"fillStyle": "hachure",
@@ -4995,8 +4964,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3517.375132472644,
-			"y": 1836.2651698441844,
+			"x": 3773.375132472644,
+			"y": 1790.2651698441844,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -5005,7 +4974,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071082,
+			"updated": 1655574221462,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5020,8 +4989,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 344,
-			"versionNonce": 2097802021,
+			"version": 437,
+			"versionNonce": 75732192,
 			"isDeleted": false,
 			"id": "bZ-fAeEydxGpA04j22-bY",
 			"fillStyle": "hachure",
@@ -5030,8 +4999,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3701.688994898829,
-			"y": 1814.673077752092,
+			"x": 3957.688994898829,
+			"y": 1768.673077752092,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -5057,14 +5026,14 @@ Gif du personnage en idle ^seXjAy8s
 					"id": "DPKhivzB"
 				}
 			],
-			"updated": 1655537034861,
+			"updated": 1655573620148,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 32,
-			"versionNonce": 557417899,
+			"version": 125,
+			"versionNonce": 651471136,
 			"isDeleted": false,
 			"id": "DPKhivzB",
 			"fillStyle": "hachure",
@@ -5073,8 +5042,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3706.688994898829,
-			"y": 1845.7651698441844,
+			"x": 3962.688994898829,
+			"y": 1799.7651698441844,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -5083,7 +5052,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655537034861,
+			"updated": 1655573620148,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5098,8 +5067,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 367,
-			"versionNonce": 1296776837,
+			"version": 460,
+			"versionNonce": 1560148192,
 			"isDeleted": false,
 			"id": "_jyi82Fk0RuXaOjIyQqvO",
 			"fillStyle": "hachure",
@@ -5108,8 +5077,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3510.50073779516,
-			"y": 1925.2623637238228,
+			"x": 3766.50073779516,
+			"y": 1879.2623637238228,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -5135,14 +5104,14 @@ Gif du personnage en idle ^seXjAy8s
 					"id": "oTUr3BqE"
 				}
 			],
-			"updated": 1655537034861,
+			"updated": 1655573620148,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 25,
-			"versionNonce": 1861326923,
+			"version": 118,
+			"versionNonce": 1956807968,
 			"isDeleted": false,
 			"id": "oTUr3BqE",
 			"fillStyle": "hachure",
@@ -5151,8 +5120,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3515.50073779516,
-			"y": 1956.3544558159151,
+			"x": 3771.50073779516,
+			"y": 1910.3544558159151,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -5161,7 +5130,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655537034861,
+			"updated": 1655573620148,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5176,8 +5145,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 347,
-			"versionNonce": 947869445,
+			"version": 442,
+			"versionNonce": 1158348000,
 			"isDeleted": false,
 			"id": "gNxSU5zP8k9qzCwTrm-em",
 			"fillStyle": "hachure",
@@ -5186,8 +5155,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3508.626343117673,
-			"y": 2037.7260443730406,
+			"x": 3764.626343117673,
+			"y": 1991.7260443730406,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -5213,14 +5182,14 @@ Gif du personnage en idle ^seXjAy8s
 					"id": "DNdUBXsA"
 				}
 			],
-			"updated": 1655538081395,
+			"updated": 1655573662063,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 23,
-			"versionNonce": 2102286059,
+			"version": 117,
+			"versionNonce": 584565024,
 			"isDeleted": false,
 			"id": "DNdUBXsA",
 			"fillStyle": "hachure",
@@ -5229,8 +5198,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3513.626343117673,
-			"y": 2068.8181364651327,
+			"x": 3769.626343117673,
+			"y": 2022.818136465133,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -5239,7 +5208,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655537034861,
+			"updated": 1655573662063,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5254,8 +5223,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 437,
-			"versionNonce": 1774718091,
+			"version": 530,
+			"versionNonce": 1086144736,
 			"isDeleted": false,
 			"id": "GKpx6rvyVBLu-5qIF-Exs",
 			"fillStyle": "hachure",
@@ -5264,8 +5233,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3510.500737795161,
-			"y": 1615.9872419384733,
+			"x": 3766.500737795161,
+			"y": 1569.9872419384733,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -5291,14 +5260,14 @@ Gif du personnage en idle ^seXjAy8s
 					"id": "gMa1OJh9"
 				}
 			],
-			"updated": 1655537049195,
+			"updated": 1655573620148,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 105,
-			"versionNonce": 837511557,
+			"version": 211,
+			"versionNonce": 1739346208,
 			"isDeleted": false,
 			"id": "gMa1OJh9",
 			"fillStyle": "hachure",
@@ -5307,8 +5276,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3515.500737795161,
-			"y": 1637.5793340305656,
+			"x": 3771.500737795161,
+			"y": 1591.5793340305656,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -5317,7 +5286,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071085,
+			"updated": 1655574221466,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5332,8 +5301,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 332,
-			"versionNonce": 97070981,
+			"version": 425,
+			"versionNonce": 1025647840,
 			"isDeleted": false,
 			"id": "FyHBRb65FKj2_Ssk0LSMp",
 			"fillStyle": "hachure",
@@ -5342,8 +5311,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3511.2945640464095,
-			"y": 2138.9412819487834,
+			"x": 3767.2945640464095,
+			"y": 2092.9412819487834,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -5369,14 +5338,14 @@ Gif du personnage en idle ^seXjAy8s
 					"id": "K8aJ2mId"
 				}
 			],
-			"updated": 1655537225478,
+			"updated": 1655573620148,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 44,
-			"versionNonce": 1140694347,
+			"version": 148,
+			"versionNonce": 1960104160,
 			"isDeleted": false,
 			"id": "K8aJ2mId",
 			"fillStyle": "hachure",
@@ -5385,8 +5354,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3516.2945640464095,
-			"y": 2160.5333740408755,
+			"x": 3772.2945640464095,
+			"y": 2114.5333740408755,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 156,
@@ -5395,7 +5364,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071086,
+			"updated": 1655574221467,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5453,8 +5422,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 365,
-			"versionNonce": 1484009029,
+			"version": 398,
+			"versionNonce": 1178824928,
 			"isDeleted": false,
 			"id": "nxUYZ5nSsQjoQB4PB8J4E",
 			"fillStyle": "hachure",
@@ -5463,8 +5432,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3368.8504060842815,
-			"y": 1038.389357050077,
+			"x": 1710.8504060842815,
+			"y": 1070.389357050077,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -5486,14 +5455,14 @@ Gif du personnage en idle ^seXjAy8s
 					"type": "arrow"
 				}
 			],
-			"updated": 1655537550898,
+			"updated": 1655573625729,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 55,
-			"versionNonce": 976089317,
+			"version": 66,
+			"versionNonce": 205860128,
 			"isDeleted": false,
 			"id": "a5y3efOT",
 			"fillStyle": "hachure",
@@ -5512,7 +5481,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071087,
+			"updated": 1655574221469,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5570,8 +5539,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "text",
-			"version": 33,
-			"versionNonce": 1016183787,
+			"version": 44,
+			"versionNonce": 667399392,
 			"isDeleted": false,
 			"id": "TLvwofn2",
 			"fillStyle": "hachure",
@@ -5590,7 +5559,7 @@ Gif du personnage en idle ^seXjAy8s
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655538071088,
+			"updated": 1655574221470,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5605,8 +5574,8 @@ Gif du personnage en idle ^seXjAy8s
 		},
 		{
 			"type": "rectangle",
-			"version": 393,
-			"versionNonce": 1035766987,
+			"version": 486,
+			"versionNonce": 592087264,
 			"isDeleted": false,
 			"id": "y_MR-mRaygo3TzWzxrgYN",
 			"fillStyle": "hachure",
@@ -5615,8 +5584,8 @@ Gif du personnage en idle ^seXjAy8s
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 3883.447302563781,
-			"y": 1815.0202560314108,
+			"x": 4139.447302563781,
+			"y": 1769.0202560314108,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -5642,15 +5611,1332 @@ Gif du personnage en idle ^seXjAy8s
 					"id": "seXjAy8s"
 				}
 			],
-			"updated": 1655538086080,
+			"updated": 1655573620148,
 			"link": null,
 			"locked": false
 		},
 		{
-			"id": "seXjAy8s",
 			"type": "text",
-			"x": 3888.447302563781,
-			"y": 1827.1123481235031,
+			"version": 151,
+			"versionNonce": 1633847584,
+			"isDeleted": false,
+			"id": "seXjAy8s",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4144.447302563781,
+			"y": 1781.1123481235031,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 156,
+			"height": 57,
+			"seed": 1137140069,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [],
+			"updated": 1655574221471,
+			"link": null,
+			"locked": false,
+			"fontSize": 16,
+			"fontFamily": 3,
+			"text": "Gif du \npersonnage en \nidle",
+			"rawText": "Gif du personnage en idle",
+			"baseline": 53,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "y_MR-mRaygo3TzWzxrgYN",
+			"originalText": "Gif du personnage en idle"
+		},
+		{
+			"type": "rectangle",
+			"version": 423,
+			"versionNonce": 400705824,
+			"isDeleted": false,
+			"id": "1oxWZz2QUvWSyrFLFwMoH",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3762.2415416845924,
+			"y": 2205.3293664819303,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 242360608,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "ZPpNpoSs"
+				}
+			],
+			"updated": 1655573661661,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "ZPpNpoSs",
+			"type": "text",
+			"x": 3767.2415416845924,
+			"y": 2226.9214585740224,
+			"width": 156,
+			"height": 38,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1438361888,
+			"version": 59,
+			"versionNonce": 1119754464,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221472,
+			"link": null,
+			"locked": false,
+			"text": "Principe de \ncitoyenneté",
+			"rawText": "Principe de citoyenneté",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 34,
+			"containerId": "1oxWZz2QUvWSyrFLFwMoH",
+			"originalText": "Principe de citoyenneté"
+		},
+		{
+			"type": "rectangle",
+			"version": 426,
+			"versionNonce": 111216864,
+			"isDeleted": false,
+			"id": "W-moNXjIr7pHj6oV-lnip",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3759.3843988274493,
+			"y": 2313.9007950533596,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 1242944800,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "48J7dcJS"
+				}
+			],
+			"updated": 1655573670464,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "48J7dcJS",
+			"type": "text",
+			"x": 3764.3843988274493,
+			"y": 2344.9928871454517,
+			"width": 156,
+			"height": 19,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1825290528,
+			"version": 16,
+			"versionNonce": 1987605792,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655573670465,
+			"link": null,
+			"locked": false,
+			"text": "Travail",
+			"rawText": "Travail",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 15,
+			"containerId": "W-moNXjIr7pHj6oV-lnip",
+			"originalText": "Travail"
+		},
+		{
+			"type": "rectangle",
+			"version": 402,
+			"versionNonce": 827591968,
+			"isDeleted": false,
+			"id": "JJ--lhrqer1qRCw0Dw_Bd",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3431.503446446496,
+			"y": -349.57539542283246,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 1986947296,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "255xuSOn"
+				},
+				{
+					"id": "dXilUnj4URbJNUzFTswKT",
+					"type": "arrow"
+				},
+				{
+					"id": "3kTRnf91b906F77H9qGdf",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655573917324,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "255xuSOn",
+			"type": "text",
+			"x": 3436.503446446496,
+			"y": -318.48330333074017,
+			"width": 156,
+			"height": 19,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 117853472,
+			"version": 14,
+			"versionNonce": 1298845920,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655573878626,
+			"link": null,
+			"locked": false,
+			"text": "Membre",
+			"rawText": "Membre",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 15,
+			"containerId": "JJ--lhrqer1qRCw0Dw_Bd",
+			"originalText": "Membre"
+		},
+		{
+			"type": "rectangle",
+			"version": 439,
+			"versionNonce": 295317728,
+			"isDeleted": false,
+			"id": "dCdnYXhCbTBPW5EM3SQih",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3896.5034464464984,
+			"y": -346.2420620894992,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 1239014624,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "9xYY4bQZ"
+				},
+				{
+					"id": "dXilUnj4URbJNUzFTswKT",
+					"type": "arrow"
+				},
+				{
+					"id": "75CKSX-doStWJFD1Y8qa4",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655573919396,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "9xYY4bQZ",
+			"type": "text",
+			"x": 3901.5034464464984,
+			"y": -315.1499699974069,
+			"width": 156,
+			"height": 19,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 675802400,
+			"version": 22,
+			"versionNonce": 298736864,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655573893719,
+			"link": null,
+			"locked": false,
+			"text": "Créer une guilde",
+			"rawText": "Créer une guilde",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 15,
+			"containerId": "dCdnYXhCbTBPW5EM3SQih",
+			"originalText": "Créer une guilde"
+		},
+		{
+			"id": "dXilUnj4URbJNUzFTswKT",
+			"type": "arrow",
+			"x": 3612.836779779832,
+			"y": -308.98330333074006,
+			"width": 271.66666666666606,
+			"height": 1.6666666666666856,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1208385760,
+			"version": 63,
+			"versionNonce": 223757536,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221477,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					271.66666666666606,
+					1.6666666666666856
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "JJ--lhrqer1qRCw0Dw_Bd",
+				"gap": 15.333333333335304,
+				"focus": -0.014677688143465074
+			},
+			"endBinding": {
+				"elementId": "dCdnYXhCbTBPW5EM3SQih",
+				"gap": 12.000000000000455,
+				"focus": 0.026370083783169483
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "rectangle",
+			"version": 430,
+			"versionNonce": 1155601632,
+			"isDeleted": false,
+			"id": "tialqPvosRji3TtvH-zaX",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 3879.836779779832,
+			"y": -679.5753954228323,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 444121312,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "8J3TF01O"
+				},
+				{
+					"id": "3kTRnf91b906F77H9qGdf",
+					"type": "arrow"
+				},
+				{
+					"id": "75CKSX-doStWJFD1Y8qa4",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655573919396,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "8J3TF01O",
+			"type": "text",
+			"x": 3884.836779779832,
+			"y": -657.98330333074,
+			"width": 156,
+			"height": 38,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 812252448,
+			"version": 37,
+			"versionNonce": 1617825056,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221480,
+			"link": null,
+			"locked": false,
+			"text": "Devient chef de \nla Guilde",
+			"rawText": "Devient chef de la Guilde",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 34,
+			"containerId": "tialqPvosRji3TtvH-zaX",
+			"originalText": "Devient chef de la Guilde"
+		},
+		{
+			"id": "3kTRnf91b906F77H9qGdf",
+			"type": "arrow",
+			"x": 3549.503446446499,
+			"y": -362.3166366640735,
+			"width": 322.09931427465017,
+			"height": 229.83128153972393,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 599076064,
+			"version": 84,
+			"versionNonce": 410160352,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221479,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					322.09931427465017,
+					-229.83128153972393
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "JJ--lhrqer1qRCw0Dw_Bd",
+				"gap": 12.741241241241028,
+				"focus": -0.28411638087389096
+			},
+			"endBinding": {
+				"elementId": "tialqPvosRji3TtvH-zaX",
+				"gap": 10.333333333332575,
+				"focus": 0.18297547149026586
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "75CKSX-doStWJFD1Y8qa4",
+			"type": "arrow",
+			"x": 3974.5034464464993,
+			"y": -358.9833033307401,
+			"width": 10,
+			"height": 228.33333333333337,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1537816800,
+			"version": 61,
+			"versionNonce": 139325664,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221479,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-10,
+					-228.33333333333337
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "dCdnYXhCbTBPW5EM3SQih",
+				"gap": 12.741241241240914,
+				"focus": -0.03142609225352029
+			},
+			"endBinding": {
+				"elementId": "tialqPvosRji3TtvH-zaX",
+				"gap": 11.074574574574228,
+				"focus": 0.0070314087690458455
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "rectangle",
+			"version": 452,
+			"versionNonce": 114866400,
+			"isDeleted": false,
+			"id": "8Hrs4tU8sQg2tXbM9aMcJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4680.551065494118,
+			"y": -1047.146823994261,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 900430048,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"id": "GIo00ek_NctQSeOJWoiij",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "15IasHmj"
+				},
+				{
+					"id": "P1pi41UnXzegFstYK85u-",
+					"type": "arrow"
+				},
+				{
+					"id": "We3qpeGZZobJhGTwbaBrO",
+					"type": "arrow"
+				},
+				{
+					"id": "zueY8kbI6VYcQpXixAgkw",
+					"type": "arrow"
+				},
+				{
+					"id": "HuIzT_GiPBeIhRo6nmuIz",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655574191413,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "9K-MPSmtb24Sqslcx8n2d",
+			"type": "ellipse",
+			"x": 3299.836779779832,
+			"y": -939.98330333074,
+			"width": 962,
+			"height": 980,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1059374304,
+			"version": 51,
+			"versionNonce": 575664352,
+			"isDeleted": false,
+			"boundElements": [
+				{
+					"id": "GIo00ek_NctQSeOJWoiij",
+					"type": "arrow"
+				},
+				{
+					"id": "LEaaxBEm4wRenDjF-vqo8",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655574027101,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "GIo00ek_NctQSeOJWoiij",
+			"type": "arrow",
+			"x": 4251.522823015832,
+			"y": -588.1386969587645,
+			"width": 442.10741620562294,
+			"height": 368.41603494340416,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1098680544,
+			"version": 103,
+			"versionNonce": 2104453408,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221481,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					442.10741620562294,
+					-368.41603494340416
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "9K-MPSmtb24Sqslcx8n2d",
+				"gap": 8.846669250121636,
+				"focus": 0.40134718166855515
+			},
+			"endBinding": {
+				"elementId": "8Hrs4tU8sQg2tXbM9aMcJ",
+				"gap": 9.407907907907713,
+				"focus": 0.07531402788170076
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "15IasHmj",
+			"type": "text",
+			"x": 4685.551065494118,
+			"y": -1016.0547319021687,
+			"width": 156,
+			"height": 19,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1658767584,
+			"version": 100,
+			"versionNonce": 2055969056,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574007381,
+			"link": null,
+			"locked": false,
+			"text": "Guilde : Nesalia",
+			"rawText": "Guilde : Nesalia",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 15,
+			"containerId": "8Hrs4tU8sQg2tXbM9aMcJ",
+			"originalText": "Guilde : Nesalia"
+		},
+		{
+			"type": "rectangle",
+			"version": 467,
+			"versionNonce": 685781280,
+			"isDeleted": false,
+			"id": "QF1Y3NkY__ZfnYba7mi8E",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5066.836779779831,
+			"y": -375.43253827997523,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 1216036128,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "xiUFUdEV"
+				},
+				{
+					"id": "P1pi41UnXzegFstYK85u-",
+					"type": "arrow"
+				},
+				{
+					"id": "We3qpeGZZobJhGTwbaBrO",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655574089559,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "xiUFUdEV",
+			"type": "text",
+			"x": 5071.836779779831,
+			"y": -353.84044618788295,
+			"width": 156,
+			"height": 38,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 996184288,
+			"version": 71,
+			"versionNonce": 1176226016,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221484,
+			"link": null,
+			"locked": false,
+			"text": "Membres du \nserveur",
+			"rawText": "Membres du serveur",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 34,
+			"containerId": "QF1Y3NkY__ZfnYba7mi8E",
+			"originalText": "Membres du serveur"
+		},
+		{
+			"id": "P1pi41UnXzegFstYK85u-",
+			"type": "arrow",
+			"x": 4858.476719157177,
+			"y": -493.5755694255562,
+			"width": 218.5029177655124,
+			"height": 105.87798038053018,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1210010848,
+			"version": 200,
+			"versionNonce": 950472928,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221484,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					218.5029177655124,
+					105.87798038053018
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "CCDWP146w-IS57rw6r5fh",
+				"gap": 12.782796520202282,
+				"focus": -0.647075384842595
+			},
+			"endBinding": {
+				"elementId": "QF1Y3NkY__ZfnYba7mi8E",
+				"gap": 12.265050765050773,
+				"focus": 0.21721662582425771
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "MBjJ2rmK",
+			"type": "text",
+			"x": 4891.479636922689,
+			"y": -468.0547319021688,
+			"width": 151,
+			"height": 19,
+			"angle": 0.4723683181544498,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 37162272,
+			"version": 157,
+			"versionNonce": 1194342624,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574089560,
+			"link": null,
+			"locked": false,
+			"text": "peut les inviter",
+			"rawText": "peut les inviter",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 15,
+			"containerId": null,
+			"originalText": "peut les inviter"
+		},
+		{
+			"type": "rectangle",
+			"version": 511,
+			"versionNonce": 582645024,
+			"isDeleted": false,
+			"id": "CCDWP146w-IS57rw6r5fh",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4679.693922636975,
+			"y": -528.2896811371179,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 2020477152,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "0eTKo8kH"
+				},
+				{
+					"id": "LEaaxBEm4wRenDjF-vqo8",
+					"type": "arrow"
+				},
+				{
+					"id": "P1pi41UnXzegFstYK85u-",
+					"type": "arrow"
+				},
+				{
+					"id": "zueY8kbI6VYcQpXixAgkw",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655574107853,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "0eTKo8kH",
+			"type": "text",
+			"x": 4684.693922636975,
+			"y": -497.1975890450256,
+			"width": 156,
+			"height": 19,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 389590304,
+			"version": 135,
+			"versionNonce": 837910816,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574145932,
+			"link": null,
+			"locked": false,
+			"text": "Chef : Nesalia",
+			"rawText": "Chef : Nesalia",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 15,
+			"containerId": "CCDWP146w-IS57rw6r5fh",
+			"originalText": "Chef : Nesalia"
+		},
+		{
+			"id": "LEaaxBEm4wRenDjF-vqo8",
+			"type": "arrow",
+			"x": 4274.324208146585,
+			"y": -382.05710745402894,
+			"width": 402.6554287761037,
+			"height": 89.86151555230322,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 925762784,
+			"version": 125,
+			"versionNonce": 628075744,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221484,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					402.6554287761037,
+					-89.86151555230322
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "9K-MPSmtb24Sqslcx8n2d",
+				"gap": 16.97735618050052,
+				"focus": 0.3549677522962086
+			},
+			"endBinding": {
+				"elementId": "CCDWP146w-IS57rw6r5fh",
+				"gap": 2.714285714286234,
+				"focus": 0.05667024325675156
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "We3qpeGZZobJhGTwbaBrO",
+			"type": "arrow",
+			"x": 5145.841785147682,
+			"y": -383.41187475931156,
+			"width": 302.8571428571431,
+			"height": 625.9999999999995,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 499974432,
+			"version": 95,
+			"versionNonce": 207739168,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221483,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					13.994994632150338,
+					-487.42857142857133
+				],
+				[
+					-288.8621482249928,
+					-625.9999999999995
+				]
+			],
+			"lastCommittedPoint": [
+				-298.57142857142844,
+				-330
+			],
+			"startBinding": {
+				"elementId": "QF1Y3NkY__ZfnYba7mi8E",
+				"gap": 7.979336479336268,
+				"focus": -0.06403542567091997
+			},
+			"endBinding": {
+				"elementId": "8Hrs4tU8sQg2tXbM9aMcJ",
+				"gap": 10.428571428570649,
+				"focus": -0.5804503983458105
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "WXKAaJW5",
+			"type": "text",
+			"x": 4915.836779779832,
+			"y": -1011.1975890450257,
+			"width": 188,
+			"height": 38,
+			"angle": 0.2763742393960573,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1536022816,
+			"version": 169,
+			"versionNonce": 141536544,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574287821,
+			"link": null,
+			"locked": false,
+			"text": "Si ils acceptent ils\ndeviennent membres",
+			"rawText": "Si ils acceptent ils\ndeviennent membres",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 34,
+			"containerId": null,
+			"originalText": "Si ils acceptent ils\ndeviennent membres"
+		},
+		{
+			"id": "zueY8kbI6VYcQpXixAgkw",
+			"type": "arrow",
+			"x": 4746.598684541737,
+			"y": -538.3642557116918,
+			"width": 15.714285714286234,
+			"height": 417.1428571428571,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1905306848,
+			"version": 44,
+			"versionNonce": 928117984,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221485,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					15.714285714286234,
+					-417.1428571428571
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "CCDWP146w-IS57rw6r5fh",
+				"gap": 10.074574574573944,
+				"focus": -0.21299058383443695
+			},
+			"endBinding": {
+				"elementId": "8Hrs4tU8sQg2tXbM9aMcJ",
+				"gap": 10.455526955527432,
+				"focus": -0.008102902645885276
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "7PYjziEK",
+			"type": "text",
+			"x": 4635.312970256024,
+			"y": -714.4356842831203,
+			"width": 234,
+			"height": 38,
+			"angle": 4.757853125338211,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1110945056,
+			"version": 214,
+			"versionNonce": 1998184736,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574151653,
+			"link": null,
+			"locked": false,
+			"text": "peut choisir la politique\nde la Guilde",
+			"rawText": "peut choisir la politique\nde la Guilde",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"baseline": 34,
+			"containerId": null,
+			"originalText": "peut choisir la politique\nde la Guilde"
+		},
+		{
+			"type": "rectangle",
+			"version": 441,
+			"versionNonce": 1692197152,
+			"isDeleted": false,
+			"id": "liUzKee_JvwZEjYp1Z66s",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4957.8843988274475,
+			"y": -1337.5277763752126,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 2004925728,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "3ApcICCP"
+				},
+				{
+					"id": "HuIzT_GiPBeIhRo6nmuIz",
+					"type": "arrow"
+				},
+				{
+					"id": "kDIpfLWq0gWugny96vg6Z",
+					"type": "arrow"
+				},
+				{
+					"id": "kI8juvh8dlX_7FhIxmDif",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655574227621,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "3ApcICCP",
+			"type": "text",
+			"x": 4962.8843988274475,
+			"y": -1325.4356842831203,
 			"width": 156,
 			"height": 57,
 			"angle": 0,
@@ -5663,23 +6949,334 @@ Gif du personnage en idle ^seXjAy8s
 			"opacity": 100,
 			"groupIds": [],
 			"strokeSharpness": "round",
-			"seed": 1137140069,
-			"version": 47,
-			"versionNonce": 1941420389,
+			"seed": 650500384,
+			"version": 53,
+			"versionNonce": 1249256736,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655538086080,
+			"updated": 1655574221486,
 			"link": null,
 			"locked": false,
-			"text": "Gif du \npersonnage en \nidle",
-			"rawText": "Gif du personnage en idle",
+			"text": "Système de \npolitique de la \nGuilde",
+			"rawText": "Système de politique de la Guilde",
 			"fontSize": 16,
 			"fontFamily": 3,
 			"textAlign": "center",
 			"verticalAlign": "middle",
 			"baseline": 53,
-			"containerId": "y_MR-mRaygo3TzWzxrgYN",
-			"originalText": "Gif du personnage en idle"
+			"containerId": "liUzKee_JvwZEjYp1Z66s",
+			"originalText": "Système de politique de la Guilde"
+		},
+		{
+			"id": "HuIzT_GiPBeIhRo6nmuIz",
+			"type": "arrow",
+			"x": 4807.212229526825,
+			"y": -1061.2213985688343,
+			"width": 146.7520206739946,
+			"height": 185.01963359242473,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 108978400,
+			"version": 35,
+			"versionNonce": 1728076000,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221486,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					146.7520206739946,
+					-185.01963359242473
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "8Hrs4tU8sQg2tXbM9aMcJ",
+				"gap": 14.074574574573319,
+				"focus": 0.0026242053486119116
+			},
+			"endBinding": {
+				"elementId": "liUzKee_JvwZEjYp1Z66s",
+				"gap": 10.836479336479215,
+				"focus": 0.4054871517642374
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "rectangle",
+			"version": 415,
+			"versionNonce": 27968736,
+			"isDeleted": false,
+			"id": "pqg2fx50m3lZ4ZGSvlxx9",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5333.598684541732,
+			"y": -1451.8134906609264,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 964914400,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "LbPN2iAr"
+				},
+				{
+					"id": "kDIpfLWq0gWugny96vg6Z",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655574224389,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "rectangle",
+			"version": 450,
+			"versionNonce": 887340320,
+			"isDeleted": false,
+			"id": "YXyxoCONUj_CkTXPGy6e_",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 5335.0272559703035,
+			"y": -1190.3849192323553,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 339923168,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "3LDXauWa"
+				},
+				{
+					"id": "kI8juvh8dlX_7FhIxmDif",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655574227621,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "LbPN2iAr",
+			"type": "text",
+			"x": 5338.598684541732,
+			"y": -1430.221398568834,
+			"width": 156,
+			"height": 38,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 789899552,
+			"version": 38,
+			"versionNonce": 583541984,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574207869,
+			"link": null,
+			"locked": false,
+			"text": "Alliances avec \nd'autres Guildes",
+			"rawText": "Alliances avec d'autres Guildes",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 34,
+			"containerId": "pqg2fx50m3lZ4ZGSvlxx9",
+			"originalText": "Alliances avec d'autres Guildes"
+		},
+		{
+			"id": "3LDXauWa",
+			"type": "text",
+			"x": 5340.0272559703035,
+			"y": -1168.792827140263,
+			"width": 156,
+			"height": 38,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1680902368,
+			"version": 42,
+			"versionNonce": 1707115744,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574221688,
+			"link": null,
+			"locked": false,
+			"text": "Guerres avec \nd'autres Guildes",
+			"rawText": "Guerres avec d'autres Guildes",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 34,
+			"containerId": "YXyxoCONUj_CkTXPGy6e_",
+			"originalText": "Guerres avec d'autres Guildes"
+		},
+		{
+			"id": "kDIpfLWq0gWugny96vg6Z",
+			"type": "arrow",
+			"x": 5129.455827398875,
+			"y": -1335.5071128545483,
+			"width": 188.57142857142935,
+			"height": 50,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 941537568,
+			"version": 30,
+			"versionNonce": 2044271904,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574224389,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					188.57142857142935,
+					-50
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "liUzKee_JvwZEjYp1Z66s",
+				"focus": -0.24100096062506346,
+				"gap": 5.571428571427532
+			},
+			"endBinding": {
+				"elementId": "pqg2fx50m3lZ4ZGSvlxx9",
+				"focus": 0.006742494594237868,
+				"gap": 15.571428571427532
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "kI8juvh8dlX_7FhIxmDif",
+			"type": "arrow",
+			"x": 5136.598684541733,
+			"y": -1291.221398568834,
+			"width": 187.14285714285688,
+			"height": 138.57142857142867,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1459124512,
+			"version": 45,
+			"versionNonce": 213205216,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574227621,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					187.14285714285688,
+					138.57142857142867
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "liUzKee_JvwZEjYp1Z66s",
+				"focus": -0.6384914823170097,
+				"gap": 12.714285714285325
+			},
+			"endBinding": {
+				"elementId": "YXyxoCONUj_CkTXPGy6e_",
+				"focus": -0.6561234646738896,
+				"gap": 11.285714285713766
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
 		}
 	],
 	"appState": {
