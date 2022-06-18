@@ -204,6 +204,14 @@ Alliances avec d'autres Guildes ^LbPN2iAr
 
 Guerres avec d'autres Guildes ^3LDXauWa
 
+Système de niveau de Guilde ^bmfH0i1f
+
+Quêtes de Guilde ^ytvLNNP9
+
+Système de succès ^YFUoQ2sf
+
+Donne de l'xp ^Jqqfa0xG
+
 %%
 # Drawing
 ```json
@@ -245,8 +253,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 1131,
-			"versionNonce": 676936928,
+			"version": 1135,
+			"versionNonce": 352396512,
 			"isDeleted": false,
 			"id": "T2D6RNpP",
 			"fillStyle": "hachure",
@@ -265,7 +273,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221348,
+			"updated": 1655574840256,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -311,8 +319,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 489,
-			"versionNonce": 311263520,
+			"version": 493,
+			"versionNonce": 314054944,
 			"isDeleted": false,
 			"id": "CYxU1qv1",
 			"fillStyle": "hachure",
@@ -331,7 +339,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221354,
+			"updated": 1655574840259,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.0457570550196,
@@ -397,8 +405,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 621,
-			"versionNonce": 809374944,
+			"version": 625,
+			"versionNonce": 131595488,
 			"isDeleted": false,
 			"id": "DsCdoMn6",
 			"fillStyle": "hachure",
@@ -417,7 +425,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221358,
+			"updated": 1655574840265,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.932858231365769,
@@ -471,8 +479,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 612,
-			"versionNonce": 438460704,
+			"version": 616,
+			"versionNonce": 1412757792,
 			"isDeleted": false,
 			"id": "IHoFnKti",
 			"fillStyle": "hachure",
@@ -491,7 +499,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221360,
+			"updated": 1655574840269,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.953360058623328,
@@ -506,8 +514,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 1525,
-			"versionNonce": 761821408,
+			"version": 1542,
+			"versionNonce": 1233477856,
 			"isDeleted": false,
 			"id": "nedUsKK5O3O_rDUh2BfgD",
 			"fillStyle": "hachure",
@@ -526,7 +534,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221359,
+			"updated": 1655574840267,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -695,8 +703,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 1644,
-			"versionNonce": 628702496,
+			"version": 1660,
+			"versionNonce": 830002464,
 			"isDeleted": false,
 			"id": "W61ML9OEJVG8auIExfr5G",
 			"fillStyle": "hachure",
@@ -715,7 +723,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221361,
+			"updated": 1655574840270,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -787,8 +795,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 698,
-			"versionNonce": 748743904,
+			"version": 702,
+			"versionNonce": 296539360,
 			"isDeleted": false,
 			"id": "aTWT3s2s",
 			"fillStyle": "hachure",
@@ -807,7 +815,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221366,
+			"updated": 1655574840277,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.932858231365769,
@@ -822,8 +830,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 873,
-			"versionNonce": 1502910752,
+			"version": 890,
+			"versionNonce": 1910583584,
 			"isDeleted": false,
 			"id": "5U-diJVxi0P5j_BqoWlFg",
 			"fillStyle": "hachure",
@@ -842,7 +850,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221365,
+			"updated": 1655574840274,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -914,8 +922,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 702,
-			"versionNonce": 1416562976,
+			"version": 706,
+			"versionNonce": 1974444320,
 			"isDeleted": false,
 			"id": "3B4f7W37",
 			"fillStyle": "hachure",
@@ -934,7 +942,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221368,
+			"updated": 1655574840280,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.932858231365769,
@@ -949,8 +957,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 953,
-			"versionNonce": 1202737376,
+			"version": 970,
+			"versionNonce": 1929328864,
 			"isDeleted": false,
 			"id": "wxSOIO0M9nTNsdZfIlJB2",
 			"fillStyle": "hachure",
@@ -969,7 +977,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221367,
+			"updated": 1655574840279,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1104,8 +1112,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 473,
-			"versionNonce": 1564347616,
+			"version": 477,
+			"versionNonce": 165803232,
 			"isDeleted": false,
 			"id": "haq1SIfQ",
 			"fillStyle": "hachure",
@@ -1124,7 +1132,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221371,
+			"updated": 1655574840284,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1190,8 +1198,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 316,
-			"versionNonce": 1006364960,
+			"version": 320,
+			"versionNonce": 556040480,
 			"isDeleted": false,
 			"id": "1vQBRUSh",
 			"fillStyle": "hachure",
@@ -1210,7 +1218,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221374,
+			"updated": 1655574840287,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1225,8 +1233,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 847,
-			"versionNonce": 665415904,
+			"version": 863,
+			"versionNonce": 1737513184,
 			"isDeleted": false,
 			"id": "Yxd95os7SPS6sVH7x8P8x",
 			"fillStyle": "hachure",
@@ -1245,7 +1253,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221373,
+			"updated": 1655574840286,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1325,8 +1333,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 341,
-			"versionNonce": 1618608352,
+			"version": 345,
+			"versionNonce": 564979936,
 			"isDeleted": false,
 			"id": "HlqIdtfN",
 			"fillStyle": "hachure",
@@ -1345,7 +1353,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221377,
+			"updated": 1655574840289,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1360,8 +1368,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 1209,
-			"versionNonce": 1658963232,
+			"version": 1225,
+			"versionNonce": 1194810656,
 			"isDeleted": false,
 			"id": "J9993LsxLnmR4CCzmd-1m",
 			"fillStyle": "hachure",
@@ -1380,7 +1388,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221375,
+			"updated": 1655574840288,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1409,8 +1417,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 990,
-			"versionNonce": 1756111136,
+			"version": 1006,
+			"versionNonce": 1586411808,
 			"isDeleted": false,
 			"id": "SWOnAv2UC9yLerYg_m-V9",
 			"fillStyle": "hachure",
@@ -1429,7 +1437,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221375,
+			"updated": 1655574840288,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1548,8 +1556,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 183,
-			"versionNonce": 1186671840,
+			"version": 187,
+			"versionNonce": 586618080,
 			"isDeleted": false,
 			"id": "BiN7GkxQ",
 			"fillStyle": "hachure",
@@ -1568,7 +1576,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221381,
+			"updated": 1655574840290,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1583,8 +1591,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 615,
-			"versionNonce": 1195828448,
+			"version": 631,
+			"versionNonce": 836553952,
 			"isDeleted": false,
 			"id": "1cGGeorB25-gWZHTeEQ4f",
 			"fillStyle": "hachure",
@@ -1603,7 +1611,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221378,
+			"updated": 1655574840289,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1718,8 +1726,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 122,
-			"versionNonce": 465401056,
+			"version": 126,
+			"versionNonce": 941579488,
 			"isDeleted": false,
 			"id": "csUsh6fl",
 			"fillStyle": "hachure",
@@ -1738,7 +1746,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221383,
+			"updated": 1655574840293,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -1753,8 +1761,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 378,
-			"versionNonce": 612536544,
+			"version": 394,
+			"versionNonce": 1627486432,
 			"isDeleted": false,
 			"id": "sshybHxABAZsL6XNKHZse",
 			"fillStyle": "hachure",
@@ -1773,7 +1781,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221382,
+			"updated": 1655574840291,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1837,8 +1845,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 565,
-			"versionNonce": 1196649760,
+			"version": 573,
+			"versionNonce": 1150747936,
 			"isDeleted": false,
 			"id": "DhxQGCqhTS0-LmJUY9NI5",
 			"fillStyle": "hachure",
@@ -1857,7 +1865,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221382,
+			"updated": 1655574840292,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1988,8 +1996,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 190,
-			"versionNonce": 304340256,
+			"version": 194,
+			"versionNonce": 1692103968,
 			"isDeleted": false,
 			"id": "Lsr2vx2G",
 			"fillStyle": "hachure",
@@ -2008,7 +2016,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221387,
+			"updated": 1655574840296,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2023,8 +2031,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 370,
-			"versionNonce": 838588640,
+			"version": 386,
+			"versionNonce": 971030752,
 			"isDeleted": false,
 			"id": "-xCd7oCzAzwQE12YHk1Ng",
 			"fillStyle": "hachure",
@@ -2043,7 +2051,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221385,
+			"updated": 1655574840295,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2072,8 +2080,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 366,
-			"versionNonce": 986561760,
+			"version": 382,
+			"versionNonce": 1171629280,
 			"isDeleted": false,
 			"id": "UDg5hDDwBYPm7CDLc0wqo",
 			"fillStyle": "hachure",
@@ -2092,7 +2100,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221385,
+			"updated": 1655574840295,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2191,8 +2199,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 305,
-			"versionNonce": 667301152,
+			"version": 313,
+			"versionNonce": 1217383712,
 			"isDeleted": false,
 			"id": "KMPGMy19UakZRwOg72tCo",
 			"fillStyle": "hachure",
@@ -2211,7 +2219,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221379,
+			"updated": 1655574840290,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2283,8 +2291,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 506,
-			"versionNonce": 1872822560,
+			"version": 510,
+			"versionNonce": 1735104800,
 			"isDeleted": false,
 			"id": "GN-5Gb0qF0ZbD7BzpX8O2",
 			"fillStyle": "hachure",
@@ -2303,7 +2311,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221385,
+			"updated": 1655574840295,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -2477,8 +2485,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 349,
-			"versionNonce": 401291552,
+			"version": 365,
+			"versionNonce": 1609552160,
 			"isDeleted": false,
 			"id": "bnoNhAGEYLmAY4PuSaebN",
 			"fillStyle": "hachure",
@@ -2497,7 +2505,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221388,
+			"updated": 1655574840297,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2526,8 +2534,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 351,
-			"versionNonce": 610735392,
+			"version": 367,
+			"versionNonce": 806923552,
 			"isDeleted": false,
 			"id": "EQbcAqSvt3iy-nRWeEsIO",
 			"fillStyle": "hachure",
@@ -2546,7 +2554,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221388,
+			"updated": 1655574840297,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2696,8 +2704,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 103,
-			"versionNonce": 22189280,
+			"version": 107,
+			"versionNonce": 793541856,
 			"isDeleted": false,
 			"id": "4vn14rGT",
 			"fillStyle": "hachure",
@@ -2716,7 +2724,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221391,
+			"updated": 1655574840300,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2731,8 +2739,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 336,
-			"versionNonce": 1580970208,
+			"version": 352,
+			"versionNonce": 2136119520,
 			"isDeleted": false,
 			"id": "79J7njpQ9357mYHoMYXNu",
 			"fillStyle": "hachure",
@@ -2751,7 +2759,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221391,
+			"updated": 1655574840299,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2815,8 +2823,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 261,
-			"versionNonce": 2033995040,
+			"version": 269,
+			"versionNonce": 1197991200,
 			"isDeleted": false,
 			"id": "K8N9Zlx1GiPIvfLxv6H5d",
 			"fillStyle": "hachure",
@@ -2835,7 +2843,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221391,
+			"updated": 1655574840299,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2908,8 +2916,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "arrow",
-			"version": 281,
-			"versionNonce": 398663904,
+			"version": 285,
+			"versionNonce": 1234045152,
 			"isDeleted": false,
 			"id": "Qebm8UBY6Szv_esGLjEWt",
 			"fillStyle": "hachure",
@@ -2928,7 +2936,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221385,
+			"updated": 1655574840295,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -3359,8 +3367,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 83,
-			"versionNonce": 1651878176,
+			"version": 87,
+			"versionNonce": 393101600,
 			"isDeleted": false,
 			"id": "iJsNjKjt",
 			"fillStyle": "hachure",
@@ -3379,7 +3387,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221397,
+			"updated": 1655574840305,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3437,8 +3445,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 154,
-			"versionNonce": 1743583456,
+			"version": 158,
+			"versionNonce": 241819872,
 			"isDeleted": false,
 			"id": "PD7yTpZl",
 			"fillStyle": "hachure",
@@ -3457,7 +3465,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221399,
+			"updated": 1655574840306,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3593,8 +3601,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 66,
-			"versionNonce": 337872160,
+			"version": 70,
+			"versionNonce": 1313414432,
 			"isDeleted": false,
 			"id": "MVYNB7dQ",
 			"fillStyle": "hachure",
@@ -3613,7 +3621,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221403,
+			"updated": 1655574840312,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3671,8 +3679,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 84,
-			"versionNonce": 1436212448,
+			"version": 88,
+			"versionNonce": 1815790816,
 			"isDeleted": false,
 			"id": "O5xRO1q5",
 			"fillStyle": "hachure",
@@ -3691,7 +3699,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221406,
+			"updated": 1655574840314,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3827,8 +3835,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 86,
-			"versionNonce": 196469024,
+			"version": 90,
+			"versionNonce": 493386016,
 			"isDeleted": false,
 			"id": "6vZd3NPm",
 			"fillStyle": "hachure",
@@ -3847,7 +3855,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221417,
+			"updated": 1655574840316,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -3862,8 +3870,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "rectangle",
-			"version": 406,
-			"versionNonce": 468467936,
+			"version": 410,
+			"versionNonce": 642722016,
 			"isDeleted": false,
 			"id": "5ISfKvr8odSWjmSjsW1qt",
 			"fillStyle": "hachure",
@@ -3899,7 +3907,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 					"id": "W95Ubwld"
 				}
 			],
-			"updated": 1655574221418,
+			"updated": 1655574840317,
 			"link": null,
 			"locked": false
 		},
@@ -3983,8 +3991,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 97,
-			"versionNonce": 412925216,
+			"version": 101,
+			"versionNonce": 138171680,
 			"isDeleted": false,
 			"id": "HEq1mePr",
 			"fillStyle": "hachure",
@@ -4003,7 +4011,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221424,
+			"updated": 1655574840319,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4061,8 +4069,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 56,
-			"versionNonce": 1517364448,
+			"version": 60,
+			"versionNonce": 1748438240,
 			"isDeleted": false,
 			"id": "HvPhBER6",
 			"fillStyle": "hachure",
@@ -4081,7 +4089,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221427,
+			"updated": 1655574840321,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4139,8 +4147,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 61,
-			"versionNonce": 474487072,
+			"version": 65,
+			"versionNonce": 607432992,
 			"isDeleted": false,
 			"id": "AgiDPGyU",
 			"fillStyle": "hachure",
@@ -4159,7 +4167,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221429,
+			"updated": 1655574840322,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4373,8 +4381,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 84,
-			"versionNonce": 1052346592,
+			"version": 88,
+			"versionNonce": 1803710688,
 			"isDeleted": false,
 			"id": "Tx6aWnpc",
 			"fillStyle": "hachure",
@@ -4393,7 +4401,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221437,
+			"updated": 1655574840325,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4763,8 +4771,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 50,
-			"versionNonce": 1244132640,
+			"version": 54,
+			"versionNonce": 1489079584,
 			"isDeleted": false,
 			"id": "BkolHhv8",
 			"fillStyle": "hachure",
@@ -4783,7 +4791,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221449,
+			"updated": 1655574840332,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -4954,8 +4962,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 197,
-			"versionNonce": 1146449120,
+			"version": 201,
+			"versionNonce": 935417056,
 			"isDeleted": false,
 			"id": "hCmcJNuZ",
 			"fillStyle": "hachure",
@@ -4974,7 +4982,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221462,
+			"updated": 1655574840334,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5266,8 +5274,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 211,
-			"versionNonce": 1739346208,
+			"version": 215,
+			"versionNonce": 525527328,
 			"isDeleted": false,
 			"id": "gMa1OJh9",
 			"fillStyle": "hachure",
@@ -5286,7 +5294,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221466,
+			"updated": 1655574840338,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5344,8 +5352,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 148,
-			"versionNonce": 1960104160,
+			"version": 152,
+			"versionNonce": 1652799712,
 			"isDeleted": false,
 			"id": "K8aJ2mId",
 			"fillStyle": "hachure",
@@ -5364,7 +5372,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221467,
+			"updated": 1655574840339,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5461,8 +5469,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 66,
-			"versionNonce": 205860128,
+			"version": 70,
+			"versionNonce": 1129891104,
 			"isDeleted": false,
 			"id": "a5y3efOT",
 			"fillStyle": "hachure",
@@ -5481,7 +5489,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221469,
+			"updated": 1655574840342,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5539,8 +5547,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 44,
-			"versionNonce": 667399392,
+			"version": 48,
+			"versionNonce": 1331272928,
 			"isDeleted": false,
 			"id": "TLvwofn2",
 			"fillStyle": "hachure",
@@ -5559,7 +5567,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221470,
+			"updated": 1655574840345,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5617,8 +5625,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "text",
-			"version": 151,
-			"versionNonce": 1633847584,
+			"version": 155,
+			"versionNonce": 574824736,
 			"isDeleted": false,
 			"id": "seXjAy8s",
 			"fillStyle": "hachure",
@@ -5637,7 +5645,7 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655574221471,
+			"updated": 1655574840347,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -5711,11 +5719,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1438361888,
-			"version": 59,
-			"versionNonce": 1119754464,
+			"version": 63,
+			"versionNonce": 1876099296,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221472,
+			"updated": 1655574840348,
 			"link": null,
 			"locked": false,
 			"text": "Principe de \ncitoyenneté",
@@ -5996,11 +6004,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1208385760,
-			"version": 63,
-			"versionNonce": 223757536,
+			"version": 79,
+			"versionNonce": 146025696,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221477,
+			"updated": 1655574840364,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6096,11 +6104,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 812252448,
-			"version": 37,
-			"versionNonce": 1617825056,
+			"version": 41,
+			"versionNonce": 409576736,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221480,
+			"updated": 1655574840375,
 			"link": null,
 			"locked": false,
 			"text": "Devient chef de \nla Guilde",
@@ -6131,11 +6139,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 599076064,
-			"version": 84,
-			"versionNonce": 410160352,
+			"version": 100,
+			"versionNonce": 1937143008,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221479,
+			"updated": 1655574840373,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6180,11 +6188,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1537816800,
-			"version": 61,
-			"versionNonce": 139325664,
+			"version": 77,
+			"versionNonce": 714397920,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221479,
+			"updated": 1655574840374,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6213,8 +6221,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		},
 		{
 			"type": "rectangle",
-			"version": 452,
-			"versionNonce": 114866400,
+			"version": 453,
+			"versionNonce": 1088558304,
 			"isDeleted": false,
 			"id": "8Hrs4tU8sQg2tXbM9aMcJ",
 			"fillStyle": "hachure",
@@ -6268,9 +6276,13 @@ Guerres avec d'autres Guildes ^3LDXauWa
 				{
 					"id": "HuIzT_GiPBeIhRo6nmuIz",
 					"type": "arrow"
+				},
+				{
+					"id": "fNlK9Zk67d5TVBHXiuUb9",
+					"type": "arrow"
 				}
 			],
-			"updated": 1655574191413,
+			"updated": 1655574428405,
 			"link": null,
 			"locked": false
 		},
@@ -6312,10 +6324,10 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		{
 			"id": "GIo00ek_NctQSeOJWoiij",
 			"type": "arrow",
-			"x": 4251.522823015832,
-			"y": -588.1386969587645,
-			"width": 442.10741620562294,
-			"height": 368.41603494340416,
+			"x": 4251.522823015854,
+			"y": -588.1386969586897,
+			"width": 442.10741620561475,
+			"height": 368.41603494347896,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -6327,11 +6339,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1098680544,
-			"version": 103,
-			"versionNonce": 2104453408,
+			"version": 111,
+			"versionNonce": 1647837472,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221481,
+			"updated": 1655574840380,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6340,8 +6352,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 					0
 				],
 				[
-					442.10741620562294,
-					-368.41603494340416
+					442.10741620561475,
+					-368.41603494347896
 				]
 			],
 			"lastCommittedPoint": null,
@@ -6462,11 +6474,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 996184288,
-			"version": 71,
-			"versionNonce": 1176226016,
+			"version": 75,
+			"versionNonce": 1342936288,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221484,
+			"updated": 1655574840386,
 			"link": null,
 			"locked": false,
 			"text": "Membres du \nserveur",
@@ -6497,11 +6509,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1210010848,
-			"version": 200,
-			"versionNonce": 950472928,
+			"version": 216,
+			"versionNonce": 169073888,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221484,
+			"updated": 1655574840387,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6656,10 +6668,10 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		{
 			"id": "LEaaxBEm4wRenDjF-vqo8",
 			"type": "arrow",
-			"x": 4274.324208146585,
-			"y": -382.05710745402894,
-			"width": 402.6554287761037,
-			"height": 89.86151555230322,
+			"x": 4274.324193320927,
+			"y": -382.0569958164715,
+			"width": 402.65544360176136,
+			"height": 89.86160904553799,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -6671,11 +6683,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 925762784,
-			"version": 125,
-			"versionNonce": 628075744,
+			"version": 133,
+			"versionNonce": 2005268704,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221484,
+			"updated": 1655574840387,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6684,8 +6696,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 					0
 				],
 				[
-					402.6554287761037,
-					-89.86151555230322
+					402.65544360176136,
+					-89.86160904553799
 				]
 			],
 			"lastCommittedPoint": null,
@@ -6720,11 +6732,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 499974432,
-			"version": 95,
-			"versionNonce": 207739168,
+			"version": 103,
+			"versionNonce": 1836272928,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221483,
+			"updated": 1655574840385,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6811,11 +6823,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1905306848,
-			"version": 44,
-			"versionNonce": 928117984,
+			"version": 60,
+			"versionNonce": 1497710816,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221485,
+			"updated": 1655574840387,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6950,11 +6962,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 650500384,
-			"version": 53,
-			"versionNonce": 1249256736,
+			"version": 57,
+			"versionNonce": 264458528,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221486,
+			"updated": 1655574840390,
 			"link": null,
 			"locked": false,
 			"text": "Système de \npolitique de la \nGuilde",
@@ -6970,10 +6982,10 @@ Guerres avec d'autres Guildes ^3LDXauWa
 		{
 			"id": "HuIzT_GiPBeIhRo6nmuIz",
 			"type": "arrow",
-			"x": 4807.212229526825,
+			"x": 4807.213128662648,
 			"y": -1061.2213985688343,
-			"width": 146.7520206739946,
-			"height": 185.01963359242473,
+			"width": 146.75130462950983,
+			"height": 185.01956254845413,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -6985,11 +6997,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 108978400,
-			"version": 35,
-			"versionNonce": 1728076000,
+			"version": 51,
+			"versionNonce": 78259424,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221486,
+			"updated": 1655574840389,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -6998,8 +7010,8 @@ Guerres avec d'autres Guildes ^3LDXauWa
 					0
 				],
 				[
-					146.7520206739946,
-					-185.01963359242473
+					146.75130462950983,
+					-185.01956254845413
 				]
 			],
 			"lastCommittedPoint": null,
@@ -7128,11 +7140,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 789899552,
-			"version": 38,
-			"versionNonce": 583541984,
+			"version": 42,
+			"versionNonce": 1837151456,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574207869,
+			"updated": 1655574840392,
 			"link": null,
 			"locked": false,
 			"text": "Alliances avec \nd'autres Guildes",
@@ -7163,11 +7175,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1680902368,
-			"version": 42,
-			"versionNonce": 1707115744,
+			"version": 46,
+			"versionNonce": 1307272480,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574221688,
+			"updated": 1655574840394,
 			"link": null,
 			"locked": false,
 			"text": "Guerres avec \nd'autres Guildes",
@@ -7198,11 +7210,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 941537568,
-			"version": 30,
-			"versionNonce": 2044271904,
+			"version": 46,
+			"versionNonce": 427568416,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574224389,
+			"updated": 1655574840391,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7218,13 +7230,13 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "liUzKee_JvwZEjYp1Z66s",
-				"focus": -0.24100096062506346,
-				"gap": 5.571428571427532
+				"gap": 5.571428571427532,
+				"focus": -0.24100096062506346
 			},
 			"endBinding": {
 				"elementId": "pqg2fx50m3lZ4ZGSvlxx9",
-				"focus": 0.006742494594237868,
-				"gap": 15.571428571427532
+				"gap": 15.571428571427532,
+				"focus": 0.006742494594237868
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -7233,9 +7245,9 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"id": "kI8juvh8dlX_7FhIxmDif",
 			"type": "arrow",
 			"x": 5136.598684541733,
-			"y": -1291.221398568834,
+			"y": -1291.2213985688343,
 			"width": 187.14285714285688,
-			"height": 138.57142857142867,
+			"height": 138.5714285714289,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -7247,11 +7259,11 @@ Guerres avec d'autres Guildes ^3LDXauWa
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1459124512,
-			"version": 45,
-			"versionNonce": 213205216,
+			"version": 61,
+			"versionNonce": 1767315680,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655574227621,
+			"updated": 1655574840393,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -7261,19 +7273,671 @@ Guerres avec d'autres Guildes ^3LDXauWa
 				],
 				[
 					187.14285714285688,
-					138.57142857142867
+					138.5714285714289
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "liUzKee_JvwZEjYp1Z66s",
-				"focus": -0.6384914823170097,
-				"gap": 12.714285714285325
+				"gap": 12.714285714285325,
+				"focus": -0.6384914823170097
 			},
 			"endBinding": {
 				"elementId": "YXyxoCONUj_CkTXPGy6e_",
-				"focus": -0.6561234646738896,
-				"gap": 11.285714285713766
+				"gap": 11.285714285713766,
+				"focus": -0.6561234646738896
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "rectangle",
+			"version": 434,
+			"versionNonce": 188600608,
+			"isDeleted": false,
+			"id": "my52zRDiirHEaa2ClWzcs",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4386.455827398881,
+			"y": -1354.670633518067,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 1950157088,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "bmfH0i1f"
+				},
+				{
+					"id": "fNlK9Zk67d5TVBHXiuUb9",
+					"type": "arrow"
+				},
+				{
+					"id": "wbBjqQjWI95r-kZgJ9Xzv",
+					"type": "arrow"
+				},
+				{
+					"id": "kKa6weH9uFjXISuAMo8ZX",
+					"type": "arrow"
+				},
+				{
+					"id": "y64eUkemd5DfwZS4qH1x0",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655574852974,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "bmfH0i1f",
+			"type": "text",
+			"x": 4391.455827398881,
+			"y": -1333.0785414259747,
+			"width": 156,
+			"height": 38,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1510856928,
+			"version": 47,
+			"versionNonce": 705931488,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574840398,
+			"link": null,
+			"locked": false,
+			"text": "Système de \nniveau de Guilde",
+			"rawText": "Système de niveau de Guilde",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 34,
+			"containerId": "my52zRDiirHEaa2ClWzcs",
+			"originalText": "Système de niveau de Guilde"
+		},
+		{
+			"id": "fNlK9Zk67d5TVBHXiuUb9",
+			"type": "arrow",
+			"x": 4674.082070538916,
+			"y": -1049.2732573419162,
+			"width": 138.91195742574928,
+			"height": 211.9481412269156,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 263637216,
+			"version": 35,
+			"versionNonce": 25280800,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574840396,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-138.91195742574928,
+					-211.9481412269156
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "8Hrs4tU8sQg2tXbM9aMcJ",
+				"gap": 6.809523809522034,
+				"focus": -0.5608452917401678
+			},
+			"endBinding": {
+				"elementId": "my52zRDiirHEaa2ClWzcs",
+				"gap": 12.265050765050546,
+				"focus": -0.2834873742402412
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "rectangle",
+			"version": 641,
+			"versionNonce": 1862094048,
+			"isDeleted": false,
+			"id": "ZmWR100fk_1Zu5sbSSwx_",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4615.27817030531,
+			"y": -1585.159301365969,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 390749408,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "ytvLNNP9"
+				},
+				{
+					"id": "wbBjqQjWI95r-kZgJ9Xzv",
+					"type": "arrow"
+				},
+				{
+					"id": "-jmYebeXCGTMytOm_w7Sr",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655574873023,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "ytvLNNP9",
+			"type": "text",
+			"x": 4620.27817030531,
+			"y": -1554.0672092738766,
+			"width": 156,
+			"height": 19,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1181859040,
+			"version": 226,
+			"versionNonce": 66220320,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574873023,
+			"link": null,
+			"locked": false,
+			"text": "Quêtes de Guilde",
+			"rawText": "Quêtes de Guilde",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 15,
+			"containerId": "ZmWR100fk_1Zu5sbSSwx_",
+			"originalText": "Quêtes de Guilde"
+		},
+		{
+			"id": "wbBjqQjWI95r-kZgJ9Xzv",
+			"type": "arrow",
+			"x": 4546.888263271283,
+			"y": -1367.3849192323532,
+			"width": 70.25886774839819,
+			"height": 121.71605726428152,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 111924512,
+			"version": 458,
+			"versionNonce": 2059881760,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574873023,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					70.25886774839819,
+					-121.71605726428152
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "my52zRDiirHEaa2ClWzcs",
+				"gap": 12.714285714286234,
+				"focus": 0.45706483164678696
+			},
+			"endBinding": {
+				"elementId": "ZmWR100fk_1Zu5sbSSwx_",
+				"gap": 14.874140685149541,
+				"focus": 0.4614618527312184
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "rectangle",
+			"version": 659,
+			"versionNonce": 318154976,
+			"isDeleted": false,
+			"id": "5GbotMy70o2E03ojkB55_",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4051.606581034994,
+			"y": -1321.6019695579716,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 156.24167210973147,
+			"height": 76.41176316747838,
+			"seed": 2120281376,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "YFUoQ2sf"
+				},
+				{
+					"id": "kKa6weH9uFjXISuAMo8ZX",
+					"type": "arrow"
+				},
+				{
+					"id": "Pdhc409OWXJsO4sFY_15s",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655574871228,
+			"link": null,
+			"locked": false,
+			"fontSize": 14.999145857408347,
+			"baseline": 62.411763167478384
+		},
+		{
+			"id": "YFUoQ2sf",
+			"type": "text",
+			"x": 4056.6065810349937,
+			"y": -1301.3960879742324,
+			"width": 146.24167210973147,
+			"height": 36,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1770200352,
+			"version": 290,
+			"versionNonce": 1003279648,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574871228,
+			"link": null,
+			"locked": false,
+			"text": "Système de \nsuccès",
+			"rawText": "Système de succès",
+			"fontSize": 14.999145857408347,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 32,
+			"containerId": "5GbotMy70o2E03ojkB55_",
+			"originalText": "Système de succès"
+		},
+		{
+			"id": "kKa6weH9uFjXISuAMo8ZX",
+			"type": "arrow",
+			"x": 4376.764836444996,
+			"y": -1300.4331867714786,
+			"width": 162.75090567900952,
+			"height": 10.575624749805456,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1654539488,
+			"version": 589,
+			"versionNonce": 297087264,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574871228,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-162.75090567900952,
+					10.575624749805456
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "my52zRDiirHEaa2ClWzcs",
+				"focus": -0.2126367325312687,
+				"gap": 9.690990953885375
+			},
+			"endBinding": {
+				"elementId": "5GbotMy70o2E03ojkB55_",
+				"focus": -0.022746059573701884,
+				"gap": 6.165677621261011
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"type": "rectangle",
+			"version": 416,
+			"versionNonce": 1642689824,
+			"isDeleted": false,
+			"id": "m-oQ48O8nuPHo2WxS05Ys",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 4156.637381994549,
+			"y": -1574.4110141297024,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 1560377632,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "Jqqfa0xG"
+				},
+				{
+					"id": "Pdhc409OWXJsO4sFY_15s",
+					"type": "arrow"
+				},
+				{
+					"id": "-jmYebeXCGTMytOm_w7Sr",
+					"type": "arrow"
+				},
+				{
+					"id": "y64eUkemd5DfwZS4qH1x0",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655574852974,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "Jqqfa0xG",
+			"type": "text",
+			"x": 4161.637381994549,
+			"y": -1543.31892203761,
+			"width": 156,
+			"height": 19,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 808858912,
+			"version": 27,
+			"versionNonce": 1579540768,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574838658,
+			"link": null,
+			"locked": false,
+			"text": "Donne de l'xp",
+			"rawText": "Donne de l'xp",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 15,
+			"containerId": "m-oQ48O8nuPHo2WxS05Ys",
+			"originalText": "Donne de l'xp"
+		},
+		{
+			"id": "Pdhc409OWXJsO4sFY_15s",
+			"type": "arrow",
+			"x": 4071.927549153759,
+			"y": -1326.2174221813555,
+			"width": 142.87076736250492,
+			"height": 161.6325963166555,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 489219296,
+			"version": 139,
+			"versionNonce": 1110576416,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574871228,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					142.87076736250492,
+					-161.6325963166555
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "5GbotMy70o2E03ojkB55_",
+				"focus": -0.8544183990819609,
+				"gap": 4.615452623383703
+			},
+			"endBinding": {
+				"elementId": "m-oQ48O8nuPHo2WxS05Ys",
+				"focus": -0.13285554692365134,
+				"gap": 5.376811447506725
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "-jmYebeXCGTMytOm_w7Sr",
+			"type": "arrow",
+			"x": 4611.837213879691,
+			"y": -1541.2133146460542,
+			"width": 277.2962890937124,
+			"height": 1.437992497134701,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 547456288,
+			"version": 363,
+			"versionNonce": 2057349408,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574873023,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-277.2962890937124,
+					1.437992497134701
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "ZmWR100fk_1Zu5sbSSwx_",
+				"focus": -0.07087343903696398,
+				"gap": 3.440956425618424
+			},
+			"endBinding": {
+				"elementId": "m-oQ48O8nuPHo2WxS05Ys",
+				"focus": -0.1332013302924583,
+				"gap": 11.903542791429572
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "y64eUkemd5DfwZS4qH1x0",
+			"type": "arrow",
+			"x": 4316.746510512585,
+			"y": -1483.4014149296627,
+			"width": 94.90354279143139,
+			"height": 115.66369277705621,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2130535648,
+			"version": 36,
+			"versionNonce": 594275552,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655574852974,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					94.90354279143139,
+					115.66369277705621
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "m-oQ48O8nuPHo2WxS05Ys",
+				"focus": -0.30729984302114816,
+				"gap": 9.825415015855015
+			},
+			"endBinding": {
+				"elementId": "my52zRDiirHEaa2ClWzcs",
+				"focus": -0.11846069028853601,
+				"gap": 13.06708863453946
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
