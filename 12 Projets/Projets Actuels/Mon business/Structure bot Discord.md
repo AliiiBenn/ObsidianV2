@@ -72,6 +72,23 @@ Banque du serveur ^BiN7GkxQ
 
 Création du compte du nouveau membre ^YZBROixl
 
+Système de travail ^csUsh6fl
+
+Obtient le rôle "au chomage" ^HMeeR5Yo
+
+Peut choisir parmi une sélection de travaux
+qui apportent chacun leur propre avantage ^T7CFTWlx
+
+Compte bancaire
+avec un certain découvert et un certain % d'intérêts  ^Lsr2vx2G
+
+Peut ajouter ou
+retirer de l'argent ^gZBNWw91
+
+Envoie un % d'intérêts ^11y45v0r
+
+Peut faire un prêt ^Wnk6e5K3
+
 %%
 # Drawing
 ```json
@@ -82,8 +99,8 @@ Création du compte du nouveau membre ^YZBROixl
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 228,
-			"versionNonce": 940870891,
+			"version": 229,
+			"versionNonce": 1230293669,
 			"isDeleted": false,
 			"id": "pC_NQ-Wwe0NGkRimo_Zhp",
 			"fillStyle": "hachure",
@@ -107,14 +124,14 @@ Création du compte du nouveau membre ^YZBROixl
 					"id": "T2D6RNpP"
 				}
 			],
-			"updated": 1655534205402,
+			"updated": 1655534422767,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1088,
-			"versionNonce": 1528067659,
+			"version": 1091,
+			"versionNonce": 27479621,
 			"isDeleted": false,
 			"id": "T2D6RNpP",
 			"fillStyle": "hachure",
@@ -133,7 +150,7 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534377610,
+			"updated": 1655535219063,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -148,8 +165,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "rectangle",
-			"version": 99,
-			"versionNonce": 1533654923,
+			"version": 100,
+			"versionNonce": 470691333,
 			"isDeleted": false,
 			"id": "noPTVhmsimGJRTpYvQyFb",
 			"fillStyle": "hachure",
@@ -173,14 +190,14 @@ Création du compte du nouveau membre ^YZBROixl
 					"id": "CYxU1qv1"
 				}
 			],
-			"updated": 1655534205402,
+			"updated": 1655534422767,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 446,
-			"versionNonce": 1733109733,
+			"version": 449,
+			"versionNonce": 1471374475,
 			"isDeleted": false,
 			"id": "CYxU1qv1",
 			"fillStyle": "hachure",
@@ -199,7 +216,7 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534377613,
+			"updated": 1655535219066,
 			"link": null,
 			"locked": false,
 			"fontSize": 20.0457570550196,
@@ -214,8 +231,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "rectangle",
-			"version": 319,
-			"versionNonce": 983889003,
+			"version": 358,
+			"versionNonce": 1999842539,
 			"isDeleted": false,
 			"id": "IMjvHIBc8VbUTGFPROy5m",
 			"fillStyle": "hachure",
@@ -225,7 +242,7 @@ Création du compte du nouveau membre ^YZBROixl
 			"opacity": 100,
 			"angle": 0,
 			"x": 1014.4478329650664,
-			"y": -334.9010343034961,
+			"y": -331.5677009701626,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 165.58358358358439,
@@ -253,16 +270,20 @@ Création du compte du nouveau membre ^YZBROixl
 				{
 					"id": "1cGGeorB25-gWZHTeEQ4f",
 					"type": "arrow"
+				},
+				{
+					"id": "sshybHxABAZsL6XNKHZse",
+					"type": "arrow"
 				}
 			],
-			"updated": 1655534398730,
+			"updated": 1655535291610,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 501,
-			"versionNonce": 1705188293,
+			"version": 538,
+			"versionNonce": 714255173,
 			"isDeleted": false,
 			"id": "DsCdoMn6",
 			"fillStyle": "hachure",
@@ -272,7 +293,7 @@ Création du compte du nouveau membre ^YZBROixl
 			"opacity": 100,
 			"angle": 0,
 			"x": 1019.4478329650664,
-			"y": -310.3089422114038,
+			"y": -306.9756088780703,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 155.58358358358439,
@@ -281,7 +302,7 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534398730,
+			"updated": 1655535291611,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.932858231365769,
@@ -296,8 +317,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "rectangle",
-			"version": 371,
-			"versionNonce": 1335438213,
+			"version": 372,
+			"versionNonce": 503591109,
 			"isDeleted": false,
 			"id": "EEBLiaK7-b2PN8y74INJp",
 			"fillStyle": "hachure",
@@ -329,14 +350,14 @@ Création du compte du nouveau membre ^YZBROixl
 					"type": "arrow"
 				}
 			],
-			"updated": 1655534414714,
+			"updated": 1655534422767,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 543,
-			"versionNonce": 1921317707,
+			"version": 546,
+			"versionNonce": 1751615653,
 			"isDeleted": false,
 			"id": "IHoFnKti",
 			"fillStyle": "hachure",
@@ -355,7 +376,7 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534414714,
+			"updated": 1655535219070,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.953360058623328,
@@ -370,8 +391,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "arrow",
-			"version": 1118,
-			"versionNonce": 511531499,
+			"version": 1203,
+			"versionNonce": 671546021,
 			"isDeleted": false,
 			"id": "nedUsKK5O3O_rDUh2BfgD",
 			"fillStyle": "hachure",
@@ -381,16 +402,16 @@ Création du compte du nouveau membre ^YZBROixl
 			"opacity": 100,
 			"angle": 0,
 			"x": 1186.4618469790883,
-			"y": -274.5021000633433,
+			"y": -271.34971025079705,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 540.7999557360433,
-			"height": 354.8291774805051,
+			"width": 540.7999557360429,
+			"height": 352.0109863085014,
 			"seed": 609115061,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534414714,
+			"updated": 1655535291611,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -412,15 +433,15 @@ Création du compte du nouveau membre ^YZBROixl
 					0
 				],
 				[
-					540.7999557360433,
-					354.8291774805051
+					540.7999557360429,
+					352.0109863085014
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 603,
-			"versionNonce": 2143975723,
+			"version": 604,
+			"versionNonce": 391409835,
 			"isDeleted": false,
 			"id": "8JG8oXe3",
 			"fillStyle": "hachure",
@@ -439,7 +460,7 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534420058,
+			"updated": 1655534422768,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.673986510422113,
@@ -454,8 +475,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "rectangle",
-			"version": 814,
-			"versionNonce": 1966138507,
+			"version": 815,
+			"versionNonce": 183010181,
 			"isDeleted": false,
 			"id": "WwfE_GbsBbg1rzKuB1d0j",
 			"fillStyle": "hachure",
@@ -483,14 +504,14 @@ Création du compte du nouveau membre ^YZBROixl
 					"type": "arrow"
 				}
 			],
-			"updated": 1655534414714,
+			"updated": 1655534422768,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 1208,
-			"versionNonce": 1579531685,
+			"version": 1209,
+			"versionNonce": 1484202827,
 			"isDeleted": false,
 			"id": "7gZtxOck",
 			"fillStyle": "hachure",
@@ -509,7 +530,7 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534414715,
+			"updated": 1655534422768,
 			"link": null,
 			"locked": false,
 			"fontSize": 14.302489610265992,
@@ -524,8 +545,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "text",
-			"version": 701,
-			"versionNonce": 1883816197,
+			"version": 702,
+			"versionNonce": 1752681189,
 			"isDeleted": false,
 			"id": "TERcQSTK",
 			"fillStyle": "hachure",
@@ -544,7 +565,7 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534414715,
+			"updated": 1655534422768,
 			"link": null,
 			"locked": false,
 			"fontSize": 17.15737618510264,
@@ -559,8 +580,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "arrow",
-			"version": 1117,
-			"versionNonce": 977864651,
+			"version": 1142,
+			"versionNonce": 1751799141,
 			"isDeleted": false,
 			"id": "W61ML9OEJVG8auIExfr5G",
 			"fillStyle": "hachure",
@@ -570,27 +591,27 @@ Création du compte du nouveau membre ^YZBROixl
 			"opacity": 100,
 			"angle": 0,
 			"x": 2145.2376227548575,
-			"y": 107.58305392556889,
+			"y": 107.58305392556892,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 234.71071071071265,
-			"height": 2.6025214340378398,
+			"height": 2.602521434037868,
 			"seed": 122859925,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534416070,
+			"updated": 1655535291613,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "WwfE_GbsBbg1rzKuB1d0j",
-				"focus": 0.1866053430318817,
-				"gap": 8.038038038033847
+				"gap": 8.038038038033847,
+				"focus": 0.1866053430318817
 			},
 			"endBinding": {
 				"elementId": "EEBLiaK7-b2PN8y74INJp",
-				"focus": -0.1386767631393274,
-				"gap": 8.038038038032141
+				"gap": 8.038038038032141,
+				"focus": -0.1386767631393274
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -602,14 +623,14 @@ Création du compte du nouveau membre ^YZBROixl
 				],
 				[
 					-234.71071071071265,
-					-2.6025214340378398
+					-2.602521434037868
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 359,
-			"versionNonce": 32790629,
+			"version": 360,
+			"versionNonce": 392635973,
 			"isDeleted": false,
 			"id": "xfaDIZbJGsVYk-FJu7zYn",
 			"fillStyle": "hachure",
@@ -645,14 +666,14 @@ Création du compte du nouveau membre ^YZBROixl
 					"type": "arrow"
 				}
 			],
-			"updated": 1655534414715,
+			"updated": 1655534422768,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 629,
-			"versionNonce": 141003883,
+			"version": 632,
+			"versionNonce": 1925401611,
 			"isDeleted": false,
 			"id": "aTWT3s2s",
 			"fillStyle": "hachure",
@@ -671,7 +692,7 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534414715,
+			"updated": 1655535219074,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.932858231365769,
@@ -686,8 +707,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "arrow",
-			"version": 432,
-			"versionNonce": 942720779,
+			"version": 551,
+			"versionNonce": 1034182853,
 			"isDeleted": false,
 			"id": "5U-diJVxi0P5j_BqoWlFg",
 			"fillStyle": "hachure",
@@ -696,28 +717,28 @@ Création du compte du nouveau membre ^YZBROixl
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 1187.6859282031621,
-			"y": -332.3425459898641,
+			"x": 1189.3525948698289,
+			"y": -300.3329851700913,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 541.9999999999995,
-			"height": 277.00410452284996,
+			"width": 540.3333333333328,
+			"height": 308.5411457490326,
 			"seed": 532533589,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534414715,
+			"updated": 1655535291615,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "IMjvHIBc8VbUTGFPROy5m",
-				"gap": 7.654511654511339,
-				"focus": 0.10696467840309465
+				"gap": 9.321178321178081,
+				"focus": 0.49211363445226275
 			},
 			"endBinding": {
 				"elementId": "xfaDIZbJGsVYk-FJu7zYn",
 				"gap": 11.208208208208134,
-				"focus": 0.13129360828536282
+				"focus": 0.18268004763309614
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -728,15 +749,15 @@ Création du compte du nouveau membre ^YZBROixl
 					0
 				],
 				[
-					541.9999999999995,
-					-277.00410452284996
+					540.3333333333328,
+					-308.5411457490326
 				]
 			]
 		},
 		{
 			"type": "rectangle",
-			"version": 423,
-			"versionNonce": 473542059,
+			"version": 424,
+			"versionNonce": 412959531,
 			"isDeleted": false,
 			"id": "QyyvyEZ4OHof3cgeMBok0",
 			"fillStyle": "hachure",
@@ -768,14 +789,14 @@ Création du compte du nouveau membre ^YZBROixl
 					"type": "arrow"
 				}
 			],
-			"updated": 1655534414715,
+			"updated": 1655534422768,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "text",
-			"version": 633,
-			"versionNonce": 532780677,
+			"version": 636,
+			"versionNonce": 1887732101,
 			"isDeleted": false,
 			"id": "3B4f7W37",
 			"fillStyle": "hachure",
@@ -794,7 +815,7 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534414715,
+			"updated": 1655535219075,
 			"link": null,
 			"locked": false,
 			"fontSize": 13.932858231365769,
@@ -809,8 +830,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "arrow",
-			"version": 606,
-			"versionNonce": 1527502443,
+			"version": 631,
+			"versionNonce": 71086981,
 			"isDeleted": false,
 			"id": "wxSOIO0M9nTNsdZfIlJB2",
 			"fillStyle": "hachure",
@@ -819,28 +840,28 @@ Création du compte du nouveau membre ^YZBROixl
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2284.8477341768303,
-			"y": -1005.2687655757072,
+			"x": 2285.215834619179,
+			"y": -1005.5790222599807,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 377.00571605962614,
-			"height": 317.7625722761011,
+			"width": 377.37381650197494,
+			"height": 318.0728289603745,
 			"seed": 168423221,
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534416070,
+			"updated": 1655535291617,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "QyyvyEZ4OHof3cgeMBok0",
-				"focus": 0.31540035324839777,
-				"gap": 10.101957790095184
+				"gap": 10.101957790095184,
+				"focus": 0.31540035324839777
 			},
 			"endBinding": {
 				"elementId": "xfaDIZbJGsVYk-FJu7zYn",
-				"focus": 0.2699743423712612,
-				"gap": 1
+				"gap": 1,
+				"focus": 0.2699743423712612
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -851,15 +872,15 @@ Création du compte du nouveau membre ^YZBROixl
 					0
 				],
 				[
-					-377.00571605962614,
-					317.7625722761011
+					-377.37381650197494,
+					318.0728289603745
 				]
 			]
 		},
 		{
 			"type": "text",
-			"version": 229,
-			"versionNonce": 73694955,
+			"version": 230,
+			"versionNonce": 145535077,
 			"isDeleted": false,
 			"id": "YqAe17Hh",
 			"fillStyle": "hachure",
@@ -878,7 +899,7 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"boundElements": [],
-			"updated": 1655534414715,
+			"updated": 1655534422768,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -893,8 +914,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "rectangle",
-			"version": 642,
-			"versionNonce": 1096251717,
+			"version": 732,
+			"versionNonce": 256641925,
 			"isDeleted": false,
 			"id": "GXxOT1yr1ZiCJ64Up4wVa",
 			"fillStyle": "hachure",
@@ -903,8 +924,8 @@ Création du compte du nouveau membre ^YZBROixl
 			"roughness": 0,
 			"opacity": 100,
 			"angle": 0,
-			"x": 2985.344184561962,
-			"y": -549.3233316007929,
+			"x": 3118.6775178952958,
+			"y": -704.3233316007929,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 166,
@@ -932,17 +953,29 @@ Création du compte du nouveau membre ^YZBROixl
 				{
 					"id": "J9993LsxLnmR4CCzmd-1m",
 					"type": "arrow"
+				},
+				{
+					"id": "DhxQGCqhTS0-LmJUY9NI5",
+					"type": "arrow"
+				},
+				{
+					"id": "-xCd7oCzAzwQE12YHk1Ng",
+					"type": "arrow"
+				},
+				{
+					"id": "KMPGMy19UakZRwOg72tCo",
+					"type": "arrow"
 				}
 			],
-			"updated": 1655534414715,
+			"updated": 1655535301786,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "haq1SIfQ",
 			"type": "text",
-			"x": 2990.344184561962,
-			"y": -527.7312395087006,
+			"x": 3123.6775178952958,
+			"y": -682.7312395087006,
 			"width": 156,
 			"height": 38,
 			"angle": 0,
@@ -956,11 +989,11 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1066588613,
-			"version": 320,
-			"versionNonce": 1022060939,
+			"version": 407,
+			"versionNonce": 210293669,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655534414715,
+			"updated": 1655535219077,
 			"link": null,
 			"locked": false,
 			"text": "Membres du \nserveur",
@@ -975,8 +1008,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "rectangle",
-			"version": 528,
-			"versionNonce": 645660715,
+			"version": 529,
+			"versionNonce": 476376843,
 			"isDeleted": false,
 			"id": "WfwE0REzk7YrM8kxHVCye",
 			"fillStyle": "hachure",
@@ -1020,7 +1053,7 @@ Création du compte du nouveau membre ^YZBROixl
 					"type": "arrow"
 				}
 			],
-			"updated": 1655534414715,
+			"updated": 1655534422768,
 			"link": null,
 			"locked": false
 		},
@@ -1042,11 +1075,11 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1426720651,
-			"version": 247,
-			"versionNonce": 258190341,
+			"version": 250,
+			"versionNonce": 161371755,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655534414715,
+			"updated": 1655535219079,
 			"link": null,
 			"locked": false,
 			"text": "Effet \"nouveau \nmembre\" activé",
@@ -1063,9 +1096,9 @@ Création du compte du nouveau membre ^YZBROixl
 			"id": "Yxd95os7SPS6sVH7x8P8x",
 			"type": "arrow",
 			"x": 1193.7608512286286,
-			"y": -265.9294702694154,
+			"y": -262.628041821657,
 			"width": 903.3333333333333,
-			"height": 90.41764088512372,
+			"height": 87.38420836018682,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1077,11 +1110,11 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 857493163,
-			"version": 442,
-			"versionNonce": 1954145125,
+			"version": 527,
+			"versionNonce": 1737888555,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655534414715,
+			"updated": 1655535291619,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1091,7 +1124,7 @@ Création du compte du nouveau membre ^YZBROixl
 				],
 				[
 					903.3333333333333,
-					90.41764088512372
+					87.38420836018682
 				]
 			],
 			"lastCommittedPoint": null,
@@ -1110,8 +1143,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "rectangle",
-			"version": 582,
-			"versionNonce": 2089955013,
+			"version": 583,
+			"versionNonce": 339275397,
 			"isDeleted": false,
 			"id": "ULRWp4_f6XfsGPg6EmGQv",
 			"fillStyle": "hachure",
@@ -1155,7 +1188,7 @@ Création du compte du nouveau membre ^YZBROixl
 					"type": "arrow"
 				}
 			],
-			"updated": 1655534414715,
+			"updated": 1655534422768,
 			"link": null,
 			"locked": false
 		},
@@ -1177,11 +1210,11 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 2015449451,
-			"version": 272,
-			"versionNonce": 1879100427,
+			"version": 275,
+			"versionNonce": 1064758405,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655534414715,
+			"updated": 1655535219080,
 			"link": null,
 			"locked": false,
 			"text": "Disent \n\"bienvenue\"",
@@ -1197,10 +1230,10 @@ Création du compte du nouveau membre ^YZBROixl
 		{
 			"id": "J9993LsxLnmR4CCzmd-1m",
 			"type": "arrow",
-			"x": 2982.1995885810584,
-			"y": -464.1561281399473,
-			"width": 156.35540401909657,
-			"height": 67.92488863124663,
+			"x": 3146.4892287701014,
+			"y": -619.1561281399472,
+			"width": 320.64504420813955,
+			"height": 207.816254379498,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1212,11 +1245,11 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 470186789,
-			"version": 696,
-			"versionNonce": 62640395,
+			"version": 889,
+			"versionNonce": 218465387,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655534416070,
+			"updated": 1655535291620,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1225,20 +1258,20 @@ Création du compte du nouveau membre ^YZBROixl
 					0
 				],
 				[
-					-156.35540401909657,
-					67.92488863124663
+					-320.64504420813955,
+					207.816254379498
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "GXxOT1yr1ZiCJ64Up4wVa",
-				"focus": -0.09330318167085327,
-				"gap": 3.9830192766610253
+				"gap": 3.9830192766610253,
+				"focus": -0.09330318167085327
 			},
 			"endBinding": {
 				"elementId": "ULRWp4_f6XfsGPg6EmGQv",
-				"focus": 0.20237968058691114,
-				"gap": 4.5
+				"gap": 4.5,
+				"focus": 0.20237968058691114
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1247,9 +1280,9 @@ Création du compte du nouveau membre ^YZBROixl
 			"id": "SWOnAv2UC9yLerYg_m-V9",
 			"type": "arrow",
 			"x": 2652.186276654054,
-			"y": -334.54255864125054,
-			"width": 366.34209209209234,
-			"height": 151.85658564605575,
+			"y": -334.5425586412505,
+			"width": 366.3420920920921,
+			"height": 151.85658564605566,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1261,11 +1294,11 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 412984933,
-			"version": 645,
-			"versionNonce": 366180267,
+			"version": 670,
+			"versionNonce": 1716502283,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655534416070,
+			"updated": 1655535291620,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1274,20 +1307,20 @@ Création du compte du nouveau membre ^YZBROixl
 					0
 				],
 				[
-					-366.34209209209234,
-					151.85658564605575
+					-366.3420920920921,
+					151.85658564605566
 				]
 			],
 			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "ULRWp4_f6XfsGPg6EmGQv",
-				"focus": -0.04632691692877697,
-				"gap": 3.157907907907884
+				"gap": 3.157907907907884,
+				"focus": -0.04632691692877697
 			},
 			"endBinding": {
 				"elementId": "WfwE0REzk7YrM8kxHVCye",
-				"focus": 0.41258704531063345,
-				"gap": 13.25
+				"gap": 13.25,
+				"focus": 0.41258704531063345
 			},
 			"startArrowhead": null,
 			"endArrowhead": "arrow"
@@ -1310,11 +1343,11 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1739184587,
-			"version": 291,
-			"versionNonce": 1621002469,
+			"version": 292,
+			"versionNonce": 1373163845,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655534414715,
+			"updated": 1655534422768,
 			"link": null,
 			"locked": false,
 			"text": "Gagnent + d'argent et/ou d'xp",
@@ -1329,8 +1362,8 @@ Création du compte du nouveau membre ^YZBROixl
 		},
 		{
 			"type": "rectangle",
-			"version": 415,
-			"versionNonce": 1695982571,
+			"version": 421,
+			"versionNonce": 657085157,
 			"isDeleted": false,
 			"id": "guHapAJGLcWlF8xhpuCro",
 			"fillStyle": "hachure",
@@ -1368,9 +1401,17 @@ Création du compte du nouveau membre ^YZBROixl
 				{
 					"id": "1cGGeorB25-gWZHTeEQ4f",
 					"type": "arrow"
+				},
+				{
+					"id": "UDg5hDDwBYPm7CDLc0wqo",
+					"type": "arrow"
+				},
+				{
+					"id": "KMPGMy19UakZRwOg72tCo",
+					"type": "arrow"
 				}
 			],
-			"updated": 1655534414715,
+			"updated": 1655535301786,
 			"link": null,
 			"locked": false
 		},
@@ -1392,11 +1433,11 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 253040683,
-			"version": 114,
-			"versionNonce": 403055685,
+			"version": 117,
+			"versionNonce": 1889792907,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655534414715,
+			"updated": 1655535219081,
 			"link": null,
 			"locked": false,
 			"text": "Banque du \nserveur",
@@ -1413,9 +1454,9 @@ Création du compte du nouveau membre ^YZBROixl
 			"id": "1cGGeorB25-gWZHTeEQ4f",
 			"type": "arrow",
 			"x": 1190.0108512286286,
-			"y": -282.78621064547735,
-			"width": 1032.0833333333328,
-			"height": 233.11808404475755,
+			"y": -279.4212119125587,
+			"width": 1032.0833333333333,
+			"height": 236.20847877114528,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1427,11 +1468,11 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 533195877,
-			"version": 201,
-			"versionNonce": 1789088677,
+			"version": 295,
+			"versionNonce": 465151403,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655534414716,
+			"updated": 1655535291621,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1440,8 +1481,8 @@ Création du compte du nouveau membre ^YZBROixl
 					0
 				],
 				[
-					1032.0833333333328,
-					-233.11808404475755
+					1032.0833333333333,
+					-236.20847877114528
 				]
 			],
 			"lastCommittedPoint": null,
@@ -1461,11 +1502,11 @@ Création du compte du nouveau membre ^YZBROixl
 		{
 			"id": "YZBROixl",
 			"type": "text",
-			"x": 1732.0941845619616,
-			"y": -457.4812395087006,
+			"x": 1727.0941845619616,
+			"y": -465.81457284203384,
 			"width": 339,
 			"height": 19,
-			"angle": 6.031857523018745,
+			"angle": 6.068613935690513,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
@@ -1476,11 +1517,11 @@ Création du compte du nouveau membre ^YZBROixl
 			"groupIds": [],
 			"strokeSharpness": "round",
 			"seed": 1299738987,
-			"version": 186,
-			"versionNonce": 44623147,
+			"version": 193,
+			"versionNonce": 1034005835,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1655534414716,
+			"updated": 1655534425799,
 			"link": null,
 			"locked": false,
 			"text": "Création du compte du nouveau membre",
@@ -1492,6 +1533,620 @@ Création du compte du nouveau membre ^YZBROixl
 			"baseline": 15,
 			"containerId": null,
 			"originalText": "Création du compte du nouveau membre"
+		},
+		{
+			"type": "rectangle",
+			"version": 342,
+			"versionNonce": 222414117,
+			"isDeleted": false,
+			"id": "HFN0LJOFfZ00KrkH-xKW3",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 1364.9275178952953,
+			"y": -967.6566649341264,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 81.18418418418459,
+			"seed": 120835051,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "csUsh6fl"
+				},
+				{
+					"id": "sshybHxABAZsL6XNKHZse",
+					"type": "arrow"
+				},
+				{
+					"id": "DhxQGCqhTS0-LmJUY9NI5",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655534526324,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "csUsh6fl",
+			"type": "text",
+			"x": 1369.9275178952953,
+			"y": -946.0645728420341,
+			"width": 156,
+			"height": 38,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1187436331,
+			"version": 56,
+			"versionNonce": 496946379,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655535219082,
+			"link": null,
+			"locked": false,
+			"text": "Système de \ntravail",
+			"rawText": "Système de travail",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 34,
+			"containerId": "HFN0LJOFfZ00KrkH-xKW3",
+			"originalText": "Système de travail"
+		},
+		{
+			"id": "sshybHxABAZsL6XNKHZse",
+			"type": "arrow",
+			"x": 1129.5941845619623,
+			"y": -347.0645728420336,
+			"width": 260.0000000000002,
+			"height": 526.6666666666669,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 424445509,
+			"version": 58,
+			"versionNonce": 776369899,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655535291623,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					260.0000000000002,
+					-526.6666666666669
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "IMjvHIBc8VbUTGFPROy5m",
+				"gap": 15.496871871871008,
+				"focus": 0.045366422861606484
+			},
+			"endBinding": {
+				"elementId": "HFN0LJOFfZ00KrkH-xKW3",
+				"gap": 12.741241241241426,
+				"focus": 0.31060256569409683
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "HMeeR5Yo",
+			"type": "text",
+			"x": 1096.260851228629,
+			"y": -597.8979061753673,
+			"width": 264,
+			"height": 19,
+			"angle": 5.194902275407166,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1034983691,
+			"version": 127,
+			"versionNonce": 903591275,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655534515124,
+			"link": null,
+			"locked": false,
+			"text": "Obtient le rôle \"au chomage\"",
+			"rawText": "Obtient le rôle \"au chomage\"",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 15,
+			"containerId": null,
+			"originalText": "Obtient le rôle \"au chomage\""
+		},
+		{
+			"id": "DhxQGCqhTS0-LmJUY9NI5",
+			"type": "arrow",
+			"x": 3167.292156137969,
+			"y": -717.0645728420343,
+			"width": 1631.6428512697207,
+			"height": 563.3333333333333,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1463275531,
+			"version": 365,
+			"versionNonce": 414253381,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655535291623,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-21.03130490934018,
+					-330
+				],
+				[
+					-906.0313049093402,
+					-563.3333333333333
+				],
+				[
+					-1631.6428512697207,
+					-253.0718445447568
+				]
+			],
+			"lastCommittedPoint": [
+				-1510,
+				-408.33333333333326
+			],
+			"startBinding": {
+				"elementId": "GXxOT1yr1ZiCJ64Up4wVa",
+				"gap": 12.741241241241369,
+				"focus": -0.36204527365605627
+			},
+			"endBinding": {
+				"elementId": "HFN0LJOFfZ00KrkH-xKW3",
+				"gap": 5.333333333333485,
+				"focus": -0.07312159079974308
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "T7CFTWlx",
+			"type": "text",
+			"x": 2474.5941845619623,
+			"y": -1251.2312395087015,
+			"width": 403,
+			"height": 38,
+			"angle": 0.22805407752016826,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 870660933,
+			"version": 244,
+			"versionNonce": 641192101,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655535175811,
+			"link": null,
+			"locked": false,
+			"text": "Peut choisir parmi une sélection de travaux\nqui apportent chacun leur propre avantage",
+			"rawText": "Peut choisir parmi une sélection de travaux\nqui apportent chacun leur propre avantage",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 34,
+			"containerId": null,
+			"originalText": "Peut choisir parmi une sélection de travaux\nqui apportent chacun leur propre avantage"
+		},
+		{
+			"type": "rectangle",
+			"version": 325,
+			"versionNonce": 460315653,
+			"isDeleted": false,
+			"id": "wutD40emUmHK1V-AY5nnH",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2708.260851228629,
+			"y": -694.3233316007938,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 166,
+			"height": 105,
+			"seed": 805248779,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"boundElements": [
+				{
+					"id": "nedUsKK5O3O_rDUh2BfgD",
+					"type": "arrow"
+				},
+				{
+					"id": "5U-diJVxi0P5j_BqoWlFg",
+					"type": "arrow"
+				},
+				{
+					"id": "wxSOIO0M9nTNsdZfIlJB2",
+					"type": "arrow"
+				},
+				{
+					"type": "text",
+					"id": "Lsr2vx2G"
+				},
+				{
+					"id": "-xCd7oCzAzwQE12YHk1Ng",
+					"type": "arrow"
+				},
+				{
+					"id": "UDg5hDDwBYPm7CDLc0wqo",
+					"type": "arrow"
+				}
+			],
+			"updated": 1655535264953,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "Lsr2vx2G",
+			"type": "text",
+			"x": 2713.260851228629,
+			"y": -689.3233316007938,
+			"width": 156,
+			"height": 95,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1794090469,
+			"version": 124,
+			"versionNonce": 381927051,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655535268366,
+			"link": null,
+			"locked": false,
+			"text": "Compte bancaire\navec un certain \ndécouvert et un \ncertain % \nd'intérêts ",
+			"rawText": "Compte bancaire\navec un certain découvert et un certain % d'intérêts ",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"baseline": 91,
+			"containerId": "wutD40emUmHK1V-AY5nnH",
+			"originalText": "Compte bancaire\navec un certain découvert et un certain % d'intérêts "
+		},
+		{
+			"id": "-xCd7oCzAzwQE12YHk1Ng",
+			"type": "arrow",
+			"x": 3109.5941845619627,
+			"y": -653.9287377100504,
+			"width": 225,
+			"height": 5.1788443599957645,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1747525989,
+			"version": 50,
+			"versionNonce": 736792741,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655535291624,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-225,
+					-5.1788443599957645
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "GXxOT1yr1ZiCJ64Up4wVa",
+				"gap": 9.08333333333303,
+				"focus": -0.28061541661107314
+			},
+			"endBinding": {
+				"elementId": "wutD40emUmHK1V-AY5nnH",
+				"gap": 10.33333333333394,
+				"focus": -0.3571468938686638
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "UDg5hDDwBYPm7CDLc0wqo",
+			"type": "arrow",
+			"x": 2398.594184561962,
+			"y": -545.9183443214314,
+			"width": 294.33333333333394,
+			"height": 85.33641379326752,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1529664901,
+			"version": 46,
+			"versionNonce": 1945842693,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655535291624,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					294.33333333333394,
+					-85.33641379326752
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": {
+				"elementId": "guHapAJGLcWlF8xhpuCro",
+				"gap": 1,
+				"focus": 0.22688328866875096
+			},
+			"endBinding": {
+				"elementId": "wutD40emUmHK1V-AY5nnH",
+				"gap": 15.33333333333303,
+				"focus": 0.23433022374541265
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "gZBNWw91",
+			"type": "text",
+			"x": 2921.2608512286297,
+			"y": -679.5645728420347,
+			"width": 179,
+			"height": 38,
+			"angle": 0.03521578743903753,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1963874181,
+			"version": 68,
+			"versionNonce": 852476715,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655535238828,
+			"link": null,
+			"locked": false,
+			"text": "Peut ajouter ou\nretirer de l'argent",
+			"rawText": "Peut ajouter ou\nretirer de l'argent",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 34,
+			"containerId": null,
+			"originalText": "Peut ajouter ou\nretirer de l'argent"
+		},
+		{
+			"id": "11y45v0r",
+			"type": "text",
+			"x": 2434.5941845619627,
+			"y": -607.8979061753683,
+			"width": 207,
+			"height": 19,
+			"angle": 6.021140806831623,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 2001044389,
+			"version": 56,
+			"versionNonce": 40061227,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655535290784,
+			"link": null,
+			"locked": false,
+			"text": "Envoie un % d'intérêts",
+			"rawText": "Envoie un % d'intérêts",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 15,
+			"containerId": null,
+			"originalText": "Envoie un % d'intérêts"
+		},
+		{
+			"id": "KMPGMy19UakZRwOg72tCo",
+			"type": "arrow",
+			"x": 3126.2608512286297,
+			"y": -717.0645728420355,
+			"width": 788.333333333333,
+			"height": 243.33333333333337,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 1132837579,
+			"version": 105,
+			"versionNonce": 1971616235,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655535301792,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-158.33333333333303,
+					-118.33333333333337
+				],
+				[
+					-553.333333333333,
+					-101.66666666666663
+				],
+				[
+					-788.333333333333,
+					125
+				]
+			],
+			"lastCommittedPoint": [
+				-788.333333333333,
+				125
+			],
+			"startBinding": {
+				"elementId": "GXxOT1yr1ZiCJ64Up4wVa",
+				"focus": -0.029532190026788675,
+				"gap": 12.741241241242676
+			},
+			"endBinding": {
+				"elementId": "guHapAJGLcWlF8xhpuCro",
+				"focus": -0.2762349477905283,
+				"gap": 15.241241241242676
+			},
+			"startArrowhead": null,
+			"endArrowhead": "arrow"
+		},
+		{
+			"id": "Wnk6e5K3",
+			"type": "text",
+			"x": 2759.5941845619636,
+			"y": -876.2312395087022,
+			"width": 170,
+			"height": 19,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "round",
+			"seed": 608476581,
+			"version": 28,
+			"versionNonce": 1009427787,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1655535311607,
+			"link": null,
+			"locked": false,
+			"text": "Peut faire un prêt",
+			"rawText": "Peut faire un prêt",
+			"fontSize": 16,
+			"fontFamily": 3,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 15,
+			"containerId": null,
+			"originalText": "Peut faire un prêt"
 		}
 	],
 	"appState": {
