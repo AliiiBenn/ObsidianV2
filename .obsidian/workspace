@@ -7,9 +7,11 @@
         "id": "615f4d021edd7ee7",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md"
+            "file": "02 informatique/Algorithmes/Structures de données/Les files/Les Files.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
+                "file": "02 informatique/Algorithmes/Structures de données/Les files/Les Files.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
+                "file": "02 informatique/Algorithmes/Structures de données/Les files/Les Files.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,15 +158,15 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "02 informatique/Algorithmes/Structures de données/Les files/Les Files.md",
+    "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec une Pile.md",
+    "02 informatique/Algorithmes/Structures de données/Les files/Enfiler un élément avec une Pile.md",
+    "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec un LC.md",
+    "02 informatique/Algorithmes/Structures de données/Les files/Enfiler un élément avec une LC.md",
+    "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
     "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
     "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
     "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
-    "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
-    "12 Projets/Projets Actuels/Mon business/Le Bot Discord à vendre.md",
-    "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
-    "_Autres/templates/template Daily.md",
-    "11 Passions/Philosophie/Cours/Travail et échanges sociaux/Travail et échanges sociaux.md",
-    "Library.md",
-    "02 informatique/Algorithmes/Algorithmes de recherche/Algorithmes de recherche.md"
+    "12 Projets/Projets Actuels/Mon business/Commandes bot.md"
   ]
 }
