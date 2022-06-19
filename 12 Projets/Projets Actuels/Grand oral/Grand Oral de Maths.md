@@ -9,10 +9,9 @@
 
 - Comment le raisonnement par récurrence a-t-il évolué au fil des siècles ?
 
-
 ### Mon plan
 
-- Mini introduction + problématique
+- Mini introduction
 - Qu'est-ce que le raisonnement pas récurrence et comment fonctionne-t-il
 - L'histoire du raisonement par récurrence
 	- Avant le XVIIème siècle
@@ -31,7 +30,7 @@
 
 On a $u0 = 0, un+1=2un+1$ et on veut démontrer que $un = 2^n - 1$ 
 
-On commence avec l'initialisation, c'est  dire qu'on va tester la propriété pour $n=0$
+On commence avec l'initialisation, c'est dire qu'on va tester la propriété pour $n=0$
 
 $u0=2^0-1$
 $0 = 1 - 1$
@@ -57,7 +56,7 @@ $2uk+1=2(2^k-1)+1$
 soit
 $uk+1=2^k-1$
 
-on conclu donc que la propriété est donc vraie au rang n=0 et héréditaire à partir de ce rang
+on conclu donc que la propriété est vraie au rang n=0 et héréditaire à partir de ce rang
 
 ### L'histoire du raisonnement par récurrence
 
@@ -69,7 +68,7 @@ par exemple, vers l'an 1000, Al-Karaji a établit la *formule du binôme de Newt
 
 *Al-Samw'al* va reprendre ces travaux qui utilisent bien des formes archaiques de raisonnement par récurrence comme *la régression* (**on part d'un entier donné choisi arbitrairement, et par un procédé manifestement général, en passant de _n_ à _n_ – 1, on se ramène au cas initial)**)
 
-A la même époque *Al-Haytham* utilise le raisonnement par récurrence pour calculer la somme des cubes puis des puissances quatrièmes des _n_ premiers entiers naturels
+A la même époque *Al-Haytham* utilise le raisonnement par récurrence pour calculer la somme des cubes puis des puissances quatrièmes des _n_ premiers entiers naturels
 
 Durant le Moyen Âge européen, le philosophe et mathématicien *Levi ben Gershom*, fait un usage systématique de la régression pour établir des résultats de combinatoire (somme des cubes, nombre de permutations…).
 
@@ -79,7 +78,7 @@ Durant le Moyen Âge européen, le philosophe et mathématicien *Levi ben Gersho
 
 Toujours au *XVIIème siècle* *Pierre de Fermat* et *Jacques Bernouilli* vont proposer pour l'un une méthode et pour l'autre une démonstration. Ils critiquent tous deux *la méthode d'induction* de *John Wallis* qui était une démonstration pour les premiers entiers et "ainsi de suite" c'est-à-dire une base de raisonnement par récurrence. *Fermat* va proposer la *méthode de la descente infinie* liée à la recurrence
 
-(**Soit P(n) une propriété faisant intervenir un entier naturel n. On cherche à démontrer que P(n) est fausse pour tout n. Pour cela, on raisonne par l'absurde. On suppose donc que pour un certain entier n, P(n) est vraie. On démontre par ailleurs que pour chaque entier naturel n pour lequel P(n) est vraie, il existe un entier naturel m strictement inférieur à n pour lequel P(m) est également vraie. On peut conclure que P(n) n'est jamais vraie, car la suite des entiers naturels vérifiant la propriété P ne peut pas être strictement décroissante et infinie.**)
+Soit P(n) une propriété faisant intervenir un entier naturel n. On cherche à démontrer que P(n) est fausse pour tout n. Pour cela, on raisonne par l'absurde. On suppose donc que pour un certain entier n, P(n) est vraie. On démontre par ailleurs que pour chaque entier naturel n pour lequel P(n) est vraie, il existe un entier naturel m strictement inférieur à n pour lequel P(m) est également vraie. On peut conclure que P(n) n'est jamais vraie, car la suite des entiers naturels vérifiant la propriété P ne peut pas être strictement décroissante et infinie.
 
 Quant à lui *Bernouilli* va proposer de démontrer le passage de *n* à *n+1* soit exactement le raisonnement par récurrence.  Ensuite, au cours du *XVIIIème et XIXème siècle* le raisonnement par reccurence fut de plus en plus utilisé pour aboutir à son normalisation. 
 
