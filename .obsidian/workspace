@@ -4,12 +4,24 @@
     "type": "split",
     "children": [
       {
+        "id": "4528dc860fca6cc3",
+        "type": "leaf",
+        "dimension": 32.58706467661692,
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md"
+          }
+        }
+      },
+      {
         "id": "615f4d021edd7ee7",
         "type": "leaf",
+        "dimension": 67.41293532338308,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "02 informatique/Algorithmes/Structures de données/Les files/Les Files.md",
+            "file": "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -70,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 informatique/Algorithmes/Structures de données/Les files/Les Files.md",
+                "file": "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 informatique/Algorithmes/Structures de données/Les files/Les Files.md",
+                "file": "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,15 +171,15 @@
   },
   "active": "615f4d021edd7ee7",
   "lastOpenFiles": [
+    "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
+    "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
+    "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec une Pile.md",
     "02 informatique/Algorithmes/Structures de données/Les files/Les Files.md",
+    "02 informatique/Algorithmes/Structures de données/Les files/Enfiler un élément avec une Pile.md",
     "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec un LC.md",
     "02 informatique/Algorithmes/Structures de données/Les files/Enfiler un élément avec une LC.md",
-    "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec une Pile.md",
-    "02 informatique/Algorithmes/Structures de données/Les files/Enfiler un élément avec une Pile.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
     "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
-    "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
-    "02 informatique/Langages Informatique/Langages Algorithmique/C++/C++.md",
-    "12 Projets/Projets Actuels/Mon business/Commandes bot.md"
+    "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md"
   ]
 }
