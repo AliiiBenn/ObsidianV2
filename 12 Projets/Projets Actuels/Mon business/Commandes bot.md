@@ -23,8 +23,16 @@ Date: 18-06-2022
 	- Efface un nombre *n* de messages puis envoie un message qui lui même sera supprimé aux bout de *x* secondes. Si le nombre de messages est superieur à la limite *limit* de messages à supprimer on renvoie une erreur, si il n'y a pas autant de messages dans le channel on renvoie une erreur.
 - kick
 	- Kick un membre du serveur, il pourra le rejoindre à nouveau si il y est invité. Si le membre n'existe pas on retourne une erreur, si le membre est superieur à nous erreur.
-- 
-
+- Slow mode
+	- paramètre *channel* optionnel qui si il est vide selectionne le channel actuel et sinon le channel voulu. Si channel est égal à "all" on selection tous les salons. Met en slow mode le(s) channel(s) séléctionnés avec un delai de *x* secondes. Si *x* est égal à 0 on enleve le slow mode
+- warn
+	- Ajoute un warn au membre *membre*
+- remove warn
+	- enleve tous les warn du membre *membre*
+- regarder les warns
+	- regarde tous les warn du membre *membre*
+- effacer les messages d'un membe
+	- commande pour effacer tous les messages d'un membre soit d'un channel soit de tous les channels
 
 ---
 ### Liens :
