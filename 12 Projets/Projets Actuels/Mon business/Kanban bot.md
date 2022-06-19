@@ -9,8 +9,6 @@ kanban-plugin: basic
 - [ ] Mute
 - [ ] Unmute
 - [ ] temp mute
-- [ ] Lock
-- [ ] Unlock
 - [ ] Give Role
 - [ ] Remove role
 - [ ] Clear
@@ -103,6 +101,8 @@ kanban-plugin: basic
 
 - [ ] Ban<br>paramètres :<br>le membre à banir<br>la raison<br>les erreurs possibles :<br>si le membre qui veut banir n'a pas les permissions<br>si le membre à banir n'existe pas
 - [ ] Unban
+- [ ] Lock
+- [ ] Unlock
 
 
 
