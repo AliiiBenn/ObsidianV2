@@ -4,24 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "4528dc860fca6cc3",
+        "id": "1ecb76196e760017",
         "type": "leaf",
-        "dimension": 32.58706467661692,
-        "state": {
-          "type": "kanban",
-          "state": {
-            "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md"
-          }
-        }
-      },
-      {
-        "id": "615f4d021edd7ee7",
-        "type": "leaf",
-        "dimension": 67.41293532338308,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
+            "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
             "mode": "source",
             "source": false
           }
@@ -65,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -83,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
+                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
+                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -169,8 +156,10 @@
     "width": 310.5,
     "collapsed": true
   },
-  "active": "4528dc860fca6cc3",
+  "active": "1ecb76196e760017",
   "lastOpenFiles": [
+    "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
+    "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
     "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
     "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
     "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec une Pile.md",
@@ -178,8 +167,6 @@
     "02 informatique/Algorithmes/Structures de données/Les files/Enfiler un élément avec une Pile.md",
     "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec un LC.md",
     "02 informatique/Algorithmes/Structures de données/Les files/Enfiler un élément avec une LC.md",
-    "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md",
-    "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
-    "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md"
+    "02 informatique/Algorithmes/Structures de données/Les piles/Les Piles.md"
   ]
 }
