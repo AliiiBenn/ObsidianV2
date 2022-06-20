@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ecb76196e760017",
+        "id": "c5ce93ecde2df242",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,7 +147,7 @@
     "direction": "horizontal",
     "width": 310.5
   },
-  "active": "1ecb76196e760017",
+  "active": "c5ce93ecde2df242",
   "lastOpenFiles": [
     "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
     "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
