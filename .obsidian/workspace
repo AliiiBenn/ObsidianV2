@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "plugins.md",
+            "file": "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "plugins.md",
+                "file": "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "plugins.md",
+                "file": "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -158,11 +158,11 @@
   },
   "active": "1ecb76196e760017",
   "lastOpenFiles": [
+    "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
     "plugins.md",
     "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
     "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
     "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
-    "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
     "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec une Pile.md",
     "02 informatique/Algorithmes/Structures de données/Les files/Les Files.md",
     "02 informatique/Algorithmes/Structures de données/Les files/Enfiler un élément avec une Pile.md",
