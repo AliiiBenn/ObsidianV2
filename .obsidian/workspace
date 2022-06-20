@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
+            "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
             "mode": "source",
             "source": false
           }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
+                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
+                "file": "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -125,7 +125,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2588386562181652,
+                  "scale": 0.18462326225858305,
                   "close": true
                 }
               }
@@ -147,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,12 +155,12 @@
   },
   "active": "1ecb76196e760017",
   "lastOpenFiles": [
+    "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
+    "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
     "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
-    "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
     "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
     "plugins.md",
-    "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
     "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
     "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec une Pile.md",
     "02 informatique/Algorithmes/Structures de données/Les files/Les Files.md",
