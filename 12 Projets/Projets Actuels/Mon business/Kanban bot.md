@@ -9,11 +9,6 @@ kanban-plugin: basic
 - [ ] Mute
 - [ ] Unmute
 - [ ] temp mute
-- [ ] Give Role
-- [ ] Remove role
-- [ ] Clear
-- [ ] kick
-- [ ] slow mode
 - [ ] warn
 - [ ] remove warn
 - [ ] regarder les warns
@@ -103,6 +98,11 @@ kanban-plugin: basic
 - [ ] Unban
 - [ ] Lock
 - [ ] Unlock
+- [ ] Give Role
+- [ ] Remove role
+- [ ] Clear
+- [ ] kick
+- [ ] slow mode
 
 
 
