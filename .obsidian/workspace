@@ -7,9 +7,11 @@
         "id": "c5ce93ecde2df242",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md"
+            "file": "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec un LC.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -51,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -69,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
+                "file": "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec un LC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
+                "file": "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec un LC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,15 +156,15 @@
   },
   "active": "c5ce93ecde2df242",
   "lastOpenFiles": [
+    "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec un LC.md",
+    "02 informatique/Algorithmes/Structures de données/Les files/Enfiler un élément avec une LC.md",
+    "02 informatique/Algorithmes/Structures de données/Les files/Enfiler un élément avec une Pile.md",
     "12 Projets/Projets Actuels/Mon business/Structure bot Discord.md",
     "12 Projets/Projets Actuels/Grand oral/Grand Oral de Maths.md",
     "12 Projets/Projets Actuels/Mon business/Commandes bot.md",
     "11 Passions/Philosophie/Cours/La science/La science en philosophie.md",
     "02 informatique/Algorithmes/Structures de données/Les piles/Pop un élément dans un pile.md",
     "12 Projets/Projets Actuels/Mon business/Kanban bot.md",
-    "plugins.md",
-    "12 Projets/Projets Actuels/Grand oral/Grand Oral de NSI.md",
-    "02 informatique/Algorithmes/Structures de données/Les files/Défiler un élément avec une Pile.md",
-    "02 informatique/Algorithmes/Structures de données/Les files/Les Files.md"
+    "plugins.md"
   ]
 }
