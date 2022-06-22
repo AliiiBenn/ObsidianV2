@@ -8,7 +8,7 @@
 
 ### Introduction
 
-*Le raisonnement par récurrence* est un raisonnement qui cherche à démontrer un propriété portant sur tous les entiers naturels. *Le raisonnement par récurrence* est connu depuis *1665* avec *Pascal* mais était déjà présent avant, c'est pour cela qu'il est intéréssant de se demander *Comment le raisonnement par récurrence a-t-il évolué au fil des siècles ?*
+*Le raisonnement par récurrence* est un raisonnement qui cherche à démontrer une propriété portant sur tous les entiers naturels. *Le raisonnement par récurrence* est connu depuis *1665* avec *Pascal* mais était déjà présent avant, c'est pour cela qu'il est intéréssant de se demander *Comment le raisonnement par récurrence a-t-il évolué au fil des siècles ?*
 
 ### Mon plan
 
@@ -22,7 +22,6 @@
 
 *le raisonnement par récurrence* comme dit plus haut a pour but de démontrer une propriété portant sur tous les entiers naturels. Il fonctionne en 3 étapes, l'initialisation où l'on va regarder si la propriété est vraie pour n = 0 ou n = 1 puis si c'est le cas on va passer à l'hérédité où l'on va chercher à voir si la propriété est vraie pour n+1 puis on conclu si la propriété est vraie
 
-
 #### Exemple
 
 Soit (un) la suite définie pour tout entier naturel n par :
@@ -31,33 +30,35 @@ On cherche à démontrer que $un = (n+1)^2$
 
 ##### Initialisation
 
-On commence avec l'initialisation, c'est dire qu'on va tester la propriété pour $n=0$
+On commence avec l'initialisation, c'est à dire qu'on va tester la propriété pour $n=0$
 
 
 $u0 = (0 + 1)^2$ soit $1 = 1^2$ donc $1 = 1$
 
-
 donc la propriété est vrai au rang 0
 
-On passe à l'hérédité :
+##### Hérédité
+##### Hypothèse de récurrene
 
-On suppose que pour tout entier naturel *k*, la propriété P(k) est vraie c'est à dire $uk = 2^k - 1$ c'est ce qu'on appelle l'hypothèse de récurrence
+- Supposons qu'il existe un entier *k* tel que la formule soit vraie :
+$uk = (k+1)^2$ *H.R*
 
-On cherche alors à démontrer que (Pk+1) est vraie
+##### A démontrer
 
-$uk+1=2^(k+1) - 1$
+- On cherche donc à démontrer que la propriété est vrai u rang $k+1$ soit $uk+1 = (k + 2)^2$
 
-on part de l'hypothèse de récurrence
-
-uk = 2^k - 1
-on multiplie par deux le tout
-2uk=2(2^k - 1)
-puis on ajoute 1
-2uk+1=2(2^k-1)+1
+On sait que 
+$uk+1 = uk + 2k +3$
+mais aussi que $uk = (k+1)^2$ donc
+$uk+1 = (k+1)^2 + 2k + 3$
+on développe $(k+1)^2$
+$uk+1 = k^2 + 2k + 1 + 2k + 3$
 soit
-uk+1=2^k-1
+$uk+1 = k^2 + 4k + 4$
+ce qui correspond à 
+$uk+1 = (k+2)^2$
 
-on conclu donc que la propriété est vraie au rang n=0 et héréditaire à partir de ce rang
+on conclu donc que la propriété est vraie au rang n=0 et héréditaire à partir de ce rang. Elle est donc vraie pour tout entier naturel *n*
 
 ### L'histoire du raisonnement par récurrence
 
@@ -65,7 +66,7 @@ on conclu donc que la propriété est vraie au rang n=0 et héréditaire à part
 
 On a découvert depuis les années 1970 que bien avant *Pascal* il y a eu plusieurs mathématiciens qui ont utlisé le fonctionnement par récurrence surtout dans le monde *arabo-islamique*. 
 
-par exemple, vers l'an 1000, Al-Karaji a établit la *formule du binôme de Newton* (La formule du binôme de Newton est une formule mathématique donnée par Isaac Newton1 pour trouver le développement d'une puissance entière quelconque d'un binôme (x + y)^n) mais il n'a pas le notations qui lui permettraient de l'énoncer dans le cas général. 
+par exemple, vers l'an 1000, Al-Karaji a établit la *formule du binôme de Newton* (La formule du binôme de Newton est une formule mathématique donnée par Isaac Newton pour trouver le développement d'une puissance entière quelconque d'un binôme (x + y)^n) mais il n'a pas le notations qui lui permettraient de l'énoncer dans le cas général. 
 
 *Al-Samw'al* va reprendre ces travaux qui utilisent bien des formes archaiques de raisonnement par récurrence comme *la régression* (on part d'un entier donné choisi arbitrairement, et par un procédé manifestement général, en passant de _n_ à _n_ – 1, on se ramène au cas initial))
 
@@ -79,11 +80,11 @@ Durant le Moyen Âge européen, le philosophe et mathématicien *Levi ben Gersho
 
 Toujours au *XVIIème siècle* *Pierre de Fermat* et *Jacques Bernouilli* vont proposer pour l'un une méthode et pour l'autre une démonstration. Ils critiquent tous deux *la méthode d'induction* de *John Wallis* qui était une démonstration pour les premiers entiers et "ainsi de suite" c'est-à-dire une base de raisonnement par récurrence. *Fermat* va proposer la *méthode de la descente infinie* liée à la recurrence
 
-Soit P(n) une propriété faisant intervenir un entier naturel n. On cherche à démontrer que P(n) est fausse pour tout n. Pour cela, on raisonne par l'absurde. On suppose donc que pour un certain entier n, P(n) est vraie. On démontre par ailleurs que pour chaque entier naturel n pour lequel P(n) est vraie, il existe un entier naturel m strictement inférieur à n pour lequel P(m) est également vraie. On peut conclure que P(n) n'est jamais vraie, car la suite des entiers naturels vérifiant la propriété P ne peut pas être strictement décroissante et infinie.
+**Soit P(n) une propriété faisant intervenir un entier naturel n. On cherche à démontrer que P(n) est fausse pour tout n. Pour cela, on raisonne par l'absurde. On suppose donc que pour un certain entier n, P(n) est vraie. On démontre par ailleurs que pour chaque entier naturel n pour lequel P(n) est vraie, il existe un entier naturel m strictement inférieur à n pour lequel P(m) est également vraie. On peut conclure que P(n) n'est jamais vraie, car la suite des entiers naturels vérifiant la propriété P ne peut pas être strictement décroissante et infinie.**
 
-Quant à lui *Bernouilli* va proposer de démontrer le passage de *n* à *n+1* soit exactement le raisonnement par récurrence.  Ensuite, au cours du *XVIIIème et XIXème siècle* le raisonnement par reccurence fut de plus en plus utilisé pour aboutir à son normalisation. 
+Quant à lui *Bernouilli* va proposer de démontrer le passage de *n* à *n+1* soit exactement le raisonnement par récurrence. Ensuite, au cours du *XVIIIème et XIXème siècle* le raisonnement par reccurence fut de plus en plus utilisé pour aboutir à son normalisation. 
 
 ### Conclusion
 
-Pour conclure, le raisonnement par récurrence à une grande histoire qui a commencé au 11ème siècle et qui s'est normalisée au 19ème, aujourd'hui notre raisonnment nous permet de démontrer un bon nombre de propriétés sans trop de difficultés et ce grace à de noubreux mathématiciens qui ont beaucoup travailler pour nous faciliter la vie. 
+Pour conclure, le raisonnement par récurrence à une grande histoire qui a commencé au 11ème siècle et qui s'est normalisée au 19ème, aujourd'hui notre raisonnment nous permet de démontrer un bon nombre de propriétés sans trop de difficultés et ce grace à de nombreux mathématiciens qui ont beaucoup travailler pour nous faciliter la vie. 
 
