@@ -20,15 +20,22 @@
 
 ### Qu'est-ce que le raisonnement par récurrence et comment fonctionne-t-il
 
-*le raisonnement par récurrence* comme dit plus haut a pour but de démontrer une propriété portant sur tous les entiers naturels. Il fonctionne en 3 étapes, l'initialisation où l'on va regarder si la propriété est vraie pour n = 0 ou n = 1 puis si c'est le cas on va passer à l'hérédité où l'on va chercher à voir si la propriété est vraie pour n+1
+*le raisonnement par récurrence* comme dit plus haut a pour but de démontrer une propriété portant sur tous les entiers naturels. Il fonctionne en 3 étapes, l'initialisation où l'on va regarder si la propriété est vraie pour n = 0 ou n = 1 puis si c'est le cas on va passer à l'hérédité où l'on va chercher à voir si la propriété est vraie pour n+1 puis on conclu si la propriété est vraie
 
-On a $u0 = 0, un+1=2un+1$ et on veut démontrer que $un = 2^n - 1$ 
+
+#### Exemple
+
+Soit (un) la suite définie pour tout entier naturel n par :
+$un+1 = un + 2n + 3$ et $u0 = 1$
+On cherche à démontrer que $un = (n+1)^2$
+
+##### Initialisation
 
 On commence avec l'initialisation, c'est dire qu'on va tester la propriété pour $n=0$
 
-$u0=2^0-1$
-$0 = 1 - 1$
-$0 = 0$
+
+$u0 = (0 + 1)^2$ soit $1 = 1^2$ donc $1 = 1$
+
 
 donc la propriété est vrai au rang 0
 
@@ -42,13 +49,13 @@ $uk+1=2^(k+1) - 1$
 
 on part de l'hypothèse de récurrence
 
-$uk = 2^k-1$
+uk = 2^k - 1
 on multiplie par deux le tout
-$2uk=2(2^k-1)$
+2uk=2(2^k - 1)
 puis on ajoute 1
-$2uk+1=2(2^k-1)+1$
+2uk+1=2(2^k-1)+1
 soit
-$uk+1=2^k-1$
+uk+1=2^k-1
 
 on conclu donc que la propriété est vraie au rang n=0 et héréditaire à partir de ce rang
 
