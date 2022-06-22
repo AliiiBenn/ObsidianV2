@@ -66,7 +66,7 @@ on conclu donc que la propriété est vraie au rang n=0 et héréditaire à part
 
 On a découvert depuis les années 1970 que bien avant *Pascal* il y a eu plusieurs mathématiciens qui ont utlisé le fonctionnement par récurrence surtout dans le monde *arabo-islamique*. 
 
-par exemple, vers l'an 1000, *Al-Karaji* a établit la *formule du binôme de Newton* (La formule du binôme de Newton est une formule mathématique donnée par Isaac Newton pour trouver le développement d'une puissance entière quelconque d'un binôme (x + y)^n) mais il n'a pas le notations qui lui permettraient de l'énoncer dans le cas général. 
+par exemple, vers l'an 1000, *Al-Karaji* a établit la *formule du binôme de Newton* (La formule du binôme de Newton est une formule mathématique donnée par Isaac Newton pour trouver le développement d'une puissance entière quelconque d'un binôme (x + y)^n) mais il n'a pas les notations qui lui permettraient de l'énoncer dans le cas général. 
 
 *Al-Samw'al* va reprendre ces travaux qui utilisent bien des formes archaiques de raisonnement par récurrence comme *la régression* (on part d'un entier donné choisi arbitrairement, et par un procédé manifestement général, en passant de _n_ à _n_ – 1, on se ramène au cas initial))
 
