@@ -82,7 +82,7 @@ Toujours au *XVIIème siècle* *Pierre de Fermat* et *Jacques Bernouilli* vont p
 
 **Soit P(n) une propriété faisant intervenir un entier naturel n. On cherche à démontrer que P(n) est fausse pour tout n. Pour cela, on raisonne par l'absurde. On suppose donc que pour un certain entier n, P(n) est vraie. On démontre par ailleurs que pour chaque entier naturel n pour lequel P(n) est vraie, il existe un entier naturel m strictement inférieur à n pour lequel P(m) est également vraie. On peut conclure que P(n) n'est jamais vraie, car la suite des entiers naturels vérifiant la propriété P ne peut pas être strictement décroissante et infinie.**
 
-Quant à lui *Bernouilli* va proposer de démontrer le passage de *n* à *n+1* soit exactement le raisonnement par récurrence. Ensuite, au cours du *XVIIIème et XIXème siècle* le raisonnement par reccurence fut de plus en plus utilisé pour aboutir à son normalisation. 
+Quant à lui *Bernouilli* va proposer de démontrer le passage de *n* à *n+1* soit exactement le raisonnement par récurrence. Ensuite, au cours du *XVIIIème et XIXème siècle* le raisonnement par recurrence fut de plus en plus utilisé pour aboutir à son normalisation. 
 
 ### Conclusion
 
