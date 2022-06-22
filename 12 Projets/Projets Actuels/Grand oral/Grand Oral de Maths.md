@@ -5,28 +5,22 @@
 ---
 
 
-### Sujets possibles 
-
-- Comment le raisonnement par récurrence a-t-il évolué au fil des siècles ?
-
-### Mon plan
-
-- Mini introduction
-- Qu'est-ce que le raisonnement pas récurrence et comment fonctionne-t-il
-- L'histoire du raisonement par récurrence
-	- Avant le XVIIème siècle
-	- Le XVIIème siècle et ensuite
-- A quoi sert le raisonnement par récurrence
-- Conclusion
-
 
 ### Introduction
 
 *Le raisonnement par récurrence* est un raisonnement qui cherche à démontrer un propriété portant sur tous les entiers naturels. *Le raisonnement par récurrence* est connu depuis *1665* avec *Pascal* mais était déjà présent avant, c'est pour cela qu'il est intéréssant de se demander *Comment le raisonnement par récurrence a-t-il évolué au fil des siècles ?*
 
+### Mon plan
+
+- Qu'est-ce que le raisonnement pas récurrence et comment fonctionne-t-il
+- L'histoire du raisonement par récurrence
+	- Avant le XVIIème siècle
+	- Le XVIIème siècle et ensuite
+- Conclusion
+
 ### Qu'est-ce que le raisonnement par récurrence et comment fonctionne-t-il
 
-*le raisonnement par récurrence* fonctionne en 3 étapes, et comme dit plus haut a pour but de démontrer une propriété portant sur tous les entiers naturels. 
+*le raisonnement par récurrence* comme dit plus haut a pour but de démontrer une propriété portant sur tous les entiers naturels. Il fonctionne en 3 étapes, l'initialisation où l'on va regarder si la propriété est vraie pour n = 0 ou n = 1 puis si c'est le cas on va passer à l'hérédité où l'on va chercher à voir si la propriété est vraie pour n+1
 
 On a $u0 = 0, un+1=2un+1$ et on veut démontrer que $un = 2^n - 1$ 
 
@@ -78,7 +72,7 @@ Durant le Moyen Âge européen, le philosophe et mathématicien *Levi ben Gersho
 
 Toujours au *XVIIème siècle* *Pierre de Fermat* et *Jacques Bernouilli* vont proposer pour l'un une méthode et pour l'autre une démonstration. Ils critiquent tous deux *la méthode d'induction* de *John Wallis* qui était une démonstration pour les premiers entiers et "ainsi de suite" c'est-à-dire une base de raisonnement par récurrence. *Fermat* va proposer la *méthode de la descente infinie* liée à la recurrence
 
-**Soit P(n) une propriété faisant intervenir un entier naturel n. On cherche à démontrer que P(n) est fausse pour tout n. Pour cela, on raisonne par l'absurde. On suppose donc que pour un certain entier n, P(n) est vraie. On démontre par ailleurs que pour chaque entier naturel n pour lequel P(n) est vraie, il existe un entier naturel m strictement inférieur à n pour lequel P(m) est également vraie. On peut conclure que P(n) n'est jamais vraie, car la suite des entiers naturels vérifiant la propriété P ne peut pas être strictement décroissante et infinie.**
+Soit P(n) une propriété faisant intervenir un entier naturel n. On cherche à démontrer que P(n) est fausse pour tout n. Pour cela, on raisonne par l'absurde. On suppose donc que pour un certain entier n, P(n) est vraie. On démontre par ailleurs que pour chaque entier naturel n pour lequel P(n) est vraie, il existe un entier naturel m strictement inférieur à n pour lequel P(m) est également vraie. On peut conclure que P(n) n'est jamais vraie, car la suite des entiers naturels vérifiant la propriété P ne peut pas être strictement décroissante et infinie.
 
 Quant à lui *Bernouilli* va proposer de démontrer le passage de *n* à *n+1* soit exactement le raisonnement par récurrence.  Ensuite, au cours du *XVIIIème et XIXème siècle* le raisonnement par reccurence fut de plus en plus utilisé pour aboutir à son normalisation. 
 
