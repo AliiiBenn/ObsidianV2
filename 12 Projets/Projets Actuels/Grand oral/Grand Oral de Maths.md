@@ -38,7 +38,7 @@ $u0 = (0 + 1)^2$ soit $1 = 1^2$ donc $1 = 1$
 donc la propriété est vrai au rang 0
 
 ##### Hérédité
-##### Hypothèse de récurrene
+##### Hypothèse de récurrence
 
 - Supposons qu'il existe un entier *k* tel que la formule soit vraie :
 $uk = (k+1)^2$ *H.R*
@@ -64,7 +64,7 @@ on conclu donc que la propriété est vraie au rang n=0 et héréditaire à part
 
 #### Avant le XVIIème siècle
 
-On a découvert depuis les années 1970 que bien avant *Pascal* il y a eu plusieurs mathématiciens qui ont utlisé le fonctionnement par récurrence surtout dans le monde *arabo-islamique*. 
+On a découvert depuis les années 1970 que bien avant *Pascal* il y a eu plusieurs mathématiciens qui ont utlisé le raisonnement par récurrence surtout dans le monde *arabo-islamique*. 
 
 par exemple, vers l'an 1000, *Al-Karaji* a établit la *formule du binôme de Newton* (La formule du binôme de Newton est une formule mathématique donnée par Isaac Newton pour trouver le développement d'une puissance entière quelconque d'un binôme (x + y)^n) mais il n'a pas les notations qui lui permettraient de l'énoncer dans le cas général. 
 
