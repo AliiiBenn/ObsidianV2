@@ -46,7 +46,7 @@ On peut utiliser ces représentations en arbre pour *la résolution de labyrithe
 
 #### Comment le modéliser ?
 
-Pour créer un *labyrinthe* il faut déjà modéliser *une structure de base*, nous allons donc créer une grille, une ligne sur deux sera remplie de murs et l'autre un mur et un espace libre, il faut penser au fait que si le labyrithe a une largeur paire il ne sera pas fermé à la fin, idem pour la hauteur, il va donc falloir pour ces tailles ajouter une valeur supplémentaire pour créer une grille fermée. Pour créer l'entrée et la sortie on enlève deux cases aléatoires sur les murs aux extrémités, pour l'exemple j'ai enlevé les cases au positions x = 0 et y = 1 pour l'entrée et x = -1 (**la dernière position**) et y = -2 (**...**).
+Pour créer un *labyrinthe* il faut déjà modéliser *une structure de base*, nous allons donc créer une grille, une ligne sur deux sera remplie de murs et l'autre un mur et un espace libre, il faut penser au fait que si le labyrithe a une largeur impaire il ne sera pas fermé à la fin, idem pour la hauteur, il va donc falloir pour ces tailles ajouter une valeur supplémentaire pour créer une grille fermée. Pour créer l'entrée et la sortie on enlève deux cases aléatoires sur les murs aux extrémités, pour l'exemple j'ai enlevé les cases au positions x = 0 et y = 1 pour l'entrée et x = -1 (**la dernière position**) et y = -2 (**...**).
 
 #### L'algorithme
 
