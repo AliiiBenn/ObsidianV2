@@ -1,4 +1,7 @@
 ---
+banner: "![[Cours banner..jpg]]"
+---
+---
 MOC: [[Home]]
 tags: #cours
 Date: 15-06-2022

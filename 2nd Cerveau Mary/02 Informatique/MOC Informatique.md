@@ -1,4 +1,7 @@
 ---
+banner: "![[code banner.jpg]]"
+---
+---
 MOC: [[Home]] 
 tags: #informatique
 Date: 15-06-2022
