@@ -1,7 +1,0 @@
-
-
-## Les présocratiques
-
----
-
-*Les présocratiques* sont un groupe de philosophes de la [[les grecs|Grèce antique]] donc du *VIème siècle av. J.-C* au *IVème siècle av. J.-C*. La plupart étaient la avant [[Socrate]] bien que quelqu'uns étaient contemporains de *Socrate*, tel que les [[Les atomistes|atomistes]] et certains [[Les sophistes|sophistes]]. *Les présocratiques* ont participé aux origines de la philosophie. Connus pour leur bases théoriques sur le passage du mythe à la raison, c'est-à-dire [[le logos]]. Ce sont *les présocratiques* qui ont proposé les premières réflexions sur [[la morale]], [[la politique]] et [[la Métaphysique]]

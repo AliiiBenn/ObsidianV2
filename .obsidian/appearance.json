@@ -1,11 +1,11 @@
 {
   "baseFontSize": 16,
-  "cssTheme": "LYT Mode",
+  "cssTheme": "Prism",
   "enabledCssSnippets": [
     "columns"
   ],
   "translucency": false,
-  "theme": "obsidian",
+  "theme": "moonstone",
   "textFontFamily": "Fira Code",
   "monospaceFontFamily": "Fira Code"
 }

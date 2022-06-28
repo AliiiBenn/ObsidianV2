@@ -2,9 +2,9 @@
   "showVaultName": true,
   "showCurrentFileName": true,
   "showPopups": true,
-  "customVaultName": "2nd Cerveau V3.2",
+  "customVaultName": "",
   "showFileExtension": false,
-  "useLoadedTime": true,
+  "useLoadedTime": false,
   "connectOnStart": true,
   "autoHideStatusBar": true
 }

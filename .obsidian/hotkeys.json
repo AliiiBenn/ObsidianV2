@@ -1,12 +1,4 @@
 {
-  "templater-obsidian:replace-in-file-templater": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "R"
-    }
-  ],
   "editor:insert-wikilink": [
     {
       "modifiers": [

@@ -1,12 +1,3 @@
-/** Live Preview padding fixes, specifically for DataviewJS custom HTML elements. */
-.is-live-preview .block-language-dataviewjs > p, .is-live-preview .block-language-dataviewjs > span {
-    line-height: 1.0;
-}
-
-/*****************/
-/** Table Views **/
-/*****************/
-
 /* List View Default Styling; rendered internally as a table. */
 .table-view-table {
     width: 100%;
@@ -37,12 +28,13 @@
     text-align: left;
     border: none;
     font-weight: 400;
+
     max-width: 100%;
 }
 
-.table-view-table ul, .table-view-table ol {
-    margin-block-start: 0.2em !important;
-    margin-block-end: 0.2em !important;
+/** Live Preview padding fixes, specifically for DataviewJS custom HTML elements. */
+.is-live-preview .block-language-dataviewjs > p, .is-live-preview .block-language-dataviewjs > span {
+    line-height: 1.0;
 }
 
 /** Rendered value styling for any view. */
@@ -134,14 +126,5 @@ div.dataview-error-box {
 
 .dataview.small-text {
     font-size: smaller;
-    color: var(--text-muted);
-    margin-left: 3px;
-}
-
-.dataview.small-text::before {
-	content: "(";
-}
-
-.dataview.small-text::after {
-	content: ")";
+    color: var(--text-selection);
 }
