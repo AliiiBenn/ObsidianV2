@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd Cerveau Mary/01 Cours/MOC Cours.md",
-            "mode": "preview",
+            "file": "2nd Cerveau Mary/01 Cours/Egyptologie/1. L'Egypte à travers la culture.md",
+            "mode": "source",
             "source": false
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Cerveau Mary/01 Cours/MOC Cours.md",
+                "file": "2nd Cerveau Mary/01 Cours/Egyptologie/1. L'Egypte à travers la culture.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2nd Cerveau Mary/01 Cours/MOC Cours.md",
+                "file": "2nd Cerveau Mary/01 Cours/Egyptologie/1. L'Egypte à travers la culture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,15 +156,15 @@
   },
   "active": "c5ce93ecde2df242",
   "lastOpenFiles": [
+    "2nd Cerveau Mary/01 Cours/Egyptologie/1. L'Egypte à travers la culture.md",
+    "2nd Cerveau Mary/01 Cours/Egyptologie/3. La religion égyptienne.md",
+    "2nd Cerveau Mary/01 Cours/Egyptologie/2. Les constructions monumentales.md",
     "2nd Cerveau Mary/01 Cours/MOC Cours.md",
-    "Sans titre.md",
     "2nd Cerveau Dave/01 Travail/13 Autres cours/131 L'Egyptologie/L'Egyptologie.md",
     "2nd Cerveau Dave/01 Travail/12 Cours Fac/MOC COURS FAC.md",
     "2nd Cerveau Dave/02 Personnel/23 Corps/231 Sport/Sport.md",
     "2nd Cerveau Dave/02 Personnel/21 Gestion des connaissances/211 Mon second Cerveau/Les concepts/Digital Garden/Structure digital garden.md",
     "2nd Cerveau Dave/02 Personnel/22 Mental/MOC MENTAL.md",
-    "2nd Cerveau Mary/Home.md",
-    "2nd Cerveau Mary/02 Informatique/MOC Informatique.md",
-    "2nd Cerveau Dave/01 Travail/11 Informatique/111 Algorithmes/Structures de données/Les Files/Les méthodes/Avec une liste chaînée/Python/File vide avec une liste chaînée Python.md"
+    "2nd Cerveau Mary/Home.md"
   ]
 }
