@@ -7,9 +7,11 @@
         "id": "c5ce93ecde2df242",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "_Autres/Excalidraw/Drawing 2022-06-30 17.18.52.excalidraw.md"
+            "file": "2nd Cerveau Mary/01 Cours/Egyptologie/1. L'Egypte à travers la culture.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_Autres/Excalidraw/Drawing 2022-06-30 17.18.52.excalidraw.md",
+                "file": "2nd Cerveau Mary/01 Cours/Egyptologie/1. L'Egypte à travers la culture.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_Autres/Excalidraw/Drawing 2022-06-30 17.18.52.excalidraw.md",
+                "file": "2nd Cerveau Mary/01 Cours/Egyptologie/1. L'Egypte à travers la culture.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -153,8 +155,8 @@
   },
   "active": "c5ce93ecde2df242",
   "lastOpenFiles": [
-    "_Autres/Excalidraw/Drawing 2022-06-30 17.18.52.excalidraw.md",
     "2nd Cerveau Mary/01 Cours/Egyptologie/1. L'Egypte à travers la culture.md",
+    "_Autres/Excalidraw/Drawing 2022-06-30 17.18.52.excalidraw.md",
     "2nd Cerveau Mary/01 Cours/Egyptologie/3. La religion égyptienne.md",
     "2nd Cerveau Mary/01 Cours/Egyptologie/2. Les constructions monumentales.md",
     "2nd Cerveau Mary/01 Cours/MOC Cours.md",
