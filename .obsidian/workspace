@@ -7,12 +7,8 @@
         "id": "c5ce93ecde2df242",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "2nd Cerveau Mary/04 Personnel/Comptes/Prévisions financières pour l'année scolaire 2022-2023.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -70,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Cerveau Mary/04 Personnel/Comptes/Prévisions financières pour l'année scolaire 2022-2023.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2nd Cerveau Mary/04 Personnel/Comptes/Prévisions financières pour l'année scolaire 2022-2023.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -155,15 +149,15 @@
   },
   "active": "c5ce93ecde2df242",
   "lastOpenFiles": [
-    "2nd Cerveau Mary/04 Personnel/Comptes/Prévisions financières pour l'année scolaire 2022-2023.md",
     "Sans titre.md",
-    "_Autres/Excalidraw/Vision board 2022 - 2023.md",
-    "Séance d'apprentissage.md",
-    "Adobe illustrator.md",
-    "_Autres/Excalidraw/Logos Nesalia.md",
-    "2nd Cerveau Mary/01 Cours/Egyptologie/1. L'Egypte à travers la culture.md",
-    "2nd Cerveau Mary/_Autre/Excalidraw/CE.md",
-    "2nd Cerveau Mary/_Autre/Excalidraw/Bonhomme.md",
-    "_Autres/Excalidraw/Drawing 2022-06-30 17.18.52.excalidraw.md"
+    "2nd Cerveau Dave/03 Lecture/32 Livres en cours/Livres développement personnel/La semaine de 4 heures/La semaine de 4 heures.md",
+    "2nd Cerveau Dave/03 Lecture/32 Livres en cours/Livres développement personnel/L'équation du miracle/L'équation du miracle.md",
+    "2nd Cerveau Dave/02 Personnel/21 Gestion des connaissances/211 Mon second Cerveau/Les concepts/Digital Garden/Structure digital garden.md",
+    "2nd Cerveau Dave/02 Personnel/21 Gestion des connaissances/MOC GESTION DES CONNAISSANCES.md",
+    "2nd Cerveau Dave/01 Travail/MOC TRAVAIL.md",
+    "2nd Cerveau Dave/01 Travail/LIBRARY TRAVAIL.md",
+    "2nd Cerveau Dave/01 Travail/13 Autres cours/MOC AUTRES COURS.md",
+    "2nd Cerveau Dave/01 Travail/13 Autres cours/131 L'Egyptologie/L'Egyptologie.md",
+    "2nd Cerveau Mary/04 Personnel/Comptes/L'Epargne.md"
   ]
 }

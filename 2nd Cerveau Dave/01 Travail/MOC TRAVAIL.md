@@ -1,6 +1,9 @@
 ---
 banner: "![[travail banner.gif]]"
 ---
+---
+banner: "![[travail banner.gif]]"
+---
 
 
 up::[[2nd Cerveau Dave/Home]]
