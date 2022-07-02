@@ -23,6 +23,21 @@ faire une heure de programmation par jour minimum ^fHt4IiIh
 
 lire 30 min par jour minimum ^kIrRefv5
 
+concentrons nous 
+sur notre avenir
+cultivons notre jardin
+avoir la vie de ses 
+rêves
+accomplir de grandes 
+choses ^jSL4W2gt
+
+avoir la motivation
+pour réussir
+la volonté pour 
+aller de l'avant ^pClfK00l
+
+<3 ^blvjiqeL
+
 %%
 # Drawing
 ```json
@@ -1962,6 +1977,111 @@ lire 30 min par jour minimum ^kIrRefv5
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "jSL4W2gt",
+			"type": "text",
+			"x": -376.95594252560875,
+			"y": 344.2998416753522,
+			"width": 47.883191804191554,
+			"height": 39.110698649225185,
+			"angle": 5.81648442756342,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1866437786,
+			"version": 598,
+			"versionNonce": 838720410,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1656778361572,
+			"link": null,
+			"locked": false,
+			"text": "concentrons nous \nsur notre avenir\ncultivons notre jardin\navoir la vie de ses \nrêves\naccomplir de grandes \nchoses",
+			"rawText": "concentrons nous \nsur notre avenir\ncultivons notre jardin\navoir la vie de ses \nrêves\naccomplir de grandes \nchoses",
+			"fontSize": 4.53544801758649,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 37.110698649225185,
+			"containerId": null,
+			"originalText": "concentrons nous \nsur notre avenir\ncultivons notre jardin\navoir la vie de ses \nrêves\naccomplir de grandes \nchoses"
+		},
+		{
+			"id": "pClfK00l",
+			"type": "text",
+			"x": -328.73174719310913,
+			"y": 323.4901753119499,
+			"width": 43,
+			"height": 24,
+			"angle": 5.659969692192522,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 1260076314,
+			"version": 350,
+			"versionNonce": 1545699974,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1656778431962,
+			"link": null,
+			"locked": false,
+			"text": "avoir la motivation\npour réussir\nla volonté pour \naller de l'avant",
+			"rawText": "avoir la motivation\npour réussir\nla volonté pour \naller de l'avant",
+			"fontSize": 4.562646486511907,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 22,
+			"containerId": null,
+			"originalText": "avoir la motivation\npour réussir\nla volonté pour \naller de l'avant"
+		},
+		{
+			"id": "blvjiqeL",
+			"type": "text",
+			"x": -301.34526490467965,
+			"y": 360.09651798219113,
+			"width": 27,
+			"height": 25,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"strokeSharpness": "sharp",
+			"seed": 454760710,
+			"version": 6,
+			"versionNonce": 192811994,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1656778443524,
+			"link": null,
+			"locked": false,
+			"text": "<3",
+			"rawText": "<3",
+			"fontSize": 20,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "<3"
 		},
 		{
 			"id": "84iEArQNYmITN1Vwaydnh",
