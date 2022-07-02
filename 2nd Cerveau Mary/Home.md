@@ -20,9 +20,9 @@ Pour ranger tous mes cours, j'ai une *Map of Content* dédiée, elle classe chaq
 
 Ayant commencé l'informatique, j'ai décidé de stocker toutes les notions et les cours dan mon second cerveau => [[2nd Cerveau Mary/02 Informatique/MOC Informatique]]
 
-Voulant réorganiser toute ma vie et en apprendre plus sur moi même j'ai crée une *Map of Content* classée selon les concepts passant *du travail* au *Concepts de l'Homme* => [[2nd Cerveau Mary/03 Personnel/MOC Personnel]]
+Voulant réorganiser toute ma vie et en apprendre plus sur moi même j'ai crée une *Map of Content* classée selon les concepts passant *du travail* au *Concepts de l'Homme* => [[2nd Cerveau Mary/04 Personnel/MOC Personnel]]
 
-Etant passionnée de lecture j'ai décidé de stocker toutes mes notes sur les livres que je lis et que j'ai lu dans une *Map Of Content* dédiée => [[2nd Cerveau Mary/04 Lecture/MOC Lecture]]
+Etant passionnée de lecture j'ai décidé de stocker toutes mes notes sur les livres que je lis et que j'ai lu dans une *Map Of Content* dédiée => [[2nd Cerveau Mary/05 Lecture/MOC Lecture]]
 
 
 
