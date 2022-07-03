@@ -1,4 +1,7 @@
 ---
+banner: "![[perso banner.jpg]]"
+---
+---
 MOC: [[Home]]
 Projets: [[Gérer ma vie personnelle]]
 tags: #perso
