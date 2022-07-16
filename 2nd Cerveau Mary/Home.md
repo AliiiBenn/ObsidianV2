@@ -1,5 +1,6 @@
 ---
 banner: "![[Home banner.jpg]]"
+banner_y: 0.5
 ---
 ---
 banner: "![[Home banner.jpg]]"
@@ -28,4 +29,4 @@ Etant passionnée de lecture j'ai décidé de stocker toutes mes notes sur les l
 
 Toutes mes Archives sont stockées dans => [[Archives]]
 
-test
+test test ettetet sjdsqDbq zb

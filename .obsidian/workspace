@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2nd Cerveau Mary/04 Personnel/Travail/Comptes/Prévisions financières pour l'année scolaire 2022-2023.md",
+            "file": "2nd Cerveau Mary/Home.md",
             "mode": "source",
             "source": false
           }
@@ -53,8 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "1c75e05d4f33e215",
@@ -71,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2nd Cerveau Mary/04 Personnel/Travail/Comptes/Prévisions financières pour l'année scolaire 2022-2023.md",
+                "file": "2nd Cerveau Mary/Home.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2nd Cerveau Mary/04 Personnel/Travail/Comptes/Prévisions financières pour l'année scolaire 2022-2023.md",
+                "file": "2nd Cerveau Mary/Home.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -152,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "active": "c5ce93ecde2df242",
   "lastOpenFiles": [
